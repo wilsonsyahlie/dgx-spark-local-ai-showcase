@@ -13,6 +13,7 @@ flowchart TD
     G --> L[Resident local inference]
     G --> T[Bounded tools]
     T --> K[Private knowledge services]
+    D[Optional local accelerator] --> K
     T --> W[Durable workflows]
     W --> A[Shared heavy-work admission]
     A --> V[Transient vision / transcription]
@@ -46,6 +47,14 @@ Large models, transcription, rendering, and background analysis can each consume
 material share of unified memory. A shared admission mechanism and operating modes decide
 which class of work may start. Background work yields at safe checkpoints; foreground
 work is not expected to negotiate politely with an already-overcommitted GPU.
+
+### Optional accelerator boundary
+
+Dedicated Personal Knowledge workers may use a fixed local relay for vision, OCR,
+language, and embedding. Both resolved Personal scope and dedicated-worker identity are
+required. Private work scopes remain on the primary workstation. Remote embeddings are
+fully validated before the primary machine may create, delete, or update semantic-index
+points, and remote failure does not trigger an implicit second-device fallback.
 
 ## Major subsystems
 
@@ -86,3 +95,5 @@ staging. The browser does not receive a general shell or arbitrary filesystem AP
 5. A candidate model is not promoted until it passes realistic multi-turn and tool-use
    behaviour, not just throughput or one-shot benchmarks.
 6. Every activation retains a measured rollback path until the user-visible path passes.
+7. Accelerator changes are retained only when fixed-window completed-work evidence beats
+   the existing topology without weakening scope, pause, admission, or mutation walls.

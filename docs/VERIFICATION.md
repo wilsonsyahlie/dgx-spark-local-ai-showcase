@@ -9,6 +9,10 @@
 - [x] Git authorship uses the GitHub noreply address only.
 - [x] The progression is a truthful reconstruction of reviewed milestones; public commit dates are not presented as original production activation dates.
 - [x] Failed experiments, rollbacks, negative paths, and remaining publication limits are represented.
+- [x] The accelerator case records the rejected worker-count experiment, retained
+      stage-specific offload, matched completed-file and separate utilization evidence,
+      embedding compatibility, scope/vector/failure boundaries, pause-drain proof, and
+      real stale/retry/duplicate/phone-layout UI coverage.
 
 Run `./scripts/check_showcase.sh` before every publication.
 
@@ -22,4 +26,3 @@ private workstation.
 The public commit sequence documents assembly of the reviewed engineering story. The
 private evidence repository remains the authoritative detailed record and is not linked or
 mirrored here.
-

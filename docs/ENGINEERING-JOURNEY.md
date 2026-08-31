@@ -65,6 +65,32 @@ evidence. The final engineering standard requires reproduction, backup, rollback
 tests, live user-path evidence, and a requirement-by-requirement completion record. Known
 limits remain explicit instead of being hidden behind a green summary.
 
+## 9. Optimise an optional local accelerator by completed work
+
+A large selected knowledge backlog made an attached desktop GPU look underused. The
+first hypothesis was insufficient worker concurrency. A controlled experiment added two
+workers, but two matched windows averaged only 2.6% more completed files, so the prior
+topology was restored.
+
+Stage-level evidence showed that every file eventually converged on embedding work on
+the primary workstation. The retained design moved only Personal-scope embedding batches
+to the already-local accelerator while keeping orchestration, scope enforcement, semantic
+index mutation, memory admission, and pause controls on the primary machine. Non-Personal
+private scopes remained structurally local.
+
+In a matched two-minute comparison, completed files increased from 22 to 64—about 191%.
+A separate one-minute hardware sample averaged 74.4% accelerator utilization and peaked
+at 99% while retaining memory headroom. Compatibility checks compared embedding
+dimensions, cosine agreement, and retrieval rankings. Negative tests rejected malformed
+vectors before index mutation, and remote failure yielded instead of falling back to a
+second device. Browser tests also covered watched-folder filtering, Select all, stale
+responses, retry, duplicate submits, independent result scrolling, and 390/320-pixel
+layouts.
+
+These measurements describe one large, media-heavy backlog. Accelerator utilization is
+workload-shaped, and the separate hardware sample does not promise constant utilization
+or the same throughput gain for different file mixes.
+
 ## Progression at a glance
 
 | Stage | Question answered |
@@ -77,4 +103,4 @@ limits remain explicit instead of being hidden behind a green summary.
 | Durable automation | How do we know scheduled work actually completed and delivered? |
 | Model experiments | Which improvements survive realistic behavioural evaluation? |
 | Reliability standard | What evidence is required before calling a change complete? |
-
+| Accelerator optimisation | Which stage increases completed work without weakening scope or safety boundaries? |

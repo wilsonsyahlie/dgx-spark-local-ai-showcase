@@ -106,3 +106,39 @@ memory layers.
 
 **Lesson.** Grounding is a pipeline property, not a tone of voice.
 
+## 6. A powerful accelerator was busy in bursts but the pipeline stayed slow
+
+**Symptom.** Thousands of selected files remained, yet the optional local accelerator
+alternated between sharp utilization peaks and idle gaps. A dashboard also compared files
+in the whole pipeline with instantaneous GPU requests, making the mismatch harder to
+interpret.
+
+**Competing hypotheses.** The obvious explanation was too few workers. Other candidates
+included storage latency, model reloads, insufficient request parallelism, and a local
+stage serializing otherwise independent workers.
+
+**Measurement.** Adding two workers produced only a 2.6% average completed-file gain
+across two fixed windows, so the prior topology was restored.
+Stage traces then showed Personal workers converging on local embedding during final
+index preparation.
+
+**Decision.** Offload only Personal embedding batches to the accelerator. Keep file
+orchestration, non-Personal private work, admission, pause controls, and semantic-index
+mutation on the primary workstation. Require both resolved Personal scope and dedicated-worker
+identity, validate the complete vector set before any index change, pin compatible local
+model identities, and never fall back silently after remote failure.
+
+**Verification.** A matched two-minute window improved from 22 to 64 completed files.
+A separate hardware window averaged 74.4% utilization and peaked at 99%. Representative
+local and remote embeddings had the expected dimension, cosine agreement of 1.0, and
+identical rankings. Alternating language and embedding calls proved both models remained
+resident. Pause drained active work within ten seconds with no orphan admission state.
+Negative tests covered count, dimension, numeric type, non-finite values, zero norm,
+endpoint failure, model identity, scope, and literal folder boundaries.
+
+**Limit.** The utilization sample was separate from the throughput comparison, and both
+results were workload-specific. They demonstrate a measured bottleneck removal, not a
+promise of constant GPU utilization or universal speedup.
+
+**Lesson.** Optimize completed useful work, not worker count or a single utilization
+graph. Move the measured bottleneck while leaving trust and mutation boundaries intact.
