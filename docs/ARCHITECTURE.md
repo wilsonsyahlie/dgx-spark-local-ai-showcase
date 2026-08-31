@@ -53,8 +53,9 @@ work is not expected to negotiate politely with an already-overcommitted GPU.
 
 A gateway provides conversation and tool use through a stable logical model identity.
 The physical serving implementation can change behind that identity only after an
-evaluation and rollback plan. Health checks use bounded real generation rather than
-assuming that a listening port means the model can answer.
+evaluation and rollback plan. Lightweight health probes use status endpoints without
+consuming inference capacity. Separate bounded functional canaries verify that a healthy
+service can actually generate a valid response.
 
 ### Private knowledge
 
@@ -85,4 +86,3 @@ staging. The browser does not receive a general shell or arbitrary filesystem AP
 5. A candidate model is not promoted until it passes realistic multi-turn and tool-use
    behaviour, not just throughput or one-shot benchmarks.
 6. Every activation retains a measured rollback path until the user-visible path passes.
-

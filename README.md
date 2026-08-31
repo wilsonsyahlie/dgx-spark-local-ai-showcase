@@ -33,7 +33,7 @@ configuration, credentials, private data, hostnames, network addresses, account 
 identifiers, raw logs, databases, backup artifacts, model files, or deployable secrets.
 Current operational details and the private repository history are intentionally omitted.
 
-The public Git history reconstructs the genuine milestone sequence from reviewed private
-evidence. Commit dates reflect publication of this sanitized showcase, not the original
-production activation dates. No artificial activity commits are added.
-
+The public Git history records the staged assembly and review of this sanitized showcase;
+it is not the production engineering timeline. The genuine milestone order is reconstructed
+from reviewed private evidence in [Engineering journey](docs/ENGINEERING-JOURNEY.md).
+Commit dates reflect showcase publication, not original production activation dates.
