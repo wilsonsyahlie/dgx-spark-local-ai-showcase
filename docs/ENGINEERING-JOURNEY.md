@@ -172,6 +172,27 @@ remains: prompt guidance cannot deterministically prevent every paraphrase error
 generative model. Important client-facing drafts therefore retain human review before
 delivery.
 
+## 13. Replace a mutual Resume deadlock with a coordinated state machine
+
+A later operator check found pending Knowledge work but both the primary queue and the
+optional accelerator were blocked. Each controller required evidence that could be
+produced only after the other's structural pause wall disappeared. The dashboard also
+treated a successful control response as activation even when the returned state was
+blocked.
+
+The retained protocol starts with a stopped, request-bound accelerator preflight while
+both walls remain. The queue controller consumes only that fresh receipt, verifies its
+workers, commits the accelerator, then captures its progress baseline. Success requires
+stable worker topology, terminal file progress, and observed relay work. Master Pause
+recreates both walls before synchronous remote-stop verification.
+
+Review and live activation exposed several races: stale or future receipts, invalid
+controller phases, an old keeper removing a newly asserted wall, and the periodic keeper
+overwriting a consumable preflight. Each failed closed. The final design holds the keeper
+only after stopped preflight succeeds and restores it during coordinated activation. It
+passed focused contracts, two live activations, an immediate pause-and-recovery cycle,
+responsive browser checks, and a natural keeper run.
+
 ## Progression at a glance
 
 | Stage | Question answered |
@@ -189,3 +210,4 @@ delivery.
 | Exact request cancellation | How can a disconnected client stop only its backend work without turning uncertainty into release? |
 | Evidence-gated discovery | How can a delivered web briefing distinguish verified matches from attractive but unproven leads? |
 | Evidence-bound meeting writing | How can one local agent serve both governance and senior-summary needs without padding sparse evidence or creating unrequested artifacts? |
+| Coordinated Resume | How can two structurally paused lanes establish readiness without bypassing either wall? |

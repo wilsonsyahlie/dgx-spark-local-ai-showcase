@@ -93,3 +93,6 @@ user contract.
 - Fluent meeting prose is not evidence fidelity. Map each substantive sentence to the
   source, avoid padding, separate decisions from assigned actions, and keep human review
   for important client-facing output.
+- Mutually dependent lanes need a fresh stopped-preflight receipt, not an assumed button
+  order. Capture progress only after accelerator commit, require observed useful work,
+  and make master Pause re-wall both lanes before verified shutdown.

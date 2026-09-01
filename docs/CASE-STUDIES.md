@@ -260,3 +260,31 @@ important client output requires human review before sending.
 **Lesson.** Summarisation quality is bounded by evidence fidelity, not fluency. Prefer a
 sparse truthful draft to a complete-looking one, and never let a formatting request imply
 permission to create or deliver an artifact.
+
+## 10. Two safe Resume controls deadlocked each other
+
+**Symptom.** A large Knowledge backlog remained while both the primary queue and an
+optional accelerator showed blocked Resume states. Demand existed, but neither lane
+could produce the evidence required by the other.
+
+**Root cause.** The controllers formed a circular dependency across two structural pause
+walls. The UI added ambiguity by treating control-response success as proof of activation
+even when the returned state was blocked.
+
+**Decision.** Accelerator Resume now performs a stopped, request-bound preflight while
+both walls remain. Queue Resume accepts only that fresh receipt, verifies worker topology,
+commits the accelerator, and then requires terminal queue progress plus observed relay
+work. Master Pause recreates both walls before verified remote shutdown.
+
+**Verification.** Focused negative contracts rejected stale, future, mismatched, and
+wrong-phase evidence. Independent review found keeper and rollback races. A periodic
+keeper collision during live deployment failed closed and led to holding the keeper only
+after stopped preflight. Two live activations, an immediate pause/recovery cycle,
+responsive browser checks, and a subsequent natural keeper run passed.
+
+**Limit.** Foreground work may still delay background Resume by design. The supported
+recovery is to wait and retry through the control plane, never to delete a wall manually.
+
+**Lesson.** Cross-controller readiness is a transaction, not a button order. Preserve
+walls through preflight and claim success only after the requested hardware path performs
+useful work.

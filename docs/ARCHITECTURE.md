@@ -69,6 +69,11 @@ required. Private work scopes remain on the primary workstation. Remote embeddin
 fully validated before the primary machine may create, delete, or update semantic-index
 points, and remote failure does not trigger an implicit second-device fallback.
 
+Coordinated startup uses a stopped, request-bound preflight while both structural pause
+walls remain. The primary queue controller consumes only that fresh receipt, commits the
+accelerator, then requires both terminal queue progress and observed relay work before it
+reports success. Master Pause restores both walls before verified remote shutdown.
+
 ## Major subsystems
 
 ### Agent and resident inference
