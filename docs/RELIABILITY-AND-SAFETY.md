@@ -47,6 +47,11 @@ confirmation, and narrow writable paths. Scheduled delivery distinguishes accept
 completed, delivered, failed, suppressed, and unknown. Unknown delivery is never blindly
 replayed.
 
+Text transformation follows the same boundary. Asking for an email body or chat-ready
+summary authorises an inline draft, not a document, task, post, or send. Meeting records
+also preserve source certainty: sparse evidence stays sparse, owners are never inferred,
+and relative dates are verified rather than guessed.
+
 ### Safe model changes
 
 Candidate models are evaluated against context handling, coding, tool selection,
@@ -85,3 +90,6 @@ user contract.
   additional feasibility from a lease that is already admitted.
 - Client EOF is a cancellation trigger, not completion proof. Bind cancellation to an
   exact backend identity and require verified absence before releasing admission.
+- Fluent meeting prose is not evidence fidelity. Map each substantive sentence to the
+  source, avoid padding, separate decisions from assigned actions, and keep human review
+  for important client-facing output.

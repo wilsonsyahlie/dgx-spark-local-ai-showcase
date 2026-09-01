@@ -148,6 +148,30 @@ and it does not prove the corrected prompt's next report. Both remain explicit l
 Rollback requires removing the isolated schedule and restoring the backed-up scheduler
 state; neither the separate briefing nor the active Knowledge workload needs to change.
 
+## 12. Separate meeting records from senior summaries without inventing substance
+
+A local writing skill originally treated meeting work mainly as action extraction. It
+did not clearly distinguish a governance record from the shorter summary a senior reader
+may want, and its generic language encouraged polished but unsupported implications.
+
+The retained design defines two modes. Detailed notes may carry supplied meeting context,
+participants, discussion, decisions, and assigned actions. A senior email or chat summary
+uses plain topic headings, only as many bullets as the source supports, and one consolidated
+action list. Missing owners and dates stay visibly unresolved; relative dates require a
+deterministic calendar check; sensitive or competitive claims remain attributed.
+
+Synthetic live tests mattered more than a schema pass. They exposed invented strategy,
+an inferred action owner, incorrect calendar arithmetic, and unrequested document
+creation. The final boundary makes inline text the default and treats file creation and
+external delivery as separate permissions. It also prefers one faithful bullet to three
+padded ones and performs a sentence-level source audit before returning a draft.
+
+The skill and routing index validated, the refreshed agent remained healthy, and the
+final side-effect check left no generated document or external message. A residual limit
+remains: prompt guidance cannot deterministically prevent every paraphrase error in a
+generative model. Important client-facing drafts therefore retain human review before
+delivery.
+
 ## Progression at a glance
 
 | Stage | Question answered |
@@ -164,3 +188,4 @@ state; neither the separate briefing nor the active Knowledge workload needs to 
 | Admission-debt isolation | How can quarantine remain fail closed without starving an unrelated workflow? |
 | Exact request cancellation | How can a disconnected client stop only its backend work without turning uncertainty into release? |
 | Evidence-gated discovery | How can a delivered web briefing distinguish verified matches from attractive but unproven leads? |
+| Evidence-bound meeting writing | How can one local agent serve both governance and senior-summary needs without padding sparse evidence or creating unrequested artifacts? |

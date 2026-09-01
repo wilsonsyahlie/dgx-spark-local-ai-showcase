@@ -226,3 +226,37 @@ unrelated briefings and active Knowledge work remain outside that rollback.
 
 **Lesson.** Transport success is not content quality. Verify the artifact, make evidence
 states mutually exclusive, and prefer an empty verified section to padded recommendations.
+
+## 9. A polished meeting summary was less trustworthy than a sparse one
+
+**Symptom.** A local agent produced well-structured meeting notes and senior summaries,
+but live tests showed that polish could hide unsupported recommendations, inferred risks,
+an invented action owner, and one wrong absolute date. It also created a document when
+the request asked only for text suitable for pasting into chat.
+
+**Competing hypotheses.** The model might simply need a stronger instruction, the skill
+could be routing under an action-extraction name, or the requested bullet count might be
+encouraging filler. Repeated synthetic tests showed all three contributed: natural skill
+selection was probabilistic, ambiguous guidance invited inference, and sparse topics were
+being padded to satisfy a presentation target.
+
+**Decision.** Split the workflow into detailed-record and senior-summary modes. Require
+every substantive sentence to map to supplied evidence; preserve uncertainty and speaker
+attribution; never turn a decision into an assigned action; and verify relative dates with
+a deterministic calendar utility. Use fewer bullets when the source is sparse. Treat
+inline text, file creation, task creation, and external delivery as distinct permission
+boundaries.
+
+**Verification.** The skill schema and routing index passed. Synthetic requests exercised
+both modes, missing deadlines, attributed claims, relative dates, and the inline-only
+boundary. Unrequested test artifacts were removed from the live data area and retained
+only in private rollback evidence; no external message was sent. The refreshed agent was
+healthy and an independent review accepted the final instruction and evidence record.
+
+**Limit.** A skill is prompt guidance rather than a deterministic factual validator. The
+local model can still occasionally embellish or compress a relationship incorrectly, so
+important client output requires human review before sending.
+
+**Lesson.** Summarisation quality is bounded by evidence fidelity, not fluency. Prefer a
+sparse truthful draft to a complete-looking one, and never let a formatting request imply
+permission to create or deliver an artifact.

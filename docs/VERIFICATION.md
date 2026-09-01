@@ -28,6 +28,11 @@
       states, successful second review, preserved no-action/privacy boundaries, and the
       owner-waived natural-trigger limit without publishing the profile, roles, links,
       destination, identifiers, raw output, paths, or deployable prompt.
+- [x] The meeting-writing case records the two output modes, source-fidelity and calendar
+      safeguards, action-owner and artifact boundaries, synthetic live failures, final
+      inline-only result, and residual human-review requirement without publishing any
+      meeting content, participant or client identity, raw prompt/output, internal path,
+      command, endpoint, or deployable skill body.
 
 Run `./scripts/check_showcase.sh` before every publication.
 
