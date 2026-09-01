@@ -48,6 +48,19 @@ material share of unified memory. A shared admission mechanism and operating mod
 which class of work may start. Background work yields at safe checkpoints; foreground
 work is not expected to negotiate politely with an already-overcommitted GPU.
 
+Interactive inference also has a narrower request-only admission dimension in addition
+to shared-GPU accounting. Its ceiling preserves sufficient shared capacity for the
+Knowledge background reserve and a safety margin even when every interactive lease is
+quarantined. This isolates
+fail-closed admission debt without weakening quarantine or overriding intentionally
+exclusive workloads.
+
+For protected chat, the front door also owns an exact backend request identity and
+observes downstream liveness while waiting for upstream headers or chunks. A private,
+authenticated control can cancel only that identity. Shared admission is released only
+after the backend proves the request existed and is now absent; uncertainty remains
+quarantined.
+
 ### Optional accelerator boundary
 
 Dedicated Personal Knowledge workers may use a fixed local relay for vision, OCR,
@@ -97,3 +110,7 @@ staging. The browser does not receive a general shell or arbitrary filesystem AP
 6. Every activation retains a measured rollback path until the user-visible path passes.
 7. Accelerator changes are retained only when fixed-window completed-work evidence beats
    the existing topology without weakening scope, pause, admission, or mutation walls.
+8. Shared capacity needs per-profile debt ceilings; a correct fail-closed lease must not
+   be able to starve an unrelated background workflow indefinitely.
+9. Client EOF triggers cancellation but does not prove it; exact backend absence is the
+   evidence required to release protected capacity.

@@ -13,6 +13,16 @@
       stage-specific offload, matched completed-file and separate utilization evidence,
       embedding compatibility, scope/vector/failure boundaries, pause-drain proof, and
       real stale/retry/duplicate/phone-layout UI coverage.
+- [x] The admission-debt case records measured proxy timeout and frozen-backend evidence,
+      approved local recovery, exact probe-gated reconciliation, a primary-only capacity
+      ceiling that preserves the Knowledge reserve and a safety margin, the live-policy
+      status correction, layered tests, terminal progress, and real accelerator results.
+- [x] Exact production capacities, current topology and state, lease identifiers, paths,
+      endpoints, raw logs, databases, backups, and deployable configuration remain omitted.
+- [x] The follow-up records proxy-owned request identity, pre-header and stalled-stream
+      disconnect detection, private exact abort, proof-before-release, failed-abort
+      quarantine, isolation tests, reversible activation, live cancellation, and a
+      normal agent canary without exposing the credential or deployable route.
 
 Run `./scripts/check_showcase.sh` before every publication.
 

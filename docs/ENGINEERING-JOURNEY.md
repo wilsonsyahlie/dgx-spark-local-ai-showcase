@@ -91,6 +91,35 @@ These measurements describe one large, media-heavy backlog. Accelerator utilizat
 workload-shaped, and the separate hardware sample does not promise constant utilization
 or the same throughput gain for different file mixes.
 
+## 10. Isolate fail-closed inference debt from Knowledge
+
+A later status alert showed that healthy accelerator endpoints did not guarantee the
+pipeline could consume their results. Interactive model proxies had timed out while
+detached backend computations stopped making progress. The proxies correctly preserved
+ambiguous reservations, but repeated quarantine debt could exhaust the shared
+admission pool and prevent Knowledge from entering its own phase.
+
+Recovery first paused and drained the affected lanes. Backend running/waiting state,
+client absence, and forward-progress counters were measured before an explicitly
+approved local restart. Only then did the authority's own idle probe reconcile the
+exact quarantined reservations. No persistent state was edited directly.
+
+The retained prevention added a narrower primary-request capacity alongside shared GPU
+capacity. The ceiling preserves the Knowledge background reserve and a safety margin, so
+active or quarantined interactive requests cannot recreate this cross-profile starvation.
+Unproven automatic restart and release were deliberately rejected: a full interactive
+quarantine may deny new chats until reviewed, but this failure class cannot starve
+Knowledge. The status component also moved to the authority's live policy and now distinguishes an
+already-admitted background phase from capacity for an additional phase.
+
+The follow-up addressed the timed-out request lifecycle directly. The proxy now assigns
+an exact backend identity, watches downstream EOF even while blocked before response
+headers or between stream chunks, and asks a private authenticated control to abort only
+that request. It releases admission only after the backend confirms the request existed
+and disappeared. Live streaming and pre-header disconnect tests returned both engine and
+admission state to idle without restart. Failed or unprovable abort still quarantines,
+with the capacity ceiling retained as a second containment layer.
+
 ## Progression at a glance
 
 | Stage | Question answered |
@@ -104,3 +133,5 @@ or the same throughput gain for different file mixes.
 | Model experiments | Which improvements survive realistic behavioural evaluation? |
 | Reliability standard | What evidence is required before calling a change complete? |
 | Accelerator optimisation | Which stage increases completed work without weakening scope or safety boundaries? |
+| Admission-debt isolation | How can quarantine remain fail closed without starving an unrelated workflow? |
+| Exact request cancellation | How can a disconnected client stop only its backend work without turning uncertainty into release? |

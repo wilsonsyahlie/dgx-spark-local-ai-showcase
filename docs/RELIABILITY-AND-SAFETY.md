@@ -26,6 +26,13 @@ Every heavy workflow checks the same admission state before allocating a transie
 or starting a render. Operating modes express owner intent; a cross-service lock prevents
 overlap; memory floors protect the resident assistant. Low-priority ingestion also checks
 for foreground activity at safe checkpoints and returns to a recoverable waiting state.
+Fail-closed reservations remain blocking until downstream absence is independently
+proved. A profile-specific debt ceiling ensures those reservations cannot consume the
+background reserve belonging to another workflow.
+Protected chat requests also receive proxy-owned backend identities. The proxy observes
+client liveness while blocked on upstream I/O and can request private, authenticated,
+exact cancellation. It releases only after verified backend absence; a failed or unknown
+abort remains quarantined.
 
 ### Scope isolation
 
@@ -70,4 +77,11 @@ user contract.
 - Stale UI responses require request identity, not faster polling.
 - Private defaults must cover both existing state and newly created files.
 - Reproduction and negative tests prevent the next agent from rediscovering the same failure.
-
+- A downstream timeout and missing clients do not prove backend work stopped; require
+  running/waiting and forward-progress evidence before recovery.
+- Quarantine needs cross-profile capacity isolation so correct failure containment does
+  not become indefinite starvation elsewhere.
+- Health displays must read the same live policy as their authority and distinguish
+  additional feasibility from a lease that is already admitted.
+- Client EOF is a cancellation trigger, not completion proof. Bind cancellation to an
+  exact backend identity and require verified absence before releasing admission.

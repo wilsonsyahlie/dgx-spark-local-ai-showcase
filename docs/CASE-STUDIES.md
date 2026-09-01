@@ -142,3 +142,54 @@ promise of constant GPU utilization or universal speedup.
 
 **Lesson.** Optimize completed useful work, not worker count or a single utilization
 graph. Move the measured bottleneck while leaving trust and mutation boundaries intact.
+
+## 7. Correct quarantine made an unrelated accelerator look broken
+
+**Symptom.** A status interface said the optional accelerator might be healthy but the
+Knowledge worker was not consuming its results. The background pipeline repeatedly
+retried instead of completing files.
+
+**Competing hypotheses.** The accelerator itself could have been offline, the worker
+could have lost its remote route, or admission could have blocked a primary-machine
+phase. Endpoint checks alone could not distinguish these cases.
+
+**Measurement.** Interactive model front doors had reached their upstream read deadline
+and correctly quarantined ambiguous reservations. After the front doors stopped accepting
+new work, detached backend requests still appeared running with no clients and no token
+progress. Repeated quarantined reservations had consumed enough shared capacity to prevent
+the Knowledge background profile from entering.
+
+**Recovery.** Both ingest lanes were paused and drained. An explicitly approved local
+backend restart was performed only after frozen-work evidence was established. The
+admission authority then used its own idle probe to reconcile exact quarantined leases;
+the persistent state layer was never edited directly.
+
+**Prevention.** Interactive requests now consume a second, narrower capacity whose cap
+preserves the Knowledge reserve and a safety margin in the shared pool. The status
+component reads the authority's live policy and distinguishes “another phase can
+admit” from “the required phase is already admitted.” Quarantine, probe-gated release,
+and intentionally exclusive workloads remain unchanged.
+
+**Verification.** A contract simulation filled the interactive-only pool with quarantined
+leases, refused the next interactive request, and still admitted Knowledge. Admission,
+front-door, controller, guard, and responsive-layout suites passed. The deployed workflow then
+showed terminal file progress, successful local accelerator language and embedding
+results, an active user-facing state, and zero quarantine debt.
+
+**Follow-up.** The model front door now gives each protected chat an exact backend
+identity and observes downstream EOF while waiting for headers or stream chunks. A
+private authenticated control aborts only that request; the lease is released only when
+the backend proves that it existed and is now absent. Live streaming and pre-header
+disconnects both returned engine and admission state to idle without restart, followed
+by a normal agent canary. Failed, unknown, or ineffective abort still quarantines.
+
+**Limit.** A fully quarantined interactive pool can still deny new chats when the engine
+cannot confirm cancellation. That is the residual fail-closed tradeoff; unattended
+backend restart or unproven lease deletion was not introduced. The reserve prevents
+starvation by this failure class; it does not guarantee zero background latency under
+unrelated intentional contention.
+
+**Lesson.** Quarantine correctness is not enough. Bound one profile's failure debt so it
+cannot starve an unrelated profile, make operational UI read the same live policy as
+the authority it explains, and treat cancellation as a transaction whose commit is
+verified backend absence.
