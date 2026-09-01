@@ -120,6 +120,34 @@ and disappeared. Live streaming and pre-header disconnect tests returned both en
 admission state to idle without restart. Failed or unprovable abort still quarantines,
 with the capacity ceiling retained as a second containment layer.
 
+## 11. Turn a delivered web briefing into an evidence-gated scout
+
+A recurring local-agent workflow was added to search public sources for professional
+opportunities matching a bounded profile. It used a staggered morning schedule,
+local-only inference, continuity for repeat detection, a separate owner-selected
+delivery destination, and explicit prohibitions on applications, outreach, private-data
+disclosure, and fabricated requirements.
+
+The owner authorised an immediate qualification run. It completed and delivered in
+about three minutes, but opening the artifact exposed the real defect: useful leads were
+mixed with stale or search-snippet-only listings and one clearly low-fit role from an
+unrelated domain. A green scheduler and delivered receipt had proved transport, not
+recommendation quality.
+
+The first prompt correction added fit, recency, and live-page gates. Independent review
+still rejected it because the separation remained advisory. The retained design forces
+every candidate into exactly one mutually exclusive state: verified match, unverified
+lead, or excluded. Only verified roles may be scored in the main list; unverified leads
+are visibly separate and capped; low-fit, stale, closed, and domain-mismatched candidates
+never appear. Repeated roles must be reopened and reverified on every run.
+
+The final contract passed review, preserved unrelated active work, and retained the next
+anchored run. The owner waived waiting for the first natural trigger. Therefore the
+manual run proves only the agent and delivery path: it does not prove scheduled firing,
+and it does not prove the corrected prompt's next report. Both remain explicit limits.
+Rollback requires removing the isolated schedule and restoring the backed-up scheduler
+state; neither the separate briefing nor the active Knowledge workload needs to change.
+
 ## Progression at a glance
 
 | Stage | Question answered |
@@ -135,3 +163,4 @@ with the capacity ceiling retained as a second containment layer.
 | Accelerator optimisation | Which stage increases completed work without weakening scope or safety boundaries? |
 | Admission-debt isolation | How can quarantine remain fail closed without starving an unrelated workflow? |
 | Exact request cancellation | How can a disconnected client stop only its backend work without turning uncertainty into release? |
+| Evidence-gated discovery | How can a delivered web briefing distinguish verified matches from attractive but unproven leads? |

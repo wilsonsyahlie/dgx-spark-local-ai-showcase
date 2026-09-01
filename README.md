@@ -14,6 +14,7 @@ private, and heavy workloads cannot silently compete for the same resources.
 - Designing an agent platform around structural privacy boundaries
 - Operating several GPU-heavy workflows on one shared-memory system
 - Turning unreliable background work into observable, recoverable state machines
+- Qualifying recurring web research by evidence quality, not delivery alone
 - Building evidence-grounded retrieval over separately scoped collections
 - Diagnosing failures across application, model-serving, scheduling, and operating-system layers
 - Treating rollback, negative tests, and unresolved limits as part of delivery

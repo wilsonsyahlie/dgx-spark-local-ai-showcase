@@ -193,3 +193,36 @@ unrelated intentional contention.
 cannot starve an unrelated profile, make operational UI read the same live policy as
 the authority it explains, and treat cancellation as a transaction whose commit is
 verified backend absence.
+
+## 8. A delivered briefing was not yet a trustworthy briefing
+
+**Symptom.** A recurring local web scout completed and delivered its first professional-
+opportunity report. The saved output included useful leads, but also stale or blocked
+listings and one clearly low-fit role from an unrelated project domain.
+
+**Competing hypotheses.** The search might simply have found a thin market, the fit score
+might have been too generous, or the prompt's verification language might not have been
+structural enough. Opening the artifact showed the last two were both true: search
+snippets had been treated as verification and weak results had been used as padding.
+
+**Decision.** Treat the delivered report as qualification evidence, not a verified
+baseline. Classify each candidate into exactly one state. Verified matches must clear a
+fit threshold, readable authoritative-page check, requirements-evidence check, and
+recency/open-status check. Unverified leads are separate, unscored, and capped. Low-fit,
+stale, closed, or domain-mismatched candidates are excluded entirely.
+
+**Verification.** The direct run reached terminal completion and had a durable delivered
+receipt. The artifact was opened and privacy-checked. An independent review rejected the
+first correction because state separation remained advisory; the mutually exclusive
+rewrite passed. Scheduler state, local inference, duplicate continuity, next-run state,
+and preservation of an unrelated active workload were checked. No second external test
+was sent.
+
+**Limit.** The direct run proves the agent and delivery path. The first natural trigger
+and the corrected prompt's next live report remain unobserved by explicit owner waiver.
+
+**Rollback.** Remove the isolated schedule and restore the backed-up scheduler state;
+unrelated briefings and active Knowledge work remain outside that rollback.
+
+**Lesson.** Transport success is not content quality. Verify the artifact, make evidence
+states mutually exclusive, and prefer an empty verified section to padded recommendations.

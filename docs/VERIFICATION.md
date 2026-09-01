@@ -23,6 +23,11 @@
       disconnect detection, private exact abort, proof-before-release, failed-abort
       quarantine, isolation tests, reversible activation, live cancellation, and a
       normal agent canary without exposing the credential or deployable route.
+- [x] The recurring web-scout case records the delivered qualification run, opened-output
+      padding and verification defect, failed first review, mutually exclusive evidence
+      states, successful second review, preserved no-action/privacy boundaries, and the
+      owner-waived natural-trigger limit without publishing the profile, roles, links,
+      destination, identifiers, raw output, paths, or deployable prompt.
 
 Run `./scripts/check_showcase.sh` before every publication.
 
