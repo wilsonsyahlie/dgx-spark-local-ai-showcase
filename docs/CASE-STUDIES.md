@@ -358,3 +358,13 @@ Tests exercised ordering and cleanup, and a repeated live restart demonstrated t
 no new stale reservation appeared. The broader lesson: safety probes must be available
 at the lifecycle phase in which the authority needs them, without prematurely making
 the application ready.
+
+## Resource boundaries should follow where work actually executes
+
+A remote acceleration pipeline appeared healthy but made no progress whenever a local
+interactive model consumed substantial unified memory. Its workers were still blocked
+by a safety floor designed for local heavy computation before they could even dispatch
+remote work. The fix moved that boundary: remote queue admission may proceed, while any
+fallback into local heavy processing must reapply the original floor. Tests pinned both
+sides of the boundary, and a live run proved completed files plus remote inference before
+the natural supervisor safely stopped the remote lane at zero backlog.
