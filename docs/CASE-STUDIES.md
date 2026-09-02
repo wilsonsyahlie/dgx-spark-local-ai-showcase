@@ -346,3 +346,15 @@ grounded cited response passed. The primary agent remained isolated and unchange
 
 **Lesson.** Treat user-interface state and model self-report as hypotheses. Prove the
 entire chain from tool injection to external retrieval to clean grounded continuation.
+
+## A startup-ordering bug that consumed capacity after every restart
+
+A local inference service repeatedly left stale resource reservations behind. The
+authority required an exact absence proof, but the endpoint providing that proof was
+not available until after reconciliation—the classic circular startup dependency.
+The fix exposed only the narrow boolean proof endpoint during initialization, held all
+ordinary traffic behind readiness, and failed closed if reconciliation did not finish.
+Tests exercised ordering and cleanup, and a repeated live restart demonstrated that
+no new stale reservation appeared. The broader lesson: safety probes must be available
+at the lifecycle phase in which the authority needs them, without prematurely making
+the application ready.
