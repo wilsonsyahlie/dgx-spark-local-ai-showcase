@@ -242,3 +242,22 @@ the broader rule: test the user-visible harness, not merely its backend-compatib
 | Evidence-bound meeting writing | How can one local agent serve both governance and senior-summary needs without padding sparse evidence or creating unrequested artifacts? |
 | Coordinated Resume | How can two structurally paused lanes establish readiness without bypassing either wall? |
 | Isolated creative model management | How can an owner add local writing models without granting repository input authority over commands or the primary agent? |
+
+## A search toggle is not a search
+
+The secondary writing model once displayed web search as enabled while receiving no
+usable search tool. Earlier compatibility work had removed tool declarations after the
+backend rejected them, so the interface state and the model's confident prose were both
+misleading.
+
+The repair stayed checkpoint-specific: a matching native tool parser was qualified, the
+front door preserved supported tool fields, and the first continuation test caught an
+internal protocol marker leaking into user-visible text. Adding the corresponding
+reasoning parser fixed that measured defect. Repeated call, abstention, streaming,
+parallel-call, and continuation checks passed before the authenticated chat path was
+allowed to count. The local metasearch service then returned an authoritative result and
+the model cited it, while the primary agent process stayed untouched.
+
+The lasting rule is simple: a colored icon and a model saying “I can search” prove
+nothing. Native web access is established only when the model emits a parsed call, the
+search service receives it, the result returns cleanly, and the final answer is grounded.

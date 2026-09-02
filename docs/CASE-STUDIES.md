@@ -328,3 +328,21 @@ formats, and automatic deletion remain deliberately unsupported.
 **Lesson.** Model modularity requires separate authorities. Freeze what the owner
 approved, keep data from becoming commands, distinguish registration from promotion,
 and prove the actual GUI payload rather than a simplified proxy canary.
+
+## When enabled search was only presentation state
+
+**Symptom.** A secondary local model claimed it could not browse even though the chat
+interface showed search enabled. After being told a search engine was connected, it
+merely agreed; no search request occurred.
+
+**Root cause.** A prior compatibility boundary discarded native tool declarations, and
+the model-server launch had not enabled its checkpoint-compatible parser. The search
+backend also depended on public engines that were temporarily rate-limited.
+
+**Repair and proof.** Tool behavior was enabled only for the matching checkpoint. A
+continuation test exposed and then eliminated protocol-marker leakage. Repeated
+structured calls, abstention, streaming, parallel calls, provider observation, and a
+grounded cited response passed. The primary agent remained isolated and unchanged.
+
+**Lesson.** Treat user-interface state and model self-report as hypotheses. Prove the
+entire chain from tool injection to external retrieval to clean grounded continuation.
