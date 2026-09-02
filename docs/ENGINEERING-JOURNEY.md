@@ -193,6 +193,36 @@ only after stopped preflight succeeds and restores it during coordinated activat
 passed focused contracts, two live activations, an immediate pause-and-recovery cycle,
 responsive browser checks, and a natural keeper run.
 
+## 14. Make secondary model choice permanent without turning a URL into shell access
+
+A creative-writing model proved useful enough to justify a stable secondary inference
+lane, but the first selector was only structurally modular: adding another model still
+required a manual download, manifest edit, and controller restart. Reusing the primary
+agent's model workflow would have crossed the isolation boundary the second lane was
+created to preserve.
+
+The retained design introduced a dedicated unprivileged manager and a separate atomic
+registry. Inspection resolves a public repository to an immutable proposal containing
+the exact artifact list, sizes, available hashes, and configuration digest. An expiring
+one-use confirmation precedes transfer. Downloads preserve a disk reserve, resume partial
+artifacts, support cancellation without deletion, and publish only after verification.
+Browser and repository data never become runtime arguments.
+
+Independent review caught two pre-completion defects: confirmation originally re-read
+repository head, and UI polling could repeatedly initiate confirmation. The proposal is
+now frozen and must compare unchanged before transfer, while polling only renders durable
+state and an explicit button performs confirmation. Regression tests proved changed-head
+refusal before network transfer and expiry failure. No second model was downloaded during
+qualification; therefore future models remain artifact-eligible, not runtime-proven,
+until their first load and generation succeeds or rolls back.
+
+The first GUI claim was also too strong. A minimal proxy canary passed, but the real chat
+middleware attached automatic tool choice and the writing runtime had no reviewed parser;
+the front door then hid the useful validation detail. The retained writing-only boundary
+removes implicit tool and provider-extension fields while preserving chat, sampling, and
+streaming. The formerly failing full middleware payload passed afterward. This reinforced
+the broader rule: test the user-visible harness, not merely its backend-compatible subset.
+
 ## Progression at a glance
 
 | Stage | Question answered |
@@ -211,3 +241,4 @@ responsive browser checks, and a natural keeper run.
 | Evidence-gated discovery | How can a delivered web briefing distinguish verified matches from attractive but unproven leads? |
 | Evidence-bound meeting writing | How can one local agent serve both governance and senior-summary needs without padding sparse evidence or creating unrequested artifacts? |
 | Coordinated Resume | How can two structurally paused lanes establish readiness without bypassing either wall? |
+| Isolated creative model management | How can an owner add local writing models without granting repository input authority over commands or the primary agent? |

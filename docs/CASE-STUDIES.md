@@ -288,3 +288,43 @@ recovery is to wait and retry through the control plane, never to delete a wall 
 **Lesson.** Cross-controller readiness is a transaction, not a button order. Preserve
 walls through preflight and claim success only after the requested hardware path performs
 useful work.
+
+## 11. A modular selector was not yet a safe model manager
+
+**Symptom.** A separate creative-writing inference lane could switch allowlisted models,
+but adding one still required manual operational work. A generic repository field would
+have been convenient while also creating a path from browser input to a high-privilege
+model runtime.
+
+**Root cause.** The immutable built-in manifest was correctly read-only and loaded only
+at controller startup. There was no separate authority for inspection, download,
+verification, durable progress, or safe registry publication.
+
+**Decision.** Keep the built-ins immutable and introduce an unprivileged manager with a
+separate atomic registry. Accept only a narrow reviewed public safetensors class; freeze
+the exact immutable proposal before explicit expiring confirmation; enforce disk reserve,
+resumption, cancellation, and available artifact hashes; and map eligible models to a
+fixed serving profile rather than repository- or browser-supplied arguments.
+
+**Verification.** Verification covered malformed input, registry collision, interrupted-state
+recovery, cancellation, expired confirmation, and a publisher changing repository head
+between inspection and confirmation. Independent review found the head-drift and repeated
+polling-confirmation defects before completion; both received dedicated regressions. Live
+inspection and cancellation exercised the user path without downloading a new model, and
+both isolated inference lanes generated afterward.
+
+The first completion claim was subsequently falsified by the real chat UI. Its middleware
+attached automatic tool choice to a plain greeting, which the writing runtime correctly
+rejected because no tool parser had been qualified. The proxy made diagnosis worse by
+discarding the upstream reason. The repaired boundary preserves structured errors and
+removes implicit tool/provider fields for this text-only lane. The exact full middleware
+payload then streamed successfully, while the primary agent remained unchanged.
+
+**Limit.** Metadata and artifact checks do not prove runtime compatibility. A newly
+registered model becomes proven only after a real load and generation; failure restores
+the prior secondary model. Private repositories, remote code, adapters, unsafe weight
+formats, and automatic deletion remain deliberately unsupported.
+
+**Lesson.** Model modularity requires separate authorities. Freeze what the owner
+approved, keep data from becoming commands, distinguish registration from promotion,
+and prove the actual GUI payload rather than a simplified proxy canary.

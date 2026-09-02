@@ -37,6 +37,15 @@
       gates, master-pause shutdown, post-commit queue and relay evidence, the timer-race
       correction, live pause/recovery, a natural keeper run, and responsive UI checks
       without exposing paths, endpoints, identifiers, raw state, or deployable controls.
+- [x] The creative model-manager case records the isolated authority, frozen immutable
+      proposal, narrow artifact gate, expiring confirmation, resumable/cancellable jobs,
+      disk/hash checks, atomic registry, changed-head and polling regressions, dual-lane
+      canaries, and the no-new-download/runtime-proof limit without publishing model
+      identity, revision, capacity, route, service unit, path, command, or live state.
+- [x] The GUI follow-up records the automatic-tool-choice mismatch, lost diagnostic,
+      writing-only compatibility boundary, full middleware-payload success, and unchanged
+      primary lane without publishing chat content, model/parser identity, routes,
+      configuration, commands, or raw errors.
 
 Run `./scripts/check_showcase.sh` before every publication.
 

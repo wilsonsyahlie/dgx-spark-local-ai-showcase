@@ -13,6 +13,8 @@ private, and heavy workloads cannot silently compete for the same resources.
 
 - Designing an agent platform around structural privacy boundaries
 - Operating several GPU-heavy workflows on one shared-memory system
+- Managing a switchable secondary writing-model lane without giving repository input
+  control over runtime commands or the primary agent
 - Turning unreliable background work into observable, recoverable state machines
 - Qualifying recurring web research by evidence quality, not delivery alone
 - Constraining meeting-note generation to source evidence and explicitly authorised artifacts

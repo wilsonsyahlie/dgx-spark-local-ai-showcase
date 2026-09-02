@@ -84,6 +84,15 @@ evaluation and rollback plan. Lightweight health probes use status endpoints wit
 consuming inference capacity. Separate bounded functional canaries verify that a healthy
 service can actually generate a valid response.
 
+A separate creative-writing lane keeps its own controller, stable client alias, workload
+identity, and local model registry. Its model manager accepts only a narrow reviewed class
+of public immutable artifacts. Inspection freezes revision, file manifest, sizes, hashes,
+and configuration before an expiring explicit confirmation; download jobs are resumable,
+cancellable, disk-reserved, and unable to supply serving arguments. Artifact registration
+does not claim runtime compatibility: the first real load and generation is the commit
+point, with rollback to the prior creative model if it fails. The primary agent remains
+outside the manager's authority.
+
 ### Private knowledge
 
 Documents and images move through local extraction, OCR/vision where needed, embeddings,
@@ -119,3 +128,5 @@ staging. The browser does not receive a general shell or arbitrary filesystem AP
    be able to starve an unrelated background workflow indefinitely.
 9. Client EOF triggers cancellation but does not prove it; exact backend absence is the
    evidence required to release protected capacity.
+10. Repository input must resolve to frozen verified artifacts, never runtime arguments;
+    secondary-model registration and primary-agent control remain separate authorities.
