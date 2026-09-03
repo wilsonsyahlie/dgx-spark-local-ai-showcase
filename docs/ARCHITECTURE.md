@@ -108,6 +108,11 @@ checks on its private internal network. Its accounting lease belongs to the acqu
 controller process, so restart recovery unloads the exact idle backend, releases the
 persisted lease, and returns Stopped instead of transferring ownership.
 
+All inference lanes expose observability through their controller boundary rather than by
+publishing private model backends. Managed bridges remain present when unloaded and separate
+readiness from validated metric availability. Dashboard queries preserve stopped lanes as
+explicit zero series, while historical resident series retain their original identity.
+
 ### Private knowledge
 
 Documents and images move through local extraction, OCR/vision where needed, embeddings,
@@ -147,3 +152,5 @@ staging. The browser does not receive a general shell or arbitrary filesystem AP
     secondary-model registration and primary-agent control remain separate authorities.
 11. A failed primary-model promotion may still justify narrower reuse, but only behind a
     new structural boundary and with its unrun lifecycle evidence stated explicitly.
+12. On-demand workloads need an always-present monitoring contract; monitoring must not
+    weaken backend isolation or silently rewrite historical series identity.

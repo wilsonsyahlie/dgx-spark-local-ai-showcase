@@ -87,6 +87,12 @@
 
 Run `./scripts/check_showcase.sh` before every publication.
 
+- [x] The observability follow-up records controller-bound per-lane telemetry, separate
+      readiness and metric-availability truth, stopped-state zero behavior, bounded complete
+      response validation, preserved historical identity, natural-scrape and real-delta proof,
+      exact lifecycle restoration, and responsive dashboard evidence without exposing current
+      topology, endpoints, identities, paths, credentials, raw output, or deployable settings.
+
 ## Deliberate limits
 
 This repository does not provide a one-command deployment, production settings, or live

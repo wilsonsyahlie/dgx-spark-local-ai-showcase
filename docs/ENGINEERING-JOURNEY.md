@@ -432,3 +432,23 @@ above the former boundary completed successfully with no process/container OOM k
 quarantine, or residual work. Known transient driver allocation warnings recurred during
 startup as on the prior baseline, but not during the long request. A test near the new maximum
 and tests of other physical checkpoints remain explicit gaps.
+
+## Observability must survive an unloaded model
+
+The first serving dashboard watched only the always-resident inference process. On-demand
+creative and coding lanes were invisible because their physical backends either did not exist
+while stopped or were deliberately unpublished. Scraping those backends directly would have
+traded a monitoring gap for a security and lifecycle regression.
+
+The correction put a small metrics bridge at each controller boundary. A bridge remains
+reachable while unloaded, reports model readiness separately from telemetry availability, and
+emits backend serving metrics only after a bounded complete response passes structural and
+collision checks. Stopped lanes therefore render as zero rather than disappearing, while a
+ready model with failed telemetry is visibly degraded instead of falsely healthy. The original
+resident series identity stayed unchanged so its history remained continuous.
+
+The dashboard was tested against natural scrapes, a real post-scrape generation delta, exact
+stop-and-restore lifecycle evidence, and desktop plus narrow browser layouts. The inactive lane
+was not loaded merely to manufacture a graph. The broader lesson is that an on-demand service
+needs an always-present observability contract, but that contract must not expose the private
+workload it observes.
