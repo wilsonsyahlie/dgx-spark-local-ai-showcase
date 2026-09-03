@@ -83,3 +83,11 @@ mirrored here.
 - Corrected an independent-review blocker by making failed-attempt throttling survive a
   service restart, with a dedicated regression.
 - Exercised the encrypted live workflow and phone-width dialog before activation.
+# Coordinated app-launch follow-up
+
+- Serialized the second card addition after the first launchpad change completed.
+- Preserved both applications and the existing navigation/styling boundaries.
+- Caught an inert first-card link by inspecting resolved browser anchors rather than
+  accepting stored destination metadata plus a separate health check.
+- Verified two healthy targets and side-by-side/stacked layouts at desktop and phone
+  widths.

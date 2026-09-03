@@ -332,3 +332,11 @@ launchpad's generic deep-link and remembered-selection behavior kept the change 
 Focused structure and responsive tests, live old/new routes, and desktop/phone renders
 proved the integration. A host-gated restart was not bypassed because the static interface
 was already demonstrably live.
+
+A coordinated follow-up waited for that work to finish before placing the evidence-bound
+CV tool beside it. That browser check exposed a useful distinction: the first card stored
+the correct destination and the destination itself was healthy, yet the runtime anchor
+still pointed back to the dashboard because it did not match the launchpad's initializer
+contract. Completing that contract for both cards, then asserting the resolved anchors in
+a real browser, fixed the interaction. A URL in markup plus a healthy service is not proof
+of a working launch path; the click target itself must be observed.
