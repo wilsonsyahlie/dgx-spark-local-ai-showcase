@@ -95,6 +95,12 @@ Run `./scripts/check_showcase.sh` before every publication.
 
 ## Deliberate limits
 
+- [x] The CV-format correction records failure of a generic two-page approximation,
+      promotion of the approved editable template to the output contract, escaped/bounded
+      local compilation, page/font/layout/link/source checks, safe automatic PDF/source
+      naming, staged visual activation, and the retained sandbox/phone-test limits without
+      publishing personal content, target identity, private topology, paths, or deployable code.
+
 This repository does not provide a one-command deployment, production settings, or live
 operational evidence. That omission is intentional: the goal is to demonstrate systems
 thinking, troubleshooting, and verification without turning a portfolio into a map of a

@@ -474,3 +474,21 @@ lease after restart; safe recovery must unload, release, and return Stopped. Fin
 gate did not prove that a separate fixed loading floor fit the same model. The full fresh
 cycle caught that mismatch, preserved the hard resource ceiling, and turned measured
 headroom into an explicit guarded policy.
+
+## When a technically valid CV was still the wrong CV
+
+The first real output from a private CV tool passed evidence validation and had exactly
+two pages, yet it failed the user's actual requirement. A generic PDF renderer had lost
+the established typography, hierarchy, date-column structure, bullets, editable format,
+and descriptive naming convention.
+
+The fix promoted the approved editable template into a frozen application contract.
+Every generated field is escaped, local compilation is resource-bounded with shell
+execution disabled, and page size/count, embedded fonts, layout diagnostics, links, and
+source pairing are checked before release. PDF and editable source now share a persisted
+safe company/role name automatically. The rejected real artifact was rebuilt in staging
+and visually inspected before activation.
+
+The useful lesson is that document fidelity is not cosmetic. Output format and filename
+are part of the user workflow, and a test suite must compare against the real established
+artifact rather than a developer's interpretation of “similar.”

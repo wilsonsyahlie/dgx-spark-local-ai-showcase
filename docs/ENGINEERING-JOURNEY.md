@@ -452,3 +452,19 @@ stop-and-restore lifecycle evidence, and desktop plus narrow browser layouts. Th
 was not loaded merely to manufacture a graph. The broader lesson is that an on-demand service
 needs an always-present observability contract, but that contract must not expose the private
 workload it observes.
+
+## A real document exposed an implicit format contract
+
+An evidence-bound CV tool produced the correct number of pages, but the first real user
+review rejected it: content had been poured into a generic PDF design, and the file needed
+manual renaming. Existing checks had treated page count and evidence traceability as the
+entire output contract.
+
+The repair made the approved editable template the source of truth. Generated text is
+escaped before bounded local compilation. The renderer rejects page-geometry, font, and
+layout-diagnostic failures; links and editable-source pairing are verified before release.
+A single safe company/role stem now follows the PDF and source automatically. The rejected real
+run was staged, opened page by page, and switched recoverably only after hostile-input,
+artifact, and authenticated-download tests passed. A stronger subprocess sandbox proved
+incompatible with retained service hardening, so the service was not weakened and that
+limit remains explicit.
