@@ -436,3 +436,17 @@ a synchronous duplicate-click race that ordinary rendered busy state did not pre
 responsive UI states passed. The full large-model lifecycle remains untested until an
 owner-approved window satisfies the memory and pause gates. Preserving that gap is safer
 than evicting unrelated work or lowering a predeclared limit to make the demo pass.
+
+The first selector also exposed a familiar product gap: it could choose only a built-in
+entry even though a compatible coding checkpoint was already stored locally, and it had
+no safe self-service path for adding another model. The follow-up reused the creative
+lane's authority split: an unprivileged manager freezes an immutable public proposal,
+requires explicit confirmation, verifies a bounded cancellable download, and publishes
+an atomic registry without accepting serving arguments from the browser.
+
+Local inventory remained a different trust path. It performs no network request or
+registry write and admits only one unambiguous immutable snapshot whose coding identity,
+runtime family, quantization, tokenizer, contained weight set, context, and size all pass.
+Built-in and registered entries take precedence, and the interface labels provenance.
+Live browser evidence showed the compatible existing option while unrelated cache entries
+stayed absent; the model remained unloaded because its resource floor was not available.

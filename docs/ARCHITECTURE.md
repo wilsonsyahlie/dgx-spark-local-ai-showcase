@@ -97,7 +97,10 @@ A separate editor-coding lane applies the same authority separation to a retaine
 without making it an agent route. Independent authentication and lifecycle state prevent
 editor traffic from inheriting personal-agent context. Confirmed start has explicit
 resource and artifact gates and no eviction authority; stop acts only after proven drain
-and exact process identity.
+and exact process identity. Its bounded manager can register only a narrow verified class
+through immutable inspection and explicit confirmation. Read-only local inventory exposes
+complete compatible snapshots that are already present, while incomplete, ambiguous, or
+incompatible caches stay invisible; selecting an entry still performs no load.
 
 ### Private knowledge
 
