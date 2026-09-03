@@ -73,6 +73,11 @@
       duplicate/stale/error/reload checks, and
       the explicitly deferred live model lifecycle without publishing model identity,
       revision, current topology, capacities, routes, paths, commands, or configuration.
+- [x] The compatibility-policy follow-up records replacement of a handwritten architecture
+      list with a capability set derived from the pinned runtime, preserved concrete safety
+      and resource gates, pre-download rejection of truly unknown classes, automatic backend
+      selection for newly supported classes, final live inspection, and the explicitly
+      deferred download/load proof without publishing model identity or deployable details.
 
 Run `./scripts/check_showcase.sh` before every publication.
 

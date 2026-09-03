@@ -392,3 +392,20 @@ still pointed back to the dashboard because it did not match the launchpad's ini
 contract. Completing that contract for both cards, then asserting the resolved anchors in
 a real browser, fixed the interaction. A URL in markup plus a healthy service is not proof
 of a working launch path; the click target itself must be observed.
+
+## Compatibility should follow the runtime, not a developer's short list
+
+A compatibility inspector rejected a newer coding checkpoint solely because its architecture
+class was absent from a small handwritten list, even though the serving runtime already
+recognized that class. The list had turned a temporary review snapshot into permanent policy.
+
+The repair retained meaningful checks for public access, immutable revision, safe artifacts,
+the absence of downloaded executable code, coding identity, quantization, size, and context.
+Architecture compatibility now comes from the complete capability registry generated from the
+exact pinned serving image. Unknown classes fail before a large download; recognized but
+previously unseen classes proceed without being forced onto an optimization qualified only for
+older families.
+
+Tests covered malformed and unknown classes, newer supported classes, context limits, and explicit
+coding metadata. The rejected family then reached confirmation-ready state through the live
+owner-facing path. Download and generation remain a separate human-confirmed qualification.
