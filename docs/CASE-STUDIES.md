@@ -14,7 +14,8 @@ experience.
 identifiers, treat the job page as untrusted input, and require every generated claim to
 cite evidence. Validate identity, role ownership, and numbers deterministically, then use
 a second local entailment check. If generative drafts repeatedly fail, use exact approved
-language rather than weakening the gate.
+language rather than weakening the gate. Target employer and role labels are separately
+grounded in the supplied job or replaced with neutral wording.
 
 **Verification.** Focused tests covered prompt-control text, malformed or mismatched
 evidence, unsupported numbers, unsafe filenames and file types, session tampering,
