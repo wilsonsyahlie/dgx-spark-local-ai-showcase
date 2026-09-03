@@ -100,7 +100,9 @@ resource and artifact gates and no eviction authority; stop acts only after prov
 and exact process identity. Its bounded manager can register only a narrow verified class
 through immutable inspection and explicit confirmation. Read-only local inventory exposes
 complete compatible snapshots that are already present, while incomplete, ambiguous, or
-incompatible caches stay invisible; selecting an entry still performs no load.
+incompatible caches stay invisible; selecting an entry still performs no load. Web chat,
+editors, and other custom-provider clients share the same standard authenticated model
+contract through collision-safe client labels, without sharing personal-agent context.
 
 ### Private knowledge
 

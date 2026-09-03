@@ -68,7 +68,9 @@
       dependency incident and restoration, the move to one established memory-control
       surface, bounded immutable model registration, read-only compatible-cache discovery,
       visible provenance, partial/incompatible/ambiguous rejection,
-      duplicate/stale/error/reload/phone checks, and
+      distinct web-chat provider registration, preservation of the existing provider,
+      authenticated refresh, restart, desktop/phone selection, truthful unloaded failure,
+      duplicate/stale/error/reload checks, and
       the explicitly deferred live model lifecycle without publishing model identity,
       revision, current topology, capacities, routes, paths, commands, or configuration.
 

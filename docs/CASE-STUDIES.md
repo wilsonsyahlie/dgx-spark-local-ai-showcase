@@ -450,3 +450,11 @@ runtime family, quantization, tokenizer, contained weight set, context, and size
 Built-in and registered entries take precedence, and the interface labels provenance.
 Live browser evidence showed the compatible existing option while unrelated cache entries
 stayed absent; the model remained unloaded because its resource floor was not available.
+
+The next expectation exposed another distinction: a standard endpoint is not automatically
+present in every harness. One web client persisted its provider catalog after first launch,
+so an asserted, backed-up configuration transaction added the Coding lane with a distinct
+prefix and preserved the existing secondary provider. Authenticated refresh, restart,
+desktop/phone selection, and unloaded-error behavior passed. Other clients can reuse the
+same standard contract when they support custom providers; closed clients cannot be made
+compatible by relabeling the server.
