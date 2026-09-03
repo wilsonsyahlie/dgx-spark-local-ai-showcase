@@ -93,6 +93,12 @@ does not claim runtime compatibility: the first real load and generation is the 
 point, with rollback to the prior creative model if it fails. The primary agent remains
 outside the manager's authority.
 
+A separate editor-coding lane applies the same authority separation to a retained model
+without making it an agent route. Independent authentication and lifecycle state prevent
+editor traffic from inheriting personal-agent context. Confirmed start has explicit
+resource and artifact gates and no eviction authority; stop acts only after proven drain
+and exact process identity.
+
 ### Private knowledge
 
 Documents and images move through local extraction, OCR/vision where needed, embeddings,
@@ -130,3 +136,5 @@ staging. The browser does not receive a general shell or arbitrary filesystem AP
    evidence required to release protected capacity.
 10. Repository input must resolve to frozen verified artifacts, never runtime arguments;
     secondary-model registration and primary-agent control remain separate authorities.
+11. A failed primary-model promotion may still justify narrower reuse, but only behind a
+    new structural boundary and with its unrun lifecycle evidence stated explicitly.

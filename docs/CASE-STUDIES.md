@@ -415,3 +415,24 @@ Focused pairing, target, deep-link, refresh, and responsive checks proved that t
 entry remained visible on a phone and still opened the private application. The result is
 a useful reminder: discoverability can be improved with a small reversible interface
 change, without turning a launch card into a new trust boundary.
+
+## Narrow reuse after a failed model promotion
+
+**Problem.** A coding-oriented model was valuable on isolated engineering tasks but did
+not meet the behavioural bar for the personal agent. Direct editor reuse risked coupling
+developer traffic to personal context and agent authority.
+
+**Boundary.** The retained model became an explicitly started editor-only lane with its
+own authentication, logical identity, resource accounting, and exact-owned lifecycle.
+It receives no personal memory or retrieval mounts and cannot automatically stop another
+workload.
+
+**What testing found.** A shared accounting-service restart invalidated the assumptions
+of a dependent secondary-model controller, which safely unloaded its backend; the prior
+state was restored and reloads now require zero active leases. A browser test also found
+a synchronous duplicate-click race that ordinary rendered busy state did not prevent.
+
+**Honest result.** Authentication, unloaded behavior, refusal gates, recovery, and real
+responsive UI states passed. The full large-model lifecycle remains untested until an
+owner-approved window satisfies the memory and pause gates. Preserving that gap is safer
+than evicting unrelated work or lowering a predeclared limit to make the demo pass.

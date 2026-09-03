@@ -63,6 +63,11 @@
       secure/restart-safe workflow checks, two-page artifacts, and responsive views without
       publishing career data, job text, account details, endpoints, paths, or deployable
       implementation.
+- [x] The editor-inference case records structural context separation, authenticated
+      unloaded behavior, non-eviction/refusal gates, exact stop ownership, the accounting-
+      dependency incident and restoration, duplicate/stale/error/reload/phone checks, and
+      the explicitly deferred live model lifecycle without publishing model identity,
+      revision, current topology, capacities, routes, paths, commands, or configuration.
 
 Run `./scripts/check_showcase.sh` before every publication.
 

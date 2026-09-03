@@ -243,6 +243,34 @@ the broader rule: test the user-visible harness, not merely its backend-compatib
 | Coordinated Resume | How can two structurally paused lanes establish readiness without bypassing either wall? |
 | Isolated creative model management | How can an owner add local writing models without granting repository input authority over commands or the primary agent? |
 | Self-service credential rotation | How can a person change a local app secret without weakening revocation, durability, or brute-force protection? |
+| Isolated editor inference | How can a useful but rejected agent model serve coding clients without inheriting personal context or eviction authority? |
+
+## A rejected agent model can still have a narrower safe job
+
+A large coding checkpoint passed isolated repair, tool, and long-context work but failed
+the behavioural standard for promotion as the personal agent. Treating that as a binary
+choice—primary agent or deletion—would have discarded useful local capability. The safer
+reuse was a standalone, owner-started editor lane with independent authentication,
+workload identity, lifecycle state, and an ephemeral model process.
+
+The separation is structural. Editor requests receive no agent conversation history,
+memory service, private retrieval mounts, or orchestration instructions. Start is confirmed
+and fails closed on operating state, pause walls, current work, memory, immutable artifacts,
+runtime identity, and accounting. It does not unload anything else. Stop waits for proven
+request drain and acts only on the exact owned process.
+
+Activation produced two useful failures. Reloading a shared accounting service while a
+secondary model lease existed restarted its dependent controller, which deliberately
+unloaded the now-ambiguous backend. The prior model was restored, and service reloads are
+now treated as zero-active-lease operations. Separately, a resource-control button used
+rendered state as its only duplicate guard; two same-tick clicks could outrun the render.
+A synchronous ref lock closed that gap, and phone-width browser tests covered loading,
+failure/retry, stale responses, duplicate actions, reload, and overflow.
+
+The lane's controller and authenticated unloaded behavior are proven. Its full live model
+lifecycle is not: the current machine state did not satisfy the predeclared memory and
+pause gates, and unrelated workloads were not evicted for a demonstration. That is the
+right kind of unfinished evidence—specific, bounded, and safer than weakening the gate.
 
 ## A settings button is also a security lifecycle
 
