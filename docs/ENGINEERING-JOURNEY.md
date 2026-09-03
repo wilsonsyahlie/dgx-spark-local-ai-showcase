@@ -399,8 +399,8 @@ A compatibility inspector rejected a newer coding checkpoint solely because its 
 class was absent from a small handwritten list, even though the serving runtime already
 recognized that class. The list had turned a temporary review snapshot into permanent policy.
 
-The repair retained meaningful checks for public access, immutable revision, safe artifacts,
-the absence of downloaded executable code, coding identity, quantization, size, and context.
+The initial repair retained meaningful checks for public access, immutable revision, safe artifacts,
+the absence of downloaded executable code, quantization, size, and context.
 Architecture compatibility now comes from the complete capability registry generated from the
 exact pinned serving image. Unknown classes fail before a large download; recognized but
 previously unseen classes proceed without being forced onto an optimization qualified only for
@@ -409,3 +409,11 @@ older families.
 Tests covered malformed and unknown classes, newer supported classes, context limits, and explicit
 coding metadata. The rejected family then reached confirmation-ready state through the live
 owner-facing path. Download and generation remain a separate human-confirmed qualification.
+
+A follow-up exposed another category error: the inspector and offline discovery still demanded
+that a repository identify itself as a coding model. Names, tags, descriptions, and task labels
+do not determine whether the pinned runtime can safely serve the artifacts. Both classification
+checks were removed, category-specific interface copy was neutralized, and regressions proved a
+neutral-name model could pass while concrete incompatibilities still failed. A compatible
+general-purpose checkpoint then reached confirmation-ready state through the deployed path;
+download, load, and quality remained deliberately unclaimed.

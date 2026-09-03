@@ -78,6 +78,9 @@
       and resource gates, pre-download rejection of truly unknown classes, automatic backend
       selection for newly supported classes, final live inspection, and the explicitly
       deferred download/load proof without publishing model identity or deployable details.
+- [x] The classification-policy correction records removal of name/tag/category gates in both
+      registration paths, preservation of concrete incompatibility checks, neutral interface
+      language, deployed confirmation-ready proof, and explicitly unclaimed download/load/quality.
 
 Run `./scripts/check_showcase.sh` before every publication.
 
