@@ -38,6 +38,11 @@
       restart and responsive-state coverage, recoverable resource pressure, and honest
       diarization/deletion limits without publishing meeting content, private topology,
       paths, endpoints, identifiers, configuration, or deployable implementation.
+- [x] The launchpad follow-up records a dedicated useful-app category, preservation of
+      existing navigation, reused deep-link/selection behavior, focused structure and
+      phone-layout checks, live static activation, and the approval-gated restart limit
+      without publishing private targets, topology, paths, identifiers, configuration,
+      or deployable implementation.
 - [x] The coordinated Resume case records stopped request-bound preflight, exact state
       gates, master-pause shutdown, post-commit queue and relay evidence, the timer-race
       correction, live pause/recovery, a natural keeper run, and responsive UI checks

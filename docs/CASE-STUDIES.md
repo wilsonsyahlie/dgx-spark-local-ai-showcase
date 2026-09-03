@@ -407,3 +407,11 @@ retryable local transcription, cancellation, stale and duplicate action protecti
 exports, negative request tests, and phone layouts were exercised as part of the product.
 The published lesson is not that ambiguity can be eliminated; it is that ambiguity should
 be represented, routed to a person, and retained when unanswered.
+
+The workflow was finally surfaced through a dedicated category in the existing private
+launchpad. The integration reused its established navigation state rather than adding a
+second router or proxy, preserved the original app collection, and changed no backend.
+Focused pairing, target, deep-link, refresh, and responsive checks proved that the new
+entry remained visible on a phone and still opened the private application. The result is
+a useful reminder: discoverability can be improved with a small reversible interface
+change, without turning a launch card into a new trust boundary.

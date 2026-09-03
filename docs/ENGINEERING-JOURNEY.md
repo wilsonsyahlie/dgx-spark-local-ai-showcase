@@ -324,3 +324,11 @@ than happy-path mockups.
 The remaining boundary matters. Timestamped transcription does not automatically prove
 who spoke, and standard deletion is not forensic erasure. Those limits are stated in the
 product instead of being obscured by a confident summary.
+
+Discoverability was treated as a product concern rather than a new platform project. The
+existing private launchpad gained a small Useful Apps workspace with one meeting-notes
+card, while its established Apps area and backend remained untouched. Reusing the
+launchpad's generic deep-link and remembered-selection behavior kept the change narrow.
+Focused structure and responsive tests, live old/new routes, and desktop/phone renders
+proved the integration. A host-gated restart was not bypassed because the static interface
+was already demonstrably live.
