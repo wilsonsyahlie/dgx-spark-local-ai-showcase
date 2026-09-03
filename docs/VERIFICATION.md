@@ -35,8 +35,10 @@
       command, endpoint, or deployable skill body.
 - [x] The meeting application follow-up records transcript/recording intake, an explicit
       clarification stage, deterministic title/date/reference/answer preservation,
-      restart and responsive-state coverage, recoverable resource pressure, and honest
-      diarization/deletion limits without publishing meeting content, private topology,
+      restart and responsive-state coverage, recoverable resource pressure, and the later
+      local provisional-speaker workflow with mandatory human mapping, deterministic name
+      propagation, partial-map refusal, browser failure/retry/stale/phone evidence, and honest
+      voice-grouping/deletion limits without publishing meeting content, private topology,
       paths, endpoints, identifiers, configuration, or deployable implementation.
 - [x] The launchpad follow-up records a dedicated useful-app category, preservation of
       existing navigation, reused deep-link/selection behavior, focused structure and

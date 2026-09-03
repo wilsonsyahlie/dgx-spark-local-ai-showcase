@@ -321,9 +321,14 @@ transcription remains retryable, history survives restarts, and loading, error,
 cancellation, duplicate-action, stale-response, and phone layouts are real states rather
 than happy-path mockups.
 
-The remaining boundary matters. Timestamped transcription does not automatically prove
-who spoke, and standard deletion is not forensic erasure. Those limits are stated in the
-product instead of being obscured by a confident summary.
+A later iteration addressed voice separation without pretending it could prove identity.
+Recording segments receive local provisional voice groups, and the interface shows sample
+utterances plus confidence before asking a person to name every group or explicitly keep
+generic labels. A partial map cannot reach finalization. Confirmed names are then applied
+deterministically throughout the evidence and output rather than left to generative
+consistency. A real two-voice path and responsive failure/retry, duplicate, stale-response,
+restart, and refresh checks passed. Overlap, noise, similar voices, short turns, and
+standard rather than forensic deletion remain stated limits.
 
 Discoverability was treated as a product concern rather than a new platform project. The
 existing private launchpad gained a small Useful Apps workspace with one meeting-notes
