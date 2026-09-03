@@ -20,6 +20,8 @@ private, and heavy workloads cannot silently compete for the same resources.
   weakening isolation from the primary agent
 - Turning unreliable background work into observable, recoverable state machines
 - Qualifying recurring web research by evidence quality, not delivery alone
+- Building a local chief-of-staff view whose bounded actions do not duplicate the
+  authority of the systems it summarizes
 - Constraining meeting-note generation to source evidence and explicitly authorised artifacts
 - Building evidence-grounded retrieval over separately scoped collections
 - Diagnosing failures across application, model-serving, scheduling, and operating-system layers

@@ -223,6 +223,30 @@ removes implicit tool and provider-extension fields while preserving chat, sampl
 streaming. The formerly failing full middleware payload passed afterward. This reinforced
 the broader rule: test the user-visible harness, not merely its backend-compatible subset.
 
+## 15. Add one action view without creating a second source of truth
+
+A chief-of-staff workspace can easily become an unsafe super-dashboard: if it copies and
+edits records from every subsystem, ownership, freshness, and retry rules become ambiguous.
+The retained design gave the workspace authority only over personal commitments and status
+overlays on finalized meeting actions. Other systems remain authoritative and are opened
+through explicit handoffs.
+
+The local action vocabulary is intentionally small: create, complete, defer to an exact
+date, and reopen. Every accepted mutation records an atomic durable receipt and revision.
+That lets exact retries return the original outcome while rejecting a reused request ID or
+a stale tab. Browser duplicate-click suppression is a usability layer, not the transaction
+guarantee.
+
+Meeting actions are read-only source material. Their identity includes the source record and
+exact semantic fields, so an edited action cannot inherit an old completion marker. Each
+upstream source also fails independently: one unavailable summary cannot hide local work or
+disable unrelated handoffs.
+
+Verification covered validation, concurrency, stale state, source changes, partial failures,
+action transitions, refresh, restart persistence, desktop overflow, and phone layout. The
+production source contained no finalized real meeting action during qualification, so that
+path remained fixture-proven instead of being described as live-proven.
+
 ## Progression at a glance
 
 | Stage | Question answered |
@@ -244,6 +268,7 @@ the broader rule: test the user-visible harness, not merely its backend-compatib
 | Isolated creative model management | How can an owner add local writing models without granting repository input authority over commands or the primary agent? |
 | Self-service credential rotation | How can a person change a local app secret without weakening revocation, durability, or brute-force protection? |
 | Isolated editor inference | How can a useful but rejected agent model serve coding clients without inheriting personal context or eviction authority? |
+| Bounded action aggregation | How can one view support safe local action without taking ownership from every system it summarizes? |
 
 ## A rejected agent model can still have a narrower safe job
 

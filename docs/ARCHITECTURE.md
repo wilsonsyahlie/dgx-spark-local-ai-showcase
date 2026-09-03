@@ -133,6 +133,12 @@ The control plane exposes health, workload modes, queues, and narrowly allowlist
 actions. Destructive-adjacent actions require explicit confirmation and recoverable
 staging. The browser does not receive a general shell or arbitrary filesystem API.
 
+A local chief-of-staff workspace aggregates attention without aggregating authority. It
+owns personal commitments and meeting-action overlays, while goals, inbox, intelligence,
+health, and meeting records stay authoritative in their existing systems. Read-only source
+adapters fail independently. Local mutations use fixed schemas, optimistic revisions, and
+durable idempotency receipts rather than treating a disabled button as transaction safety.
+
 ## Architectural rules that emerged
 
 1. Privacy must be enforced by mounts, identities, and network boundaries—not prompts.
@@ -154,3 +160,4 @@ staging. The browser does not receive a general shell or arbitrary filesystem AP
     new structural boundary and with its unrun lifecycle evidence stated explicitly.
 12. On-demand workloads need an always-present monitoring contract; monitoring must not
     weaken backend isolation or silently rewrite historical series identity.
+13. An aggregate view must name what it owns; displayed data does not imply mutation authority.

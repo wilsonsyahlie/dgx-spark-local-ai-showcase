@@ -139,3 +139,18 @@ mirrored here.
   accepting stored destination metadata plus a separate health check.
 - Verified two healthy targets and side-by-side/stacked layouts at desktop and phone
   widths.
+
+# Local chief-of-staff follow-up
+
+- Verified a dedicated operator workspace with a narrow ownership boundary: personal
+  commitments and finalized meeting-action overlays are local; other systems remain
+  authoritative handoffs.
+- Covered strict action schemas, atomic durable replay receipts, request-ID conflict,
+  optimistic revisions, concurrent duplicates, and browser double clicks.
+- Covered finalized-only read access, semantic source identity, changed-source isolation,
+  partial failures, private persistence, refresh, restart recovery, desktop overflow, and
+  responsive phone layout.
+- Kept the absent real finalized meeting-action test explicit rather than promoting fixture
+  coverage to live-production evidence.
+- Omitted production paths, endpoints, configuration, private data, identifiers, raw evidence,
+  databases, backups, and current operational state.

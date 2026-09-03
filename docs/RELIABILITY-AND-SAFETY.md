@@ -96,3 +96,8 @@ user contract.
 - Mutually dependent lanes need a fresh stopped-preflight receipt, not an assumed button
   order. Capture progress only after accelerator commit, require observed useful work,
   and make master Pause re-wall both lanes before verified shutdown.
+- An aggregate interface does not inherit ownership of every record it displays. Keep source
+  systems authoritative, isolate failures, and use explicit handoffs. New local actions need
+  durable receipts and optimistic revisions; UI busy state alone cannot guarantee idempotency.
+- Source-derived action status must bind stable semantic identity so an edited source item
+  cannot silently inherit an earlier completion or deferral.

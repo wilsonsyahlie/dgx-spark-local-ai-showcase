@@ -513,3 +513,22 @@ Boundary, synonym, acronym, false-positive, leakage and two-page tests passed, f
 opened real artifact. The owner chose direct agent drafting for that artifact, so future live-
 model behavior remains explicitly unqualified. Evidence truth, job relevance and provenance
 need separate enforcement.
+
+## An action dashboard is an ownership boundary
+
+A request for one place to see and act on current work sounded like a presentation task.
+The harder problem was avoiding a second source of truth. Letting an aggregate page directly
+edit goals, inbox records, intelligence decisions, health state, and meeting notes would have
+mixed unrelated consistency and retry contracts.
+
+The retained workspace owns only personal commitments and overlays on finalized meeting
+actions. Other records remain in their authoritative systems and use explicit handoffs. The
+new action surface is a fixed create/complete/defer/reopen vocabulary with optimistic revisions
+and durable idempotency receipts. Exact retries replay; stale tabs and request-ID reuse fail.
+
+Meeting-action identity binds exact source fields, so later editing produces a new item rather
+than inheriting an old status. Source failures are independent. Concurrency, partial failure,
+restart persistence, real browser actions, duplicate clicks, desktop overflow, and phone layout
+were tested. A real finalized meeting action was unavailable during qualification and remains
+truthfully fixture-proven. The useful lesson is that a calm executive interface depends on
+precise authority and transaction semantics underneath it.
