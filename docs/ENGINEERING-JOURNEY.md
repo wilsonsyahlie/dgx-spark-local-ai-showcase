@@ -490,3 +490,23 @@ the original two-image shape passed again after a full supported stop/start. The
 is explicit: very small screenshot text may need a crop because bounded resizing reduces detail.
 The broader lesson is that multimodal admission needs its own measured budget, distinct from the
 language model's advertised context window.
+
+## A factual CV can still be poorly tailored
+
+A later real review exposed a different defect in the same private document workflow. Nearly
+every approved employment fact had been selected, all self-directed AI projects were present,
+and a fixed heading recast personal work as an industry program. Individual bullets were true;
+the document-level story and provenance were not.
+
+The repair preserved the frozen design while adding a bounded evidence-selection contract.
+Employment history remains complete but selective. Personal projects carry explicit nature
+metadata, use a truthful heading, and pass an alias-aware relevance gate across every place
+evidence can appear. Requirement-match strength joins entailment review and the displayed score
+is derived from those evidence states. Generic keyword overlap cannot qualify a project, and
+fallback follows the same rules.
+
+Focused tests covered selection limits, duplicates, acronyms, synonyms, false positives,
+hidden leakage and exact two-page compilation. A requested artifact was drafted directly by
+the agent when the owner chose not to wait for local inference, then validated and visually
+opened. Future live-model adherence remains unclaimed. Accuracy, relevance and provenance are
+distinct obligations.

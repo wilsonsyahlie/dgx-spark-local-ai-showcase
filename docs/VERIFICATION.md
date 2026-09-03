@@ -63,6 +63,12 @@
       secure/restart-safe workflow checks, two-page artifacts, and responsive views without
       publishing career data, job text, account details, endpoints, paths, or deployable
       implementation.
+- [x] The CV-relevance correction records selective employment evidence, explicit personal-AI
+      provenance, alias-aware gating across all claim surfaces, requirement-strength
+      entailment, derived scoring, fallback parity, false-positive and boundary regressions,
+      unchanged exact format, and an opened requested artifact. Future live-model adherence
+      remains unclaimed; no career facts, target identity, job text, private artifact, path,
+      endpoint, or deployable implementation is published.
 - [x] The editor-inference case records structural context separation, authenticated
       unloaded behavior, non-eviction/refusal gates, exact stop ownership, the accounting-
       dependency incident and restoration, the move to one established memory-control

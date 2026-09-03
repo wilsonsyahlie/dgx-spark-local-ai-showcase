@@ -494,3 +494,22 @@ the repeated authenticated result view passed tap-target and overflow checks.
 The useful lesson is that document fidelity is not cosmetic. Output format and filename
 are part of the user workflow, and a test suite must compare against the real established
 artifact rather than a developer's interpretation of “similar.”
+
+## When true evidence still told the wrong story
+
+A follow-up review found a second failure mode: a CV can contain only supported facts and
+still be weakly tailored. The system had selected nearly every employment bullet and every
+personal AI project, then used a fixed heading that implied those projects were industry
+programs.
+
+The correction kept the established format byte-identical while separating provenance and
+relevance from presentation. Employment evidence now has a strict selection budget. Personal
+projects are metadata-marked, use a truthful heading, and must pass an alias-aware concept gate
+wherever they appear. Requirement-match strength receives entailment review, scoring is derived,
+and fallback obeys the same limits. Generic project-management vocabulary cannot make a personal
+project relevant by itself.
+
+Boundary, synonym, acronym, false-positive, leakage and two-page tests passed, followed by an
+opened real artifact. The owner chose direct agent drafting for that artifact, so future live-
+model behavior remains explicitly unqualified. Evidence truth, job relevance and provenance
+need separate enforcement.
