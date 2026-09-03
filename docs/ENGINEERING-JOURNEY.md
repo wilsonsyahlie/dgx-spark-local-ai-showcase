@@ -471,3 +471,22 @@ about asset names; restarting only that web surface restored the assets, and the
 authenticated view passed tap-target and overflow checks. A stronger subprocess sandbox proved
 incompatible with retained service hardening, so the service was not weakened and that
 limit remains explicit.
+
+## A model context window is not an image-processor budget
+
+A local coding model accepted long text but failed when a chat supplied two large screenshots.
+The model identity and overall context allocation were correct; the failure came from a separate
+visual preprocessing path that expanded the images beyond its internal token boundary.
+
+The correction reads processor metadata from the exact selected snapshot at launch and applies a
+measured pixel range only to that processor family. It also sets a small item-count boundary so an
+oversized request receives a clear client error instead of an opaque token mismatch. Registry
+entries cannot override those controller-owned limits, and text-only or differently packaged
+models are unaffected.
+
+Verification checked content, not merely status codes: one, two, and three colored images were
+identified in order; a fourth was rejected clearly; text and forced tool calls still worked; and
+the original two-image shape passed again after a full supported stop/start. The stability tradeoff
+is explicit: very small screenshot text may need a crop because bounded resizing reduces detail.
+The broader lesson is that multimodal admission needs its own measured budget, distinct from the
+language model's advertised context window.

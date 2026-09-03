@@ -93,6 +93,12 @@ Run `./scripts/check_showcase.sh` before every publication.
       exact lifecycle restoration, and responsive dashboard evidence without exposing current
       topology, endpoints, identities, paths, credentials, raw output, or deployable settings.
 
+- [x] The multimodal-serving follow-up records the distinction between language context and
+      image preprocessing budget, exact snapshot-processor gating, bounded useful one/two/three-
+      image behavior, clear excess rejection, text/tool regressions, a second lifecycle pass, and
+      the remaining fine-detail tradeoff without publishing current topology, model identity,
+      endpoints, paths, commands, credentials, raw evidence, or deployable configuration.
+
 ## Deliberate limits
 
 - [x] The CV-format correction records failure of a generic two-page approximation,
