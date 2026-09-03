@@ -277,9 +277,13 @@ remained unpublished behind private-network resolution.
 A mandatory fresh start then exposed a fixed loading floor that contradicted the smaller
 selectable model's observed stable headroom. The failed attempt cleaned up correctly; a
 measured adjustment preserved the per-model admission gate and hard process ceiling. The
-second start, generation through both clients, supported stop with memory recovery, and
-restart adoption passed. The larger model remains an explicit model-specific gap. This is
-why “available in a selector” and “routine-ready” must remain different evidence states.
+second start, generation through both clients, and supported stop with memory recovery
+passed. A delayed accounting check then rejected the apparent restart adoption: the lease
+still belonged to the old controller process. Corrected restart recovery unloads the exact
+idle backend, releases its persisted lease, returns Stopped, and requires a fresh owner
+start; that canary and final start passed. The larger model remains an explicit
+model-specific gap. This is why “available in a selector” and “routine-ready” must remain
+different evidence states.
 
 The first control also landed in the agent dashboard while the person expected it beside
 the machine's other memory controls. Moving it into that established workspace—and

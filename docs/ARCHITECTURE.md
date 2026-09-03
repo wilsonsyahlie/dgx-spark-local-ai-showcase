@@ -104,8 +104,9 @@ incompatible caches stay invisible; selecting an entry still performs no load. W
 editors, and other custom-provider clients share the same standard authenticated model
 contract through collision-safe client labels, without sharing personal-agent context.
 The model backend remains unpublished and is resolved only after canonical exact-identity
-checks on its private internal network. Quarantine adoption additionally requires an
-authenticated backend and a refreshed matching lease.
+checks on its private internal network. Its accounting lease belongs to the acquiring
+controller process, so restart recovery unloads the exact idle backend, releases the
+persisted lease, and returns Stopped instead of transferring ownership.
 
 ### Private knowledge
 

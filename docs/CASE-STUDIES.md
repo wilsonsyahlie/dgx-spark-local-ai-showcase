@@ -437,8 +437,11 @@ responsive UI states passed first. When an owner-approved window later enabled a
 load, it exposed canonical identity, internal routing, and loading-floor assumptions that
 unloaded tests could not see. Each failure cleaned up or remained quarantined rather than
 guessing. After repair, a smaller compatible model passed fresh start, authenticated
-generation through two clients, supported stop with memory return, and controller restart
-adoption. The larger model's full lifecycle remains explicitly untested.
+generation through two clients, and supported stop with memory return. A delayed check
+then disproved restart adoption because the lease belonged to the old controller process.
+The corrected restart safely unloads the exact idle backend, releases that lease, returns
+Stopped, and requires a fresh owner start; this canary also passed. The larger model's
+full lifecycle remains explicitly untested.
 
 The first selector also exposed a familiar product gap: it could choose only a built-in
 entry even though a compatible coding checkpoint was already stored locally, and it had
@@ -464,9 +467,10 @@ compatible by relabeling the server.
 
 The activation lesson was sharper than “add an integration test.” Runtime identity must
 be compared with the container engine's inspected canonical values, and an internal-only
-network must not be paired with an assumed host mapping. Recovery from quarantine also
-required three independent facts before adoption: exact process identity, an authenticated
-backend response, and a refreshed matching lease. Finally, a selector's computed start
+network must not be paired with an assumed host mapping. Initial recovery from quarantine
+also required three independent facts: exact process identity, an authenticated backend
+response, and a refreshed matching lease. But those facts cannot transfer a process-owned
+lease after restart; safe recovery must unload, release, and return Stopped. Finally, a selector's computed start
 gate did not prove that a separate fixed loading floor fit the same model. The full fresh
 cycle caught that mismatch, preserved the hard resource ceiling, and turned measured
 headroom into an explicit guarded policy.
