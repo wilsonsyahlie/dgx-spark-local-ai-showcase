@@ -81,6 +81,9 @@
 - [x] The classification-policy correction records removal of name/tag/category gates in both
       registration paths, preservation of concrete incompatibility checks, neutral interface
       language, deployed confirmation-ready proof, and explicitly unclaimed download/load/quality.
+- [x] The context-policy correction records a shared native-bounded larger window, exact current-
+      entry migration, unchanged resource safety controls, same-model restart, authenticated proof
+      above the prior limit, clean post-request state, and explicit near-limit/other-model gaps.
 
 Run `./scripts/check_showcase.sh` before every publication.
 

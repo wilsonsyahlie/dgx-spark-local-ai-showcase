@@ -417,3 +417,18 @@ checks were removed, category-specific interface copy was neutralized, and regre
 neutral-name model could pass while concrete incompatibilities still failed. A compatible
 general-purpose checkpoint then reached confirmation-ready state through the deployed path;
 download, load, and quality remained deliberately unclaimed.
+
+## Context metadata must match the backend allocation
+
+An editor request slightly beyond the standalone lane's advertised window failed even though
+the selected checkpoint's native context was much larger. The limitation was not in the client
+or model: two registration paths had independently embedded the same conservative served cap.
+
+The repair introduced one native-bounded context policy shared by network registration and
+offline discovery, then atomically migrated the current registered entry. It deliberately did
+not increase memory utilization, concurrency, or weaken loading floors. The exact prior model
+and revision restarted within the existing budget, and an authenticated stable-alias request
+above the former boundary completed successfully with no process/container OOM kill, restart,
+quarantine, or residual work. Known transient driver allocation warnings recurred during
+startup as on the prior baseline, but not during the long request. A test near the new maximum
+and tests of other physical checkpoints remain explicit gaps.
