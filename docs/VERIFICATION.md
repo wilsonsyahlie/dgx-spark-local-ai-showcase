@@ -46,6 +46,11 @@
       writing-only compatibility boundary, full middleware-payload success, and unchanged
       primary lane without publishing chat content, model/parser identity, routes,
       configuration, commands, or raw errors.
+- [x] The CV-tailoring case records evidence identifiers, job-input distrust, deterministic
+      and semantic validation, exact-evidence fallback, honest gaps, human submission,
+      secure/restart-safe workflow checks, two-page artifacts, and responsive views without
+      publishing career data, job text, account details, endpoints, paths, or deployable
+      implementation.
 
 Run `./scripts/check_showcase.sh` before every publication.
 

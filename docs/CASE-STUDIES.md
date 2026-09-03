@@ -4,6 +4,29 @@ These cases are retrospective and intentionally omit production identifiers, end
 paths, and current private state. Each follows the same structure: symptom, competing
 hypotheses, measurement, decision, verification, and reusable lesson.
 
+## Evidence-bound generation for a high-consequence document
+
+**Problem.** A job-specific CV needs persuasive emphasis, but a general language model
+can silently broaden scope, add years, or turn preferred qualifications into implied
+experience.
+
+**Decision.** Separate selection from truth. Keep an approved fact catalogue with stable
+identifiers, treat the job page as untrusted input, and require every generated claim to
+cite evidence. Validate identity, role ownership, and numbers deterministically, then use
+a second local entailment check. If generative drafts repeatedly fail, use exact approved
+language rather than weakening the gate.
+
+**Verification.** Focused tests covered prompt-control text, malformed or mismatched
+evidence, unsupported numbers, unsafe filenames and file types, session tampering,
+restart recovery, and exact two-page output. The real encrypted workflow processed an
+injection-bearing description, surfaced unsupported qualifications as gaps, preserved
+the employment chronology, and produced the PDF, editable source, and evidence report.
+Responsive intake and result views were inspected separately.
+
+**Lesson.** For consequential writing, the model should choose and explain evidence—not
+become the source of truth. A safe fallback is less eloquent but more valuable than an
+unverifiable success.
+
 ## 1. A healthy local model was not receiving conversations
 
 **Symptom.** The local inference service was loaded and responsive, yet interactive

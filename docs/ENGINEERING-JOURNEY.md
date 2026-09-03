@@ -261,3 +261,24 @@ the model cited it, while the primary agent process stayed untouched.
 The lasting rule is simple: a colored icon and a model saying “I can search” prove
 nothing. Native web access is established only when the model emits a parsed call, the
 search service receives it, the result returns cleanly, and the final answer is grounded.
+
+## A tailored CV should be an evidence-selection system
+
+A private career tool was built to turn a supplied job description into a focused CV
+without turning fluent generation into permission to invent. The intake accepts pasted
+text or a saved page and deliberately avoids account credentials, authenticated scraping,
+applications, and outreach.
+
+The design treats the job description as untrusted data. Local generation maps each
+requirement to stable approved evidence identifiers; deterministic checks reject unknown
+facts, facts assigned to the wrong role, and newly introduced numbers. A second local
+review checks whether free-written profile language is actually entailed. If two drafts
+fail, the workflow falls back to exact approved wording and validates that result too.
+
+The product makes uncertainty visible: strong and partial matches are separate from
+gaps, and its percentage is evidence coverage rather than a hiring prediction. Every
+successful run creates a two-page PDF, editable source, and an evidence report, then
+leaves submission to the person. Security and recovery are part of the product: private
+authentication, request verification, throttling, restart-safe history, duplicate and
+stale-response guards, safe upload limits, and phone layouts were exercised through the
+real encrypted interface.
