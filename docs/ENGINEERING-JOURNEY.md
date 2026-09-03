@@ -242,6 +242,27 @@ the broader rule: test the user-visible harness, not merely its backend-compatib
 | Evidence-bound meeting writing | How can one local agent serve both governance and senior-summary needs without padding sparse evidence or creating unrequested artifacts? |
 | Coordinated Resume | How can two structurally paused lanes establish readiness without bypassing either wall? |
 | Isolated creative model management | How can an owner add local writing models without granting repository input authority over commands or the primary agent? |
+| Self-service credential rotation | How can a person change a local app secret without weakening revocation, durability, or brute-force protection? |
+
+## A settings button is also a security lifecycle
+
+Adding “Change PIN” to a private application looked like a small usability request. The
+real system crossed several boundaries at once: prove knowledge of the current secret,
+validate the replacement twice, survive interrupted writes, serialize competing changes,
+revoke every older browser session, and keep the successful browser usable with fresh
+request-verification state.
+
+The first implementation passed the change and restart flow, yet independent review
+found a subtle contradiction: failed-attempt throttling lived only in memory. Restarting
+the service reset the defense protecting a low-entropy PIN. The counter moved into the
+transactional private state store, and a regression now performs repeated failures,
+restarts the service, and confirms the lockout remains in force.
+
+The final evidence combined unit and integration tests, simultaneous-change pressure,
+simulated storage failure, encrypted live rotation and restoration, stale-session
+rejection, and a phone-width browser check. The lesson is that self-service settings are
+not presentation work alone; credential changes are complete only when persistence,
+revocation, concurrency, recovery, and abuse controls agree.
 
 ## A search toggle is not a search
 

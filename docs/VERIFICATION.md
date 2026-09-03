@@ -69,3 +69,12 @@ private workstation.
 The public commit sequence documents assembly of the reviewed engineering story. The
 private evidence repository remains the authoritative detailed record and is not linked or
 mirrored here.
+# Self-service PIN rotation
+
+- Tested current-secret verification, replacement confirmation, atomic persistence, old-
+  session revocation, and fresh protected browser state.
+- Proved one winner under simultaneous changes and preservation of the old credential
+  when persistence fails.
+- Corrected an independent-review blocker by making failed-attempt throttling survive a
+  service restart, with a dedicated regression.
+- Exercised the encrypted live workflow and phone-width dialog before activation.
