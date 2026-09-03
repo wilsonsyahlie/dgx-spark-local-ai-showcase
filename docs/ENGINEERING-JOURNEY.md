@@ -272,6 +272,12 @@ lifecycle is not: the current machine state did not satisfy the predeclared memo
 pause gates, and unrelated workloads were not evicted for a demonstration. That is the
 right kind of unfinished evidence—specific, bounded, and safer than weakening the gate.
 
+The first control also landed in the agent dashboard while the person expected it beside
+the machine's other memory controls. Moving it into that established workspace—and
+removing the duplicate dashboard surface—was a usability correction with a security
+benefit: one obvious authority surface. Desktop, phone, stale-response, failure/retry,
+and same-tick duplicate tests passed without starting the large model.
+
 ## A settings button is also a security lifecycle
 
 Adding “Change PIN” to a private application looked like a small usability request. The

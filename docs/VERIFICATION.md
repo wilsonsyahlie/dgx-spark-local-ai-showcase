@@ -65,7 +65,8 @@
       implementation.
 - [x] The editor-inference case records structural context separation, authenticated
       unloaded behavior, non-eviction/refusal gates, exact stop ownership, the accounting-
-      dependency incident and restoration, duplicate/stale/error/reload/phone checks, and
+      dependency incident and restoration, the move to one established memory-control
+      surface, duplicate/stale/error/reload/phone checks, and
       the explicitly deferred live model lifecycle without publishing model identity,
       revision, current topology, capacities, routes, paths, commands, or configuration.
 
