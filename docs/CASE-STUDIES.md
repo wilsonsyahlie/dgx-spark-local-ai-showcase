@@ -487,7 +487,9 @@ Every generated field is escaped, local compilation is resource-bounded with she
 execution disabled, and page size/count, embedded fonts, layout diagnostics, links, and
 source pairing are checked before release. PDF and editable source now share a persisted
 safe company/role name automatically. The rejected real artifact was rebuilt in staging
-and visually inspected before activation.
+and visually inspected before activation. A real narrow browser pass then caught stale
+missing frontend assets after the build; a targeted web restart restored the bundle, and
+the repeated authenticated result view passed tap-target and overflow checks.
 
 The useful lesson is that document fidelity is not cosmetic. Output format and filename
 are part of the user workflow, and a test suite must compare against the real established

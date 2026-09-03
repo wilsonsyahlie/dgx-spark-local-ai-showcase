@@ -465,6 +465,9 @@ escaped before bounded local compilation. The renderer rejects page-geometry, fo
 layout-diagnostic failures; links and editable-source pairing are verified before release.
 A single safe company/role stem now follows the PDF and source automatically. The rejected real
 run was staged, opened page by page, and switched recoverably only after hostile-input,
-artifact, and authenticated-download tests passed. A stronger subprocess sandbox proved
+artifact, and authenticated-download tests passed. The first narrow browser pass caught
+a blank interface caused by a completed build and stale watching web process disagreeing
+about asset names; restarting only that web surface restored the assets, and the repeated
+authenticated view passed tap-target and overflow checks. A stronger subprocess sandbox proved
 incompatible with retained service hardening, so the service was not weakened and that
 limit remains explicit.
