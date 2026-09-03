@@ -103,6 +103,9 @@ complete compatible snapshots that are already present, while incomplete, ambigu
 incompatible caches stay invisible; selecting an entry still performs no load. Web chat,
 editors, and other custom-provider clients share the same standard authenticated model
 contract through collision-safe client labels, without sharing personal-agent context.
+The model backend remains unpublished and is resolved only after canonical exact-identity
+checks on its private internal network. Quarantine adoption additionally requires an
+authenticated backend and a refreshed matching lease.
 
 ### Private knowledge
 

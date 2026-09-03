@@ -15,7 +15,7 @@ private, and heavy workloads cannot silently compete for the same resources.
 - Operating several GPU-heavy workflows on one shared-memory system
 - Managing a switchable secondary writing-model lane without giving repository input
   control over runtime commands or the primary agent
-- Reusing a retained coding model as an owner-started editor lane without exposing personal-agent context or silently evicting workloads
+- Reusing a retained coding model as an owner-started lane, then repairing its first real lifecycle from canonical runtime evidence without exposing personal context or silently evicting workloads
 - Qualifying model-specific native web tools through a local metasearch path without
   weakening isolation from the primary agent
 - Turning unreliable background work into observable, recoverable state machines

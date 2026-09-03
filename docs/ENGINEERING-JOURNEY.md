@@ -267,10 +267,19 @@ rendered state as its only duplicate guard; two same-tick clicks could outrun th
 A synchronous ref lock closed that gap, and phone-width browser tests covered loading,
 failure/retry, stale responses, duplicate actions, reload, and overflow.
 
-The lane's controller and authenticated unloaded behavior are proven. Its full live model
-lifecycle is not: the current machine state did not satisfy the predeclared memory and
-pause gates, and unrelated workloads were not evicted for a demonstration. That is the
-right kind of unfinished evidence—specific, bounded, and safer than weakening the gate.
+That full-live gap was later exercised when the owner made room without automatic
+eviction. The first load revealed that an exact predicate expected a command-line spelling
+rather than the runtime's canonical security value, and that an internal-only network had
+not created the presumed host mapping. Recovery stayed fail closed until exact identity,
+an authenticated backend, and the matching live lease agreed. The corrected backend
+remained unpublished behind private-network resolution.
+
+A mandatory fresh start then exposed a fixed loading floor that contradicted the smaller
+selectable model's observed stable headroom. The failed attempt cleaned up correctly; a
+measured adjustment preserved the per-model admission gate and hard process ceiling. The
+second start, generation through both clients, supported stop with memory recovery, and
+restart adoption passed. The larger model remains an explicit model-specific gap. This is
+why “available in a selector” and “routine-ready” must remain different evidence states.
 
 The first control also landed in the agent dashboard while the person expected it beside
 the machine's other memory controls. Moving it into that established workspace—and
