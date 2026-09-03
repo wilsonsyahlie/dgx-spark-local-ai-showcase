@@ -282,3 +282,24 @@ leaves submission to the person. Security and recovery are part of the product: 
 authentication, request verification, throttling, restart-safe history, duplicate and
 stale-response guards, safe upload limits, and phone layouts were exercised through the
 real encrypted interface.
+
+## Meeting notes become safer when uncertainty has its own stage
+
+The earlier meeting-writing workflow proved that sparse evidence should stay sparse, but
+an agent-only process still made clarification feel incidental. A private application
+made uncertainty a first-class stage: ingest a transcript or recording, extract evidence,
+pause on a short set of questions, then generate detailed notes and a compact leadership
+summary only after the person has answered or explicitly skipped each gap.
+
+Live synthetic checks caught subtle fidelity failures that polished prose can hide. A
+supplied title was replaced, a task deadline became the meeting date, references
+disappeared, and a human answer was omitted. Deterministic safeguards now preserve those
+four boundaries and visibly carry unresolved items forward. The product also treats
+operational uncertainty honestly: input limits reject rather than truncate, failed local
+transcription remains retryable, history survives restarts, and loading, error,
+cancellation, duplicate-action, stale-response, and phone layouts are real states rather
+than happy-path mockups.
+
+The remaining boundary matters. Timestamped transcription does not automatically prove
+who spoke, and standard deletion is not forensic erasure. Those limits are stated in the
+product instead of being obscured by a confident summary.

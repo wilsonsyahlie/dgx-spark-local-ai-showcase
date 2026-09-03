@@ -33,6 +33,11 @@
       inline-only result, and residual human-review requirement without publishing any
       meeting content, participant or client identity, raw prompt/output, internal path,
       command, endpoint, or deployable skill body.
+- [x] The meeting application follow-up records transcript/recording intake, an explicit
+      clarification stage, deterministic title/date/reference/answer preservation,
+      restart and responsive-state coverage, recoverable resource pressure, and honest
+      diarization/deletion limits without publishing meeting content, private topology,
+      paths, endpoints, identifiers, configuration, or deployable implementation.
 - [x] The coordinated Resume case records stopped request-bound preflight, exact state
       gates, master-pause shutdown, post-commit queue and relay evidence, the timer-race
       correction, live pause/recovery, a natural keeper run, and responsive UI checks

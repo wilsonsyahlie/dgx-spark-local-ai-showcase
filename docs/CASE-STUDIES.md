@@ -392,3 +392,18 @@ remote work. The fix moved that boundary: remote queue admission may proceed, wh
 fallback into local heavy processing must reapply the original floor. Tests pinned both
 sides of the boundary, and a live run proved completed files plus remote inference before
 the natural supervisor safely stopped the remote lane at zero backlog.
+
+## A meeting-notes application should ask before it assumes
+
+A disciplined summary prompt was extended into a durable private workflow for transcripts
+and recordings. Evidence extraction and final writing are separated by an explicit
+clarification stage, so unclear ownership, dates, terminology, speaker identity, or
+decision status can be answered—or deliberately left unresolved—before the notes exist.
+
+Synthetic live tests found that generation alone could still overwrite an explicit title,
+confuse an action deadline with the meeting date, omit references, or drop a human answer.
+Deterministic preservation rules close those gaps. Restart-safe history, bounded inputs,
+retryable local transcription, cancellation, stale and duplicate action protection,
+exports, negative request tests, and phone layouts were exercised as part of the product.
+The published lesson is not that ambiguity can be eliminated; it is that ambiguity should
+be represented, routed to a person, and retained when unanswered.
