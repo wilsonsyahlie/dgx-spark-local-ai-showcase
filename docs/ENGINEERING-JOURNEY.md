@@ -623,3 +623,12 @@ channels. A natural job fetched public metadata and produced its exact artifact,
 proved private-route denial, hidden host state, inbound rejection, unchanged peer behavior, and continued
 local-model identity. Package and prompt settings remain policy, not containment. The durable lesson is
 that accepted egress risk still requires a deliberate readable-data and bidirectional-network review.
+
+The next reliability failure looked successful only because the agent harness exited zero. In reality,
+the local model had invented a function name outside the request's tool vocabulary, and no requested app
+was created. The repair validates exact flat and namespaced function pairs over a fully buffered response
+before any call can reach the harness. One safe undelivered response may be regenerated; repeated or mixed
+invalid calls become a generic failure with neither response released. If an online response has already
+performed a hosted search, it is never regenerated. A second guard recognizes the harness's exact router
+failure after complete output drainage and overrides a misleading zero exit. The important lesson was that
+model output, tool authority, and process status are separate trust boundaries.

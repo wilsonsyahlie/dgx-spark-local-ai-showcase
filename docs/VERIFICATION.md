@@ -184,3 +184,6 @@ mirrored here.
       enforced sandboxing, private-route and inbound denial, hidden host state, isolated dependency
       installation, exact artifact verification, complete operational evidence, and explicit residual
       workspace-exfiltration risk.
+- [x] Records per-request tool-vocabulary validation, full mixed-call withholding, one bounded safe
+      regeneration, no duplicate hosted-search retry, and an output-drain backstop against false exit-zero
+      success, with focused and natural artifact evidence and no production implementation details.

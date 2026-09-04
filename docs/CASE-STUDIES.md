@@ -558,3 +558,17 @@ rejected before public traffic is allowed, and new inbound connections to runner
 blocked. A natural job verified public retrieval and exact artifact creation; separate probes verified
 the negative boundaries and unchanged local-model identity. Environment variables and prompt rules guide
 package behavior, but the operating system—not agent compliance—carries the containment claim.
+
+## When a nonexistent tool looked like success
+
+A local model emitted a well-formed call to a function the harness had never offered. The harness logged a
+router failure but exited zero, and the factory inherited that false success. The corrected response
+boundary validates exact flat and namespaced function pairs before delivering any buffered output. It may
+regenerate one undelivered response, but repeated defects and mixed valid/invalid calls release nothing and
+return a generic failure. Online search declarations remain supported, while a response that has actually
+performed a hosted search is never regenerated.
+
+A runner-level backstop also waits for complete output and turns the exact router diagnostic into failure.
+Review-driven tests covered real schema shape, mixed call order, delayed errors, retention limits, and
+bounded retry construction; a harmless natural build then verified the normal path. A successful process
+status is evidence, not authority, when the surrounding protocol has already proved failure.
