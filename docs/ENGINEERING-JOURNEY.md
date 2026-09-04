@@ -535,3 +535,38 @@ hidden leakage and exact two-page compilation. A requested artifact was drafted 
 the agent when the owner chose not to wait for local inference, then validated and visually
 opened. Future live-model adherence remains unclaimed. Accuracy, relevance and provenance are
 distinct obligations.
+## A local agent factory needed less authority, not more orchestration
+
+Adding coding jobs to an operator portal looked like a queue-and-cards feature. The real design
+problem was preventing the portal, coordinator, and agent from inheriting one another's authority.
+The final workflow split admission, coordination, execution, model access, status attestation, and
+bounded results. It offers only a short pre-admission withdrawal window and creates a new linked job
+for reruns; it never pretends an upstream active job can be cancelled.
+
+Each agent turn is tied to the exact physical local model captured at submission rather than a
+friendly alias. If that model stops or changes, execution fails instead of silently switching.
+The agent receives one isolated no-remote repository, a fixed command path, an empty account state,
+and no public network or production credentials.
+
+The first post-change review found important gaps behind that shape: network policy replacement was
+not yet deny-first, allowed peers were broader than necessary, runner execution resources and retained output were not
+bounded, disconnect cleanup could miss detached descendants, and uncertain submission needed a
+durable reconciliation state. Closing those findings made the factory smaller and more predictable:
+exact peer-only paths, bounded execution, one-shot scoped access, no automatic replay, and explicit
+unknown or ambiguous delivery.
+
+Process-death and storage stress added another lesson: cleanup code cannot revoke a credential after
+its own process is gone, signals do not remove zombies, and a per-file cap does not bound a filesystem.
+The retained system therefore ties access to a live kernel-observed lease, explicitly reaps adopted
+children, caps every agent-writable storage class, and places time and cgroup ceilings around the
+threaded security proxy. A fresh canary on those final boundaries produced the exact file and restored
+the prior unloaded model state.
+
+The strongest lesson arrived during verification. An early run exited successfully and explained
+what it intended to create, but the file was absent because its internal sandbox commands had all
+failed. Direct artifact inspection rejected the false positive. After correcting several exact
+upstream grammar, permission, and namespace assumptions, a fresh run produced the requested file,
+drained its model request, and returned the system to its prior unloaded state. For autonomous work,
+terminal status is evidence about a process; the artifact and its tests are evidence about the task.
+Desktop and phone-width browser checks also proved stopped-state controls, bounded result display,
+stale-response suppression, and overflow behavior.

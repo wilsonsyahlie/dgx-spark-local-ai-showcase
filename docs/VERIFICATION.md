@@ -154,3 +154,16 @@ mirrored here.
   coverage to live-production evidence.
 - Omitted production paths, endpoints, configuration, private data, identifiers, raw evidence,
   databases, backups, and current operational state.
+# Supervised local software factory
+
+- [x] Records strict create, pending-withdraw, refresh, and linked-rerun semantics without implying
+      cancellation after upstream handoff.
+- [x] Records exact physical-model binding, no fallback, separate least-privilege services, isolated
+      no-remote execution, deny-first exact-peer networking, bounded execution, scoped-token cleanup,
+      process-death lease revocation, adopted-child reaping, aggregate storage and proxy idle-client
+      bounds, durable retry/unknown-delivery reconciliation, and forbidden network/Git checks.
+- [x] Records the rejected exit-zero false positive and the later verified artifact-producing canary,
+      request drain, and restoration of the prior unloaded model state.
+- [x] Records desktop and phone-width stopped/result/stale/overflow checks, keeps the full raw
+      transcript limit explicit, and omits production identities,
+      topology, paths, endpoints, credentials, configuration, commands, raw evidence, and private data.
