@@ -586,6 +586,13 @@ data than the receiving side accepted. Because that defect was outside the obser
 recorded as unresolved instead of being folded into the change. Better monitoring should narrow uncertainty;
 it should not quietly broaden implementation authority.
 
+Once that repair was separately approved, the safest answer was not a global increase. Routine control
+and progress messages kept their smaller ceiling; only the authenticated final-result direction received
+the already-defined larger allowance. Results beyond it become a small explicit failure without echoing
+discarded content. Boundary tests and a harmless live result above the old receiver limit passed while
+the loaded coding model remained untouched. Message limits are contracts by direction and purpose, not
+one convenient constant for an entire protocol.
+
 The last security review found another useful distinction: data that a page ignores is still data sent
 to the browser. Mutation receipts carried internal correlation metadata even though no component rendered
 it. With explicit approval, list and mutation responses moved behind one recursive public projection, and

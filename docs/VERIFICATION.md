@@ -169,7 +169,8 @@ mirrored here.
       monitor restart did not interrupt the coding run. It keeps raw events and reasoning unavailable
       and omits production identities,
       topology, paths, endpoints, credentials, configuration, commands, raw evidence, and private data.
-- [x] Keeps an observed producer/receiver result-size mismatch explicit as unresolved instead of implying
-      that adding visibility repaired the execution path.
+- [x] Keeps the observed producer/receiver result-size mismatch distinct from the observability work,
+      then records its separately approved repair: narrow directional allowance, preserved routine-message
+      guard, non-reflecting over-limit failure, boundary coverage, and a successful live verbose handoff.
 - [x] Records that ignored response fields are still disclosure, and that an approved recursive browser
       projection was verified across list, mutation, replay, error, and no-handoff behavior.
