@@ -653,3 +653,21 @@ known-URL fetching was exposed. Network policy continued to deny private, metada
 unrelated private-overlay destinations while permitting public HTTP/HTTPS. A real agent fetch and negative
 private-route probes passed. This provides useful browsing without pretending public egress is private:
 everything the isolated agent can read in its workspace is now potentially exportable.
+
+## Making model memory a visible, reversible operator choice
+
+Two private coding harnesses use different accelerators, but their operator experience now follows one
+rule: the interface says which machine owns the memory and offers the same explicit start and unload
+actions. The local card delegates to the already guarded model controller. The workstation card crosses
+the private overlay through a narrow authenticated broker whose vocabulary is limited to status, start,
+and idle-only unload. It cannot become a general remote-command channel. A start is successful only when
+the model's health endpoint is ready; an unload refuses active work and leaves the lightweight harness
+available.
+
+The browser exposed a separate lifecycle problem. The harness protects its UI with a launch-token
+exchange and rotates authority-bound cookie names, so a permanent private-network address could fail in
+an old browser even while a clean profile worked. A loopback bridge now performs that exchange without
+putting the token in URLs and expires superseded harness cookies in the same redirect. Tests covered both
+clean and deliberately stale profiles, along with desktop and phone layouts. The durable lesson is that
+private reachability, application authentication, and browser-session rotation are three different
+contracts; a permanent link must satisfy all three.
