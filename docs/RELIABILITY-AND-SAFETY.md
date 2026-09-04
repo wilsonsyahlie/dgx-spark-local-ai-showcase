@@ -105,3 +105,7 @@ user contract.
   runtime/state views, private/local denial before public allowance, runner-owned inbound denial, stable firewall
   anchors, and counter-independent verification. Prompt and package settings are policy, not a substitute
   for operating-system containment.
+- Treat preview coding agents as untrusted workspace occupants: separate their identity and project area,
+  deny unrelated files and public egress, disable optional telemetry, record residual access on allowed
+  local addresses, and verify that a real generated artifact is accessible to only the isolated harness
+  and intended operator.

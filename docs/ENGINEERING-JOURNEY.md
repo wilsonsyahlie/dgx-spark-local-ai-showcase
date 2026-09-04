@@ -632,3 +632,17 @@ invalid calls become a generic failure with neither response released. If an onl
 performed a hosted search, it is never regenerated. A second guard recognizes the harness's exact router
 failure after complete output drainage and overrides a misleading zero exit. The important lesson was that
 model output, tool authority, and process status are separate trust boundaries.
+
+## Making an experimental coding harness useful without giving it the workstation
+
+A standalone developer-preview harness promised a convenient browser coding workflow, but running it as
+the operator would have exposed unrelated agent state and credentials. The safer design gave it a separate
+identity, one explicit project area, no public egress, disabled telemetry, and only one configured model
+route through an authenticated local interface. Residual access to services on allowed local addresses
+remains explicit. A loopback application sits behind a private-network listener.
+
+The first end-to-end file test caught a subtle failure: the application created private files, so a
+set-group directory and permissive umask did not make its output usable by the operator. A narrow
+permission synchronizer now mirrors owner access to one private sharing group. Real model output,
+cross-account edits, service restart, authentication rejection, network denial, and phone/desktop layouts
+were verified. Sharing is a property of an artifact created through the live path, not its parent directory.
