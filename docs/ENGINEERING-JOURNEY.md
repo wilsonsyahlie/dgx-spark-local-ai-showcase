@@ -570,3 +570,24 @@ drained its model request, and returned the system to its prior unloaded state. 
 terminal status is evidence about a process; the artifact and its tests are evidence about the task.
 Desktop and phone-width browser checks also proved stopped-state controls, bounded result display,
 stale-response suppression, and overflow behavior.
+
+The operator still needed visibility during long runs, but a raw transcript would have crossed the
+same authority boundary the factory was designed to protect. The follow-up added a sanitized operational
+view over a bounded, nonblocking side channel. Only allowlisted status, tool, command, output, and file
+activity is eligible; raw prompt, reasoning, environment, and arbitrary upstream fields are not emitted,
+while allowed output may still echo task text. Credentials and internal markers are scrubbed, with an explicit
+warning that transformed sensitive text cannot always be recognized. Missing records, disconnects, and reconstruction limits are explicit rather
+than silently presented as complete. In a recovery exercise, restarting only the monitor disconnected
+the live view while the agent continued and completed successfully. Observability became useful without
+becoming a dependency of execution.
+
+Visibility also revealed a separate reliability limit: one verbose job reached handoff with more result
+data than the receiving side accepted. Because that defect was outside the observability request, it was
+recorded as unresolved instead of being folded into the change. Better monitoring should narrow uncertainty;
+it should not quietly broaden implementation authority.
+
+The last security review found another useful distinction: data that a page ignores is still data sent
+to the browser. Mutation receipts carried internal correlation metadata even though no component rendered
+it. With explicit approval, list and mutation responses moved behind one recursive public projection, and
+both handler tests and a broker-only create/replay/withdraw exercise proved the narrower contract without
+starting an agent job. Presentation safety begins at serialization, not at the DOM.

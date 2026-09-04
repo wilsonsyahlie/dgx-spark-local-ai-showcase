@@ -164,6 +164,12 @@ mirrored here.
       bounds, durable retry/unknown-delivery reconciliation, and forbidden network/Git checks.
 - [x] Records the rejected exit-zero false positive and the later verified artifact-producing canary,
       request drain, and restoration of the prior unloaded model state.
-- [x] Records desktop and phone-width stopped/result/stale/overflow checks, keeps the full raw
-      transcript limit explicit, and omits production identities,
+- [x] Records desktop and phone-width stopped/result/stale/overflow checks plus a bounded sanitized
+      operational view, truthful partial/disconnected states, single-flight polling, and proof that a
+      monitor restart did not interrupt the coding run. It keeps raw events and reasoning unavailable
+      and omits production identities,
       topology, paths, endpoints, credentials, configuration, commands, raw evidence, and private data.
+- [x] Keeps an observed producer/receiver result-size mismatch explicit as unresolved instead of implying
+      that adding visibility repaired the execution path.
+- [x] Records that ignored response fields are still disclosure, and that an approved recursive browser
+      projection was verified across list, mutation, replay, error, and no-handoff behavior.
