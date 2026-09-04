@@ -681,3 +681,11 @@ parent-domain cookie profiles both loaded, reloaded, and opened live sockets wit
 credential. The sharper lesson is that a synthetic stale-state test is not evidence for an unmeasured
 real profile; when the private network is the approved authority boundary, the bridge should own the
 entire application-authentication hop instead of trying to repair every possible browser state.
+
+A follow-up screenshot exposed one more boundary error: the local and workstation cards looked like
+one feature but used two independent gateways. Repairing and testing one did not repair or prove the
+other. The second gateway now uses the same browser-independent invariant while retaining its own
+stronger process-generation checks and per-authority sessions. Both of its private addresses passed
+clean and conflicting-cookie load/reload tests with live sockets, while malformed requests and wrong
+authorities failed closed. Operational similarity is not shared implementation; every physical lane
+needs its own activation and user-path evidence.
