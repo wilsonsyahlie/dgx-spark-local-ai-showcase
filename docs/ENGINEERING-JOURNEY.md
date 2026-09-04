@@ -598,3 +598,15 @@ to the browser. Mutation receipts carried internal correlation metadata even tho
 it. With explicit approval, list and mutation responses moved behind one recursive public projection, and
 both handler tests and a broker-only create/replay/withdraw exercise proved the narrower contract without
 starting an agent job. Presentation safety begins at serialization, not at the DOM.
+
+The next natural failure came from incomplete JSON in one local-model tool call. Restarting the full
+agent would have risked repeating earlier work, so the response boundary now withholds one bounded
+inference and permits one narrowly classified regeneration only after fresh run, client, exact-model,
+stateless-mode, and local-tool checks. Other failures are forwarded truthfully. Independent review drove
+terminal event ordering, nested-tool validation, disconnected-client suppression, honest telemetry, and
+separate memory/concurrency ceilings.
+
+Package behavior remains deliberately offline. A measured read-only inventory advertises what the
+agent can import, while pip is no-index, noninteractive, and zero-retry with no package artifact source.
+A harmless live shell check proved available imports and immediate missing-package failure. No package
+was installed and the previously failed project was not rerun.

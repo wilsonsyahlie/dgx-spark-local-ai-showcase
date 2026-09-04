@@ -174,3 +174,9 @@ mirrored here.
       guard, non-reflecting over-limit failure, boundary coverage, and a successful live verbose handoff.
 - [x] Records that ignored response fields are still disclosure, and that an approved recursive browser
       projection was verified across list, mutation, replay, error, and no-handoff behavior.
+- [x] Records one-response malformed-tool recovery with no whole-job replay, terminal fail-closed
+      classification, fresh run/client/model checks, local-only tool validation, bounded resources,
+      truthful outcomes, and disconnected-client suppression.
+- [x] Records the retained offline dependency boundary: a measured read-only package inventory,
+      immediate no-index/no-input/zero-retry failure for unavailable packages, no artifact source,
+      no newly installed package, and a harmless real-shell canary.

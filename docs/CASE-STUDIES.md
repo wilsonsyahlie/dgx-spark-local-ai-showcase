@@ -532,3 +532,19 @@ restart persistence, real browser actions, duplicate clicks, desktop overflow, a
 were tested. A real finalized meeting action was unavailable during qualification and remains
 truthfully fixture-proven. The useful lesson is that a calm executive interface depends on
 precise authority and transaction semantics underneath it.
+
+## Recover only work that cannot have acted
+
+A later factory run exposed incomplete JSON in a model-generated tool call after the inference endpoint
+had accepted the stream. Replaying the full agent could have repeated earlier actions. The repair instead
+withholds one bounded model response and regenerates only that undelivered response, once, after a
+terminal structured classifier and fresh checks of the live run, client, exact model, stateless request,
+and local-only tool shape. Every other failure remains visible, and resource and telemetry limits stay
+explicit.
+
+The same run exposed wasted package-index retries inside an intentional network wall. That wall was not
+weakened. The agent now receives a read-only inventory of available versions, while package installation
+is no-index, noninteractive, and zero-retry; unavailable essentials are reported rather than disguised.
+No package repository or dependency was added. A harmless live canary proved the real shell inherited
+the policy. Recover only work that cannot yet have produced side effects, and make immutable environment
+constraints discoverable before an agent acts.
