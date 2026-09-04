@@ -180,3 +180,7 @@ mirrored here.
 - [x] Records the retained offline dependency boundary: a measured read-only package inventory,
       immediate no-index/no-input/zero-retry failure for unavailable packages, no artifact source,
       no newly installed package, and a harmless real-shell canary.
+- [x] Records the later owner-approved public-egress posture with false-success rejection, externally
+      enforced sandboxing, private-route and inbound denial, hidden host state, isolated dependency
+      installation, exact artifact verification, complete operational evidence, and explicit residual
+      workspace-exfiltration risk.

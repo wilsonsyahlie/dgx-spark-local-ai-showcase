@@ -610,3 +610,16 @@ Package behavior remains deliberately offline. A measured read-only inventory ad
 agent can import, while pip is no-index, noninteractive, and zero-retry with no package artifact source.
 A harmless live shell check proved available imports and immediate missing-package failure. No package
 was installed and the previously failed project was not rerun.
+
+The owner later chose a different tradeoff and explicitly accepted public-Internet exfiltration risk.
+Enabling it exposed why “online” is not one switch: the harness still sought unavailable approval, a
+clean exit produced no artifact, firewall counters destabilized naive verification, an inbound rule
+depended on a stopped service group, and broad path masking initially hid required channels too.
+
+The final boundary uses the existing externally sandboxed runner as authority. Public-address egress is
+allowed only after local and private destinations are rejected; new inbound flows to runner-owned
+listeners are denied; and private runtime/state views reveal only the workspace and required local
+channels. A natural job fetched public metadata and produced its exact artifact, while independent tests
+proved private-route denial, hidden host state, inbound rejection, unchanged peer behavior, and continued
+local-model identity. Package and prompt settings remain policy, not containment. The durable lesson is
+that accepted egress risk still requires a deliberate readable-data and bidirectional-network review.

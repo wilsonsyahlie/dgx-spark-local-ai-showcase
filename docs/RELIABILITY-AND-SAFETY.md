@@ -101,3 +101,7 @@ user contract.
   durable receipts and optimistic revisions; UI busy state alone cannot guarantee idempotency.
 - Source-derived action status must bind stable semantic identity so an edited source item
   cannot silently inherit an earlier completion or deferral.
+- Public egress makes all readable workspace data potentially exportable. Preserve empty private
+  runtime/state views, private/local denial before public allowance, runner-owned inbound denial, stable firewall
+  anchors, and counter-independent verification. Prompt and package settings are policy, not a substitute
+  for operating-system containment.

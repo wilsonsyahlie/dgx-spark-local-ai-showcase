@@ -548,3 +548,13 @@ is no-index, noninteractive, and zero-retry; unavailable essentials are reported
 No package repository or dependency was added. A harmless live canary proved the real shell inherited
 the policy. Recover only work that cannot yet have produced side effects, and make immutable environment
 constraints discoverable before an agent acts.
+
+## When the factory was deliberately brought online
+
+After the owner explicitly accepted public-Internet exfiltration risk, the factory gained public-address
+egress without gaining private-system access or inbound exposure. The runner sees private empty runtime
+and state roots with only its workspace and required local channels exposed. Private and local routes are
+rejected before public traffic is allowed, and new inbound connections to runner-owned listeners are
+blocked. A natural job verified public retrieval and exact artifact creation; separate probes verified
+the negative boundaries and unchanged local-model identity. Environment variables and prompt rules guide
+package behavior, but the operating system—not agent compliance—carries the containment claim.
