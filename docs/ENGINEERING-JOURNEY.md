@@ -646,3 +646,10 @@ set-group directory and permissive umask did not make its output usable by the o
 permission synchronizer now mirrors owner access to one private sharing group. Real model output,
 cross-account edits, service restart, authentication rejection, network denial, and phone/desktop layouts
 were verified. Sharing is a property of an artifact created through the live path, not its parent directory.
+
+The operator later accepted the explicit tradeoff of public web access. The safe change was not to add a
+cloud-search key: inference remained local, the cloud-backed search tool was removed, and only direct
+known-URL fetching was exposed. Network policy continued to deny private, metadata, link-local, and
+unrelated private-overlay destinations while permitting public HTTP/HTTPS. A real agent fetch and negative
+private-route probes passed. This provides useful browsing without pretending public egress is private:
+everything the isolated agent can read in its workspace is now potentially exportable.

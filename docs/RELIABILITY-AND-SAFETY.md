@@ -109,3 +109,6 @@ user contract.
   deny unrelated files and public egress, disable optional telemetry, record residual access on allowed
   local addresses, and verify that a real generated artifact is accessible to only the isolated harness
   and intended operator.
+- If an owner explicitly accepts public egress, keep model inference local, remove cloud-backed search,
+  structurally deny private and metadata destinations, and verify a real agent fetch plus negative route
+  probes. Treat every agent-readable workspace file as potentially exportable.
