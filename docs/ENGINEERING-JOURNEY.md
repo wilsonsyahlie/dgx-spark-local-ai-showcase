@@ -671,3 +671,13 @@ putting the token in URLs and expires superseded harness cookies in the same red
 clean and deliberately stale profiles, along with desktop and phone layouts. The durable lesson is that
 private reachability, application authentication, and browser-session rotation are three different
 contracts; a permanent link must satisfy all three.
+
+The operator's real browser then disproved that first repair. Its test had covered only one convenient
+stale-cookie shape, while the bridge still allowed browser cookies to participate in upstream login.
+The corrected design removes browser state from that decision altogether: the private gateway holds
+the current upstream session only in memory, replaces browser cookies on the fixed internal hop, and
+does not return the upstream credential to the browser. Clean and deliberately conflicting host and
+parent-domain cookie profiles both loaded, reloaded, and opened live sockets without exposing a
+credential. The sharper lesson is that a synthetic stale-state test is not evidence for an unmeasured
+real profile; when the private network is the approved authority boundary, the bridge should own the
+entire application-authentication hop instead of trying to repair every possible browser state.
