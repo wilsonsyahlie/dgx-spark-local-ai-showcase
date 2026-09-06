@@ -34,6 +34,7 @@ private, and heavy workloads cannot silently compete for the same resources.
 - [Troubleshooting case studies](docs/CASE-STUDIES.md)
 - [Reliability and safety](docs/RELIABILITY-AND-SAFETY.md)
 - [Verification](docs/VERIFICATION.md)
+- [Bounding a local coding agent](docs/BOUNDING-A-LOCAL-CODING-AGENT.md)
 
 ## Publication boundary
 

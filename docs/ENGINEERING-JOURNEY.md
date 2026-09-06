@@ -689,3 +689,14 @@ stronger process-generation checks and per-authority sessions. Both of its priva
 clean and conflicting-cookie load/reload tests with live sockets, while malformed requests and wrong
 authorities failed closed. Operational similarity is not shared implementation; every physical lane
 needs its own activation and user-path evidence.
+
+## Turning agent instructions into enforced boundaries
+
+Later coding trials showed that even a capable local model could ignore requested worker counts,
+inspect indefinitely, or describe checks it had not run. The retained workflow therefore moved the
+important rules out of prose: one host lock owns writing, only two named read-only investigators may
+launch, execution has hard limits, and pre-change source is copied and hashed automatically. A fixed
+external verifier owns build and interaction tests. Negative canaries proved that extra workers,
+wrong worker profiles, concurrent writers, protected-file edits, public network access, and invented
+test names fail closed. Existing project failures were preserved as evidence instead of being hidden
+behind a successful harness setup.
