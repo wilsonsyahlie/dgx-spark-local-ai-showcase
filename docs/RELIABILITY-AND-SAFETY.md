@@ -112,3 +112,6 @@ user contract.
 - If an owner explicitly accepts public egress, keep model inference local, remove cloud-backed search,
   structurally deny private and metadata destinations, and verify a real agent fetch plus negative route
   probes. Treat every agent-readable workspace file as potentially exportable.
+- Unified-memory dashboards must distinguish system availability, reusable cache, service footprints, and
+  accelerator allocations. Never add overlapping service/GPU readings or turn failed attribution into zero;
+  show both sources, use one explicit estimate, and verify it during a real memory-heavy workload.

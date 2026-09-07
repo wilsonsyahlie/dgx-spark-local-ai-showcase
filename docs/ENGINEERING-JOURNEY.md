@@ -700,3 +700,17 @@ external verifier owns build and interaction tests. Negative canaries proved tha
 wrong worker profiles, concurrent writers, protected-file edits, public network access, and invented
 test names fail closed. Existing project failures were preserved as evidence instead of being hidden
 behind a successful harness setup.
+
+## Making unified-memory reporting explain itself
+
+A resource dashboard can show a correct total and still tell the wrong story. One view used the operating
+system's pressure-oriented memory total, then subtracted reusable file cache again and omitted the residual
+category from the interface. This made ordinary system use disappear. The corrected view separates
+system-wide used and available memory from estimated accelerator attribution, exposes the unexplained
+remainder, and reports failed or overlapping readings instead of silently turning them into zero.
+
+A live image-generation workload revealed a deeper unified-memory lesson: the service held a large staged
+model footprint while the accelerator process feed showed only a small currently active allocation. The
+dashboard now shows both readings and uses the larger estimate once rather than adding overlapping values.
+Responsive browser checks and live workload correlation mattered here; synthetic idle readings alone would
+not have exposed the undercount. Available memory remains the safest capacity-planning signal.
