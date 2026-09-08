@@ -4,6 +4,24 @@ This chronology reconstructs the genuine milestone sequence from the private pro
 record. It is intentionally more candid than a feature list: rejected approaches,
 rollbacks, and incomplete evidence remain visible.
 
+## September 8 retrospective — stop means no further action
+
+A browser-automation experiment exposed two mistaken assumptions: a visible
+container was treated as an actionable purchase control, and a stop flag was
+treated as cancellation even while the routine continued. The repair checked
+the actual control, bound the click to its validated element, and awaited task
+cancellation. An unavailable product was subsequently rejected without purchase.
+
+The deeper lesson was outcome truthfulness. Uncertainty must be recorded before
+an external action, survive restart, and prevent automatic replay. Review caught
+a recovery path that incorrectly converted unknown into failed. Seven isolated
+tests covered unavailable controls, stale elements, cancellation boundaries,
+malformed receipts, and restart recovery. Desktop and phone refresh checks
+confirmed the stopped display. These are safety checks, not proof of successful
+real checkout: no purchase test was performed, URL aliases were not deduplicated,
+and already-dispatched actions could not be undone. Conservative availability
+checks could still produce false negatives.
+
 ## 1. Establish a local inference baseline
 
 The first objective was a stable local language-model endpoint with enough context for
