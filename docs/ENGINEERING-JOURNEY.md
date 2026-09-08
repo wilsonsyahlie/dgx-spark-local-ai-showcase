@@ -6,6 +6,11 @@ rollbacks, and incomplete evidence remain visible.
 
 ## September 8 retrospective — stop means no further action
 
+A later timing adjustment reinforced a reporting distinction: a configured pause
+after a check is not the same as measured refresh cadence. The setting was verified
+in the running process without starting purchase-capable monitoring. Challenge
+handling remained an explicitly unfinished capability.
+
 A later authorized checkout rehearsal revealed the opposite error: "almost sold
 out" was rejected as actual unavailability. Testing the available path corrected
 this conservative false negative. The rehearsal reached the payment-selection
