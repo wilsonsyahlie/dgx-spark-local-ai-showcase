@@ -6,6 +6,16 @@ rollbacks, and incomplete evidence remain visible.
 
 ## September 8 retrospective — stop means no further action
 
+Verification challenges later gained a durable human handoff. The system stops
+automation and lets a person interact only with a recognized challenge region;
+it neither solves nor bypasses challenges. Review found that persistence alone
+could deadlock recovery when the browser was gone. Separate recovery and clearance
+actions resolved that gap without automatically resuming work. Twenty tests
+covered bounded input, stale requests, cancellation, restart and small-screen
+interaction. Deployment was exercised with a local simulated challenge, not a
+real provider challenge or a purchase. Unknown challenge types remain paused;
+heuristic detection and manual interaction are not universal CAPTCHA support.
+
 A later timing adjustment reinforced a reporting distinction: a configured pause
 after a check is not the same as measured refresh cadence. The setting was verified
 in the running process without starting purchase-capable monitoring. Challenge
