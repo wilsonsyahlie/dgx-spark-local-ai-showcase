@@ -6,6 +6,14 @@ rollbacks, and incomplete evidence remain visible.
 
 ## September 8 retrospective — stop means no further action
 
+A later authorized checkout rehearsal revealed the opposite error: "almost sold
+out" was rejected as actual unavailability. Testing the available path corrected
+this conservative false negative. The rehearsal reached the payment-selection
+stage and observed the final-order control without activating it. A nonnative
+control needed an inspection-only reporting fallback; actual submission logic
+was not broadened. Eight tests passed, but neither a reported enabled state nor
+this rehearsal proves that an order would succeed. No order or payment was sent.
+
 A browser-automation experiment exposed two mistaken assumptions: a visible
 container was treated as an actionable purchase control, and a stop flag was
 treated as cancellation even while the routine continued. The repair checked
