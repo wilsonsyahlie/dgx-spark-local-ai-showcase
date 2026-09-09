@@ -192,3 +192,27 @@ mirrored here.
 ## Gravity sandbox retrospective
 
 The reviewed milestone contains 39 focused numerical, persistence, and history tests and ten browser scenarios covering visible controls, failed-save retry, corrupted-data refusal, competing tabs, duplicate actions, exact rewind, refresh, and phone-width layouts. Independent reviews and separate artifact/restart checks support those claims. Unsupported physics, bounded retention, browser-data loss, and unmeasured physical-device performance remain explicit. No deployable instructions, current topology, identifiers, paths, endpoints, raw logs, configuration, saved simulations, or backup artifacts are reproduced.
+
+## Ordinary-browser takeover: evidence and a retained live failure
+
+A combined 131-test suite passed with unchanged source hashes and disposable state.
+Local browser fixtures and policy tests covered responsive input, navigation and tab
+selection, held-input cleanup, exclusive ownership, stale/replayed requests, concurrent
+Stop and takeover, disconnect, natural expiry and bounded verification. Purchase
+fixtures covered explicit independent limits, final identity and amount checks,
+durable uncertainty and refusal to reset missing or truncated history. Notification
+fixtures used fake delivery receipts; the default external transport was never used.
+
+Desktop behavior was verified after activation. A live phone address-entry failure
+opened an unintended search and was retained as a failed run. Subsequent native
+fixtures and focused boundary tests qualified a bounded focus-acknowledgement repair;
+its follow-up deployed desktop check passed native input, held drag and fresh capture
+after closing the owned test tab, with saved settings unchanged and automation paused. The owner prioritized
+desktop use, so the live phone path is not repeated and physical-device behavior remains
+an explicit limit. One approved labelled synthetic
+notification received an adapter receipt and was not resent on the next observed
+worker cycle. Physical-device interaction, owner viewing, provider detection, real
+challenge clearance, checkout, orders and payments remain unproved. Clipboard
+transfer was not qualified. This account omits operating
+configuration, current topology, product links, identifiers, paths, endpoints, commands,
+private data and raw evidence.

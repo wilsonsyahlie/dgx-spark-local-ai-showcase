@@ -124,3 +124,23 @@ user contract.
   does not prove its deletion mechanism. Also test an authenticated page: generated cache indexes may
   outlive their files. Back up the database, use the service's supported consistency scan, regenerate
   rather than copy stale cache, and verify active user-file counts and bytes remain unchanged.
+
+### Human control and uncertain external actions
+
+- A moving image does not prove that a check completed or that the viewer owns input.
+  Give each fact its own evidence and state.
+- Grant human control only after durable pause and awaited cancellation. Complete old
+  input cleanup before admitting another owner; disconnect and verification never
+  imply permission to resume automation.
+- Framework-generated focus can be a false signal. Test real tab changes, reject
+  ambiguous selection and allow cancelled setup to recover.
+- Independent account limits need durable accounting. Commit uncertainty before an
+  external action, preserve it across interruption, and never recreate a used allowance
+  from missing history. A notification receipt follows the same rule: attempted and
+  acknowledged are different outcomes.
+- Connection and first paint do not acknowledge a completed native focus action. Wait
+  for an observed transition under the same owner and browser state; preserve unsent
+  text on failure and keep Stop available.
+- Record fixture validation separately from deployed usability and real external
+  outcomes. A labelled notification receipt does not prove owner viewing or provider
+  detection. Unsupported clipboard behavior should remain unavailable, not look ready.

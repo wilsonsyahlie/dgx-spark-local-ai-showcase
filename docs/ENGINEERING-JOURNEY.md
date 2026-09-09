@@ -804,3 +804,45 @@ directory. A fresh database backup and the service's supported application-data 
 removed the stale view. The next authenticated dashboard request regenerated the cache and returned
 success without a restart; active user-file count and bytes remained unchanged. Testing only the
 unauthenticated landing page would have missed this failure.
+
+## Human takeover needs real browser behavior and durable ownership
+
+A purchasing assistant exposed a mismatch between a picture of a browser and control
+of that browser. Its interface collected each drag and replayed it only after release,
+preventing feedback during the gesture. Image freshness also failed to explain whether
+a stock check had actually completed. The repair separated observed frames, completed
+checks, future work and explicit human pauses, and replaced the gesture imitation with
+ordinary interaction in an owned browser window.
+
+The difficult part was the ownership boundary. Automation had to be durably paused and
+fully cancelled before input was granted. Old input channels and held keys or buttons
+had to be released before a later owner could act. Disconnect, unused control grants
+and a verification check could never restart monitoring. A headed-browser experiment
+then showed that framework focus emulation made two tabs appear selected; restoring
+real focus and refusing ambiguity corrected that misleading signal. Cancellation and
+non-returning page checks needed recoverable, bounded paths as well.
+
+The same discipline constrained purchasing. Separate account policies required explicit
+quantity, order-count and spending limits. Final identity and total checks preceded the
+external action, and durable uncertainty consumed allowance before submission. A lost
+acknowledgement or missing used ledger could not become a new opportunity to spend.
+Notification records distinguished confirmed delivery from suppression, failure and
+unknown outcomes.
+
+Activation and desktop checks exposed a second lesson during a rapid phone test: an
+address lost its first character and opened an unintended search. The text had been
+sent once and in order; the native address bar had not finished gaining focus. Waiting
+for first paint alone still failed. A bounded acknowledgement of the actual focus
+transition corrected the reproduced race, while timeout and stale replies retained
+unsent text. A closed tab also needed capture-target recovery without guessing between
+several remaining tabs.
+
+Combined regression and focused desktop/phone fixtures passed. Follow-up deployed
+desktop checks then passed native input, held drag and fresh capture after closing
+the owned test tab, with saved settings preserved and automation paused. The owner prioritized desktop use,
+so a repeated live phone run is outside the final scope; physical-device behavior
+remains unverified. One approved labelled notification
+canary received a delivery receipt and was not resent on the next observed worker
+cycle. This does not prove owner viewing, provider challenge detection, real CAPTCHA
+clearance, checkout, orders or payments. Clipboard transfer remained disabled after
+its fixture failed to verify reliable behavior.
