@@ -303,3 +303,18 @@ Failed fixture starts, a content-policy-blocked harness and a mistaken restart-d
 remain recorded; read-only reconciliation established activation without repeating it. The earlier
 public-access result and its external-action limits are unchanged. Recovery requires a compatible
 credential reader and preservation of the registry rather than a reset.
+
+### Blank-browser recovery: deployed with bounded proof
+
+Focused before/after tests passed blank-page recovery, nonblank preservation, stopped/closed paths,
+stale requests and bounded failure with pause and uncertain outcomes intact. Existing worker API
+and exact image/runtime/served checks passed. Two rollout halts for lifecycle assumptions remained
+recorded; bounded continuation preserved private state and the full runtime security contract.
+
+Disposable encrypted identities exercised the actual deployed workers: useful homepages, fresh
+native frames, Stop/logout, peer isolation and protected-store preservation passed. The live run
+started browsers from off; focused tests cover the already-open-blank defect. Final automation
+stayed paused without a next check. A retained shutdown warning was reconciled with closed sockets
+and listener. Synthetic TLS/auth does not prove real public visitor authentication; public login-page
+reads were checked separately. Provider login, shopping, physical-device and reboot claims remain
+outside this evidence.

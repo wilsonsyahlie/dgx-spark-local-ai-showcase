@@ -990,3 +990,25 @@ activation check that overlooked an existing restart dependency were reconciled 
 the failed runs or repeating activation. No real person's credential was rotated for qualification.
 Recovery must preserve stored identities and use a release that understands chosen credentials,
 even without a schema change.
+
+### An open browser was not a recovered browser
+
+A recovery action reported success but left a blank tab untouched. An early return intended to
+protect existing pages also excluded blank pages from recovery navigation. The correction narrowed
+that condition, preserved nonblank pages and made failure bounded and actionable without clearing
+the durable pause. Guidance separated recovery, input ownership and permission to resume automation.
+
+Before/after regressions, existing interface-boundary tests and exact image checks passed. Rollout
+then exposed two assumptions: a nonzero process status despite completed application-shutdown logs,
+and creation-time metadata compared with a running security contract. Both halted attempts were
+retained. Bounded continuation preserved private state and required the unchanged security contract
+after startup; no security guard was weakened to make a comparison pass.
+
+Actual deployed workers then passed GUI recovery through disposable encrypted identities. Useful
+homepages and fresh native frames appeared; Stop and logout released ownership, peer isolation
+held and protected stores were unchanged. Browsers remained available with automation paused.
+The live sequence started browsers from off; the already-open-blank case was proved by focused
+regressions. Synthetic certificate trust and disposable identities were kept separate from public
+visitor authentication. A shutdown warning remained recorded alongside confirmed resource closure.
+No provider sign-in or shopping success was inferred. Recovery needs evidence of the promised
+content and state, beyond a live process or a successful acknowledgement.
