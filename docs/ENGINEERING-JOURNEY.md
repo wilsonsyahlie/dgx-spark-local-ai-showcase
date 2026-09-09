@@ -962,3 +962,31 @@ from an earlier failed run and a corrected browser remainder supplied the bounde
 failed full run was renamed a pass. Full-duration public expiry and real shopping actions remained
 unproved. The lesson was to give authorization, transport trust, access and observed usability
 their own evidence.
+
+### Choosing a code changed more than the form
+
+The owner next requested a personal choice of access code. Random generation remained available,
+while the optional choice used masked confirmation and a consistent length and character policy.
+Existing credentials and permanent profile ownership remained compatible.
+
+The security change extended beyond the verifier. A slow password hash does little good if a
+lookup key, retry fingerprint or rate-limit record offers a faster way to test the same guess.
+The chosen-code path derived these identifiers through a slow step too, with durable client
+limits enforced before that work. Collision handling, request identity and session invalidation
+remained atomic. A repeated completed request confirmed the saved outcome without issuing or
+revealing another secret.
+
+The form cleared secrets on close or exit and locked an uncertain submission for an exact retry.
+When that retry confirmed a chosen code was already saved, it no longer suggested replacing a
+value the owner knew. Authentication, interface and existing access-boundary fixtures passed.
+An isolated real-browser flow then passed creation, replacement, login and idle encrypted-stream
+revocation. Its worker transport was stubbed and its local certificate checks relaxed, so those
+results were kept distinct from public trust and native worker control.
+
+The deployed owner form passed normal public certificate validation, exact asset checks and both
+chosen-code dialogs. Cancelling left personal codes unchanged, and logout rejected old-session
+reuse. Protected state and worker processes were preserved. Retained fixture failures and an
+activation check that overlooked an existing restart dependency were reconciled without relabelling
+the failed runs or repeating activation. No real person's credential was rotated for qualification.
+Recovery must preserve stored identities and use a release that understands chosen credentials,
+even without a schema change.

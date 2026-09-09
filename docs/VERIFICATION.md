@@ -287,3 +287,19 @@ limit remains. Private fixture results have not been promoted to public proof.
 Publication validation also checks the actual resulting commit and supported private identity
 format before push, then reconfirms remote visibility and exact history. This retrospective
 contains no runtime credentials, current topology, identifiers or deployable instructions.
+
+### Chosen-code follow-up: deployed with bounded qualification
+
+Authentication tests passed chosen-code validation, random-code compatibility, slow-derived
+secondary identifiers, durable limits, atomic collisions, replay and session invalidation.
+Interface fixtures passed masked confirmation, cleanup, uncertain retry locks and truthful
+already-saved outcomes. Existing gateway, stream and transport regressions also passed.
+A disposable real-browser integration passed creation, replacement, login/site isolation and
+idle stream revocation with stubbed worker transport and relaxed local certificate checks.
+The deployed owner form separately passed normal public TLS, exact assets, both chosen-code
+dialogs and logout replay denial. Dialog cancellation changed no personal code; protected state
+and worker processes remained unchanged. No real person's access code was replaced for proof.
+Failed fixture starts, a content-policy-blocked harness and a mistaken restart-dependency assertion
+remain recorded; read-only reconciliation established activation without repeating it. The earlier
+public-access result and its external-action limits are unchanged. Recovery requires a compatible
+credential reader and preservation of the registry rather than a reset.

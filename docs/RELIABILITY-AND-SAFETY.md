@@ -181,3 +181,12 @@ user contract.
 - Inspect actual commit identity, parent and diff after creation and rerun checks before push.
   Support valid privacy-preserving identity formats without accepting a different account;
   a configuration setting alone does not prove the resulting commit's identity.
+
+### Do not give chosen credentials a faster guessing path
+
+- Protect secondary lookup, retry and rate-limit identifiers with the same slow-derivation
+  principle as the verifier. Apply durable client limits before expensive work.
+- Keep an uncertain submission and its request identity together. Confirm an already-applied
+  chosen value without revealing it again or implying that replacement is required.
+- Preserve credential-reader compatibility during recovery; an unchanged schema does not mean
+  an older release can authenticate newly supported credentials.
