@@ -260,3 +260,5 @@ login, challenge clearance, orders, payments, external notifications, physical d
 were unproved; persistent profile growth had no enforced disk quota. This retrospective omits
 current topology, addresses, account and resource identifiers, paths, commands, configuration,
 credentials, raw logs and private state.
+
+A check run after publication rejected a valid newer GitHub noreply format because its history matcher allowed only the legacy form; the matcher was updated to accept only the same approved username in either supported format, and checks were repeated after the corrective commits without rewriting history.

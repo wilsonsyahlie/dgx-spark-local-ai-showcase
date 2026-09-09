@@ -36,7 +36,7 @@ if git grep -I -E '(/home/|/Users/|[A-Za-z]:\\Users\\|wilsonsyah|wilsonsyahlie|W
   exit 1
 fi
 
-if git log --format='%ae%n%ce' | grep -Ev '^(wilsonsyahlie@users\.noreply\.github\.com)$' | grep -q .; then
+if git log --format='%ae%n%ce' | grep -Ev '^([0-9]+\+)?wilsonsyahlie@users\.noreply\.github\.com$' | grep -q .; then
   echo "non-noreply commit identity found" >&2
   exit 1
 fi
