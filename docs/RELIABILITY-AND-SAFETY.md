@@ -150,3 +150,23 @@ user contract.
 - Record fixture validation separately from deployed usability and real external
   outcomes. A labelled notification receipt does not prove owner viewing or provider
   detection. Unsupported clipboard behavior should remain unavailable, not look ready.
+
+### Revocation must outlive a blocked cleanup task
+
+- Authenticate both directions of a long-lived stream, and enforce expiry independently of
+  potentially slow cleanup. A pending cleanup result never extends a revoked capability.
+- Bind a person permanently to their saved workspace. Retrying a code-issuance operation
+  must preserve its outcome without redisclosing the secret or allocating another identity.
+- A safe Start needs the complete approved configuration; a safe Stop needs the exact owned
+  resource. Reusing every startup check for shutdown can prevent containment after drift.
+- Check the full network attachment set and the actual service identity's directory traversal.
+  Restore only wholly missing owned protections; reject partial or changed controls without
+  silently repairing them. Keep private qualification distinct from public exposure and real
+  external-action proof.
+
+- Reject insecure mutations before consuming their bodies, trust transport claims only at the
+  intended ingress boundary and preserve redirect path semantics under a fixed authority.
+  Local encrypted fixtures with relaxed certificate checks do not prove public certificate trust.
+- Composite evidence can establish a bounded result without turning a failed full-run closeout
+  into a pass. Identify the later cleanup and restart checks, preserve fixture failures, and
+  distinguish an observed diagnostic race from an application repair.

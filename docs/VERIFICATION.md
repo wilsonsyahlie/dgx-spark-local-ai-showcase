@@ -232,3 +232,31 @@ reload and stale responses. Deployed timing views and reload checks passed after
 read-only reconciliation verified exact artifacts and unchanged durable data,
 while explaining the expected transient startup status reset. Fixture timing does not certify provider cadence, challenge reduction
 or real orders; page loading still adds time.
+
+## Personal-browser access: a bounded private milestone
+
+Focused authentication, interface and request-boundary checks passed with disposable identities.
+Independent stream regressions reproduced the original post-revocation disclosure and then
+verified denial on both stream paths, expiry enforcement during blocked cleanup, valid-session
+preservation and bounded channel closure. Separate guard probes covered additional networks,
+shutdown despite startup drift, replacement-resource refusal, and absent versus partial or
+changed firewall state. Private deployment also exercised native interaction, negative network
+routes and DNS at their recorded layers; a parent-permission staging failure was retained and
+corrected before first authentication-state initialization.
+
+Actual encrypted browser sessions then passed native typing and held drag, held-input release
+on code replacement or revocation, idle expiry, logout and private-view clearing. Controlled
+worker restarts preserved state and profile bytes and permissions. The activated gateway
+preserved a session across restart and denied replay after logout. These claims use composite
+evidence: a full run passed its behavioral assertions but failed closeout, followed by successful
+bounded cleanup and separate restart checks. Harness failures and a diagnostic readback race
+remain distinguished from product repairs.
+
+Seven focused transport tests and ten independent checks passed, including rejection of insecure
+mutation bodies, fixed trusted ingress and corrected encoded redirect suffixes. Local certificate
+validation was deliberately relaxed; no public certificate or edge-request proof is inferred.
+Public activation and account authorization remained unfinished at this milestone. Provider
+login, challenge clearance, orders, payments, external notifications, physical devices and reboot
+were unproved; persistent profile growth had no enforced disk quota. This retrospective omits
+current topology, addresses, account and resource identifiers, paths, commands, configuration,
+credentials, raw logs and private state.

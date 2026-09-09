@@ -881,3 +881,52 @@ confused transient startup status with durable state; independent read-only
 reconciliation verified the expected status reset and unchanged saved data,
 without another restart or restore. The failed assertion remains recorded. Loading time is additional, and variable timing does
 not establish fewer provider challenges or successful external actions.
+
+## Personal access needs an independent revocation boundary
+
+A personal-browser portal began with a deceptively simple request: give each person a code
+and their own saved browser. The important design decision was permanent ownership. Replacing
+or revoking access could not turn an old shopping profile into somebody else's workspace.
+Strong random codes, salted verification, durable failed-login budgets and server-side session
+expiry established that boundary. A successful login by another user could not reset an
+attacker's accumulated failures. One active session could support ordinary multiple tabs.
+
+Code-management retries required their own rule. If the initial response containing a new reusable code
+was lost, retrying the same request had to report that it had already applied without revealing
+or issuing another code. Revocation invalidated access immediately and recorded cleanup durably.
+Reactivation retained the same identity and waited for its prior Stop to finish.
+
+Adversarial review then found a gap between authentication and a live connection. The original
+stream could continue delivering frames after session invalidation, while a slow cleanup action
+held up periodic session enforcement. Tests reproduced the disclosure on both stream paths.
+The correction checked authorization before each frame and gave expiry enforcement an
+independent task. Failed cleanup remained pending, valid users stayed connected, and closing
+one side of a stream could not indefinitely delay closing the other.
+
+Containment also needed to survive startup. A configuration fingerprint initially missed an
+extra network attachment. Another shared validation path refused Stop when startup settings
+had drifted, leaving the exact resource that needed stopping untouched. The revised checks
+required the full approved network set for Start, while Stop relied on exact retained identity
+and ownership. Wholly missing owned firewall rules could be restored; partial or changed rules
+were refused rather than overwritten. Private staging exposed a separate permissions lesson:
+secure file modes are insufficient when the service cannot traverse a required parent directory.
+
+Private qualification passed with actual encrypted browser sessions, native typing and held
+drag, held-key release after code replacement, held-button release after revocation, idle expiry,
+logout and private-view clearing. Controlled restarts preserved saved state and profile bytes
+and permissions, while session survival and later logout rejection were checked separately.
+The evidence was composite: the original full run passed its behavioral assertions but failed
+closeout; bounded cleanup and separate restart checks completed the result. Fixture failures
+and a diagnostic readback race remained recorded rather than becoming invented product fixes.
+
+A separate transport review rejected insecure mutations before reading their bodies and trusted
+forwarded transport only at a verified ingress boundary. It also corrected encoded path suffixes
+lost during redirect construction; the destination authority had remained fixed. Focused and
+independent tests passed, but local encrypted tests with relaxed certificate validation did not
+prove public certificate trust.
+
+Public activation remained unfinished at this milestone, awaiting account authorization and
+actual edge evidence. Provider login, challenge clearance, purchases, payments, external
+notifications, a machine reboot and physical-device behavior were not qualified. Persistent
+profile growth had no disk quota. The useful result was a separation of identity,
+input ownership, cleanup and external-action evidence that remained explicit when one part failed.
