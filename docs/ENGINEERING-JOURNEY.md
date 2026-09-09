@@ -797,3 +797,10 @@ database and cache were healthy, and natural scheduled work resumed. Repair comm
 only the three controls; the resumed retention task then removed two already-trashed items
 while active files remained unchanged. The exact control-file removal mechanism is unknown,
 which is recorded as a limit rather than replaced with a convenient storage-migration story.
+
+The operator's first authenticated dashboard exposed a second stage: a generated application-data
+index still claimed that three JavaScript cache files existed, while storage did not contain their
+directory. A fresh database backup and the service's supported application-data consistency scan
+removed the stale view. The next authenticated dashboard request regenerated the cache and returned
+success without a restart; active user-file count and bytes remained unchanged. Testing only the
+unauthenticated landing page would have missed this failure.

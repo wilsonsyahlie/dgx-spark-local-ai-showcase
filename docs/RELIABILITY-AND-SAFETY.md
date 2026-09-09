@@ -121,4 +121,6 @@ user contract.
 - Generated data-root controls are an ordered safety set. Restore access-denial and index protections
   before an availability marker, publish without overwrite, probe direct data routes for byte exposure,
   and observe a natural scheduled run. Availability alone does not prove protection, and file absence
-  does not prove its deletion mechanism.
+  does not prove its deletion mechanism. Also test an authenticated page: generated cache indexes may
+  outlive their files. Back up the database, use the service's supported consistency scan, regenerate
+  rather than copy stale cache, and verify active user-file counts and bytes remain unchanged.
