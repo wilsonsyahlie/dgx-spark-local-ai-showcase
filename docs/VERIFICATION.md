@@ -187,3 +187,8 @@ mirrored here.
 - [x] Records per-request tool-vocabulary validation, full mixed-call withholding, one bounded safe
       regeneration, no duplicate hosted-search retry, and an output-drain backstop against false exit-zero
       success, with focused and natural artifact evidence and no production implementation details.
+
+
+## Gravity sandbox retrospective
+
+The reviewed milestone contains 39 focused numerical, persistence, and history tests and ten browser scenarios covering visible controls, failed-save retry, corrupted-data refusal, competing tabs, duplicate actions, exact rewind, refresh, and phone-width layouts. Independent reviews and separate artifact/restart checks support those claims. Unsupported physics, bounded retention, browser-data loss, and unmeasured physical-device performance remain explicit. No deployable instructions, current topology, identifiers, paths, endpoints, raw logs, configuration, saved simulations, or backup artifacts are reproduced.

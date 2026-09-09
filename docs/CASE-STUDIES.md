@@ -572,3 +572,12 @@ A runner-level backstop also waits for complete output and turns the exact route
 Review-driven tests covered real schema shape, mixed call order, delayed errors, retention limits, and
 bounded retry construction; a harmless natural build then verified the normal path. A successful process
 status is evidence, not authority, when the surrounding protocol has already proved failure.
+
+
+## Recoverability behind an orbital sandbox
+
+A plausible animation can hide incorrect state ownership. In an orbital sandbox, a database write request could succeed before commit, a delayed calculation could belong to a previous universe, and a hovered editor could retain coordinates from an older instant.
+
+The implementation waited for transaction completion, compared revisions inside the write, rejected late work by its owning generation, and fetched current body values when editing began. Removed universes stayed recoverable and rejected late saves. Complete recorded snapshots made rewind independent of reverse integration.
+
+Tests connected these boundaries to visible recovery: aborted and failed writes retained committed state, competing tabs could not silently overwrite it, removal did not create an unsolicited replacement, and a name-only edit preserved current coordinates. The lesson was to verify the user's recoverable state after an action or failure, rather than infer durability from the rendered scene.

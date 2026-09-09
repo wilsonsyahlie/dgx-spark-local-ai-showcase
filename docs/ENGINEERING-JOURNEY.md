@@ -4,6 +4,14 @@ This chronology reconstructs the genuine milestone sequence from the private pro
 record. It is intentionally more candid than a feature list: rejected approaches,
 rollbacks, and incomplete evidence remain visible.
 
+## September 9 retrospective — a universe that can be recovered
+
+A three-dimensional orbital sandbox let the user edit celestial bodies, control time, revisit recorded states, and keep separate named universes. Its scientific boundary stayed explicit: Newtonian gravity drove motion, physical radii controlled contact, and enlarged display sizes only made objects visible. Black-hole effects were limited approximations, with unsupported conditions stopped visibly.
+
+The subtle engineering problem was continuity. Physics work, autosave, rewind, an inspector, and a second browser tab could disagree about which state should survive. Transactional revision checks prevented stale overwrites, save acknowledgements waited for commit, and recoverable removal rejected late writes. Review caught a removal recovery trap, a history index that could shift at its cap, and an editor that could restore stale coordinates after the simulation advanced. Tests verified the corrected action boundaries.
+
+Thirty-nine focused tests and ten browser scenarios covered numerical behavior, failed writes, corruption, competing tabs, duplicate actions, rewind, refresh, and phone-width controls. The served artifact and restart path were verified separately. Browser data remained a local collection rather than a backup or synchronization service; finite history was not unlimited time travel, and illustrative lensing was not general relativity. Automated checks did not establish performance on a physical gaming desktop.
+
 ## September 8 retrospective — stop means no further action
 
 Verification challenges later gained a durable human handoff. The system stops
