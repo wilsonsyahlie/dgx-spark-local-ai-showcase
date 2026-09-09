@@ -4,6 +4,24 @@ This chronology reconstructs the genuine milestone sequence from the private pro
 record. It is intentionally more candid than a feature list: rejected approaches,
 rollbacks, and incomplete evidence remain visible.
 
+## September 9 retrospective — a selector is a consistency contract
+
+A local coding-model picker showed fewer choices than the model controller had already
+accepted. The models were present and had passed the controller's concrete compatibility
+checks, but two downstream discovery layers maintained their own shorter lists and treated
+provenance as eligibility. No catalog-visible artifact failure explained the omission; the
+views of the inventory had drifted apart.
+
+The repair aligned the controller, routing layer, and client catalog to one exact set, then
+restarted only the affected discovery path. Source validation, uniqueness checks, live router
+inventory, and a fresh client catalog all agreed on eleven visible choices. The running model,
+resource policy, and separate local and subscription-backed profiles were left unchanged.
+
+This proves that the choices can be discovered, not that every model is qualified for every
+agent workload. The newly visible entries were not force-loaded during the repair. The lasting
+lesson is to test selector completeness as set equality and reserve runtime claims for separate
+load, inference, and tool-use evidence.
+
 ## September 9 retrospective — a universe that can be recovered
 
 A three-dimensional orbital sandbox let the user edit celestial bodies, control time, revisit recorded states, and keep separate named universes. Its scientific boundary stayed explicit: Newtonian gravity drove motion, physical radii controlled contact, and enlarged display sizes only made objects visible. Black-hole effects were limited approximations, with unsupported conditions stopped visibly.

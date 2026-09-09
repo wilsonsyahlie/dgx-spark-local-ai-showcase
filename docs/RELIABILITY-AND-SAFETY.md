@@ -115,3 +115,6 @@ user contract.
 - Unified-memory dashboards must distinguish system availability, reusable cache, service footprints, and
   accelerator allocations. Never add overlapping service/GPU readings or turn failed attribution into zero;
   show both sources, use one explicit estimate, and verify it during a real memory-heavy workload.
+- Model availability in a user interface should be derived from the same compatibility contract as the
+  serving controller. Compare complete identifier sets across discovery layers, avoid using provenance as
+  an eligibility shortcut, and keep selector visibility separate from actual load and tool-use qualification.
