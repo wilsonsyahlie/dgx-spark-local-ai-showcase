@@ -2,6 +2,11 @@
 
 ## Public-snapshot checks
 
+- [x] The work-ingestion recovery records exact route matching, connect-before-acquire
+      ordering, authority-policy alignment, proof-gated reconciliation, scoped progress,
+      and the retained post-send ambiguity limit without publishing current topology,
+      paths, endpoints, identifiers, raw state, or deployable controls.
+
 - [x] Required overview, architecture, journey, case-study, safety, and verification documents exist.
 - [x] Relative documentation links resolve.
 - [x] No production configuration, credentials, private content, paths, endpoints, raw logs, databases, backups, model artifacts, or identifiers are included.

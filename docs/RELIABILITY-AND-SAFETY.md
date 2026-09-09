@@ -90,6 +90,12 @@ user contract.
   additional feasibility from a lease that is already admitted.
 - Client EOF is a cancellation trigger, not completion proof. Bind cancellation to an
   exact backend identity and require verified absence before releasing admission.
+- Establish the upstream transport before acquiring protected inference admission, and
+  exempt metadata only by exact method-and-path identity. Otherwise connection failures
+  and prefix lookalikes can create debt or bypass the intended boundary.
+- A controller must consume the admission authority's live policy rather than inventing
+  a second capacity interpretation. Keep debt visible under operator-managed policy, but
+  fail closed when the policy itself cannot be verified.
 - Fluent meeting prose is not evidence fidelity. Map each substantive sentence to the
   source, avoid padding, separate decisions from assigned actions, and keep human review
   for important client-facing output.

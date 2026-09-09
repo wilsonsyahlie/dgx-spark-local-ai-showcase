@@ -1,5 +1,24 @@
 # Engineering journey
 
+## Work-only ingestion recovered from admission debt
+
+A local work-document pipeline became unable to resume after ambiguous inference leases
+accumulated. The first important distinction was policy: the admission authority was
+deliberately operator-managed, but the ingest controller independently applied an
+automatic-capacity interpretation. Most reservations also came from metadata traffic or
+failed connections rather than useful inference.
+
+The repair moved protected admission until after transport establishment, replaced route
+prefix exemptions with exact method-and-path matching, and made Resume consume the live
+authority policy. Unknown policy evidence still fails closed, and any request sent to the
+model remains quarantined until completion or exact cancellation is proved. Recovery used
+authenticated, exact reconciliation only after independent idle evidence.
+
+Focused tests exercised refusal, resets, disconnects, exact routing, policy mismatch, and
+unavailable authority. The deployed workflow then advanced only the work scope while
+personal scopes stayed paused. The retained limit matters: genuinely ambiguous work can
+still create debt, so recovery remains proof-gated rather than automatic.
+
 This chronology reconstructs the genuine milestone sequence from the private project
 record. It is intentionally more candid than a feature list: rejected approaches,
 rollbacks, and incomplete evidence remain visible.
