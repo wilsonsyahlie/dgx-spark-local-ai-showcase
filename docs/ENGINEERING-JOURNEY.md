@@ -781,3 +781,19 @@ model footprint while the accelerator process feed showed only a small currently
 dashboard now shows both readings and uses the larger estimate once rather than adding overlapping values.
 Responsive browser checks and live workload correlation mattered here; synthetic idle readings alone would
 not have exposed the undercount. Available memory remains the safest capacity-planning signal.
+
+## Restoring availability without opening the data path
+
+A self-hosted private file service later failed closed because its generated data-root marker
+had disappeared. User content and the database were still present, but inspection found that
+two sibling web-protection files were gone as well. Restoring only the marker would have made
+the application available before proving that its data directory was denied to direct requests.
+
+The repair therefore treated the three controls as one ordered safety set. A preserved copy was
+validated against the installed server code, configuration and database state were backed up,
+and the access-denial and empty-index files were published atomically before the availability
+marker. The service recovered without a restart. Direct data requests disclosed no bytes, the
+database and cache were healthy, and natural scheduled work resumed. Repair commands added
+only the three controls; the resumed retention task then removed two already-trashed items
+while active files remained unchanged. The exact control-file removal mechanism is unknown,
+which is recorded as a limit rather than replaced with a convenient storage-migration story.

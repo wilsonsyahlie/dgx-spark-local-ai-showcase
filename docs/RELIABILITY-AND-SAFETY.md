@@ -118,3 +118,7 @@ user contract.
 - Model availability in a user interface should be derived from the same compatibility contract as the
   serving controller. Compare complete identifier sets across discovery layers, avoid using provenance as
   an eligibility shortcut, and keep selector visibility separate from actual load and tool-use qualification.
+- Generated data-root controls are an ordered safety set. Restore access-denial and index protections
+  before an availability marker, publish without overwrite, probe direct data routes for byte exposure,
+  and observe a natural scheduled run. Availability alone does not prove protection, and file absence
+  does not prove its deletion mechanism.
