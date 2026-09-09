@@ -930,3 +930,35 @@ actual edge evidence. Provider login, challenge clearance, purchases, payments, 
 notifications, a machine reboot and physical-device behavior were not qualified. Persistent
 profile growth had no disk quota. The useful result was a separation of identity,
 input ownership, cleanup and external-action evidence that remained explicit when one part failed.
+
+### Public access required a separate acceptance step
+
+A later phase qualified public access to the previously private browser portal. The
+first authorization handoff expired, and inspection showed that an apparent success was
+still an unsubmitted selection. A fresh explicit authorization completed the setup step;
+neither the earlier message nor the resulting credential was treated as deployment proof.
+
+The design separated broad administrative authorization from a scoped runtime connection
+credential. Fixed destinations and a rejecting default preserved the application's permanent
+user-to-profile binding. Transport enforcement had to be active and verified before the
+connector could expose anything. Earlier encrypted fixtures with relaxed certificate checks
+could not stand in for normal public certificate and browser validation.
+
+Configuration and independent design checks passed. Activation stayed paused after automatic
+approval review and proceeded only after explicit owner approval of the concrete public action.
+The protected gateway was verified before the scoped connector started. Real edge checks then
+passed normal certificate validation, name resolution, private-content and socket denial, and
+rejection of forged transport claims. Previously existing tunnels remained present.
+
+Actual authenticated dashboards passed login, refresh and artifact checks. Native browser streams
+showed real blank pixels; Stop released input ownership, and logout closed streams, cleared stale
+views and denied old-session reuse. Protected stores and source remained unchanged. This completed
+the public-access stage left pending in the earlier milestone.
+
+The result remained composite. Retained harness failures included response-header case, process-list
+assumptions, a lost login response during navigation and confusing a live browser with active
+monitoring. Supported recovery retained the same person and profile. Successful boundary assertions
+from an earlier failed run and a corrected browser remainder supplied the bounded evidence; no
+failed full run was renamed a pass. Full-duration public expiry and real shopping actions remained
+unproved. The lesson was to give authorization, transport trust, access and observed usability
+their own evidence.

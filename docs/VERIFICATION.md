@@ -262,3 +262,28 @@ current topology, addresses, account and resource identifiers, paths, commands, 
 credentials, raw logs and private state.
 
 A check run after publication rejected a valid newer GitHub noreply format because its history matcher allowed only the legacy form; the matcher was updated to accept only the same approved username in either supported format, and checks were repeated after the corrective commits without rewriting history.
+
+### Public-access follow-up: qualified
+
+The authorization retry and corrected interpretation of the earlier incomplete handoff were
+recorded. Native configuration and route-selection checks and two independent design reviews
+passed. Explicit owner approval resolved the activation pauses. Actual gateway enforcement was
+verified before the scoped connector started, and real edge checks passed ordinary trusted
+certificates, name resolution, private-content/socket denial and transport-spoof rejection.
+Actual authenticated dashboards then passed login, refresh and artifact checks; native browser
+streams delivered real blank pixels. Stop released ownership, and logout closed idle streams,
+cleared stale views and rejected old-session HTTP/WebSocket reuse. Protected stores and source
+were unchanged, with no browser JavaScript errors. Browsers remained available while automation
+stayed paused without a future check.
+
+This completes the earlier milestone's pending public-access stage using composite evidence:
+core access assertions passed in a retained failed run, and the corrected remainder passed the
+browser/Stop/logout assertions. Header lookup, process-list assumptions, login-response navigation
+and browser-liveness assertions remain documented harness failures. Supported session recovery
+retained the same identity/profile. Full-duration public expiry, shopping-provider actions,
+payments, notifications, physical devices and reboot are not claimed; the prior profile disk-quota
+limit remains. Private fixture results have not been promoted to public proof.
+
+Publication validation also checks the actual resulting commit and supported private identity
+format before push, then reconfirms remote visibility and exact history. This retrospective
+contains no runtime credentials, current topology, identifiers or deployable instructions.

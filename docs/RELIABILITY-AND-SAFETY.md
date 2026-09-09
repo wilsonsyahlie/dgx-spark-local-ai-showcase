@@ -170,3 +170,14 @@ user contract.
 - Composite evidence can establish a bounded result without turning a failed full-run closeout
   into a pass. Identify the later cleanup and restart checks, preserve fixture failures, and
   distinguish an observed diagnostic race from an application repair.
+
+### Verify the result of exposure and publication
+
+- Keep administrative authorization separate from the runtime's scoped credential. Activate
+  application transport enforcement before its public connector and reject destinations outside
+  the intended boundary. Authorization success is not evidence of public usability.
+- Test actual public certificates, authenticated streams and unauthenticated denial separately
+  from private fixtures. Preserve saved identities and uncertain actions during recovery.
+- Inspect actual commit identity, parent and diff after creation and rerun checks before push.
+  Support valid privacy-preserving identity formats without accepting a different account;
+  a configuration setting alone does not prove the resulting commit's identity.
