@@ -846,3 +846,19 @@ canary received a delivery receipt and was not resent on the next observed worke
 cycle. This does not prove owner viewing, provider challenge detection, real CAPTCHA
 clearance, checkout, orders or payments. Clipboard transfer remained disabled after
 its fixture failed to verify reliable behavior.
+
+### Random timing must preserve the meaning of a schedule
+
+A later request replaced a fixed pause with a small discrete random range. The
+nominal setting stayed unchanged; only each healthy baseline wait was sampled.
+Separate random generators prevented shared sequences, while error backoff and
+retry minima retained their existing state. The interface showed the configured
+range separately from the actual next deadline. An out-of-range preview was
+corrected before qualification.
+
+Focused backend and local interface checks passed, including natural fixture
+waits, cancellation, save/retry behavior and stale responses. Deployed timing views and reload checks passed after restart. An assertion
+confused transient startup status with durable state; independent read-only
+reconciliation verified the expected status reset and unchanged saved data,
+without another restart or restore. The failed assertion remains recorded. Loading time is additional, and variable timing does
+not establish fewer provider challenges or successful external actions.

@@ -216,3 +216,14 @@ challenge clearance, checkout, orders and payments remain unproved. Clipboard
 transfer was not qualified. This account omits operating
 configuration, current topology, product links, identifiers, paths, endpoints, commands,
 private data and raw evidence.
+
+### Random timing follow-up — verified
+
+The separate timing extension passed 35 focused backend/lifecycle tests and 22
+local interface checks with unchanged source. Evidence covers discrete inclusive
+bounds, independent/repeated draws, unchanged recovery minima, natural fixture
+waits, deadline identity, cancellation, invalid previews, save failure/retry,
+reload and stale responses. Deployed timing views and reload checks passed after restart. Independent
+read-only reconciliation verified exact artifacts and unchanged durable data,
+while explaining the expected transient startup status reset. Fixture timing does not certify provider cadence, challenge reduction
+or real orders; page loading still adds time.
