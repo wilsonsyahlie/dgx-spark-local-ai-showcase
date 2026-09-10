@@ -1012,3 +1012,56 @@ regressions. Synthetic certificate trust and disposable identities were kept sep
 visitor authentication. A shutdown warning remained recorded alongside confirmed resource closure.
 No provider sign-in or shopping success was inferred. Recovery needs evidence of the promised
 content and state, beyond a live process or a successful acknowledgement.
+
+### Preserving a classic game across a browser boundary
+
+A bounded recreation of a classic side-scrolling town brought original maps,
+interface art, character actions and audio into a browser, with a nearby hunting
+area and saved characters. Players chose their class immediately; a later scope
+reduction removed quests while retaining saved history. Asset metadata, original
+encoded audio, decoded samples and playable scenes supplied different checks of
+fidelity. Each qualified build was associated with its corresponding program source.
+
+Real interaction exposed defects that compilation missed. Asset loading could
+interrupt input handling and leave an attack held after release; preserving event
+order repaired that reproduced behavior. A coordinate mismatch explained why visible
+controls responded only to clicks above them. Legacy interface origins and basic
+attack classification needed separate corrections. Nine starting attacks then produced
+authoritative damage and original sounds. Natural leveling played one original
+level-up effect, and the earned progression was retained on rejoin. A genuine native
+focus change released held movement and muted both audio gains; returning focus
+restored them while the same original music source continued without restarting.
+
+Private multiplayer qualification covered two browsers exchanging chat, forming a
+party, sharing earned experience and completing a trade. The paired durable result
+conserved items and survived reconnect. Ten sessions remained admitted together,
+another was refused, and cleanup released every slot. These bounded private checks
+preceded an initial public qualification with one ordinary player. Source
+correspondence and privacy received independent review; original game assets and
+private player or configuration data were excluded from the program-source package.
+
+Deployment checks also failed in useful ways. Serialization changed mapping order,
+optional image fields were absent, and some runtime metadata changed representation
+between creation and startup. Narrow corrections were tested against valid defaults
+and real drift; partial operations and failed journals were preserved through
+reviewed continuations. An initially missed sibling field prompted a check of the
+complete pinned image set. A mistaken probe invocation also generated Python cache
+data among sealed inputs. Validation refused it; preserving that cache separately
+restored the original input set without a production change. A delivery provider
+inserted an analytics tag into the page. Exact application content was recovered by
+accounting for only that known addition, while the existing content security policy
+stayed unchanged. A real browser
+recorded the blocked script attempt with no third-party response or transferred
+script body. The source download still matched exactly.
+
+The first public registration attempt used a reserved name and was correctly refused;
+only the qualification input changed. A later reconnect passed protocol and saved-state
+checks while its screenshot still showed loading artwork. A bounded passive pixel
+check then measured the town appearing several seconds after the map-entry event,
+closing the visual evidence gap without a game change. The ordinary public character
+entered the original town, played its original music and saved a potion use. After a
+manual full service stop and start, visible rejoin restored the same permanent state,
+with inventory and skills working. The installed service then passed its managed
+stop/start cycle and another visible rejoin with the same saved state. Earlier
+failed name, focus, connectivity and rendering observations remain recorded
+alongside the successful evidence.

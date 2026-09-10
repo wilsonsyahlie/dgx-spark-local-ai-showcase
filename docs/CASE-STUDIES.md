@@ -581,3 +581,20 @@ A plausible animation can hide incorrect state ownership. In an orbital sandbox,
 The implementation waited for transaction completion, compared revisions inside the write, rejected late work by its owning generation, and fetched current body values when editing began. Removed universes stayed recoverable and rejected late saves. Complete recorded snapshots made rewind independent of reverse integration.
 
 Tests connected these boundaries to visible recovery: aborted and failed writes retained committed state, competing tabs could not silently overwrite it, removal did not create an unsolicited replacement, and a name-only edit preserved current coordinates. The lesson was to verify the user's recoverable state after an action or failure, rather than infer durability from the rendered scene.
+
+## Recognizable pixels cannot prove a saved world
+
+A classic game could look correct while a released attack remained active, a click
+missed its visible control or a skill effect produced no authoritative damage.
+Conversely, an authenticated map-entry event could arrive before the first visible
+world frame. Small reproductions and real screenshots separated these claims.
+Original music required matched content and actual output; focus muting required
+measured gains and uninterrupted source continuity.
+
+Recovery required the same discipline. A trade needed conserved inventory after
+reconnect, and service restart needed comparison with saved state captured before
+the stop. A successful create command could still leave a failed validation step.
+Retaining exact partial state allowed a narrow continuation without pretending the
+earlier action had succeeded. Checking optional metadata across all selected images
+prevented repeating an initially missed sibling case. Fidelity, authority, visible
+readiness and recoverability each needed their own evidence.

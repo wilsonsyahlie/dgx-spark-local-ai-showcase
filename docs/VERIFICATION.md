@@ -318,3 +318,28 @@ stayed paused without a next check. A retained shutdown warning was reconciled w
 and listener. Synthetic TLS/auth does not prove real public visitor authentication; public login-page
 reads were checked separately. Provider login, shopping, physical-device and reboot claims remain
 outside this evidence.
+
+## Classic browser game: bounded public and private evidence
+
+Private qualification covered four immediate classes, nine authoritative attacks
+with original audio, natural leveling, shops and potions, chat, parties, shared
+experience, durable paired trade and reconnect. Ten concurrent admitted sessions
+and one additional refusal established the bounded capacity case. Native focus
+verified held-key release, real gain changes and continuous original music.
+Connection failure, retry and refresh preserved progress. Source comparisons carried
+unchanged behavior across the final no-quest revision while retaining saved history.
+
+Public qualification used one ordinary player over trusted encrypted connections.
+Original town rendering and music output passed, a normal potion change persisted,
+and both manual and installed-service stop/start cycles were followed by visible
+rejoin with unchanged permanent state. The provider's known page addition was
+measured, its script was blocked by the
+unchanged policy, and exact application and source-download content were verified.
+The earlier protocol-only reconnect was kept visually unaccepted; a bounded HUD
+observation closed that gap.
+
+The evidence does not cover physical-speaker listening, broad device or geographic
+friend testing, prolonged load, exhaustive gameplay tours, statistical drop rates,
+rebuilding the downloaded source or machine reboot. Original asset provenance does
+not itself grant redistribution rights. This account describes measured outcomes
+and retained limits rather than a deployable setup guide.
