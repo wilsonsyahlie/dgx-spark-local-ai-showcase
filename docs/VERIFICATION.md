@@ -364,3 +364,25 @@ remained samples, while model controls and the broader redesign stayed outside t
 No model action, inference, external message, reboot, restore or deletion was performed.
 Physical-phone use, machine reboot and long-duration outages were not proved. Backup and
 recovery artifacts remained private; this retrospective contains no deployable instructions.
+
+### Quiet background updates — qualified presentation correction
+
+Focused browser checks passed quiet healthy rendering, bounded ordinary polling and initial
+follow-up, hidden pause/return, future stale deadlines, partial failure, timeouts, retries,
+late responses and access-denial recovery. Review caught and corrected a render-cache reset
+bug before activation; identical-data recovery and positive category counts passed afterward.
+Earlier empty-content geometry checks were superseded. Independent immediate/delayed Retry
+cases found no hidden focus and visible keyboard continuation; an exact-destination assertion
+was a separate fixture assumption, requiring no product change.
+
+Actual activated-browser checks passed natural observation changes, source agreement, quiet
+healthy state, disclosure, reload, appearance and phone geometry. Independent post-activation
+review matched the exact HTML and unchanged process/backend artifacts. Failure-path fixtures
+remain distinct from the healthy live run. Maintained records matched their mounted copies.
+No backend restart or rollback was exercised by this HTML-only correction.
+
+The pre-change cost sample did not isolate incremental overhead or measure remote/browser CPU,
+transient child memory, energy or long-duration cost. Physical devices, reboot and prolonged
+real outages remain unproved. Existing sample-data and control limits are retained; the bounded
+quiet-refresh result does not establish broader redesign completion. Recovery artifacts remain
+private and the retrospective contains no deployable instructions.

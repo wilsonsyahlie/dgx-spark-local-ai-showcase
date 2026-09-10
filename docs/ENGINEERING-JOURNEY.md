@@ -1095,3 +1095,31 @@ Live hardware did not establish complete usage accounting or realized savings, a
 redesign and model controls remained separate work. Physical phone hardware, machine reboot and
 long-duration outages were not tested. This was a qualified measurement change, with protected
 backups and targeted recovery, rather than a claim that every preview function was complete.
+
+## Quiet background updates without hiding failures
+
+After hardware readings became live, ticking ages and repeated healthy-state controls competed
+with the values people wanted to read. The correction made routine refresh quiet while keeping
+actionable stale/unavailable notices and retry. Hidden views paused, unchanged values avoided
+redraw, and bounded future deadlines replaced second-by-second freshness narration. Established
+source collection intervals and authorization remained intact.
+
+A short pre-change cost sample supported retaining those intervals. It measured cached response
+latency and local process activity, with no idle comparison isolating incremental polling cost.
+Browser and remote CPU were unmeasured. Removing visible chatter was not presented as a measured
+end-to-end performance improvement.
+
+Review exposed a real optimization bug: denied access cleared the screen without resetting the
+render cache, so identical data stayed hidden after recovery. Routing clears through the same
+render path fixed it. Positive content assertions then replaced misleading geometry evidence
+from empty placeholders. A separate focus test expected one exact destination after Retry;
+independent timing cases showed valid native blur differences, no hidden focus and a visible
+next keyboard target. That fixture issue required no product change.
+
+Focused browser checks, actual natural refreshes and independent post-activation review passed.
+The final served artifact matched the reviewed HTML, while the existing process and backend
+code remained unchanged. Source agreement, retained details, reload, appearance and phone-sized
+layouts passed. Backups and targeted HTML recovery were preserved without a restart or rollback
+exercise. Physical phones, machine reboot, prolonged outages and long-duration cost were not
+qualified. Sample usage, cost, history, service-health examples and model controls remained
+illustrative; this completed the quiet-refresh correction, not the broader production redesign.

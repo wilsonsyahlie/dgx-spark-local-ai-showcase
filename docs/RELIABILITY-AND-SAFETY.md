@@ -203,3 +203,15 @@ user contract.
   estimates. Hardware telemetry does not establish billing or control authority.
 - A failed identity guard must stop dependent activation steps. Verify the exact served artifact
   after recovery and retain earlier failures rather than promoting them to successful runs.
+
+### Quiet refresh is a presentation contract
+
+Keep healthy background updates unobtrusive while retaining observation identity and clear
+stale/error recovery. Pause hidden work and schedule only future deadlines. Distinguish cached
+response cost from source collection and rendering; concurrent process activity is not an
+incremental benchmark.
+
+Render caches must follow every clear/reset path. Require restored content after identical-data
+recovery and positive content counts before accepting responsive geometry. Test visible keyboard
+continuation across native focus timing, rather than one exact destination, and keep fixture
+failures distinct from product defects and final evidence.
