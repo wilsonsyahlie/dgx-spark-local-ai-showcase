@@ -190,3 +190,16 @@ user contract.
   chosen value without revealing it again or implying that replacement is required.
 - Preserve credential-reader compatibility during recovery; an unchanged schema does not mean
   an older release can authenticate newly supported credentials.
+
+### Measurements need visible evidence states
+
+- Preserve source units and observation time. Reject superseded responses, distinguish stale
+  last-known readings from current data, and keep missing sensors distinct from measured zeroes.
+- Bound upstream work across clients; cancelling a browser request does not prove that work
+  stopped. Authenticate the reader before accessing measurements with a bridge's authority.
+- Keep shared views, open details and keyboard focus consistent during refresh. New observations
+  can prove automatic refresh even when the measured number remains stable.
+- Label sample usage and cost examples explicitly, and preserve the limits of overlapping memory
+  estimates. Hardware telemetry does not establish billing or control authority.
+- A failed identity guard must stop dependent activation steps. Verify the exact served artifact
+  after recovery and retain earlier failures rather than promoting them to successful runs.

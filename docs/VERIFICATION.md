@@ -343,3 +343,24 @@ friend testing, prolonged load, exhaustive gameplay tours, statistical drop rate
 rebuilding the downloaded source or machine reboot. Original asset provenance does
 not itself grant redistribution rights. This account describes measured outcomes
 and retained limits rather than a deployable setup guide.
+
+### Hardware-preview telemetry — qualified bounded change
+
+Focused measurement, timestamp, caching and authorization tests passed, followed by adversarial
+browser fixtures covering loading, missing data, stale age, partial failure, retries, timeouts,
+repeated refresh, late responses and denied access. Independent source and corrected-layout
+reviews passed. Fixture authorization and upstream data were mocked; those results were kept
+separate from actual authorized browser reads.
+
+The exact activated artifact passed actual-browser checks for live sources, repeated natural
+observations, source agreement, retained disclosure, reload recovery, dark appearance and
+phone-sized geometry. The observation identities advanced while the final displayed memory
+number remained equal; no numeric movement was invented. Maintained operating knowledge was
+verified through matching mounted copies. Failed activation and earlier candidate checks were
+retained alongside the corrected final evidence.
+
+Unavailable sensors remained explicit. Usage, avoided cost, history and service-health examples
+remained samples, while model controls and the broader redesign stayed outside this result.
+No model action, inference, external message, reboot, restore or deletion was performed.
+Physical-phone use, machine reboot and long-duration outages were not proved. Backup and
+recovery artifacts remained private; this retrospective contains no deployable instructions.

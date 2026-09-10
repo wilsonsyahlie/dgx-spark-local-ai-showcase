@@ -1065,3 +1065,33 @@ with inventory and skills working. The installed service then passed its managed
 stop/start cycle and another visible rejoin with the same saved state. Earlier
 failed name, focus, connectivity and rendering observations remain recorded
 alongside the successful evidence.
+
+## September 10 retrospective — turning a preview into a measured view
+
+A resource-dashboard redesign exposed a measurement gap: its polished hardware values were
+still static examples. The bounded correction connected existing read-only measurements and
+made loading, current, stale and unavailable observations visibly distinct. Missing sensors
+stayed unavailable. Model-control behavior was outside the change.
+
+The reliability work extended beyond replacing constants with requests. Visitor authorization
+preceded access to measurements; shared refresh ownership and failure cooldowns bounded upstream
+work across browsers. Cached values retained their observation time, superseded responses could
+not replace newer data, and denied access cleared retained readings. Summaries and expanded
+details shared one state while disclosure and keyboard focus survived updates. System-wide
+memory pressure and approximate workload allocations kept their distinct meanings.
+
+Focused source and authorization tests, adversarial browser fixtures and independent reviews
+passed. The exact activated artifact then passed actual-browser verification, including repeated
+natural observations, source agreement, reload recovery and phone-sized layout. A stable number
+was not misrepresented as movement: newer observation identities established the refresh.
+
+Activation also retained a failure lesson. An identity guard rejected an incomplete process
+assumption, but a dependent startup was attempted and failed; the old served artifact was also
+rejected. Measured identity and sequential successful guards preceded the verified activation.
+The later pass did not erase those failed attempts or substitute earlier candidate evidence.
+
+Token totals, avoided API cost, history and service-health examples remained labelled samples.
+Live hardware did not establish complete usage accounting or realized savings, and the broader
+redesign and model controls remained separate work. Physical phone hardware, machine reboot and
+long-duration outages were not tested. This was a qualified measurement change, with protected
+backups and targeted recovery, rather than a claim that every preview function was complete.
