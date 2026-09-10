@@ -161,3 +161,11 @@ durable idempotency receipts rather than treating a disabled button as transacti
 12. On-demand workloads need an always-present monitoring contract; monitoring must not
     weaken backend isolation or silently rewrite historical series identity.
 13. An aggregate view must name what it owns; displayed data does not imply mutation authority.
+
+## Presentation changes preserve source authority
+
+The dashboard migration reinforced an architectural boundary: grouping views does not merge
+their data ownership, privacy scopes or action authority. Summaries and controls can share
+read-only collection without treating an action acknowledgement as a current measurement.
+Unknown coverage and estimated economic comparisons belong in the data contract, not only
+in explanatory prose. This retrospective describes the pattern rather than a deployable setup.

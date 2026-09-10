@@ -598,3 +598,17 @@ Retaining exact partial state allowed a narrow continuation without pretending t
 earlier action had succeeded. Checking optional metadata across all selected images
 prevented repeating an initially missed sibling case. Fidelity, authority, visible
 readiness and recoverability each needed their own evidence.
+
+## Simpler presentation, stronger observation boundaries
+
+A dashboard could look finished while still showing sample usage or turning a missing sensor
+into a believable zero. Replacing those examples required bounded read-only collection, source
+observation identity and explicit partial coverage. An old action receipt exposed another
+problem: successful replay proved a prior outcome, not present hardware state. Only a subsequent
+observation could restore the measured view.
+
+Presentation optimizations needed equal scrutiny. Empty-data recovery had to leave its loading
+state, refresh could not replace a focused pricing link, and long real content had to fit a phone.
+Independent review and final activated checks connected these failures to specific corrections.
+The lesson was to simplify the interface while preserving evidence about authority, freshness
+and what remained unknown.

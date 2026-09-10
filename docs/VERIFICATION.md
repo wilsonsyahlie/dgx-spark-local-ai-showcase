@@ -386,3 +386,22 @@ transient child memory, energy or long-duration cost. Physical devices, reboot a
 real outages remain unproved. Existing sample-data and control limits are retained; the bounded
 quiet-refresh result does not establish broader redesign completion. Recovery artifacts remain
 private and the retrospective contains no deployable instructions.
+
+### Main dashboard migration — qualified integration
+
+Focused suites passed preservation of existing business behavior, delayed-response handling,
+malformed data, missing coverage, bounded collection, replay-safe observation ownership and
+loading/retry recovery. Price assumptions and currency provenance were checked separately from
+local counters; estimates remained distinct from realized savings.
+
+Exact activated-artifact and independent runtime checks passed actual natural observations,
+shared collection, supported usage periods and access-denial boundaries. Final live interface
+checks passed all existing workspace navigation, retained controls, reload, appearance and phone
+layouts with long content present. Earlier overflow and recovery failures remain part of the
+retrospective; their final corrections were verified rather than inferred from a build.
+
+Stateful actions were tested in isolated fixtures; live checks used harmless reads and navigation.
+Unknown sensors, unmonitored usage and incomplete history remained explicit. Physical devices,
+whole-machine reboot, destructive actions, prolonged outages and a rollback exercise were not
+qualified. Maintained knowledge and private recovery records were verified separately; this
+publication supplies no production configuration, private data or deployable instructions.

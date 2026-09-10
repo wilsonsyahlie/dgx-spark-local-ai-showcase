@@ -1123,3 +1123,29 @@ layouts passed. Backups and targeted HTML recovery were preserved without a rest
 exercise. Physical phones, machine reboot, prolonged outages and long-duration cost were not
 qualified. Sample usage, cost, history, service-health examples and model controls remained
 illustrative; this completed the quiet-refresh correction, not the broader production redesign.
+
+## September 10 retrospective — a calmer interface with real measurements
+
+An approved dashboard concept became the main interface while preserving its existing
+workspaces, controls and privacy boundaries. Clearer navigation, visual hierarchy and persistent
+presentation choices reduced clutter. The migration kept actual business behavior behind the
+new design rather than replacing it with prototype interactions.
+
+Read-only observations replaced sample resource and usage figures. Shared collection and quiet
+refresh limited repeated work, while missing sensors and incomplete usage coverage remained
+explicit. Retained input/output counters supported a dated, equally weighted price comparison
+in local currency. The result was an API-equivalent estimate, not realized savings or complete
+lifetime accounting.
+
+Independent review found that a replayed action receipt could appear to be a new measurement.
+The corrected boundary required a subsequent status observation. Other fixes covered incomplete
+responses, contradictory capacities, unknown values shown as zero, loading-state recovery and
+keyboard-link continuity. Real long content also exposed a phone overflow missed by simpler
+fixtures; the final wrapping correction passed with that content present.
+
+Focused negative and action fixtures, exact activated-artifact checks, natural observations and
+independent runtime review passed. Final live interface checks covered navigation, controls,
+reload, appearance and phone layouts. Maintained operating knowledge was verified separately.
+Backups and targeted recovery remained private; destructive actions, physical-device certification,
+whole-machine reboot and prolonged outages were not tested. This completed the bounded interface
+migration while retaining explicit limits on the data it could measure.
