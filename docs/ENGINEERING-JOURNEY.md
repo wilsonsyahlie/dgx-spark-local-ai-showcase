@@ -1223,3 +1223,32 @@ Batch tests proved both directory branches, and real remote turns reported the i
 model/provider before returning requested markers. App-server discovery, unchanged authorization,
 loopback-only listeners, the complete catalog, and running supervisors also passed. The desktop
 connection picker and its first remote project remained an honest interactive limit.
+
+
+## September 11 — interactive browser workspace with verified stop controls
+
+An existing browser automation helper was brought into a private dashboard alongside
+the actual website. A dedicated persistent browser provides the complete interface,
+while the original helper supplies its existing controls. Opening the interactive
+view pauses the helper; disconnecting releases input ownership while retaining the
+browser session. Login, verification and account decisions remain manual.
+
+The implementation reused a native display transport but added a per-display
+authentication cookie, private application storage and one-use ownership tickets.
+The web boundary retained its existing identity and same-origin checks. No raw
+desktop-control or browser-debugging listener became publicly reachable.
+
+Independent review found that changing persisted settings alone did not stop an
+already-running script when its panel was detached. The correction waits for panel
+recovery and verifies its live stopped state across all supported website hosts.
+Late initial responses and overlapping close/open controls were also made explicit
+regressions. Unconfirmed input-release cleanup closes the owned browser before a
+new controller can be granted access.
+
+Twenty-five isolated integration checks and five display-security checks passed.
+They covered real extension loading, decoded browser pixels, native keyboard and
+pointer input, single ownership, Stop, panel recovery, refresh, restart and small
+layouts. The installed private dashboard then displayed the actual website sign-in
+screen with the helper beside it. Provider login, human verification, authenticated
+site actions and real automated runs remain untested. Source backups, exact artifact
+checks and a reversible deployment were retained; no inference route changed.

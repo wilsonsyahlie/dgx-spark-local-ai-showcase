@@ -413,3 +413,14 @@ publication supplies no production configuration, private data or deployable ins
 - The actual editor task recorded assistant output and usage, rather than only an HTTP success.
 - Persistent service enablement was verified.
 - Whole-machine reboot and exhaustive qualification of every listed model remain unproven.
+
+
+### Interactive browser workspace — September 11
+
+The browser workspace passed 25 isolated integration checks and five display-security
+checks. Production evidence confirms the private dashboard view, decoded browser
+stream, existing helper panel and real website sign-in screen. Synthetic typing and
+pointer tests are not provider-account acceptance tests: login, human verification,
+authenticated site changes and real automated runs remain manual/unproven. A second
+controller is rejected, Stop is acknowledged by the live script, stale UI responses
+cannot replace current state, and an unauthenticated local display client is denied.
