@@ -1252,3 +1252,30 @@ layouts. The installed private dashboard then displayed the actual website sign-
 screen with the helper beside it. Provider login, human verification, authenticated
 site actions and real automated runs remain untested. Source backups, exact artifact
 checks and a reversible deployment were retained; no inference route changed.
+
+
+## 2026-09-11 — Persistent reminders and automatic browser connection
+
+A manually connected browser panel was replaced with an automatically connected,
+interactive view. Attaching a viewer preserves the existing helper state. Deliberate
+disconnect and close remain authoritative, and bounded recovery cannot take over
+another controller. Review caught two races: a Stop action during recovery could
+strand the view, and a second view's queued retry could undo a deliberate Close.
+Both received focused regressions before activation.
+
+A separate notifier was added for recurring human-verification reminders. It reads
+minimal fresh observations, sends a fixed message to one configured private recipient,
+and keeps messaging credentials outside the browser. Unknown observations suspend
+delivery without pretending the condition cleared. Durable intent and distinct
+accepted, failed and unknown receipts prevent ambiguous attempts from being replayed
+in the same slot. Review also caught reminders bunching at a schedule boundary after
+an outage; a minimum interval now prevents that burst.
+
+The candidate passed notification scheduling, real extension, existing helper and
+browser integration tests. A real elapsed five-minute test used a local fake sender.
+After activation, exact served artifacts, actual game pixels, provider authentication
+and ongoing observations without a viewer were verified. The release did not generate
+a real challenge or send an external test message; phone reception and reboot remain
+unproven. The existing authenticated browser profile was retained, with the helper
+stopped after the necessary maintenance restart. Recovery preserves used delivery
+state and keeps service rollback separate from account/session data.

@@ -424,3 +424,18 @@ pointer tests are not provider-account acceptance tests: login, human verificati
 authenticated site changes and real automated runs remain manual/unproven. A second
 controller is rejected, Stop is acknowledged by the live script, stale UI responses
 cannot replace current state, and an unauthenticated local display client is denied.
+
+
+## 2026-09-11 — Reminder and viewer follow-up verification
+
+- 23 notification/observation checks, including durable intent, interrupted sends,
+  clock changes, rate limits, corrupted state and second-process exclusion.
+- Seven real extension detector checks and 36 existing helper regressions.
+- 29 native viewer integration, 19 frontend fault and nine close-arbitration checks.
+- Natural five-minute scheduler check: a local fake sender observed 301 seconds
+  between attempts, and a clear observation stopped further reminders.
+- Live installed/served identity, active services, credential isolation, provider
+  read-only authentication and observation while the viewer was disconnected passed.
+- Independent plan and final reviews passed after the identified races were repaired.
+- Real challenge-message delivery, phone receipt and reboot were not tested. The
+  timing evidence does not claim end-to-end messaging-provider delivery.
