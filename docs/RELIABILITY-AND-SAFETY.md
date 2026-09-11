@@ -215,3 +215,11 @@ Render caches must follow every clear/reset path. Require restored content after
 recovery and positive content counts before accepting responsive geometry. Test visible keyboard
 continuation across native focus timing, rather than one exact destination, and keep fixture
 failures distinct from product defects and final evidence.
+
+### A healthy backend does not prove client compatibility
+
+Bound cache allocation explicitly on shared-memory systems instead of trusting a percentage default.
+Preserve intentional per-model budgets. Then test the real client's structured message and tool
+history, because a plain-text health probe exercises a smaller contract. Adapt only the incompatible
+runtime, fail closed on unsupported content, and require durable assistant output before calling the
+selector usable. Record service persistence and reboot qualification separately.

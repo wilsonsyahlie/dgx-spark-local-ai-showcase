@@ -405,3 +405,11 @@ Unknown sensors, unmonitored usage and incomplete history remained explicit. Phy
 whole-machine reboot, destructive actions, prolonged outages and a rollback exercise were not
 qualified. Maintained knowledge and private recovery records were verified separately; this
 publication supplies no production configuration, private data or deployable instructions.
+
+### Local model selection — selected runtime qualified
+
+- The complete controller/manager suite and focused protocol-adapter tests passed.
+- A cold selected-model load stayed above the protected host reserve.
+- The actual editor task recorded assistant output and usage, rather than only an HTTP success.
+- Persistent service enablement was verified.
+- Whole-machine reboot and exhaustive qualification of every listed model remain unproven.

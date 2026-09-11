@@ -169,3 +169,15 @@ their data ownership, privacy scopes or action authority. Summaries and controls
 read-only collection without treating an action acknowledgement as a current measurement.
 Unknown coverage and estimated economic comparisons belong in the data contract, not only
 in explanatory prose. This retrospective describes the pattern rather than a deployable setup.
+
+## A model selector crosses resource and protocol boundaries
+
+Choosing a local model is only the first step. The control plane must coordinate shared-memory
+workloads, apply a bounded allocation when a model profile has no explicit cache budget, and preserve
+the profile's own budget when it does. The client must then qualify the actual conversation protocol:
+a healthy model that accepts a plain string may still reject structured message and tool history.
+
+The resulting boundary keeps native structured handling where available, translates only supported
+text/tool history for the incompatible runtime, and rejects unsupported media. Acceptance requires a
+durable assistant output from the real client path, plus persistent service state; HTTP success and
+backend readiness alone do not prove usability.

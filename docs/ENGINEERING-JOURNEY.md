@@ -1149,3 +1149,22 @@ reload, appearance and phone layouts. Maintained operating knowledge was verifie
 Backups and targeted recovery remained private; destructive actions, physical-device certification,
 whole-machine reboot and prolonged outages were not tested. This completed the bounded interface
 migration while retaining explicit limits on the data it could measure.
+
+## September 11 retrospective — when a model loaded but the editor still failed
+
+A local model dropdown initially looked like a catalog problem. The first real selection instead
+revealed two separate runtime contracts. Shared-memory admission improved after competing work was
+paused, but percentage-based KV allocation still consumed the protected host reserve during load.
+After that was bounded, the model became healthy yet rejected the editor's structured Responses
+history even though a plain-text probe succeeded.
+
+The repair treated resource readiness and protocol readiness as separate gates. Ordinary profiles
+without an explicit cache budget received a bounded default, while profile-specific tuning remained
+intact. A narrow adapter handled supported text and tool history only for the incompatible runtime;
+native structured handling stayed native and media failed closed.
+
+Focused tests and the full controller suite passed, the selected model cold-loaded with substantial
+headroom, and the real editor produced durable assistant messages. Service persistence was verified,
+while a machine reboot and exhaustive loading of every listed model remained explicit limits. The
+main lesson was simple: a selector is not qualified until the chosen model both fits and speaks the
+client's real protocol.

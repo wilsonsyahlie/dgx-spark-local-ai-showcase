@@ -612,3 +612,21 @@ state, refresh could not replace a focused pricing link, and long real content h
 Independent review and final activated checks connected these failures to specific corrections.
 The lesson was to simplify the interface while preserving evidence about authority, freshness
 and what remained unknown.
+
+## A healthy local model could still be unusable from the editor
+
+**Symptom.** A selected local model first failed during shared-memory loading. After the memory
+failure was corrected, the backend returned healthy responses to a plain-text probe but the editor
+still could not continue a real task.
+
+**Cause.** Percentage-based cache sizing expanded against shared system memory, and the serving
+runtime's Responses endpoint accepted a string but not the editor's structured conversation and
+tool-history input.
+
+**Fix.** Apply a bounded cache default only when the model profile has no explicit budget, then
+adapt supported structured history only at the incompatible runtime boundary. Keep native handling
+native and reject unsupported content.
+
+**Proof.** Focused compatibility tests, the complete controller suite, a cold selected-model load,
+and durable assistant output from the actual editor path. A reboot and exhaustive model-by-model
+qualification were recorded as limits.

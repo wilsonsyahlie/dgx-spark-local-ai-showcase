@@ -16,6 +16,7 @@ private, and heavy workloads cannot silently compete for the same resources.
 - Managing a switchable secondary writing-model lane without giving repository input
   control over runtime commands or the primary agent
 - Reusing a retained coding model as an owner-started lane, then repairing its first real lifecycle from canonical runtime evidence without exposing personal context or silently evicting workloads
+- Making local model selection survive unified-memory pressure and real structured editor history
 - Qualifying model-specific native web tools through a local metasearch path without
   weakening isolation from the primary agent
 - Turning unreliable background work into observable, recoverable state machines
