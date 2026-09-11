@@ -181,3 +181,11 @@ The resulting boundary keeps native structured handling where available, transla
 text/tool history for the incompatible runtime, and rejects unsupported media. Acceptance requires a
 durable assistant output from the real client path, plus persistent service state; HTTP success and
 backend readiness alone do not prove usability.
+
+### Workstation-native accelerator lane
+
+For workflows that must remain entirely on the GPU workstation, the desktop coding
+client and local model server share the same host. A loopback-only Responses adapter
+sits in front of a one-model-at-a-time llama.cpp catalog. No orchestration server,
+remote shell, mesh tunnel, or cloud fallback participates. Separate logon supervisors
+keep the model manager and adapter available after user sign-in.

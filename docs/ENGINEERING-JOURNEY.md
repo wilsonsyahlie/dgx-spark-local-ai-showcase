@@ -1168,3 +1168,19 @@ headroom, and the real editor produced durable assistant messages. Service persi
 while a machine reboot and exhaustive loading of every listed model remained explicit limits. The
 main lesson was simple: a selector is not qualified until the chosen model both fits and speaks the
 client's real protocol.
+
+## Correcting host placement for a workstation-native coding lane
+
+An early remote profile ran the coding client on the orchestration appliance while
+borrowing a workstation GPU over a tunnel. That was technically local inference, but
+it did not satisfy the stronger requirement that the coding client itself live on the
+GPU workstation. The corrected lane moved the provider/catalog boundary into the
+Windows client and reduced the request path to loopback client -> compatibility adapter
+-> llama.cpp manager.
+
+The manager exposed eleven selectable models and a real client run identified the
+workstation-local provider before returning the requested marker. A fault-injection test
+then killed the adapter child; its hidden logon supervisor restored service in seven
+seconds. Reboot and exhaustive model cold-load testing remain explicit limits. The key
+lesson is that inference location and agent-execution location are separate architectural
+claims, and both must be verified when the requirement says "on this machine."
