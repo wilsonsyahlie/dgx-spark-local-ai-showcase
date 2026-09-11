@@ -185,7 +185,9 @@ backend readiness alone do not prove usability.
 ### Workstation-native accelerator lane
 
 For workflows that must remain entirely on the GPU workstation, the desktop coding
-client and local model server share the same host. A loopback-only Responses adapter
-sits in front of a one-model-at-a-time llama.cpp catalog. No orchestration server,
-remote shell, mesh tunnel, or cloud fallback participates. Separate logon supervisors
-keep the model manager and adapter available after user sign-in.
+client and local model server share the same host. The local lane uses a separate client
+identity and launcher, leaving the ordinary signed-in client and its subscription models
+unchanged. A loopback-only Responses adapter sits in front of a one-model-at-a-time
+llama.cpp catalog. No orchestration server, remote shell, mesh tunnel, or cloud fallback
+participates. Separate logon supervisors keep the model manager and adapter available
+after user sign-in.

@@ -223,3 +223,15 @@ Preserve intentional per-model budgets. Then test the real client's structured m
 history, because a plain-text health probe exercises a smaller contract. Adapt only the incompatible
 runtime, fail closed on unsupported content, and require durable assistant output before calling the
 selector usable. Record service persistence and reboot qualification separately.
+
+### A new provider needs a new client identity
+
+When the requested outcome is an additional local instance, do not install its provider into the
+ordinary user's canonical configuration. Preserve that identity from an exact backup and give the
+new lane its own configuration, catalog, application data, and launcher. Acceptance must prove both
+sides: the canonical identity is unchanged and the isolated identity completes a real request.
+
+Treat remote activation as one fail-fast unit. Streaming mutation commands line by line can continue
+after a preflight exception and leave partial state. Remeasure after any failed activation, repair
+from the recorded backup, and retain interactive launch or restart checks as limits until a user can
+observe them.

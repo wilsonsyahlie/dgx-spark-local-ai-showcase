@@ -1184,3 +1184,23 @@ then killed the adapter child; its hidden logon supervisor restored service in s
 seconds. Reboot and exhaustive model cold-load testing remain explicit limits. The key
 lesson is that inference location and agent-execution location are separate architectural
 claims, and both must be verified when the requirement says "on this machine."
+
+## Correcting an added local lane that accidentally replaced the default
+
+The workstation-native implementation still contained a scope error: its provider was installed
+in the ordinary user's client configuration. The backend worked, but every new normal task then
+offered only local models. “Add a local instance” had been implemented as “replace the default
+provider.”
+
+Recovery started from the pre-change backup, restoring the normal client identity exactly. The
+local provider, catalog, and desktop application data were then moved behind a separate launcher
+and isolated client home. The resulting proof covered both sides of the requirement: the default
+identity retained its original subscription model boundary, while the isolated identity enumerated
+the local catalog and completed a real canary. Existing model services were left running; desktop
+restart and the first interactive shortcut launch remained explicit user-visible checks.
+
+The first repair attempt also exposed an activation hazard. A remote shell that received a script
+line by line continued after a launcher preflight exception, leaving a partial change. The final
+repair remeasured state and ran as one fail-fast script block. The durable lesson is that a new
+provider requires a new client identity, and remote mutation must stop as a single unit when a
+precondition fails.
