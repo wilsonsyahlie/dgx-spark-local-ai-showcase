@@ -1204,3 +1204,22 @@ line by line continued after a launcher preflight exception, leaving a partial c
 repair remeasured state and ran as one fail-fast script block. The durable lesson is that a new
 provider requires a new client identity, and remote mutation must stop as a single unit when a
 precondition fails.
+
+## Adding remote control without turning it into remote inference
+
+The separate workstation-local identity was useful at the desk but still needed to be reached
+from another coding client. The retained design used the product's SSH app-server path over an
+existing authenticated private connection. A login dispatcher selects the isolated identity only
+for SSH-launched agent processes; it neither exposes nor forwards the model endpoint and adds no
+credential or server authorization.
+
+The first live canary uncovered a subtle configuration-precedence collision. Starting the remote
+agent in the user's home made the ordinary configuration directory visible as project-local
+configuration, so the wrong model name reached the local provider and failed. The correction moves
+only home-start SSH agent processes to a neutral project folder. Other working directories and
+explicit project selection remain untouched.
+
+Batch tests proved both directory branches, and real remote turns reported the intended local
+model/provider before returning requested markers. App-server discovery, unchanged authorization,
+loopback-only listeners, the complete catalog, and running supervisors also passed. The desktop
+connection picker and its first remote project remained an honest interactive limit.

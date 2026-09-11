@@ -235,3 +235,16 @@ Treat remote activation as one fail-fast unit. Streaming mutation commands line 
 after a preflight exception and leave partial state. Remeasure after any failed activation, repair
 from the recorded backup, and retain interactive launch or restart checks as limits until a user can
 observe them.
+
+### Remote control is not remote inference
+
+Use an authenticated private SSH control channel to start an agent on the machine that owns its
+files and model. Do not forward or expose the model listener merely to make the agent reachable.
+Reuse established key authority where appropriate instead of adding a credential, and prove that
+server authorization, firewall, and listener bindings remain unchanged.
+
+An isolated user configuration can still collide with project-local discovery when the process
+starts in the user's home. Qualify the real login working directory as well as the environment.
+Move only the ambiguous home-start case to a neutral project; preserve explicit project choices
+and other starting directories. Require a real remote agent turn and app-server discovery, then
+record desktop connection discovery separately until it is observed interactively.

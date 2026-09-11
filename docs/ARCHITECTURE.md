@@ -191,3 +191,8 @@ unchanged. A loopback-only Responses adapter sits in front of a one-model-at-a-t
 llama.cpp catalog. No orchestration server, remote shell, mesh tunnel, or cloud fallback
 participates. Separate logon supervisors keep the model manager and adapter available
 after user sign-in.
+
+Remote control remains distinct from remote inference. An authenticated private SSH connection
+may start the workstation's coding-agent app server, but the model endpoints stay on workstation
+loopback and are never forwarded. An SSH-only launcher selects the isolated local identity;
+ordinary desktop and terminal launches keep their original identity.
