@@ -1324,3 +1324,8 @@ model and provider in the affected workspace.
 The engineering lesson is to diagnose the effective configuration in the exact
 execution context, including the origin of each setting, and to keep convenience
 metadata outside the resource authority of the user's primary task.
+
+
+### A second town without replacing the saved world
+
+Expanded an existing browser game through scoped server policy and travel changes while reusing original assets. Player-journey checks covered interiors, shopping, saved rejoin and return travel. Permanent player state matched across deployment; the public browser reached the added town with its original music. The useful lesson was to bind release inputs before downtime and correct test navigation without redesigning content.

@@ -464,3 +464,10 @@ without a claim of screenshot verification. An earlier server-only success witho
 the failing workspace was insufficient evidence. The private
 record retains detailed fixtures and recovery material; this retrospective
 contains no operational configuration or deployable instructions.
+
+
+### Town-expansion verification boundary
+
+Focused policy and travel-script checks were followed by actual browser travel, all interior entry/exit paths, a shop transaction, saved rejoin and paid-route refusal checks. Exact music input bytes and active browser audio were verified without claiming physical listening. Failed navigation attempts remain distinct from successful coverage. Permanent player-state exports matched across deployment. A real public browser subsequently reached the added town through paid travel with original audio. Serving checks verified the source archive and protected-client denial. An existing edge-added analytics script was accounted for separately from release HTML; it was not silently treated as byte-identical. These checks do not make a build alone sufficient evidence of deployment.
+
+A fresh public startup timed out before channel entry. A retry of the identical artifact restored the saved town and unchanged inventory/stat state with original music. The first attempt remains a recorded failure with an unresolved cause; the successful retry is not a continuous-availability guarantee.

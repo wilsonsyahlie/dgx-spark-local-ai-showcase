@@ -642,3 +642,12 @@ asset, and the actual editor revealed tool-schema types unsupported by the servi
 Pinned local parser data and a model-specific standard-function compatibility boundary fixed
 those failures without cloud fallback. The final evidence joined artifact integrity, memory
 containment, streaming, reasoning, function calling and a real editor tool turn.
+
+
+### Extending a browser game while preserving progress
+
+A second-town expansion became a useful exercise in separating content already present from server behavior still missing. Reusing existing visual and audio assets avoided an unnecessary client rebuild. The implementation expanded only the admitted region and its travel choices, with unavailable paid routes refusing before currency changed.
+
+Verification followed the player journey: enter the town, visit each interior, transact with a shop, reconnect with saved progress and return through the paid route. Exact original audio inputs and a running browser loop supported the music claim. Failed automated jumps were treated as limitations of the test route; adjusting input timing preserved the original map.
+
+The release kept the saved world intact. A before-and-after comparison covered permanent character state, while deployment checks verified the running artifact. Review improved the release procedure by binding inputs to reviewed hashes before downtime. Corresponding source was carried forward from the current release so an earlier access fix was not accidentally discarded. This is a retrospective engineering account, not a deployment recipe or a general correctness guarantee.
