@@ -476,3 +476,12 @@ A fresh public startup timed out before channel entry. A retry of the identical 
 ### Sequential expansion verification
 
 Ten focused server cases and twenty-five actual script cases passed. Five map comparisons, exact regeneration and the real server parser verified the compatibility correction. Private browser evidence covered every admitted interior and exit, ordinary purchase, exact saved inventory/stat recovery and paid return travel. Original music bytes and nonzero browser audio were verified without claiming physical listening. Across public activation, permanent player-state exports matched exactly; delivered source and shell hashes and the phone-width desktop warning also passed. The public journey subsequently passed: ordinary sales funded the cab, the town rendered with original audio, and a fresh connection restored the same inventory and stats. One guarded unavailable route was exercised as its actual script rather than by a live NPC click. The earlier release's unresolved fresh-start observation is not claimed fixed by this expansion.
+
+
+## 2026-09-13 — Preserve original data across another town expansion
+
+The next browser-game town required two original gameplay-data projections and a narrow portal-coordinate correction. A validated optional section selector preserved exact regeneration of earlier projections, and the corresponding source retained the cumulative recipe. Actual typed parsing checked the new maps instead of relying on numeric equality.
+
+Private browser evidence covered all eight admitted maps, three vendors, a potion purchase, saved progress and paid return travel. The original town and station recordings matched their source bytes and produced finite nonzero looping audio. Unavailable paid routes refused before taking currency or tickets. The expansion preserved the existing character system and original geometry. Physical-speaker listening was not claimed.
+
+The deployed artifact and corresponding source matched the prepared release, and permanent player tables were unchanged across activation. An ordinary saved public character verified the added destination and insufficient-funds refusal without a currency grant. Full travel was qualified privately on the identical artifact; public arrival in the added town was deliberately not claimed. The phone-width shell retained its desktop-play notice without overflow.

@@ -658,3 +658,12 @@ The release kept the saved world intact. A before-and-after comparison covered p
 A sequential game expansion found thousands of differences between original client geometry and server map data. Replacing only collision, portals, ladders, occupants and map information preserved the original presentation. Numeric equality was necessary but insufficient: the server expected a floating-point wrapper type different from the first serialization. Independent review identified that boundary; a real parser assertion verified the correction without refactoring the map loader.
 
 The corrected release treated map data as a first-class artifact: frozen input hashes before downtime, exact copies, checks inside the running process's container, and a source recipe with input/output hashes. The earlier build launch also failed because a command was copied without its custom entrypoint; the corrected build used the same reviewed source. Neither failure was concealed by the later success.
+
+
+## 2026-09-13 — Preserve original data across another town expansion
+
+The next browser-game town required two original gameplay-data projections and a narrow portal-coordinate correction. A validated optional section selector preserved exact regeneration of earlier projections, and the corresponding source retained the cumulative recipe. Actual typed parsing checked the new maps instead of relying on numeric equality.
+
+Private browser evidence covered all eight admitted maps, three vendors, a potion purchase, saved progress and paid return travel. The original town and station recordings matched their source bytes and produced finite nonzero looping audio. Unavailable paid routes refused before taking currency or tickets. The expansion preserved the existing character system and original geometry. Physical-speaker listening was not claimed.
+
+The deployed artifact and corresponding source matched the prepared release, and permanent player tables were unchanged across activation. An ordinary saved public character verified the added destination and insufficient-funds refusal without a currency grant. Full travel was qualified privately on the identical artifact; public arrival in the added town was deliberately not claimed. The phone-width shell retained its desktop-play notice without overflow.

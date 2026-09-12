@@ -1336,3 +1336,12 @@ Expanded an existing browser game through scoped server policy and travel change
 The next town exposed a compatibility problem that a map allowlist alone could not solve: the server geometry differed from the original client in the town and one interior. The change projected only gameplay sections from the original data while retaining the original visuals and music. The other interiors already matched.
 
 A numeric comparison initially passed while an incompatible XML numeric type remained. Independent review caught the server's typed parser requirement before activation; an actual parser check and exact regeneration then verified the correction. The release carried the map files with the server and scripts, preserved player saves across deployment, and retained reproducible source instructions without bundling original binary assets. Private browser coverage included interior travel, a purchase, saved rejoin, original audio and paid return travel. Public delivery and save preservation passed. An ordinary public shop sale funded the original cab fare; the new town then rendered with original music and restored the same saved inventory and stats on a fresh connection.
+
+
+## 2026-09-13 — Preserve original data across another town expansion
+
+The next browser-game town required two original gameplay-data projections and a narrow portal-coordinate correction. A validated optional section selector preserved exact regeneration of earlier projections, and the corresponding source retained the cumulative recipe. Actual typed parsing checked the new maps instead of relying on numeric equality.
+
+Private browser evidence covered all eight admitted maps, three vendors, a potion purchase, saved progress and paid return travel. The original town and station recordings matched their source bytes and produced finite nonzero looping audio. Unavailable paid routes refused before taking currency or tickets. The expansion preserved the existing character system and original geometry. Physical-speaker listening was not claimed.
+
+The deployed artifact and corresponding source matched the prepared release, and permanent player tables were unchanged across activation. An ordinary saved public character verified the added destination and insufficient-funds refusal without a currency grant. Full travel was qualified privately on the identical artifact; public arrival in the added town was deliberately not claimed. The phone-width shell retained its desktop-play notice without overflow.
