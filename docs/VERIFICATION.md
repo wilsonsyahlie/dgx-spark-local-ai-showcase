@@ -457,7 +457,10 @@ checks, including rejection before model admission for unsupported dedicated
 formats. A real first-turn check with the exact affected working directory
 inherited the intended local model/provider and completed correctly without a
 model override. The user also confirmed the original desktop offered the intended
-model before the first message; a visible first answer remained separate. An earlier
-server-only success without the failing workspace was insufficient evidence. The private
+model before the first message. The subsequent original user-created task
+transcript confirmed a completed first reply on that local model/provider in the
+affected workspace. These are distinct user-confirmation and transcript evidence,
+without a claim of screenshot verification. An earlier server-only success without
+the failing workspace was insufficient evidence. The private
 record retains detailed fixtures and recovery material; this retrospective
 contains no operational configuration or deployable instructions.

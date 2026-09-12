@@ -1317,8 +1317,9 @@ had omitted the failing workspace and was insufficient. A corrected real first
 turn used that exact context and inherited the intended local model/provider
 without an explicit model override; it completed correctly without errors. This
 server result was followed by user confirmation that the original desktop
-offered the intended model before the first message. A visible first answer
-remained a separate acceptance check.
+offered the intended model before the first message. The user's subsequent
+original-application task transcript confirmed a completed first reply using that
+model and provider in the affected workspace.
 
 The engineering lesson is to diagnose the effective configuration in the exact
 execution context, including the origin of each setting, and to keep convenience
