@@ -446,3 +446,18 @@ first inference, authentication rejection, three reasoning levels, native functi
 streaming completion, retained web-chat configuration, real editor assistant output and a
 read-only shell-tool round trip. Two complete loads passed. Reboot, exhaustive loading of all
 other choices and a fresh browser-authenticated web-chat transcript were not claimed.
+
+## Workspace precedence and background task metadata
+
+Verification compared effective configuration under the failing working-directory
+context with the same profile outside that context and identified the overriding
+configuration layer. The supported correction preserved unrelated settings.
+Metadata handling passed helper, actual-router integration and deployed-response
+checks, including rejection before model admission for unsupported dedicated
+formats. A real first-turn check with the exact affected working directory
+inherited the intended local model/provider and completed correctly without a
+model override. The user also confirmed the original desktop offered the intended
+model before the first message; a visible first answer remained separate. An earlier
+server-only success without the failing workspace was insufficient evidence. The private
+record retains detailed fixtures and recovery material; this retrospective
+contains no operational configuration or deployable instructions.

@@ -1293,3 +1293,33 @@ the no-egress promise. A final real-editor test uncovered unsupported modern too
 preserving ordinary functions while omitting incompatible wrappers made both assistant text
 and a shell-tool round trip work. Health checks were useful, but only the real client proved
 the requested outcome.
+
+## A workspace override can defeat an apparently correct model default
+
+A local coding task failed on its first message even though its profile selected
+the intended local model. Comparing effective configuration with the real working
+directory against a context-free read exposed the mismatch: a higher-priority
+workspace setting replaced the model while leaving the provider unchanged.
+The profile looked correct because the earlier diagnostic omitted the context
+that activated the override.
+
+The correction removed only the conflicting model preference through the
+application's supported configuration interface. Other settings and the original
+desktop software were preserved. A separate background issue was also contained:
+automatic task naming had entered model admission and could displace the user's
+selection. Dedicated title requests instead received bounded text locally, with
+zero inference tokens; unsupported naming formats could not trigger model loading.
+
+Sixteen helper checks and twenty-four integration cases exercised the metadata
+boundary and preserved foreground selections. Deployed title checks established
+correct output and unchanged model/admission state. An earlier successful server-only task
+had omitted the failing workspace and was insufficient. A corrected real first
+turn used that exact context and inherited the intended local model/provider
+without an explicit model override; it completed correctly without errors. This
+server result was followed by user confirmation that the original desktop
+offered the intended model before the first message. A visible first answer
+remained a separate acceptance check.
+
+The engineering lesson is to diagnose the effective configuration in the exact
+execution context, including the origin of each setting, and to keep convenience
+metadata outside the resource authority of the user's primary task.
