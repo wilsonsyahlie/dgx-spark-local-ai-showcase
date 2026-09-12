@@ -1356,3 +1356,14 @@ Private browser coverage entered and exited every added map, checked shops, boug
 The deployed artifact and corresponding source matched the reviewed release, and seven durable character tables were identical across activation. An ordinary public saved character verified the new cab destination and insufficient-funds refusal without a currency grant. Full new-town travel was qualified privately on the identical artifact; public arrival was not claimed. The phone-width shell retained its desktop-play notice without overflow.
 
 Normal reconnect within the same browser restored rendered gameplay and the destination/refusal check. This qualifies recovery; it does not establish or fix the initial disconnect cause.
+
+
+## 2026-09-13 — Preserve original rooms while fixing a browser menu boundary
+
+The next town expansion admitted four original town, hotel and sauna maps without changing their gameplay geometry. An existing Dimensional Mirror NPC provides an explicitly labelled free shortcut between the starting town and the new destination. Original room fees and shop behavior are retained.
+
+Browser testing exposed an original hotel menu whose selection delimiter was consumed as a color macro. A narrowly scoped separator in web-player labels restored clickable options while preserving native labels, selection IDs and fees. The derived release changed only this script; the compiled game and all other frozen inputs stayed identical. The existing Java evidence was inherited explicitly, while actual script checks were rerun.
+
+Private browser play selected both rooms, paid their exact original fees, bought a potion, returned through the hotel and free shortcut, and rejoined with identical saved progress. The original music payload decoded and produced looping nonzero audio. An earlier private browser closure remains unexplained and is retained separately; the menu correction does not claim to fix that closure. Physical-speaker listening and automatic sauna recovery were not qualified.
+
+The deployed artifact and corresponding source matched the reviewed release, and seven saved-character tables were unchanged. An ordinary public saved character logged in and moved in the existing town without reconnecting in this run; the phone-width shell had no overflow. Full new-town travel was qualified privately on the identical artifact; no public new-town arrival is claimed. No character funding or database reset was used.
