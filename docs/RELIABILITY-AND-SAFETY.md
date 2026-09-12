@@ -248,3 +248,10 @@ starts in the user's home. Qualify the real login working directory as well as t
 Move only the ambiguous home-start case to a neutral project; preserve explicit project choices
 and other starting directories. Require a real remote agent turn and app-server discovery, then
 record desktop connection discovery separately until it is observed interactively.
+## Offline large-model discipline
+
+Repository identity, architecture, quantization and indexed serving artifacts are checked as
+one contract. Nested alternate exports do not become serving inputs merely because they share
+a file extension. Memory, concurrency, filesystem privileges and network reach remain bounded.
+First inference is exercised with offline parser assets, and the final claim depends on a real
+client turn—including a harmless tool call—not health status alone.

@@ -630,3 +630,15 @@ native and reject unsupported content.
 **Proof.** Focused compatibility tests, the complete controller suite, a cold selected-model load,
 and durable assistant output from the actual editor path. A reboot and exhaustive model-by-model
 qualification were recorded as limits.
+## From healthy endpoint to usable local coding model
+
+An official 120B checkpoint looked too large because repository-level counting included a
+second weight export that was not part of serving. Its root index provided a safer authority:
+select only referenced root shards and reject ambiguity. Exact identity checks kept this
+special format from weakening the broader model gate.
+
+A successful load still was not success. Offline first inference revealed a missing parser
+asset, and the actual editor revealed tool-schema types unsupported by the serving runtime.
+Pinned local parser data and a model-specific standard-function compatibility boundary fixed
+those failures without cloud fallback. The final evidence joined artifact integrity, memory
+containment, streaming, reasoning, function calling and a real editor tool turn.

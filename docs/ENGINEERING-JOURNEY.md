@@ -1279,3 +1279,17 @@ a real challenge or send an external test message; phone reception and reboot re
 unproven. The existing authenticated browser profile was retained, with the helper
 stopped after the necessary maintenance restart. Recovery preserves used delivery
 state and keeps service rollback separate from account/session data.
+## September 12 — making an official 120B model genuinely usable offline
+
+Adding a large model was not a download exercise. A dormant acquisition service first made
+the UI fail before inspection. Once restored, a generic scanner counted both serving shards
+and a nested archival export, while its quantization rule did not recognize the official
+checkpoint's format. The retained solution was deliberately narrow: exact model identity,
+authoritative root-index selection and unchanged rules for every other model.
+
+The model loaded, then failed its first answer because a reasoning parser wanted vocabulary
+data that the isolated runtime could not fetch. Pinning and verifying that data locally kept
+the no-egress promise. A final real-editor test uncovered unsupported modern tool wrappers;
+preserving ordinary functions while omitting incompatible wrappers made both assistant text
+and a shell-tool round trip work. Health checks were useful, but only the real client proved
+the requested outcome.

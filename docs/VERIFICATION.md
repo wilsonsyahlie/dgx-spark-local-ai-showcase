@@ -439,3 +439,10 @@ cannot replace current state, and an unauthenticated local display client is den
 - Independent plan and final reviews passed after the identified races were repaired.
 - Real challenge-message delivery, phone receipt and reboot were not tested. The
   timing evidence does not claim end-to-end messaging-provider delivery.
+## Official 120B local coding model
+
+Verification covered exact artifact selection and hashes, bounded isolated startup, offline
+first inference, authentication rejection, three reasoning levels, native function calling,
+streaming completion, retained web-chat configuration, real editor assistant output and a
+read-only shell-tool round trip. Two complete loads passed. Reboot, exhaustive loading of all
+other choices and a fresh browser-authenticated web-chat transcript were not claimed.

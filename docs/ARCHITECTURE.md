@@ -196,3 +196,10 @@ Remote control remains distinct from remote inference. An authenticated private 
 may start the workstation's coding-agent app server, but the model endpoints stay on workstation
 loopback and are never forwarded. An SSH-only launcher selects the isolated local identity;
 ordinary desktop and terminal launches keep their original identity.
+## Qualified large-model path
+
+Large models enter the isolated coding lane through immutable metadata and an authoritative
+root weight index, not recursive repository totals. Special quantization support is bound to
+one exact model identity. Runtime parser data is local, pinned and read-only; the model runs
+without egress behind the existing stable client alias. At the editor boundary, only standard
+function tools supported by the local runtime are forwarded.
