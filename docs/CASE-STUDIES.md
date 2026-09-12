@@ -651,3 +651,10 @@ A second-town expansion became a useful exercise in separating content already p
 Verification followed the player journey: enter the town, visit each interior, transact with a shop, reconnect with saved progress and return through the paid route. Exact original audio inputs and a running browser loop supported the music claim. Failed automated jumps were treated as limitations of the test route; adjusting input timing preserved the original map.
 
 The release kept the saved world intact. A before-and-after comparison covered permanent character state, while deployment checks verified the running artifact. Review improved the release procedure by binding inputs to reviewed hashes before downtime. Corresponding source was carried forward from the current release so an earlier access fix was not accidentally discarded. This is a retrospective engineering account, not a deployment recipe or a general correctness guarantee.
+
+
+### Map compatibility includes runtime types
+
+A sequential game expansion found thousands of differences between original client geometry and server map data. Replacing only collision, portals, ladders, occupants and map information preserved the original presentation. Numeric equality was necessary but insufficient: the server expected a floating-point wrapper type different from the first serialization. Independent review identified that boundary; a real parser assertion verified the correction without refactoring the map loader.
+
+The corrected release treated map data as a first-class artifact: frozen input hashes before downtime, exact copies, checks inside the running process's container, and a source recipe with input/output hashes. The earlier build launch also failed because a command was copied without its custom entrypoint; the corrected build used the same reviewed source. Neither failure was concealed by the later success.

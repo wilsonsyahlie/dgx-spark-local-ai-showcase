@@ -1329,3 +1329,10 @@ metadata outside the resource authority of the user's primary task.
 ### A second town without replacing the saved world
 
 Expanded an existing browser game through scoped server policy and travel changes while reusing original assets. Player-journey checks covered interiors, shopping, saved rejoin and return travel. Permanent player state matched across deployment; the public browser reached the added town with its original music. The useful lesson was to bind release inputs before downtime and correct test navigation without redesigning content.
+
+
+## 2026-09-13 — Original map compatibility in a sequential town expansion
+
+The next town exposed a compatibility problem that a map allowlist alone could not solve: the server geometry differed from the original client in the town and one interior. The change projected only gameplay sections from the original data while retaining the original visuals and music. The other interiors already matched.
+
+A numeric comparison initially passed while an incompatible XML numeric type remained. Independent review caught the server's typed parser requirement before activation; an actual parser check and exact regeneration then verified the correction. The release carried the map files with the server and scripts, preserved player saves across deployment, and retained reproducible source instructions without bundling original binary assets. Private browser coverage included interior travel, a purchase, saved rejoin, original audio and paid return travel. Public delivery and save preservation passed. An ordinary public shop sale funded the original cab fare; the new town then rendered with original music and restored the same saved inventory and stats on a fresh connection.
