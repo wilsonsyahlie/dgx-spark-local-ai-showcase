@@ -565,3 +565,13 @@ Focused compiled checks exercised the actual routing and packet-construction bod
 The ticket machine's existing reward flow already worked. The owner chose administrator-issued tickets only, so the change corrects its ticket-source instructions while preserving native loot pools and odds. A regular player picked up administrator-issued tickets, cancelled without consumption, redeemed one ticket for one item, and retained the reward and remaining ticket after reconnecting. Controlled script checks also covered missing tickets, full inventory and repeated responses. An audit browser guard stopped the first controlled death test; a dedicated resurrection observer enabled the intended test. Another browser closed after a successful reward, and a fresh login confirmed saved recovery; the closure cause was not inferred.
 
 Activation preserved the server program, all original assets, credentials, grants and existing character data while replacing the client and ticket instructions. Program backups, sealed lifecycle checks, byte-identical saved-character exports and normal public login/movement provide the deployment evidence. No public administrator account or tickets were created for qualification. An immediate post-start readiness check ran before database authority was acquired; a later bounded readiness check verified the same running processes without another activation. The lesson is to test both hotkeys and the skill window, and verify actual recipient delivery and saved recovery rather than mistaking a visible skill or reward prompt for working behavior.
+
+
+## 2026-09-13 — Town and transport qualification
+
+- Passed focused server and actual-script checks for admission, payment, dialog types, stale callbacks, cancellation and duplicate actions.
+- Parsed all added maps with the real typed reader and checked original geometry, audio inputs and bidirectional tower connectivity.
+- Observed both natural private flights, original shop purchases, building re-entry, town persistence and interrupted-cabin return; browser music reached playing state without audio errors.
+- Verified preserved saved-character exports, serving identities, mounted programs, public delivery and ordinary public login/movement.
+- Kept full tower traversal, one reverse cabin approach, physical listening and the randomized encounter explicitly unqualified. Private administrator positioning was distinguished from ordinary travel.
+- Retained backups and failed test-harness attempts; rollback must preserve newly admitted saved destinations and used player data.
