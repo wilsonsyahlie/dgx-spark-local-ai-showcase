@@ -756,3 +756,12 @@ A browser game expansion connected two original towns through their tower and ai
 The engineering challenge was the journey lifecycle: old timer callbacks and delayed boarding confirmations must not act on a new departure. Captured generations, consistent lock ordering and authoritative boarding checks addressed those cases. Private browser qualification observed both natural flights, shop purchases, saved town recovery and a safe return after disconnecting in a cabin. Focused server, script and typed-data checks complemented the browser evidence.
 
 The complete tower traversal and one reverse cabin approach were not manually qualified; original geometry and portal connectivity were checked instead. Some positioning used a private administrator fixture. Physical listening and a randomized encounter were also outside the evidence. Public saved login and delivered artifacts were verified separately, while existing player data was preserved. The retrospective lesson is to test where a journey ends and how it recovers, and to label automated navigation limits honestly.
+
+
+## 2026-09-13 — Original towns, scheduled travel and readable windows
+
+A browser game expansion added toy-themed and underwater towns, original interiors and a short round-trip train. The work retained original artwork and music, validated typed map geometry and prevented unsupported travel from charging a fare.
+
+A shared text-rendering correction removed extra leading before the first glyph baseline, bringing inventory, shop, statistics and skill text back into alignment with the original window artwork. Focused tests also covered newline handling and cleared text. Real menu testing then exposed a formatting-token collision in a new destination label that script-only payment tests could not detect; the established option-markup convention fixed it.
+
+The train reused authoritative boarding checks and generation-bound scheduling. Server, script and typed-data tests were complemented by native browser purchases and travel, with public delivery and saved login checked separately. Existing saved data was preserved. Full wilderness traversal, physical-speaker listening and every possible text window were not claimed. The engineering lesson is to validate the user's click and the journey's destination, not only the intermediate function call.

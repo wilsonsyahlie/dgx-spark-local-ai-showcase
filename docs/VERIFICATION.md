@@ -575,3 +575,13 @@ Activation preserved the server program, all original assets, credentials, grant
 - Verified preserved saved-character exports, serving identities, mounted programs, public delivery and ordinary public login/movement.
 - Kept full tower traversal, one reverse cabin approach, physical listening and the randomized encounter explicitly unqualified. Private administrator positioning was distinguished from ordinary travel.
 - Retained backups and failed test-harness attempts; rollback must preserve newly admitted saved destinations and used player data.
+
+
+## 2026-09-13 — Town and text expansion evidence
+
+- Focused server checks, actual travel-script cases and typed parsing of every added map passed.
+- Compiled text-layout regression cases passed after reproducing the baseline failures; representative native windows and clickable dialogue were visually checked.
+- Private native purchases and building portals passed; the relevant town and client code is unchanged in the public release.
+- Public saved-character exports, serving identities, mounted programs, protected delivery and ordinary login were verified independently of private gameplay.
+- The narrow-viewport check retained the existing fixed desktop canvas and horizontal overflow; mobile gameplay remains unsupported. Full tower and underwater-road traversal, every NPC/shop/window variation and physical-speaker listening remain outside the evidence. Administrator positioning was limited to the private fixture.
+- Automated browser interruptions and their recovery evidence were retained rather than reported as successful runs. Program rollback retains new saved destinations and does not restore used player data.
