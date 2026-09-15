@@ -1461,3 +1461,9 @@ The operational lesson is to qualify the complete artifact, runtime, parser and 
 Serving health alone cannot show whether an agent will preserve tool structure across turns, and a
 large advertised context does not justify unbounded sessions. Explicit selection, narrow milestones,
 structural workflow guards and truthful model-quality notes remain necessary.
+
+## Sep 15 — A bounded autonomous coding profile on a local GPU
+
+An existing local coding model gained a separate command-line agent profile while the workstation's normal assistant identities stayed intact. The profile pins local inference, clears inherited cloud-model credentials, exposes only project-oriented tools and enforces finite turns, tool calls, elapsed time, starting-directory safety and one session at a time.
+
+The first end-to-end task exposed failures that a healthy endpoint could not: unnecessary delegation, followed by a confident completion message when write tools were unavailable. Explicit tool registration and structural removal of delegation corrected the harness. The final canary recovered from a missing file, searched and read context, wrote the requested value and verified it. A write outside the project was declined with no resulting file. Interactive terminal use and reboot persistence remain outside the measured evidence.

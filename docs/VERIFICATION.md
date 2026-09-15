@@ -585,3 +585,10 @@ Activation preserved the server program, all original assets, credentials, grant
 - Public saved-character exports, serving identities, mounted programs, protected delivery and ordinary login were verified independently of private gameplay.
 - The narrow-viewport check retained the existing fixed desktop canvas and horizontal overflow; mobile gameplay remains unsupported. Full tower and underwater-road traversal, every NPC/shop/window variation and physical-speaker listening remain outside the evidence. Administrator positioning was limited to the private fixture.
 - Automated browser interruptions and their recovery evidence were retained rather than reported as successful runs. Program rollback retains new saved destinations and does not restore used player data.
+
+## 2026-09-15 — Local coding-agent qualification
+
+- [x] Records explicit project tools, no delegation and bounded execution in a separate profile.
+- [x] Records a real read/write/read-back recovery task and an outside-project denial with no side effect.
+- [x] Records negative checks for overrides, unsafe roots, missing state, overlapping sessions and a reduced tool budget.
+- [ ] Keeps interactive terminal behavior and reboot persistence outside the claim.

@@ -765,3 +765,11 @@ A browser game expansion added toy-themed and underwater towns, original interio
 A shared text-rendering correction removed extra leading before the first glyph baseline, bringing inventory, shop, statistics and skill text back into alignment with the original window artwork. Focused tests also covered newline handling and cleared text. Real menu testing then exposed a formatting-token collision in a new destination label that script-only payment tests could not detect; the established option-markup convention fixed it.
 
 The train reused authoritative boarding checks and generation-bound scheduling. Server, script and typed-data tests were complemented by native browser purchases and travel, with public delivery and saved login checked separately. Existing saved data was preserved. Full wilderness traversal, physical-speaker listening and every possible text window were not claimed. The engineering lesson is to validate the user's click and the journey's destination, not only the intermediate function call.
+
+## 2026-09-15 — Qualifying a bounded local coding agent
+
+A local model endpoint and valid structured call were necessary but insufficient evidence for autonomous coding. The first real task delegated a trivial edit; after delegation was removed, the next attempt claimed success without a registered write tool.
+
+The corrected isolated profile declared its project tools explicitly, excluded delegation, pinned local inference and enforced finite resource and directory boundaries. A real recovery task then searched, read, wrote and verified the requested file. A deliberate write outside the project was declined and produced no artifact. Negative checks covered provider overrides, unsafe roots, missing profile state, session overlap and a forced low tool budget. Interactive terminal behavior and reboot persistence were left unqualified.
+
+The lesson is simple: judge an agent by observed tool use and final state, not by endpoint health or a persuasive completion message.
