@@ -1443,3 +1443,21 @@ A browser game expansion added toy-themed and underwater towns, original interio
 A shared text-rendering correction removed extra leading before the first glyph baseline, bringing inventory, shop, statistics and skill text back into alignment with the original window artwork. Focused tests also covered newline handling and cleared text. Real menu testing then exposed a formatting-token collision in a new destination label that script-only payment tests could not detect; the established option-markup convention fixed it.
 
 The train reused authoritative boarding checks and generation-bound scheduling. Server, script and typed-data tests were complemented by native browser purchases and travel, with public delivery and saved login checked separately. Existing saved data was preserved. Full wilderness traversal, physical-speaker listening and every possible text window were not claimed. The engineering lesson is to validate the user's click and the journey's destination, not only the intermediate function call.
+
+
+## Testing an FP8 coding model as an explicit local choice
+
+A smaller, agent-focused mixture-of-experts model looked promising for long coding jobs, but a
+model-card benchmark was not enough to judge its behavior in an agent harness. The candidate was
+kept separate from existing choices and added without changing the default.
+
+Testing moved from configuration checks to structured function-call extraction, tool-result
+continuation, a long-context sentinel and a Codex file-edit probe. The protocol carried real read,
+write and read-back calls, but the model selected a shell write instead of the requested patch tool
+and attempted an unnecessary extra read. This supports protocol compatibility only; reliable
+workflow obedience remains unproven.
+
+The operational lesson is to qualify the complete artifact, runtime, parser and harness path.
+Serving health alone cannot show whether an agent will preserve tool structure across turns, and a
+large advertised context does not justify unbounded sessions. Explicit selection, narrow milestones,
+structural workflow guards and truthful model-quality notes remain necessary.
