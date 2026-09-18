@@ -1,5 +1,40 @@
 # Engineering journey
 
+## A monitoring page must be designed against its own confident zero
+
+A read-only health cockpit was added to answer whether the machine is healthy without
+opening a terminal, reachable only from the private mesh network, and deliberately
+unable to start, stop, or restart anything. The interesting part was not the panels; it
+was making the page incapable of lying.
+
+The first start crash-looped with no listener at all, because a threading server class
+was imported under a name this Python version does not export, so the process died on
+import while the supervisor cheerfully restarted it. That failure was easy to find.
+Three later ones were worse, because they returned valid data that was wrong: timer
+columns read by fixed token position reported zero timers on a host with eighteen, since
+each date cell expands to four tokens; peer liveness was tested for a self-marker the
+chosen output mode never prints, so every device read offline while the cockpit was
+itself being served over that network; and a temperature unit guess mis-scaled a
+millidegree reading into an implausible value that its own plausibility check discarded.
+
+The most instructive failure was in the interface. Degradation guards tested for an
+explicit null, but a probe that omits a key yields an absent value, which passes that
+test and then throws when formatted. Panels were rendered in sequence inside a single
+guarded block, so a throw in one renderer aborted every later renderer: one degraded
+section could blank most of the page while the network request still reported success.
+The fix made null and absent equivalent to the renderer, and made it impossible for a
+panel to render blank at all, because a blank panel reads as "nothing to report" exactly
+like a zero does.
+
+Verification is headless on both sides: a pure-data harness forces every probe to fail
+and asserts nothing comes back as a fabricated zero, and a sandboxed run of the real page
+script renders the live payload, an all-unknown payload, and one carrying hostile text,
+asserting every panel renders each time and that markup survives only as escaped text.
+The layout itself has still never been seen in a browser, and the panels inherit the
+output shapes of the host commands they read, so a column change degrades a panel to a
+reported failure rather than an invention.
+
+
 ## Work-only ingestion recovered from admission debt
 
 A local work-document pipeline became unable to resume after ambiguous inference leases

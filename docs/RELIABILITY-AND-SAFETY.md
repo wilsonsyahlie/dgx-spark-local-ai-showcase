@@ -72,6 +72,17 @@ user contract.
 | Scheduled | Natural execution, next-run truth, terminal child state, artifact, delivery receipt |
 
 ## Lessons retained
+- A monitoring page fails safest when an unmeasurable value is carried as *unknown* from
+  the probe all the way to the pixel. Both a fabricated zero and a blank panel read to a
+  human as an all-clear, so both are prohibited rather than discouraged.
+- Positional parsing of human-oriented command output is a standing liability: variable
+  width fields silently shift every later column. Match a shape or request a
+  machine-readable format, and assert a non-empty result against a host known to be
+  non-empty.
+- A render pass must isolate per-item failures. One section that cannot format its data
+  must not be able to suppress the sections after it while the transport still reports
+  success.
+
 
 - A build is not an activation.
 - An HTTP success is not a completed workflow.
