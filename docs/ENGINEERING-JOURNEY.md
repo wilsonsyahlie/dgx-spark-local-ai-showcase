@@ -1601,3 +1601,50 @@ a network address, those read very differently, so the record now says which.
 
 Not tested: whether the restored state behaves identically after a host reboot
 while disabled, since the unit was never re-enabled to check.
+
+## 2026-09-18 — painting a whole world at boot so nothing had to be downloaded
+
+The request was a browser game with a real visual payoff, where the art is
+genuinely made rather than assembled from default shapes, and where nothing is
+fetched at runtime. Those two constraints together decide the architecture: the
+assets have to be painted in code, at start-up, into offscreen canvases.
+
+So the sun is a radial gradient with horizontal bands punched out of its lower
+half and a halo around it; the mountains are seeded ridgelines stroked with a rim
+light; the palms are layered quadratic blades whose tips pick up the colour of
+whichever side the light comes from; the traffic cars get a side-to-side shading
+ramp, a trapezoid of rear glass with a reflection streak, and tail lights drawn as
+a dark housing plus a blurred bright core. Every sprite also gets a white-overdraw
+twin used as its hit flash. Then the finished frame is downsampled, blurred, and
+added back with an additive blend, which is what makes the neon read as emissive
+rather than as bright paint.
+
+The other decision was the projection. A road built from segments, where each one
+is a trapezoid between two projected endpoints, gives real hills, real curves, and
+correct overlap ordering for roadside objects, and it looks three-dimensional for
+a few hundred lines of arithmetic. The curve data doubles as the minimap outline,
+so there is never a second description of the world that can drift out of sync.
+
+Both harnesses found defects that reading the code could not:
+
+1. The roadside registry stored some entries as a wrapper object and some as a raw
+   canvas, and the render call unwrapped them with an inline "either one"
+   expression. Every entry type that happened to lack the field silently passed a
+   plain object into the canvas API, while all the others looked perfectly fine.
+2. The minimap cached its polyline as a property on the 2D context object, and a
+   local variable inside the same function shared the name of a module-level
+   drawing helper. A rendering context is not general storage, and the read came
+   back as something with the wrong shape.
+3. A centrifugal force could reach twice the steering rate, so the tightest
+   corners were not difficult, they were unholdable. This presented as four
+   failing "keyboard input" tests, and the input code was innocent.
+4. Checkpoint gates were de-duplicated by index-modulo, where the modulo equalled
+   the spacing between gates. Every gate therefore looked like the same gate: at
+   most one could ever fire in a run, and it was usually the start line handing
+   out a free bonus.
+
+Not tested: no real browser session was available, so the art direction and the
+frame rate on this hardware remain unverified. The harness proves logic, draw-call
+volume, and that generated canvases are actually blitted, not what the image looks
+like. Cross-device latency and a real phone touch layout are unverified, and audio
+was exercised only as a mute surface without an audio context.
