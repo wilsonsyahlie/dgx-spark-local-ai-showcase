@@ -1505,3 +1505,31 @@ Not tested: a second physical device on the mesh, so cross-device latency and a
 real phone touchscreen layout remain unverified. Delivery is plain HTTP inside
 the private mesh; the hostnamed secure form depends on mesh certificate
 settings that were not part of the request.
+
+## 2026-09-18 — turning the mesh-only game off, and keeping the record honest
+
+The owner played the mesh-scoped browser game once and then asked for it to be
+stopped. What is worth writing down is not the stop itself but how it was
+performed: the rollback path that had been documented at delivery time was
+executed exactly as written, and each claim in it was measured instead of
+assumed. The service went to disabled and inactive, the mesh-address listener
+disappeared, no server process remained, and a request that had returned success
+a minute earlier was refused.
+
+Nothing was deleted. The page, the launcher, the tests, and the service unit all
+stay in place, so a single enable restores the delivered state. For a hobby
+service that is the right trade: stopping is reversible and needs no rebuild, so
+the verification evidence collected at delivery stays valid for the next start
+rather than expiring the moment the process exits.
+
+The durable lesson concerns documentation rather than operations. Verification
+evidence describes the state at the moment it was gathered, and stays true as a
+historical claim even after that state ends. A reader who finds the record later
+has no way to distinguish "measured and still running" from "measured and long
+gone", and for something that once listened on a network address those two read
+very differently. Any record of a network-exposed component now carries an
+explicit statement of whether it is running at the time of reading, updated when
+that changes.
+
+Not tested: whether the restored state behaves identically after a host reboot
+while disabled, since the unit was never re-enabled to check.
