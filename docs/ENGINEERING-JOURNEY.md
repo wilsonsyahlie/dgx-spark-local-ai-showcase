@@ -1533,3 +1533,47 @@ that changes.
 
 Not tested: whether the restored state behaves identically after a host reboot
 while disabled, since the unit was never re-enabled to check.
+
+## 2026-09-18 — a full arena survival game with nothing downloaded
+
+A large request in one sitting: a browser survival arena game with auto-firing
+weapons, a scaling swarm, experience and upgrade choices, a timed boss, sound,
+and touch control — delivered as three plain files with no build step.
+
+The constraining decision was to download nothing. Every sprite is painted into
+an offscreen canvas during boot, including a white-overdraw variant of each one
+that serves as the hit flash, and every sound is an oscillator or a filtered
+noise burst built on the first user gesture. That removes both the supply-chain
+surface a content delivery network adds and the failure mode of a game that
+cannot render because a request failed. It also made the whole game testable
+without a browser, which turned out to matter more than anything else here.
+
+Two harnesses were built rather than one. The first evaluates the real page
+script in a sandboxed context against a stubbed document, canvas, and audio
+surface, and asserts both the game rules and the feature checklist. The second
+plays eight simulated minutes, watches for thrown errors and unbounded entity
+growth, then probes the boss schedule deterministically. Both found real defects
+that no amount of reading the code would have:
+
+1. A reference to an undeclared variable inside one weapon's branch survived
+   every static check and threw only the first time a player equipped that
+   weapon. A syntax check cannot see an identifier that only exists at runtime,
+   so every branch that touches a new subsystem has to be executed.
+2. Pause set a state flag that only the frame loop honoured, so a direct
+   simulation call advanced the clock while the game said it was paused. The fix
+   moved the guard into the function that mutates state, which closes the bypass
+   for every present and future caller.
+3. A population ceiling checked in the continuous spawn loop was walked around by
+   the scripted waves and by boss summons, and the field ran twenty percent over
+   its intended cap. Enforcing the limit inside the allocating function turned it
+   into a single invariant instead of a per-producer convention.
+4. One failing assertion claimed the second boss never arrived. The code was
+   right: a live boss intentionally suppresses the next spawn so two health bars
+   never stack. The test was rewritten to state the actual rule. This is the
+   useful counterexample to trusting a red test, and the reason a failing
+   assertion about a design rule gets re-read before any code is edited.
+
+Not tested: no real browser session was available, so frame rate on this
+hardware, cross-device latency, and a real phone touch layout remain unverified.
+The harness proves logic and draw-call correctness, not visual quality, and audio
+was exercised only as a mute-togglable surface without an audio context.
