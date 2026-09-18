@@ -1577,3 +1577,27 @@ Not tested: no real browser session was available, so frame rate on this
 hardware, cross-device latency, and a real phone touch layout remain unverified.
 The harness proves logic and draw-call correctness, not visual quality, and audio
 was exercised only as a mute-togglable surface without an audio context.
+
+## 2026-09-18 — stopping the arena game, and applying the running-state rule on purpose
+
+The owner played the generated-asset arena game and asked for the server to be
+stopped. The notable part is that nothing new had to be worked out: the rollback
+path written at delivery time was executed exactly as written, and each claim in
+it was measured instead of assumed. The service went to disabled and inactive,
+its autostart link was removed, the mesh-address listener disappeared, no server
+process remained, and a request that had succeeded moments earlier was refused.
+
+Nothing was deleted. The page, the launcher, both test harnesses, and the service
+unit all stay in place, so a single enable restores the delivered state and the
+verification evidence collected at delivery stays valid for the next start rather
+than expiring when the process exits.
+
+This was the first time the running-state rule recorded in the earlier
+mesh-scoped serving entry was applied as a rule rather than discovered as an
+afterthought: verification evidence describes the state at the moment it was
+gathered, and a reader who finds the record later cannot distinguish "measured
+and still listening" from "measured and long gone". For anything that once held
+a network address, those read very differently, so the record now says which.
+
+Not tested: whether the restored state behaves identically after a host reboot
+while disabled, since the unit was never re-enabled to check.
