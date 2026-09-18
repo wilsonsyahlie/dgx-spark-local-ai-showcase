@@ -1467,3 +1467,41 @@ structural workflow guards and truthful model-quality notes remain necessary.
 An existing local coding model gained a separate command-line agent profile while the workstation's normal assistant identities stayed intact. The profile pins local inference, clears inherited cloud-model credentials, exposes only project-oriented tools and enforces finite turns, tool calls, elapsed time, starting-directory safety and one session at a time.
 
 The first end-to-end task exposed failures that a healthy endpoint could not: unnecessary delegation, followed by a confident completion message when write tools were unavailable. Explicit tool registration and structural removal of delegation corrected the harness. The final canary recovered from a missing file, searched and read context, wrote the requested value and verified it. A write outside the project was declined with no resulting file. Interactive terminal use and reboot persistence remain outside the measured evidence.
+
+## 2026-09-18 — serving a hobby browser game to only one private network
+
+A small request: a browser game reachable from every personal device, and from
+nothing else. The engineering interest is entirely in the boundary, because the
+obvious implementation is wrong. A static file server with a default
+configuration binds every interface, so the game becomes reachable from the
+local network and from anything routed to the host, while still appearing to be
+a perfectly healthy private toy.
+
+The launcher therefore resolves the node's address on the private mesh at start
+and binds exactly that address. The exposure limit is enforced by the socket the
+process owns, not by a firewall rule that a future edit could widen or forget.
+An explicit override exists so a wider bind is always a deliberate act rather
+than a default. Nothing in the page is fetched at runtime, so the game works
+with no outbound network at all, which also removes the supply-chain surface a
+convenience CDN would have added.
+
+Two lessons came from verification rather than from design. First, a browser
+partially executes an inline script that fails a syntax check, so the page
+appeared to work while part of its logic never loaded; the reliable check is to
+extract the script body and construct a function from it, which is now a
+standing part of the test harness. Second, after the persistent service unit was
+enabled, the endpoint answered successfully while the unit itself was crash
+looping, because a manually started copy still held the port. An answering
+endpoint is not evidence that the intended owner is serving it; the owning
+process has to be identified.
+
+The rules of the game itself were encoded as headless assertions against the
+page script inside a sandboxed context with a stubbed document. Several failures
+turned out to be wrong assertions rather than wrong code, which is the useful
+argument for testing game logic outside a browser: the disagreement forces the
+rule to be written down precisely.
+
+Not tested: a second physical device on the mesh, so cross-device latency and a
+real phone touchscreen layout remain unverified. Delivery is plain HTTP inside
+the private mesh; the hostnamed secure form depends on mesh certificate
+settings that were not part of the request.
