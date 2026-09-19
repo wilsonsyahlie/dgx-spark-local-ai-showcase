@@ -28,3 +28,10 @@ ordinary chat with tools attached returned normal text, and an explicit request 
 a parsed function call. The production alias was updated only after both cases passed, and
 the same paths then passed through the authenticated web endpoint. No external tool was
 invoked, and the weights and context policy did not change.
+
+The original acquisition tag still appeared as a second model choice and kept its old
+prompt-only capability. After the repaired alias proved it independently retained the
+shared weights, only the raw manifest was removed. The interface then exposed one working
+Hermes entry, and a fresh tool-bearing chat passed without a model reload or service
+restart. Catalog clarity is part of reliability when two names for one artifact carry
+different runtime policy.

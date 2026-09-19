@@ -28,6 +28,12 @@ that an explicit request became a parsed structured call. The visible alias chan
 after both paths passed through the authenticated web endpoint. Capability metadata and
 prompt rendering are therefore part of deployment, not cosmetic model-card details.
 
+One last ambiguity remained: the raw acquisition tag was still listed beside the repaired
+alias and retained its prompt-only behavior. Removing only that manifest left the shared
+weights and resident alias intact, reduced the interface to one working choice, and avoided
+a reload. A source identifier useful during installation can become a product defect when
+it remains selectable after a policy alias takes ownership of the user experience.
+
 ## A monitoring page must be designed against its own confident zero
 
 A read-only health cockpit was added to answer whether the machine is healthy without
