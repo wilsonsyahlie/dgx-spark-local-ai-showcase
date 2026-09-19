@@ -19,3 +19,12 @@ This evidence supports immediate single-user chat at the configured context poli
 does not claim full 32K saturation, parallel throughput, or long-duration stability.
 Rollback unloads the model, removes its two catalog entries, verifies their disappearance,
 and restores the former workload only after its existing memory floor passes.
+
+A later greeting exposed a template boundary. The weights supported the model's documented
+tool protocol, but the imported artifact lacked a tokenizer template and the local alias
+used a prompt-only fallback. The runtime therefore rejected requests whenever the web
+interface attached tools. A temporary alias qualified a current ChatML tool template:
+ordinary chat with tools attached returned normal text, and an explicit request returned
+a parsed function call. The production alias was updated only after both cases passed, and
+the same paths then passed through the authenticated web endpoint. No external tool was
+invoked, and the weights and context policy did not change.

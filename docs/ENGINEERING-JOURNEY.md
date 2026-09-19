@@ -20,6 +20,14 @@ The broader lesson is that downloaded weights are only inventory. Availability r
 identity, integrity, resource policy, catalog discovery, and live user-path behavior to
 agree. Full-context load, concurrency, and long-duration stability remain open evidence.
 
+The first live user greeting revealed another layer: the alias could generate text, but
+its prompt-only template made the runtime advertise no tool capability. A tool-aware web
+request was rejected before the model saw it. A current ChatML tool template was tested
+on a temporary alias, first proving that ordinary chat did not invent tool calls and then
+that an explicit request became a parsed structured call. The visible alias changed only
+after both paths passed through the authenticated web endpoint. Capability metadata and
+prompt rendering are therefore part of deployment, not cosmetic model-card details.
+
 ## A monitoring page must be designed against its own confident zero
 
 A read-only health cockpit was added to answer whether the machine is healthy without
