@@ -203,3 +203,15 @@ root weight index, not recursive repository totals. Special quantization support
 one exact model identity. Runtime parser data is local, pinned and read-only; the model runs
 without egress behind the existing stable client alias. At the editor boundary, only standard
 function tools supported by the local runtime are forwarded.
+
+## Generated images cross a staging boundary
+
+A separate local GPU worker can keep image generation out of the coding model's memory
+pool. Requests are bounded data against a fixed graph, with durable identity before
+submission and an engine job identity afterward. Asset and vision work share a
+cooperative accelerator lock and fail closed when queue, memory, activity or process
+ownership cannot be established.
+
+Only an owned output enters staging. Both hosts verify it, and image plus provenance
+manifest become visible together. Staging is not deployment: game integration remains
+a separate reviewed change.

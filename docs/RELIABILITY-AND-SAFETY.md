@@ -266,3 +266,15 @@ one contract. Nested alternate exports do not become serving inputs merely becau
 a file extension. Memory, concurrency, filesystem privileges and network reach remain bounded.
 First inference is exercised with offline parser assets, and the final claim depends on a real
 client turn—including a harmless tool call—not health status alone.
+
+### Publish the artifact and its provenance together
+
+Validate request identity before constructing any path. Persist intent before an
+external submission and preserve uncertainty when response ownership is lost; never
+turn a polling error into permission to repeat work. Coordinate local accelerator users
+with one lock and fail closed when process ownership cannot be proved.
+
+Expected hashes become evidence only after reading the actual files. Check unresolved
+path components before canonicalization, retrieve only an owned output, and make the
+artifact and manifest visible through one atomic boundary. A cooperative lock still
+cannot govern unrelated software that ignores it, so document that scheduling limit.

@@ -592,3 +592,14 @@ Activation preserved the server program, all original assets, credentials, grant
 - [x] Records a real read/write/read-back recovery task and an outside-project denial with no side effect.
 - [x] Records negative checks for overrides, unsafe roots, missing state, overlapping sessions and a reduced tool budget.
 - [ ] Keeps interactive terminal behavior and reboot persistence outside the claim.
+
+## Local generated-asset staging evidence
+
+- [x] Fresh output decoded and matched across producer and receiver.
+- [x] Exact replay reconciled; conflicting identity, traversal and oversized input failed closed.
+- [x] Shared accelerator and per-request lock contention were exercised.
+- [x] Poll loss retained submitted ownership; linked output storage was rejected before canonicalization.
+- [x] Artifact and provenance manifest appeared together and remained explicitly unintegrated.
+- [x] Interrupted transfer bytes were preserved and a fresh retry promoted only verified content.
+- [x] Idle queue, released model residency and restored accelerator headroom were measured.
+- [ ] Transparent sprites, animation, tileability, style consistency and game integration remain outside the claim.

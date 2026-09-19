@@ -1780,3 +1780,22 @@ document overlay and nothing draws on the canvas until a run starts — which lo
 exactly like a rendering failure and was instead a measurement-ordering error.
 
 Details in [case-studies/the-browser-that-was-already-installed.md](case-studies/the-browser-that-was-already-installed.md).
+
+## The manifest has to arrive with the picture
+
+A local coding workflow moved draft image creation to a separate consumer GPU so the
+large coding model did not have to be repeatedly unloaded. The image worker accepted a
+small data contract and owned the generation graph; its output stayed in review staging
+instead of becoming a game asset automatically.
+
+Independent review found that a successful image hid several lifecycle gaps: identity
+validation happened after path construction, concurrent calls could both submit, failed
+process inspection looked like an idle machine, and a crash could expose the PNG before
+its manifest. The corrected design validates before touching storage, shares one lock
+with the vision worker, preserves uncertain submission state, checks actual model files,
+and publishes the image and provenance record as one atomic directory.
+
+The final evidence included a fresh decoded image, exact replay without regeneration,
+conflicting and oversized request rejection, lock contention, path-escape rejection,
+poll-loss recovery and restored accelerator headroom. The image remained a draft. Full
+write-up: [case-studies/durable-local-asset-staging.md](case-studies/durable-local-asset-staging.md).
