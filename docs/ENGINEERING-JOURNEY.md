@@ -1717,3 +1717,11 @@ frame rate on this hardware remain unverified. The harness proves logic, draw-ca
 volume, and that generated canvases are actually blitted, not what the image looks
 like. Cross-device latency and a real phone touch layout are unverified, and audio
 was exercised only as a mute surface without an audio context.
+## A practical sparse model for local web chat
+
+We added a 25B-class mixture-of-experts vision-language model to a workstation
+chat interface through a policy alias. The alias bounded context at 32K and
+carried explicit sampling defaults. Validation covered exact text generation,
+structured tool invocation, and full accelerator residency at roughly 18 GB.
+The exercise reinforced that catalog presence is only the start: the exact
+user-facing alias needs capability, context, and memory checks of its own.
