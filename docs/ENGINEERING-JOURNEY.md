@@ -1744,3 +1744,23 @@ coding model's independent memory floor. During the live test, an active chat
 request finished naturally before handoff; the coding request then completed.
 This turned a truthful resource refusal into a safe automatic transition without
 weakening either lane's protections.
+
+## Baking the art instead of drawing it, twice
+
+The fourth browser game in this line was the first where the request was about
+the asset pipeline itself: make the pictures look drawn, without downloading or
+fetching anything. The answer used both routes at once — pre-baked PNG atlases
+produced off-line by a deterministic script with a separate emissive pass, and a
+procedural drawing path retained for every one of those images.
+
+It is also the most honest example in this repository of a harness finding real
+defects rather than confirming intended behaviour. Deleting an atlas exposed a
+fallback path that had never once executed and contained a scope error. A palette
+helper that passed every assertion on its input table formatted a colour
+containing `NaN` and painted nothing. A blank-frame check reported failure while
+the renderer drew, because the measurement object was not the drawing object.
+Two of the failures were not code defects at all but design geometry: hull
+pressure that scaled faster than the player could swim out of it, and a maximum
+depth rating shallower than the depth where the boss spawns.
+
+Details in [case-studies/generated-asset-abyss-diver.md](case-studies/generated-asset-abyss-diver.md).

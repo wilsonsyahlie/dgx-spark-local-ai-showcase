@@ -773,3 +773,12 @@ A local model endpoint and valid structured call were necessary but insufficient
 The corrected isolated profile declared its project tools explicitly, excluded delegation, pinned local inference and enforced finite resource and directory boundaries. A real recovery task then searched, read, wrote and verified the requested file. A deliberate write outside the project was declined and produced no artifact. Negative checks covered provider overrides, unsafe roots, missing profile state, session overlap and a forced low tool budget. Interactive terminal behavior and reboot persistence were left unqualified.
 
 The lesson is simple: judge an agent by observed tool use and final state, not by endpoint health or a persuasive completion message.
+
+## Baking the art instead of drawing it, twice
+
+A browser game whose art had to look drawn rather than generated, delivered as
+pre-baked atlases plus a retained procedural path for every image. The harness
+that deleted the atlases found a fallback branch that had never executed; the
+assertion on the formatted colour string found a `NaN` that no data assertion
+could see. Full write-up:
+[case-studies/generated-asset-abyss-diver.md](case-studies/generated-asset-abyss-diver.md).
