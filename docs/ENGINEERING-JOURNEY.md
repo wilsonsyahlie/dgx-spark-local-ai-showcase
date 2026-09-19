@@ -1725,3 +1725,12 @@ carried explicit sampling defaults. Validation covered exact text generation,
 structured tool invocation, and full accelerator residency at roughly 18 GB.
 The exercise reinforced that catalog presence is only the start: the exact
 user-facing alias needs capability, context, and memory checks of its own.
+
+## Moving the sparse model between two local systems
+
+After qualifying the model on a discrete-GPU workstation, we repeated the work
+on a unified-memory system through its guarded inference path. The switch waited
+for an idle boundary, then proved catalog discovery, exact text, structured tool
+calling, and the actual web-chat route. The model occupied roughly 18 GB and left
+ample headroom, showing why deployment evidence must be collected independently
+on each hardware and routing topology.
