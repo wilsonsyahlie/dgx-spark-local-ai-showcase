@@ -32,3 +32,15 @@ The final rereview found an interrupted-copy trap: a truncated hidden image coul
 mistaken for reusable progress forever. The corrected path preserves bad bytes for
 evidence, gives every retry a fresh unique download, and promotes only verified content.
 An injected interrupted copy recovered on the next attempt.
+
+## Quality is a fixed contract, not an arbitrary knob panel
+
+The first fast proof looked generic despite passing every reliability check. The worker
+therefore added one reviewed presentation profile while retaining the fast draft profile.
+Profile choice is bound into request identity and provenance. Historical requests map
+only to their original draft behavior, and reusing an identity across profiles fails.
+
+The fresh presentation candidate showed stronger detail, lighting, framing, depth and
+scale, while its stylized vehicle remained unsuitable as a literal gameplay sprite. That
+distinction matters: extra sampling effort can support better art, but the actual image
+still needs human assessment. It remained staged and unintegrated.

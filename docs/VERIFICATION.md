@@ -603,3 +603,11 @@ Activation preserved the server program, all original assets, credentials, grant
 - [x] Interrupted transfer bytes were preserved and a fresh retry promoted only verified content.
 - [x] Idle queue, released model residency and restored accelerator headroom were measured.
 - [ ] Transparent sprites, animation, tileability, style consistency and game integration remain outside the claim.
+
+## Higher-effort image-profile evidence
+
+- [x] A fixed presentation profile retained the existing fast draft path.
+- [x] Legacy draft replay remained valid and cross-profile identity reuse failed.
+- [x] Selected model inputs and profile settings entered durable provenance.
+- [x] Fresh high-effort output showed stronger visual hierarchy and detail while remaining staged.
+- [ ] Exact gameplay-asset fidelity, consistency, transparency, animation and integration remain outside the claim.

@@ -278,3 +278,10 @@ Expected hashes become evidence only after reading the actual files. Check unres
 path components before canonicalization, retrieve only an owned output, and make the
 artifact and manifest visible through one atomic boundary. A cooperative lock still
 cannot govern unrelated software that ignores it, so document that scheduling limit.
+
+### Sampling effort is not a quality claim
+
+Record the exact fixed profile used, verify only its selected model inputs, and preserve
+legacy request meaning. More steps justify calling a run higher effort; call it better
+only after inspecting the artifact, and keep subject accuracy and production readiness as
+separate judgments.

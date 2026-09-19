@@ -1799,3 +1799,16 @@ The final evidence included a fresh decoded image, exact replay without regenera
 conflicting and oversized request rejection, lock contention, path-escape rejection,
 poll-loss recovery and restored accelerator headroom. The image remained a draft. Full
 write-up: [case-studies/durable-local-asset-staging.md](case-studies/durable-local-asset-staging.md).
+
+## A faster model was not the same as better art
+
+The first local image proof established safe staging but looked generic. The answer was
+not to expose every sampling control. The worker gained a second reviewed profile: the
+fast distilled graph remains for drafts, while a base graph spends more steps on
+presentation candidates. Profile choice becomes part of request identity and provenance,
+so an old job cannot silently change its rendering contract.
+
+A fresh high-effort image had visibly stronger detail, lighting, composition, depth and
+scale. It also revealed the limit of that claim: the vehicle was attractive key art but
+not an exact gameplay submarine. The output stayed in review staging, and the machine's
+model residency was released only after its queue was proved idle.

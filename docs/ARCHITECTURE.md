@@ -215,3 +215,8 @@ ownership cannot be established.
 Only an owned output enters staging. Both hosts verify it, and image plus provenance
 manifest become visible together. Staging is not deployment: game integration remains
 a separate reviewed change.
+
+Keep generation quality as a small set of reviewed fixed graphs. Bind the selected profile
+to request identity and provenance, preserve the historical default for legacy receipts,
+and reject cross-profile replay. This keeps presentation effort controllable without
+turning the request surface into executable workflow configuration.
