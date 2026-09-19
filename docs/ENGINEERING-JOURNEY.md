@@ -1,5 +1,25 @@
 # Engineering journey
 
+## A model is available only after the interface can use it
+
+An official 70B assistant was added to a local web-chat catalog using the publisher's
+Q4_K_M artifact. The original-precision release was unnecessary for this interactive
+lane, while the quantized build offered a practical quality and memory tradeoff. Its
+metadata advertises a 128K context maximum, but the user-facing alias sets 32K explicitly
+so a metadata ceiling does not become an accidental runtime commitment.
+
+The qualification crossed every boundary that could otherwise create a false success.
+The runtime verified the downloaded artifact digest, model inspection proved the expected
+architecture, quantization, chat template, stop tokens, and context policy, the web
+interface's authenticated catalog discovered the alias, and a chat sent through that same
+interface returned the exact canary at 5.37 output tokens per second. Another large model
+was stopped only after its own metrics proved it idle, and it remained stopped because
+co-residency had not been qualified.
+
+The broader lesson is that downloaded weights are only inventory. Availability requires
+identity, integrity, resource policy, catalog discovery, and live user-path behavior to
+agree. Full-context load, concurrency, and long-duration stability remain open evidence.
+
 ## A monitoring page must be designed against its own confident zero
 
 A read-only health cockpit was added to answer whether the machine is healthy without
