@@ -782,3 +782,13 @@ that deleted the atlases found a fallback branch that had never executed; the
 assertion on the formatted colour string found a `NaN` that no data assertion
 could see. Full write-up:
 [case-studies/generated-asset-abyss-diver.md](case-studies/generated-asset-abyss-diver.md).
+
+## The browser that was already installed
+
+The limits section of a shipped game said it had never run in a browser because
+none existed. One was cached on disk, and a raw DevTools WebSocket was enough to
+drive the delivered page at the address a player uses. That pass also exposed a
+measurement-ordering error no headless layer could see: the probe sampled the
+canvas while the title screen was still a document overlay, so a correct read came
+back black. Full write-up:
+[case-studies/the-browser-that-was-already-installed.md](case-studies/the-browser-that-was-already-installed.md).

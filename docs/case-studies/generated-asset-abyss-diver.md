@@ -82,12 +82,14 @@ unbalanced save/restore, broken colour string, or frame with no drawing calls.
 
 ## Honest limits
 
-No browser binary exists on the machine that built this. Nothing here proves the
-game looks good, holds a framerate, makes sound, or that touch input works on a
-real phone. The renderer harness proves the renderer survives the data shapes
-that reach it. Sprite quality was audited numerically, not by eye. Audio autoplay
-policy, real browser storage persistence, font fallback, and a reboot cycle were
-not exercised.
+Sprite quality was audited numerically, not by eye. Framerate under real load on a
+phone GPU, actual sound, genuine finger touch on a real device, font fallback, and a
+reboot cycle were not exercised — and neither was whether any of it looks good.
+
+A later pass found a browser already installed on the build machine and drove the
+delivered page in it, which corrected this file's first claim that no browser
+existed and found a defect no headless layer could reach:
+[the-browser-that-was-already-installed.md](the-browser-that-was-already-installed.md).
 
 ## Reusable rules
 

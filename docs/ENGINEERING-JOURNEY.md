@@ -1764,3 +1764,19 @@ pressure that scaled faster than the player could swim out of it, and a maximum
 depth rating shallower than the depth where the boss spawns.
 
 Details in [case-studies/generated-asset-abyss-diver.md](case-studies/generated-asset-abyss-diver.md).
+
+## The browser that was already installed
+
+A delivery record for a browser game stated that the page had never run in a
+browser because none was installed. That was false: a headless Chromium sat in an
+automation framework's cache, and a DevTools WebSocket is a complete automation API
+without any driver package. A fourth harness now drives the delivered page at the
+same address a player uses, and asserts that every request it makes stays on the
+machine it came from.
+
+It found a defect the three headless layers could not. Pixel probes had been
+running before a game existed, so the canvas read pure black — the title screen is a
+document overlay and nothing draws on the canvas until a run starts — which looked
+exactly like a rendering failure and was instead a measurement-ordering error.
+
+Details in [case-studies/the-browser-that-was-already-installed.md](case-studies/the-browser-that-was-already-installed.md).
