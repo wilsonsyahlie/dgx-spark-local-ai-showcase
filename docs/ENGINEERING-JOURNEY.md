@@ -1734,3 +1734,13 @@ for an idle boundary, then proved catalog discovery, exact text, structured tool
 calling, and the actual web-chat route. The model occupied roughly 18 GB and left
 ample headroom, showing why deployment evidence must be collected independently
 on each hardware and routing topology.
+
+## Coordinating two local model lanes safely
+
+A large coding model refused to start because a separate chat model still held
+unified memory. The fix coordinated both lanes through the chat runtime's
+serialized idle control, verified that residency was empty, and retained the
+coding model's independent memory floor. During the live test, an active chat
+request finished naturally before handoff; the coding request then completed.
+This turned a truthful resource refusal into a safe automatic transition without
+weakening either lane's protections.
