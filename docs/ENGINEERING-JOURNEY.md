@@ -1812,3 +1812,26 @@ A fresh high-effort image had visibly stronger detail, lighting, composition, de
 scale. It also revealed the limit of that claim: the vehicle was attractive key art but
 not an exact gameplay submarine. The output stayed in review staging, and the machine's
 model residency was released only after its queue was proved idle.
+
+## Measuring pictures instead of describing them
+
+A locally generated browser game reported a white band across the frame and flare lighting
+with no warmth, while every suite stayed green: none of them looked at pixels. The census
+that replaced opinion-level review now drives the delivered page with real input events and
+asserts properties of the frame itself, including that no uniform bright row exists anywhere
+in it.
+
+Three of the four causes were measurement errors rather than design errors. The render path
+sized itself in backing-store pixels after a scale transform, so at one viewport it left an
+unpainted strip where additive bloom accumulated to white, and at another it over-covered
+and hid the bug. The lamp mask was greyscale, which a browser decodes as fully opaque, so
+the light pool subtracted a square. The flare stops kept a high blue channel, so an additive
+layer could never read warm regardless of its nominal colour.
+
+The fourth was the test. It decided a run had started by matching a timer pattern that the
+idle title screen already satisfied, so it drove a game that did not exist, and it asserted
+darkening with a ratio that a live flare lifts. Liveness is now overlay visibility and
+darkening is a luminance median. A measured note worth keeping: separating a character from
+a glow field needs a dark edge, not a light one, because the character sits inside its own
+light. Full write-up:
+[case-studies/pixel-level-visual-qa.md](case-studies/pixel-level-visual-qa.md).

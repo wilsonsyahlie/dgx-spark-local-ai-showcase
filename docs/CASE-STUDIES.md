@@ -792,3 +792,13 @@ measurement-ordering error no headless layer could see: the probe sampled the
 canvas while the title screen was still a document overlay, so a correct read came
 back black. Full write-up:
 [case-studies/the-browser-that-was-already-installed.md](case-studies/the-browser-that-was-already-installed.md).
+
+## Pixel-level visual QA without eyes
+
+Two visual defects survived an all-green suite in a locally generated browser game, and the
+fix was a census test that reads pixels instead of opinions. The root causes were a canvas
+measured in the wrong coordinate space under a scale transform, a greyscale mask that a
+browser decodes as fully opaque, additive colour stops whose blue channel defeated their own
+amber hue, and a visual test that started a run by matching a timer the idle menu already
+satisfied. Full write-up:
+[case-studies/pixel-level-visual-qa.md](case-studies/pixel-level-visual-qa.md).
