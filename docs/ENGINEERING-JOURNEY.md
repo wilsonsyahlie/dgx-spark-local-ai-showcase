@@ -1831,7 +1831,7 @@ layer could never read warm regardless of its nominal colour.
 The fourth was the test. It decided a run had started by matching a timer pattern that the
 idle title screen already satisfied, so it drove a game that did not exist, and it asserted
 darkening with a ratio that a live flare lifts. Liveness is now overlay visibility and
-darkening is a luminance median. A measured note worth keeping: separating a character from
+darkening is no longer asserted from frame pixels at all — the luminance median named here sits on the black floor and ordered frames by sampling noise, so the renderer's own darkness rule is asserted deterministically instead. A measured note worth keeping: separating a character from
 a glow field needs a dark edge, not a light one, because the character sits inside its own
 light. Full write-up:
 [case-studies/pixel-level-visual-qa.md](case-studies/pixel-level-visual-qa.md).

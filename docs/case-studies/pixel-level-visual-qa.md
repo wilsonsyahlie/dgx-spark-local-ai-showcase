@@ -35,9 +35,13 @@ both were present, because none of them looked at pixels.
 
 - A census test drives the delivered page over the real protocol with real input events and
   reads back pixels: no uniform bright full-width row in any frame, a minimum number of
-  luminance levels, the cold palette dominant in shallow water, warm pixels appearing when
-  a flare fires and during descent, and darkness asserted on the frame's luminance median
-  rather than a ratio that transients can move.
+  luminance levels, the cold palette dominant in shallow water, and warm pixels appearing
+  when a flare fires and during descent.
+  **Superseded 2026-09-20:** darkness is no longer asserted from frame pixels at all, not
+  by a lit-pixel ratio and not by a luminance median. The percentile sits on the black
+  floor, where shallow and deep frames differ by half a luminance level, so it ordered
+  frames by sampling noise. The renderer's own darkness rule is now asserted
+  deterministically in the stub harness, and the census documents that limit.
 - Liveness is the overlay's computed visibility, and a run is started the way a human starts
   it, by clicking the button. A visual test must prove the state it claims to measure before
   it attributes anything to it.

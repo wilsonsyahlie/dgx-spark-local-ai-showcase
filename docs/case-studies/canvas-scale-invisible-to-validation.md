@@ -36,7 +36,10 @@ off-canvas.
 - **Live coverage test.** The delivered page is driven in a real browser at four
   viewports with the page's own drawing context instrumented before its script runs.
   It reports the recorded device box, the transform scale, and how many sampled pixels
-  still equal the CSS background exactly, so an unpainted region cannot hide.
+  are still fully transparent in the backing store, so an unpainted region cannot hide.
+  (An interim revision compared RGB against the page's CSS background instead; reading
+  canvas pixels returns the backing store, which never contains CSS, so that comparison
+  measured nothing and was corrected.)
 - **Mutation checks.** Reinstating the old expression failed 15 stub assertions and 9
   live ones, so both guards demonstrably detect the bug they were written for. A
   regression test that cannot fail is documentation, not a test.
