@@ -802,3 +802,8 @@ browser decodes as fully opaque, additive colour stops whose blue channel defeat
 amber hue, and a visual test that started a run by matching a timer the idle menu already
 satisfied. Full write-up:
 [case-studies/pixel-level-visual-qa.md](case-studies/pixel-level-visual-qa.md).
+
+## A wrong canvas scale that no argument check could see
+
+A visual-polish pass on a browser game introduced a regression that every suite reported green: the renderer's scale transform was derived from the frame size that the scale itself computes, so it degenerated to exactly 1, painting a fraction of a high-resolution backing store and putting the player off-canvas on a phone. The fix is a geometric assertion - the device-space extent of frame-sized paints at desktop, high-DPR and phone sizes - in both a validating stub and a real browser, each mutation-tested against the original bug. Full write-up:
+[case-studies/canvas-scale-invisible-to-validation.md](case-studies/canvas-scale-invisible-to-validation.md).

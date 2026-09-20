@@ -1835,3 +1835,31 @@ darkening is a luminance median. A measured note worth keeping: separating a cha
 a glow field needs a dark edge, not a light one, because the character sits inside its own
 light. Full write-up:
 [case-studies/pixel-level-visual-qa.md](case-studies/pixel-level-visual-qa.md).
+
+## The regression that looked like correct coverage
+
+A polish pass on a locally generated browser game fixed an unpainted strip and, on the
+next line, broke scaling in a way that no test could see. The renderer's scale factor
+was derived from the frame size that the factor itself had produced, so it evaluated to
+exactly 1 everywhere: a 960x600 patch on a 1920x1200 store, and a camera-centred player
+at device x=480 on a 390-wide phone canvas. Argument validation stayed happy because
+every number was finite, the frame was not blank, and at one viewport size the wrong
+scale over-paints so completely that it is indistinguishable from correct coverage.
+
+What replaced opinion is a geometric invariant: the device-space extent of every
+frame-sized paint must equal the backing store, asserted at desktop, high-DPR and phone
+sizes in a validating stub context and again in a real browser whose drawing context is
+instrumented before the page's own script runs, counting pixels that still equal the CSS
+background. Both were mutation-tested - restoring the bad expression fails fifteen stub
+assertions and nine live ones - because a regression test that cannot fail is
+documentation rather than a test.
+
+Two smaller corrections came from the same review. An outline pass drawn from a sprite's
+own alpha mask did not mirror with the sprite, so with asymmetric art its fringe sat on
+the wrong side of the hull whenever the player faced left. And a visual test that decided
+whether a frame was playable by matching overlay headlines in page text now reads the
+computed visibility of the overlay that blocks play. The review also deleted an empirical
+pixel claim that five different statistics had each failed to support for a different
+legitimate reason, replacing it with the renderer's own arithmetic rule asserted in a
+stubbed frame.
+Full write-up: [case-studies/canvas-scale-invisible-to-validation.md](case-studies/canvas-scale-invisible-to-validation.md).
