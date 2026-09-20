@@ -807,3 +807,19 @@ satisfied. Full write-up:
 
 A visual-polish pass on a browser game introduced a regression that every suite reported green: the renderer's scale transform was derived from the frame size that the scale itself computes, so it degenerated to exactly 1, painting a fraction of a high-resolution backing store and putting the player off-canvas on a phone. The fix is a geometric assertion - the device-space extent of frame-sized paints at desktop, high-DPR and phone sizes - in both a validating stub and a real browser, each mutation-tested against the original bug. Full write-up:
 [case-studies/canvas-scale-invisible-to-validation.md](case-studies/canvas-scale-invisible-to-validation.md).
+
+## 2026-09-20 — A second game in one turn, and the assertions that were lying
+
+A second tailnet-only browser game arrived from an approved concept inside a single
+autonomous turn. The rules carried over from the first game paid for themselves
+immediately — the backing-store transform scale was already written down, so that bug
+class never appeared. What did appear was new: a device-pixel-ratio change that fires no
+`resize` event and left a stale backing store behind a page reporting ratio 2; a high-DPI
+assertion that measured the ratio the test requested instead of the ratio the page had, so
+it could not tell an emulated high-DPI page from an ordinary one; touch controls armed by a
+load-time pointer query that an emulated phone answers as "fine"; and an asset pipeline
+with an unstated 700-character revision-prompt budget whose only visible symptom was a 404
+for a missing PNG. Each was fixed at the cause with an assertion that fails when the fix is
+reverted.
+
+Full write-up: [case-studies/a-second-game-in-one-turn.md](case-studies/a-second-game-in-one-turn.md).
