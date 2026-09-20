@@ -81,3 +81,13 @@ the vision review — became a legal stopping point. The acceptance checklist no
 lives in the project's own workstate file, and the standing rule is blunt: a
 progress statement is not a completion. A turn ends when every criterion is
 evidenced, or when a genuine external blocker is written down.
+
+## Correction pointer (2026-09-20)
+
+The claim in this entry that the work was one uninterrupted autonomous turn is
+superseded, as is the two-candidates-per-asset summary; the false "other projects
+unmodified" scope claim belongs to the local completion record, not to this
+article. See [CORRECTIONS.md](../CORRECTIONS.md). The build stopped at a progress
+statement, resumed only after an explicit user/evaluator response, and was first
+pushed at 12:48:35 private and 12:50:42 public, Singapore time, before the
+independent review that should have preceded it.
