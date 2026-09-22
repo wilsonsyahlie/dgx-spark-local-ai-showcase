@@ -636,3 +636,19 @@ Activation preserved the server program, all original assets, credentials, grant
 - [x] Preserved the initial zero-byte failures and observed increasing content bytes from an alternative source.
 - [ ] The alternative stalled again after earlier byte growth; continuous healthy transfer and completion remain unverified.
 - [ ] Actual audio/subtitle tracks, import and playable media remain outside the verified outcome.
+
+## Primary-model qualification evidence
+
+- [x] An owner-directed activation preserved the preceding runtime for rollback.
+- [x] Verified local inference, real agent file-tool recovery and a corrected request within the same session.
+- [x] Verified normal output and durable exact-request cancellation on streaming and nonstreaming disconnects.
+- [x] Rejected a competing runtime start live and exercised a cold-start memory-floor refusal in isolation.
+- [x] Preserved agent configuration and read maintained operating instructions through the agent's documentation boundary.
+- [x] A natural scheduled calculation produced an opened, hashed result; durable suppressed delivery and a cleared next run were verified without changing existing jobs.
+- [x] A supported stop and cold start released memory, restored healthy inference, generated a fresh verified result and returned to idle.
+- [ ] The interface action and host-boot admission behavior remain outside that lifecycle test.
+- [ ] Long-context fill, host reboot, external test delivery and 72-hour stability remain unproven.
+
+The replacement is active with the listed behaviors verified, subject to 72-hour
+probation. Untested outcomes remain outside the claim, and rollback preserves
+used agent state.

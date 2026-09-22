@@ -1896,3 +1896,33 @@ promotional entries remained excluded. The alternative later stalled again;
 completion, actual tracks, import and playback remained unverified. This separated a repaired eligibility decision and measured
 progress from a completed user outcome. See
 [the case study](case-studies/request-acceptance-and-source-eligibility.md).
+
+## September 2026 — A primary-model change needs agent-level evidence
+
+An owner-directed primary-model replacement reused a retained local candidate and
+preserved the preceding runtime for rollback. Earlier model-promotion failures
+made a greeting or throughput result insufficient acceptance evidence: the useful
+question was whether the deployed agent could execute tools, recover after a
+correction and release a disconnected request without disturbing another task.
+
+The deployed agent recovered from a missing path, read the intended file and
+handled a correction within the same session. Normal output and streaming and
+nonstreaming disconnect checks produced durable exact-request cancellation proof.
+A competing runtime start was rejected live; a memory-floor refusal was tested
+in isolation. Those layers remain distinct evidence. Inference stayed local,
+agent configuration was preserved and updated operating instructions were read
+through the agent's documentation boundary.
+
+A natural scheduled calculation completed with an opened, hashed result. Its
+durable receipt distinguished suppressed delivery from sending, and disabling
+the disposable job cleared its next run without changing existing jobs.
+
+A controlled stop released memory, and a supported cold start reached healthy
+before the existing interface timeout. Fresh generation and idle-state readback
+then passed. This exercised lifecycle controls; the interface action and host-boot
+admission behavior were not tested.
+
+Activation and these behaviors passed, subject to a 72-hour probation.
+Long-context fill, host reboot, external test delivery and
+72-hour stability remain unproven. Rollback retains the previous runtime and
+reviewed program/routing artifacts while preserving used agent state.
