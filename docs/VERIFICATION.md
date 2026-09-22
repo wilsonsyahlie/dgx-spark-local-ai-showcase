@@ -661,3 +661,12 @@ A local editor integration had treated an already-resident large model as a sepa
 The important compatibility boundary was interruption: the applications used different request formats, so merely changing a destination would not preserve exact cancellation. The repair introduced proxy-owned request identifiers, propagated disconnects before the first response, and limited the supported request surface to operations whose ownership could be verified. Unsupported operations failed explicitly.
 
 Isolated checks covered malformed requests, cancellation before and after response headers, request ownership and refusal to unload the shared service. Live verification passed a real editor file-tool cycle, an assistant response, and cancellation of one overlapping request without terminating the other. A first real-client attempt revealed an overly narrow tool-declaration check; the corrected compatibility boundary passed its retry while retaining server-execution restrictions. Accepting a declaration was not presented as proof that every tool capability worked. Maximum-context behavior, sustained shared load, reboot behavior and multi-day stability are outside the qualification claim. This retrospective does not publish runtime configuration or deployment instructions.
+
+
+## September 23, 2026 — Keeping restored context within its project
+
+A simple connectivity prompt unexpectedly triggered diagnostics for an unrelated project. The cause was a lifecycle hook that promoted a shared home checkpoint into current instructions. An earlier project fixture had missed this entry point.
+
+The correction refused shared-root checkpoints, required project-contained paths, and treated restored text as background rather than a new task. Per-prompt guidance also addressed conversations that had already received stale automatic context. Existing execution controls remained in place.
+
+Focused tests covered valid restoration, missing paths, aliases, cross-project symbolic links and bounded context. A live connectivity prompt then produced a brief reply with no tool actions. An ephemeral replay of the affected history also returned a brief answer without tools. Original project notes and conversations were preserved. The lesson is to test the ordinary user entry point and distinguish retained context from present authorization.
