@@ -1863,3 +1863,18 @@ pixel claim that five different statistics had each failed to support for a diff
 legitimate reason, replacing it with the renderer's own arithmetic rule asserted in a
 stubbed frame.
 Full write-up: [case-studies/canvas-scale-invisible-to-validation.md](case-studies/canvas-scale-invisible-to-validation.md).
+
+## September 2026 — Service truth and durable recovery
+
+A reliability review separated interface availability from useful service readiness.
+Existing metric history survived collector restoration, and an explicitly authorized
+model handoff required proof of idle requests, queues and ownership. Local inference
+and desktop/phone views then agreed with the measured runtime.
+
+Related browser recovery work exposed missing container-platform packet layers and
+a database-locking hazard introduced by a raw descriptor check. Production browser
+connections and protected-state preservation passed, as did durable recovery and
+duplicate handling in staging. An older uncertain incident remained quarantined.
+Native production entry, group navigation, reload, scoped access and error/retry
+passed on desktop and phone layouts. Real provider login, CAPTCHA completion and
+ordering remain untested. See [the case study](case-studies/service-truth-and-durable-recovery.md).

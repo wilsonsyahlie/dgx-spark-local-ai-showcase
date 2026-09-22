@@ -823,3 +823,10 @@ for a missing PNG. Each was fixed at the cause with an assertion that fails when
 reverted.
 
 Full write-up: [case-studies/a-second-game-in-one-turn.md](case-studies/a-second-game-in-one-turn.md).
+
+## Service readiness and receipts that survive reopening
+
+A reachable dashboard concealed unavailable dependencies. The restoration verified
+real samples and local inference, while a separate recovery investigation exposed
+network-lab gaps and process-owned SQLite lock semantics.
+[Read the case study](case-studies/service-truth-and-durable-recovery.md).

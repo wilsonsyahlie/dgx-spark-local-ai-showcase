@@ -611,3 +611,14 @@ Activation preserved the server program, all original assets, credentials, grant
 - [x] Selected model inputs and profile settings entered durable provenance.
 - [x] Fresh high-effort output showed stronger visual hierarchy and detail while remaining staged.
 - [ ] Exact gameplay-asset fidelity, consistency, transparency, animation and integration remain outside the claim.
+
+## Service restoration and durable recovery
+
+- [x] Preserved measurement history and observed fresh natural samples through the visualization interface.
+- [x] Verified idle ownership before an authorized model handoff, then local inference and desktop/phone readiness.
+- [x] Kept restoration, staging and production claims distinct, and retained unknown recovery outcomes.
+- [x] Production browser-address and protected-state checks passed with workers paused after promotion.
+- [x] Real staging recovery preserved durable history; duplicate requests did not repeat the change, and the older unknown incident remained quarantined.
+- [x] Native production entry, group navigation, reload, scoped access and isolated error/retry passed on desktop and phone layouts.
+- [ ] Real provider login, CAPTCHA completion and ordering remain outside the evidence.
+- [ ] No external test message, purchase, account reset or reboot is claimed.
