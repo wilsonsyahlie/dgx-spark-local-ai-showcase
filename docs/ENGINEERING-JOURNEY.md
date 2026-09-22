@@ -1926,3 +1926,12 @@ Activation and these behaviors passed, subject to a 72-hour probation.
 Long-context fill, host reboot, external test delivery and
 72-hour stability remain unproven. Rollback retains the previous runtime and
 reviewed program/routing artifacts while preserving used agent state.
+
+
+## September 23, 2026 — Reusing model residency across applications
+
+A local editor integration had treated an already-resident large model as a separate deployment. A bounded repair reused the existing inference service while preserving separate conversation histories, application memory and tool authority. Another model selection could no longer automatically unload a service shared by both applications.
+
+The important compatibility boundary was interruption: the applications used different request formats, so merely changing a destination would not preserve exact cancellation. The repair introduced proxy-owned request identifiers, propagated disconnects before the first response, and limited the supported request surface to operations whose ownership could be verified. Unsupported operations failed explicitly.
+
+Isolated checks covered malformed requests, cancellation before and after response headers, request ownership and refusal to unload the shared service. Live verification passed a real editor file-tool cycle, an assistant response, and cancellation of one overlapping request without terminating the other. A first real-client attempt revealed an overly narrow tool-declaration check; the corrected compatibility boundary passed its retry while retaining server-execution restrictions. Accepting a declaration was not presented as proof that every tool capability worked. Maximum-context behavior, sustained shared load, reboot behavior and multi-day stability are outside the qualification claim. This retrospective does not publish runtime configuration or deployment instructions.
