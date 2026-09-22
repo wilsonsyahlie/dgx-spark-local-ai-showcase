@@ -830,3 +830,10 @@ A reachable dashboard concealed unavailable dependencies. The restoration verifi
 real samples and local inference, while a separate recovery investigation exposed
 network-lab gaps and process-owned SQLite lock semantics.
 [Read the case study](case-studies/service-truth-and-durable-recovery.md).
+
+## Request acceptance without a transfer
+
+An upstream request reached its destination, but the downstream language policy
+rejected matching original-language candidates. The useful diagnostic boundary was
+between a listed source and a transfer that actually moved bytes.
+[Read the case study](case-studies/request-acceptance-and-source-eligibility.md).

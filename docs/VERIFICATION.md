@@ -622,3 +622,17 @@ Activation preserved the server program, all original assets, credentials, grant
 - [x] Native production entry, group navigation, reload, scoped access and isolated error/retry passed on desktop and phone layouts.
 - [ ] Real provider login, CAPTCHA completion and ordering remain outside the evidence.
 - [ ] No external test message, purchase, account reset or reboot is claimed.
+
+## Media-request eligibility evidence
+
+- [x] Traced an accepted request to the monitored item and the downstream rejection reason.
+- [x] Distinguished original audio from the separate subtitle-language requirement.
+- [x] Kept source listings separate from proof of transferred bytes, import and playback.
+- [x] Verified removal of the affected language rejection, unchanged shared policies and other item assignments, and the requested subtitle target.
+- [x] Retained existing source-health checks, integrity-checked state backups and a scoped rollback plan.
+- [x] Started bounded transfer attempts and checked alternative file selection before enabling the intended content.
+- [x] Independently reviewed expansion to the authorized requested episodes, excluded promotional files, and paused the unsuccessful attempts without deleting their state.
+- [x] Kept published audio/subtitle metadata distinct from inspection of delivered media.
+- [x] Preserved the initial zero-byte failures and observed increasing content bytes from an alternative source.
+- [ ] The alternative stalled again after earlier byte growth; continuous healthy transfer and completion remain unverified.
+- [ ] Actual audio/subtitle tracks, import and playable media remain outside the verified outcome.

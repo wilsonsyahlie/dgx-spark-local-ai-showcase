@@ -1878,3 +1878,21 @@ duplicate handling in staging. An older uncertain incident remained quarantined.
 Native production entry, group navigation, reload, scoped access and error/retry
 passed on desktop and phone layouts. Real provider login, CAPTCHA completion and
 ordering remain untested. See [the case study](case-studies/service-truth-and-durable-recovery.md).
+
+## September 2026 — Request acceptance and source eligibility
+
+A media request was accepted and monitored, yet no transfer followed. Tracing the
+request into the downstream decision showed that matching original-language listings
+were rejected by a single-language audio policy. The user wanted original audio with
+subtitles in a different language. The existing audio policy rejected that preference, and the
+subtitle target was unset.
+
+The scoped policy repair removed the language rejection while preserving shared
+policies and source-health checks. Bounded download attempts were initiated, including
+a stopped candidate whose intended file selection was checked before transfer. The
+initial attempts transferred no content bytes; a later alternative began a slow real
+transfer. After review, file selection expanded to the requested episodes while
+promotional entries remained excluded. The alternative later stalled again;
+completion, actual tracks, import and playback remained unverified. This separated a repaired eligibility decision and measured
+progress from a completed user outcome. See
+[the case study](case-studies/request-acceptance-and-source-eligibility.md).
