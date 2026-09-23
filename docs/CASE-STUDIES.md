@@ -880,3 +880,13 @@ window. Real dated history proves the source path, while simulated transitions e
 live-state visuals and failure handling. This does not qualify every future live
 workload. The lesson is to name what an animation represents and test the user's
 promised experience, not only the health of the services around it.
+
+## A voice interface is a chain of owned stages
+
+A private voice experience required more than a working speech model. The
+browser, transcription, protected local inference, incremental synthesis and
+playback each needed separate proof and a shared interruption boundary. An
+injected transcription-close failure exposed skipped cancellation; the
+corrected cleanup and a real browser fixture then passed. Physical acoustics
+and long-duration use remain outside the evidence. See
+[the case study](case-studies/local-voice-interruption.md).

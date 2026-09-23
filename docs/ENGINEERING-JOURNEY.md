@@ -1,5 +1,36 @@
 # Engineering journey
 
+## September 2026 — A local voice interface crossed the browser boundary
+
+The next saved idea was a private conversation with the machine by voice.
+It combined local transcription, an already protected language-model path and
+incremental local speech synthesis behind an authenticated browser session.
+Microphone capture begins on a user action. End releases capture; Interrupt
+discards old playback and cancels the current turn while leaving the
+microphone ready for the next turn. Conversation did not gain
+general command authority or a cloud fallback.
+
+The important correction came from failure testing. A native speech process
+rejected an argument shape that ordinary service syntax checks had accepted.
+Later, an injected failure while closing transcription showed that cleanup
+could skip cancelling the active model turn. Both defects were corrected at
+their respective boundaries and retested. A real synthetic-audio loop then
+transcribed a question, generated a local answer and emitted spoken audio;
+interruption suppressed stale output and a fresh turn succeeded.
+
+The browser path needed its own proof. A real Chrome microphone fixture sent
+captured audio through the authenticated page and played a returned answer;
+End released the microphone and audio context. A bounded fallback handled a
+browser audio-worklet stall. This establishes the tested browser path with
+fixture audio, not physical microphone acoustics or subjective listening
+quality. Final review found a send-failure loop that could skip microphone
+cleanup under backpressure. Invalidating the session before terminal notice
+and guaranteeing cleanup fixed it; focused browser cases passed on the final
+served script. The full speech fixture preceded that narrow correction. A
+natural local scheduled task separately produced a durable
+suppressed-delivery result with no external send. See the
+[voice case study](case-studies/local-voice-interruption.md).
+
 ## A model is available only after the interface can use it
 
 An official 70B assistant was added to a local web-chat catalog using the publisher's

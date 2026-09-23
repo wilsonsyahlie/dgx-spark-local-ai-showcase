@@ -18,6 +18,13 @@ The project therefore adopted an evidence hierarchy:
 6. Exercise the live user path.
 7. Record what passed, what was not tested, and what remains limited.
 
+Voice interaction adds a useful instance of this hierarchy. Verify capture,
+transcription, protected model output, synthesis, playback and interruption
+separately, then exercise their actual browser path. A failure while closing
+one transport must not skip cancellation of another active stage. Fixture
+audio proves protocol behavior; physical acoustics and listening quality
+require their own observations. Conversation does not grant command authority.
+
 ## Structural controls
 
 ### Workload admission

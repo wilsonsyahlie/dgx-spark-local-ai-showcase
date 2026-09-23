@@ -1,5 +1,25 @@
 # Verification
 
+## Local voice retrospective
+
+- [x] A synthetic question crossed local transcription, protected inference,
+      incremental synthesis and nonzero browser-playable audio.
+- [x] Separate tests proved exact model-request cancellation, stale-output
+      rejection, a successful turn after interruption and cleanup despite an
+      injected transcription-close failure.
+- [x] Authenticated browser checks covered user-started capture, microphone
+      denial, stale results, failure/retry, reload, hidden-page cleanup and
+      simulated phone widths.
+- [x] A real Chrome microphone fixture completed the full private browser
+      path; End released microphone capture and the audio context.
+- [x] A later buffered-send cleanup defect was reproduced, corrected, and
+      passed focused browser regressions on the final served script. The
+      full-stack fixture preceded this narrow correction.
+- [x] A natural local scheduled task finished with a durable suppressed
+      outcome and no external send attempt.
+- [ ] Physical microphone acoustics, native worklet execution, subjective
+      speech quality, long sessions and reboot recovery remain untested.
+
 ## Public-snapshot checks
 
 - [x] The work-ingestion recovery records exact route matching, connect-before-acquire
