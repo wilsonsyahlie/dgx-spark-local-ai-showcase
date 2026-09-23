@@ -31,6 +31,18 @@ natural local scheduled task separately produced a durable
 suppressed-delivery result with no external send. See the
 [voice case study](case-studies/local-voice-interruption.md).
 
+## September 2026 — The voice page returned to Home's visual language
+
+The owner rejected the first voice skin's warm green treatment and small text
+as inconsistent with Spark Home's cooler gray and blue design. A narrow
+stylesheet revision brought the light palette and locally loaded Inter type
+into line with Home. Authenticated desktop and browser views at phone widths matched Home's
+measured background, text, font and heading weight, with no page errors or
+horizontal overflow. Focus, error, motion-preference and control-size checks
+passed. The speech and private-session code was unchanged; this visual pass
+does not qualify dark-theme preference synchronization or repeat the voice
+loop.
+
 ## A model is available only after the interface can use it
 
 An official 70B assistant was added to a local web-chat catalog using the publisher's

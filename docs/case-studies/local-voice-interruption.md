@@ -35,6 +35,14 @@ passed on the corrected served script. The full speech fixture had run on
 the preceding script, so it is not presented as a repeat full-stack check
 of this final cleanup change.
 
+The first page styling also drew owner feedback: its warm green palette and
+small text felt separate from Spark Home. A scoped visual correction is
+limited to the stylesheet. Authenticated desktop and browser views at phone widths matched
+Home's measured light colors, local Inter type and heading weight without
+page errors or overflow; focus, error, reduced-motion and control-size checks
+passed. Speech JavaScript stayed byte-identical. Dark-theme preference
+synchronization and a repeat speech turn were outside this visual review.
+
 ## Evidence limits
 
 The end-to-end browser result used fixture audio, not the owner's physical

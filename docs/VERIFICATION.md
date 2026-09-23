@@ -20,6 +20,18 @@
 - [ ] Physical microphone acoustics, native worklet execution, subjective
       speech quality, long sessions and reboot recovery remain untested.
 
+## Voice-page visual correction
+
+- [x] Authenticated served desktop and browser views at phone widths matched Home's measured
+      light background, text, loaded local Inter font and heading weight;
+      no page errors or horizontal overflow appeared.
+- [x] Focus, error, reduced-motion and minimum control-size checks passed;
+      independent review inspected desktop and browser screenshots at phone widths.
+- [x] Served stylesheet matched reviewed source; speech JavaScript remained
+      byte-identical to the previous release.
+- [ ] Dark-theme preference synchronization and a repeated voice loop were
+      outside this stylesheet-only revision.
+
 ## Public-snapshot checks
 
 - [x] The work-ingestion recovery records exact route matching, connect-before-acquire
