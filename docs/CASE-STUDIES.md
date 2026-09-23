@@ -837,3 +837,29 @@ An upstream request reached its destination, but the downstream language policy
 rejected matching original-language candidates. The useful diagnostic boundary was
 between a listed source and a transfer that actually moved bytes.
 [Read the case study](case-studies/request-acceptance-and-source-eligibility.md).
+
+## A dramatic dashboard can still feel out of place
+
+**Symptom.** A new command view had visual energy, but its first styling and motion felt
+unlike the existing operator Home. The owner rejected it as inconsistent and insufficiently
+compelling.
+
+**Measurement.** The first live capture showed a generic orbit panel beside Home's light
+design. Later browser checks found that one Overview action changed the address but left
+the Deck visible, and that missing sensor values could appear fully current when their
+response envelope was fresh.
+
+**Decision.** Use the established Home as the design source. Keep the command view in the
+same navigation and access boundary, anchor it with a local hardware image, and allow
+status pulses only after a verified current health refresh. Validate individual readings
+as well as response age. The view reads selected status and has no service controls.
+
+**Verification and limit.** After a service restart, the served assets matched the
+reviewed source and 16 browser checks passed. They covered navigation, late responses,
+failure and retry, partial and stale data, missing sensors, direct reload, keyboard use,
+dark appearance, reduced motion, and simulated phone widths without overflow or page
+errors. A physical phone and long-duration availability were not tested. Whether the
+result is compelling enough remains the owner's visual judgment.
+
+**Lesson.** Visual impact earns its place when the motion explains real state and the
+interface still feels like part of the product people already use.

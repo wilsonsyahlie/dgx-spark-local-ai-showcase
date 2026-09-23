@@ -1944,3 +1944,26 @@ A simple connectivity prompt unexpectedly triggered diagnostics for an unrelated
 The correction refused shared-root checkpoints, required project-contained paths, and treated restored text as background rather than a new task. Per-prompt guidance also addressed conversations that had already received stale automatic context. Existing execution controls remained in place.
 
 Focused tests covered valid restoration, missing paths, aliases, cross-project symbolic links and bounded context. A live connectivity prompt then produced a brief reply with no tool actions. An ephemeral replay of the affected history also returned a brief answer without tools. Original project notes and conversations were preserved. The lesson is to test the ordinary user entry point and distinguish retained context from present authorization.
+
+
+## September 23, 2026 — Bringing a visual command view into Home
+
+The owner wanted a command deck with immediate visual impact, but also wanted it to belong
+to the existing operator Home. The first visual pass missed that relationship: its styling
+felt disconnected from Home, and its animation did not make the underlying system clearer.
+The owner rejected that direction before treating the feature as finished.
+
+The redesign used Home's established light shell and a local image of the hardware as
+its visual anchor. A graphite system map and restrained status lights replaced the
+generic orbit treatment. Connection motion now follows a verified current health
+refresh, while partial, stale and failed readings remain distinct. The view stayed
+inside Home's navigation and access boundary and reads selected status; it does not
+show job events or operate services.
+
+Live browser testing also caught a navigation action that left the Deck visible after
+returning to Overview and fresh response envelopes with missing sensor values that
+looked fully current. Both were corrected before release. Sixteen browser checks then
+passed against the restarted service and the exact served assets, including error and
+retry, late responses, direct reload, keyboard use, dark appearance, reduced motion and
+simulated phone widths. A physical phone and long-duration availability were not tested;
+the owner's visual judgment remains the final test of the aesthetic direction.
