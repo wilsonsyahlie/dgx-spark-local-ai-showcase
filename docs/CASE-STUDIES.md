@@ -852,7 +852,7 @@ response envelope was fresh.
 **Decision.** Use the established Home as the design source. Keep the command view in the
 same navigation and access boundary, anchor it with a local hardware image, and allow
 status pulses only after a verified current health refresh. Validate individual readings
-as well as response age. The view reads selected status and has no service controls.
+as well as response age. The first release read selected status and had no service controls.
 
 **Verification and limit.** After a service restart, the served assets matched the
 reviewed source and 16 browser checks passed. They covered navigation, late responses,
@@ -863,3 +863,20 @@ result is compelling enough remains the owner's visual judgment.
 
 **Lesson.** Visual impact earns its place when the motion explains real state and the
 interface still feels like part of the product people already use.
+
+## When health animation was mistaken for job activity
+
+**Symptom.** A Home-native command view passed status and browser checks, yet it still
+could not show the real jobs the owner had expected to watch. Connection pulses proved
+fresh health observations, not work in progress.
+
+**Correction.** Add a read-only activity stage sourced from existing local coding and
+research histories. Derive progress, failure and attention from observed run state.
+Label dated replay explicitly, expose selected evidence, and allow a larger full-screen
+view without inventing activity or adding controls.
+
+**Verification boundary.** No new job appeared in the two tracked feeds during the build
+window. Real dated history proves the source path, while simulated transitions exercise
+live-state visuals and failure handling. This does not qualify every future live
+workload. The lesson is to name what an animation represents and test the user's
+promised experience, not only the health of the services around it.

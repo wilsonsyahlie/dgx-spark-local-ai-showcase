@@ -1957,8 +1957,8 @@ The redesign used Home's established light shell and a local image of the hardwa
 its visual anchor. A graphite system map and restrained status lights replaced the
 generic orbit treatment. Connection motion now follows a verified current health
 refresh, while partial, stale and failed readings remain distinct. The view stayed
-inside Home's navigation and access boundary and reads selected status; it does not
-show job events or operate services.
+inside Home's navigation and access boundary. At that first release, it read selected
+status but showed no job events and operated no services.
 
 Live browser testing also caught a navigation action that left the Deck visible after
 returning to Overview and fresh response envelopes with missing sensor values that
@@ -1967,3 +1967,23 @@ passed against the restarted service and the exact served assets, including erro
 retry, late responses, direct reload, keyboard use, dark appearance, reduced motion and
 simulated phone widths. A physical phone and long-duration availability were not tested;
 the owner's visual judgment remains the final test of the aesthetic direction.
+
+
+## September 23, 2026 — Giving the Deck real activity
+
+The Home-native health view still missed the original promise of watching real work
+unfold. Its verified health pulses could make the scene feel alive, but a healthy service
+is not evidence that a job is running. That gap was recorded as a correction to the
+first release rather than hidden by its passing health checks.
+
+The follow-up reads existing local coding and research run histories into a read-only
+activity stage. Traces reflect observed progress, failure and attention; a replay of
+dated history is explicitly labelled as replay. Selected evidence gives each event
+context, and an optional full-screen view gives the activity room to breathe. No
+service controls or generated job events were added to make the scene appear busy.
+
+No new job appeared in the two tracked feeds during the build window. The acceptance
+boundary therefore uses real dated run history for source truth and simulated
+transitions to exercise states that did not occur live. Those checks cannot establish
+how every future live job will look, so the activity stage must keep replay and current
+observation distinguishable.
