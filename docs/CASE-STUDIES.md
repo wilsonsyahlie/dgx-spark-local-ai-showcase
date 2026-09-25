@@ -905,3 +905,7 @@ established track selection and video integrity. They cannot prove that every
 subtitle line is synchronized in human playback. The prevention rule is to
 check caption format and the actual player decision, not only language or a
 successful subtitle download.
+
+## 2026-09-25 — Browser-view handoff without a second controller
+
+A persistent private browser moved from manual first-view disconnection to an automatic, input-safe handoff to the newest view. A real-browser fixture found close-event ordering defects; activation restored the live browser, but a second live viewer was not attached. The result is portable *single-view control*, not simultaneous multi-view interaction. Full retrospective: [making a private browser usable from another view](BROWSER-VIEW-HANDOFF.md).

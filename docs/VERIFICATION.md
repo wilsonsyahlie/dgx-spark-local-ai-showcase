@@ -702,3 +702,7 @@ A simple connectivity prompt unexpectedly triggered diagnostics for an unrelated
 The correction refused shared-root checkpoints, required project-contained paths, and treated restored text as background rather than a new task. Per-prompt guidance also addressed conversations that had already received stale automatic context. Existing execution controls remained in place.
 
 Focused tests covered valid restoration, missing paths, aliases, cross-project symbolic links and bounded context. A live connectivity prompt then produced a brief reply with no tool actions. An ephemeral replay of the affected history also returned a brief answer without tools. Original project notes and conversations were preserved. The lesson is to test the ordinary user entry point and distinguish retained context from present authorization.
+
+## September 25, 2026 — Private browser-view handoff
+
+Isolated native-browser checks passed for single-controller handoff, retake, refresh, retained helper state, global Close and narrow viewer layouts. A separate race check covered overlapping initial requests. Live checks proved that the owned browser and view returned after restart and that the helper was stopped, as expected. A second live viewer, a physical phone, real game actions and simultaneous control were not tested; they are not implied by fixture success. The [retrospective](BROWSER-VIEW-HANDOFF.md) explains the close-event ordering lesson without exposing deployment details.

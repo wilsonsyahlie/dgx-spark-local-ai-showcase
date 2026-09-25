@@ -2043,3 +2043,9 @@ The evidence supports caption availability and selection, while individual
 dialogue timing still needs playback judgment. The lesson was to verify the
 user-visible track decision and file integrity, not just the subtitle
 download result.
+
+## September 25, 2026 — A browser view that follows the user
+
+A private dashboard's persistent browser was safe to control from one view, but a second device had to wait for a manual disconnect. The repair made the newest authorized view take over after the old input connection released its keys and pointer. The old view stops retrying and may reclaim control deliberately. The browser and its helper remain one shared instance, not simultaneous controllers.
+
+Native-browser fixture checks exercised switching, retake, refresh and narrow layouts. They also caught close-event ordering defects before activation. The real browser returned after the service update, although the required restart left the helper stopped. An actual second live viewer was not attached because it would have displaced the owner's active view. [The case study](BROWSER-VIEW-HANDOFF.md) keeps those evidence boundaries explicit.
