@@ -890,3 +890,18 @@ injected transcription-close failure exposed skipped cancellation; the
 corrected cleanup and a real browser fixture then passed. Physical acoustics
 and long-duration use remain outside the evidence. See
 [the case study](case-studies/local-voice-interruption.md).
+
+## When captions slowed seeking
+
+**Symptom.** Seeking became slow because image captions required video
+conversion. Other locally available episodes lacked English captions.
+
+**Correction.** Supply text captions where needed and verify the player's
+selected English text track across the affected library, retaining the
+original video files.
+
+**Verification boundary.** A library-wide metadata audit and file manifest
+established track selection and video integrity. They cannot prove that every
+subtitle line is synchronized in human playback. The prevention rule is to
+check caption format and the actual player decision, not only language or a
+successful subtitle download.

@@ -2030,3 +2030,16 @@ boundary therefore uses real dated run history for source truth and simulated
 transitions to exercise states that did not occur live. Those checks cannot establish
 how every future live job will look, so the activity stage must keep replay and current
 observation distinguishable.
+
+## September 25, 2026 — Captions as a playback performance dependency
+
+A slow-seeking playback report exposed a less obvious dependency: the caption
+format can determine whether the player must convert video. A separate gap in
+the same library meant some available episodes had no English captions. The
+repair supplied text captions where needed and checked the player's selected
+track across the affected local library. Original video files stayed intact.
+
+The evidence supports caption availability and selection, while individual
+dialogue timing still needs playback judgment. The lesson was to verify the
+user-visible track decision and file integrity, not just the subtitle
+download result.
