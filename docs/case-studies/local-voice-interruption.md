@@ -1,5 +1,9 @@
 # Case study: a local voice interface that owns its interruption
 
+This is the initial conversational release. The later
+[voice-task follow-up](voice-agent-tasks.md) records the separate transition to
+real agent execution and its additional approval and cancellation tests.
+
 ## The experience
 
 The owner wanted to speak to a private local assistant and hear an answer.

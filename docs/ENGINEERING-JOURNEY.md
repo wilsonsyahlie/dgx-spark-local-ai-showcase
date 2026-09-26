@@ -2049,3 +2049,17 @@ download result.
 A private dashboard's persistent browser was safe to control from one view, but a second device had to wait for a manual disconnect. The repair made the newest authorized view take over after the old input connection released its keys and pointer. The old view stops retrying and may reclaim control deliberately. The browser and its helper remain one shared instance, not simultaneous controllers.
 
 Native-browser fixture checks exercised switching, retake, refresh and narrow layouts. They also caught close-event ordering defects before activation. The real browser returned after the service update, although the required restart left the helper stopped. An actual second live viewer was not attached because it would have displaced the owner's active view. [The case study](BROWSER-VIEW-HANDOFF.md) keeps those evidence boundaries explicit.
+
+
+## September 26, 2026 — A spoken task needs an execution path
+
+The first local voice experience could speak an answer but lacked the agent's
+tool loop. A follow-up addressed that capability gap and gave the user more time
+to finish an utterance. Review required exact consent for each pending command,
+new idle evidence after a stop request, and no automatic replay of uncertain work.
+Focused protocol tests, real artifact readback, browser speech with a deliberate
+hesitation, exact approval and playback, and live interruption passed. The
+longer approval wait exposed an audio receive-limit mismatch that was corrected.
+Final interface regressions and served-page checks passed while physical acoustics
+and sustained use remained outside the evidence. The [retrospective](case-studies/voice-agent-tasks.md)
+explains why fluent prose and a completed tool label were insufficient evidence.

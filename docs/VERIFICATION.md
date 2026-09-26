@@ -706,3 +706,22 @@ Focused tests covered valid restoration, missing paths, aliases, cross-project s
 ## September 25, 2026 — Private browser-view handoff
 
 Isolated native-browser checks passed for single-controller handoff, retake, refresh, retained helper state, global Close and narrow viewer layouts. A separate race check covered overlapping initial requests. Live checks proved that the owned browser and view returned after restart and that the helper was stopped, as expected. A second live viewer, a physical phone, real game actions and simultaneous control were not tested; they are not implied by fixture success. The [retrospective](BROWSER-VIEW-HANDOFF.md) explains the close-event ordering lesson without exposing deployment details.
+
+
+## September 26, 2026 — Spoken tasks and execution evidence
+
+Focused bridge checks and independent source review covered exact approvals,
+late events, duplicate submissions, lost acknowledgments, interruption races,
+receipt failure and conversation restart refusal. A native agent fixture used
+real tools and produced an artifact whose content was read back independently.
+A misleading final warning after an earlier failed tool attempt remains an
+explicit limitation. The deployed browser passed fixture speech, a deliberate
+hesitation kept within one task, exact on-screen approval after a long wait,
+real tool execution, playback and capture cleanup. A separate final-page
+interruption confirmed idle before listening resumed. Focused interface tests
+covered queued approvals and visible errors; final served-page checks covered
+access, asset identity, reload and phone widths. The full speech fixture preceded
+the final interface corrections, whose focused regressions and live cancellation
+passed. Physical acoustics, echo, subjective quality, sustained use, reboot and
+external-message tests are outside this claim. See the
+[retrospective](case-studies/voice-agent-tasks.md).
