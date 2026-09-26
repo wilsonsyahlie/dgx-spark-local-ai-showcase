@@ -62,3 +62,32 @@ timing defect explains why connection success is insufficient, but no claim
 that every cause of silence is resolved follows from these fixtures.
 The transferable lesson is to install control-event capture before starting an
 asynchronous handshake and test the gap before the main consumer exists.
+
+
+## When recognition worked but the reply did not
+
+The next physical attempt reached the agent through spoken input. That resolved
+the earlier receive uncertainty, but the user still heard no answer and found the
+interaction slow. Inspection separated two waits: producing the answer and
+waiting for an audio operation before displaying the available text. The latter
+made a silent audio failure look like an even slower agent.
+
+The change limited conversational response hints to the current authorized
+voice turn. Simple exchanges request concise speech; substantive tasks retain
+necessary details, tools and approvals. Those hints reset when the next input is
+typed, and they do not rewrite the system instructions or conversation history.
+The completed text uses the existing delivery mechanism before audio finishes,
+while the underlying task keeps ownership until playback settles.
+
+Focused tests covered identity boundaries, request preservation, reset on reused
+agent state, delivery failures, silence markers and media handling. They used
+synthetic model context and a composed text/audio fixture, so they did not prove
+audible output from a physical call. Scoped activation was verified. Bounded aggregate playback diagnostics were
+added so local audio consumption, packet errors and remote audibility are not
+confused. The owner subsequently confirmed hearing a reply on a fresh greeting. Its
+answer was ready in under five seconds, and the visible text preceded playback.
+That single accepted round trip is an observation, not a controlled comparison
+or a guarantee for longer conversations. It also does not establish which change
+resolved the earlier silence. The lesson is to measure each boundary
+independently: recognized input, available answer, visible reply and sound heard
+by the user are four different outcomes.

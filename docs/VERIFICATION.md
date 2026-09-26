@@ -758,3 +758,22 @@ remains pending: no result here establishes external packet receipt, channel
 end-to-end encryption, recognition or audible delivery in a real call. The
 [retrospective follow-up](case-studies/native-channel-speech.md#when-the-first-real-call-was-silent)
 keeps these evidence levels separate.
+
+
+## September 26, 2026 — Separate response speed from audible delivery
+
+A physical retry reached the agent through speech, but the owner reported no
+audible reply. Measured text delay included both answer generation and waiting
+for an audio operation to finish. Focused native runtime checks qualified a
+voice-scoped request policy and final-text delivery order, including identity
+rejection, later typed-turn reset, failed sends, silence markers and media
+preservation. The request fixture used synthetic context; the ordering fixture
+composed the real text consumer with a held audio operation. These checks do not
+prove the complete physical round trip or promise earlier conversation latency.
+Scoped activation was verified. Aggregate playback diagnostics distinguish local
+audio consumption and packet acceptance from sound heard remotely, while keeping
+audio content out of diagnostic records. A fresh physical greeting subsequently produced an audible reply confirmed by
+the owner, with text delivered before audio began. Answer readiness was measured
+at 4.7 seconds versus roughly 12 seconds on the earlier turn. Different answer
+lengths and conversation context prevent treating this as a controlled benchmark.
+Longer exchanges and substantive tool tasks require their own acceptance evidence.

@@ -2090,3 +2090,18 @@ receive probe passed before scoped activation. A physical retry remains pending;
 those fixtures do not prove a complete real-call outcome. The
 [follow-up](case-studies/native-channel-speech.md#when-the-first-real-call-was-silent)
 records the failed attempt and the remaining acceptance boundary.
+
+
+## September 26, 2026 — Recognized speech still needed a usable reply
+
+A later physical attempt delivered spoken input to the agent, resolving the
+earlier receive uncertainty. The reply was slow, and the user reported silence.
+The investigation separated model response time, visible text held behind audio,
+and whether sound reached the listener. A narrow change keeps conversational
+answers brief and moves final text through existing delivery bookkeeping before
+awaiting playback, while retaining tools, approvals and task ownership. Focused
+native checks passed and scoped activation was verified. The owner then confirmed hearing the reply on a fresh greeting. Its answer
+was ready in 4.7 seconds and text was visible before audio began. This is one
+observed successful exchange, not a controlled benchmark or a general guarantee.
+The [retrospective](case-studies/native-channel-speech.md#when-recognition-worked-but-the-reply-did-not)
+records why these are separate acceptance questions.
