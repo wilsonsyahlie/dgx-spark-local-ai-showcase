@@ -742,3 +742,19 @@ authenticated agent interface and a native audio sink, so actual channel dispatc
 and a physical call are not established by that result. No microphone, echo,
 sustained-use or rollback claim follows from these fixtures. The [retrospective](case-studies/native-channel-speech.md)
 explains the difference between stopping audio and stopping work.
+
+
+## September 26, 2026 — Physical receive acceptance remains open
+
+A real channel join produced no response to spoken input, despite working text
+requests. Inspection identified an event subscription installed after connection
+setup, allowing the first trusted identity event to be missed. The repair
+retains that authority before the consumer starts and keeps unknown identities
+blocked. Focused receive and earlier streaming checks passed. A native runtime
+probe retained the early event and decoded nonzero audio using actual transport
+and codec libraries, with disconnect and replacement boundaries checked
+separately. Scoped activation followed independent review. A physical retry
+remains pending: no result here establishes external packet receipt, channel
+end-to-end encryption, recognition or audible delivery in a real call. The
+[retrospective follow-up](case-studies/native-channel-speech.md#when-the-first-real-call-was-silent)
+keeps these evidence levels separate.

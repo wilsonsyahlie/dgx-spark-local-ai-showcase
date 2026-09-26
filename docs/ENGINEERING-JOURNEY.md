@@ -2077,3 +2077,16 @@ Focused checks, scoped activation and a real local speech fixture passed. The
 fixture used a separate authenticated agent interface and an audio sink; it did
 not establish an actual channel call. The [retrospective](case-studies/native-channel-speech.md)
 records that evidence boundary.
+
+
+## September 26, 2026 — A real call exposed an early-event gap
+
+The first physical voice attempt joined successfully but did not respond to
+speech, although typed requests still worked. The receive investigation found
+that identity events could arrive before their consumer subscribed. The
+correction captures authoritative identity during connection setup and retains
+strict rejection of unknown or stale speakers. Focused checks and a native
+receive probe passed before scoped activation. A physical retry remains pending;
+those fixtures do not prove a complete real-call outcome. The
+[follow-up](case-studies/native-channel-speech.md#when-the-first-real-call-was-silent)
+records the failed attempt and the remaining acceptance boundary.

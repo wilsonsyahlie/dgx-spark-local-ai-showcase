@@ -37,3 +37,28 @@ delay, echo and sustained use remained outside the evidence.
 The transferable lesson is to measure when audio starts, when a thought is
 complete, who owns the task and when the resource is actually free. A fluent
 reply or successful transport response establishes only part of that chain.
+
+
+## When the first real call was silent
+
+The first physical attempt connected successfully but produced no response to
+spoken input. Typed requests still worked. The earlier local audio fixture had
+qualified speech processing and playback boundaries without exercising the
+actual connection setup, so its passing result did not contradict this failure.
+
+The receive investigation found a timing gap: authoritative speaker information
+could arrive during connection setup, before the audio consumer subscribed to
+those events. Later audio would then have no trusted speaker identity. Relaxing
+that identity check would conceal the defect and weaken the privacy boundary.
+The repair captures trusted identity before connection setup begins
+and retains it only for that connection; old or unknown identity remains invalid.
+
+Focused regressions and an installed-runtime receive probe passed. The latter
+used an actual control-event handler, transport decryption and audio decoding,
+while unknown identities and old connection data stayed blocked. Independent
+review preceded scoped activation. A physical retry remains pending: external
+packets and channel end-to-end encryption were outside the probe. The observed
+timing defect explains why connection success is insufficient, but no claim
+that every cause of silence is resolved follows from these fixtures.
+The transferable lesson is to install control-event capture before starting an
+asynchronous handshake and test the gap before the main consumer exists.
