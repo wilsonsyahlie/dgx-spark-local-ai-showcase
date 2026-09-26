@@ -2120,3 +2120,15 @@ now pass without scheduling gaps or errors, with no automatic memory reasoning
 observed in the separate log window. The owner then confirmed smooth playback
 for both replies in a renewed physical retry. Sustained-use testing remains open. The [case study](case-studies/voice-agent-tasks.md#when-auxiliary-work-delayed-speech)
 records why a clean synthetic trace cannot overrule a failed listening retry.
+
+
+## September 26, 2026 — Leaving voice without abandoning work
+
+A follow-up requirement separated a voice page's lifetime from the task it had
+already admitted. The correction retains task ownership while allowing capture
+and playback to detach, then restores the same task and pending decisions when
+the owner returns. Review caught a reconnect ordering race before activation.
+Focused checks and a deployed browser canary passed: one real task survived
+multiple attachments and its result returned without repeating work or old audio.
+The [case study](case-studies/voice-agent-tasks.md#when-the-page-left-before-the-task-finished)
+records why reconnecting must restore state without repeating an action.

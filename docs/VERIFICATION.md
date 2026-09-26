@@ -804,3 +804,25 @@ confirmed smooth playback for both replies in a renewed physical retry. This
 supersedes the earlier failed acceptance for a two-reply sample, while sustained
 performance remains untested. The initial capture clipped its request, so these
 results are observational rather than a controlled latency benchmark.
+
+
+## September 26, 2026 — Task lifetime beyond a voice page
+
+Focused backend checks exercised the real task bridge and pipeline with simulated
+transports. They covered detached completion, a single task submission, exact
+pending decisions, stale attachments, ownership rejection, explicit cancellation
+and audio cleanup. Browser checks covered saved-handle recovery, navigation and
+missing-handle failure. A review regression completed work during reconnect setup
+and required acknowledgement before exactly one replayed result.
+
+These checks passed. Following reviewed activation, an authenticated browser
+canary admitted a real harmless task through synthetic speech, left while it ran,
+recovered the same progress, left again and restored the completed result. It
+recorded one task submission, no interruption and no replayed audio. A narrow
+screen check passed without browser errors, and task activity returned to idle.
+
+The live command did not require approval. Exact pending-decision continuity
+remains a protocol-fixture result, not a live approval claim. Physical user
+navigation acceptance remains untested. The design does not claim continuity
+through service restart, automatic approval, background notification or
+arbitrary-duration retention.

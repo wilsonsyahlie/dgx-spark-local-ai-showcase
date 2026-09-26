@@ -90,3 +90,34 @@ smooth playback for both replies in a renewed physical retry. This accepts a
 two-reply sample without claiming sustained performance. The lesson is to account for every inference
 producer and test both directions of a streaming imbalance, while giving the
 user's actual listening result priority over synthetic scheduling evidence.
+
+
+## When the page left before the task finished
+
+A voice page is temporary, but a task may still be working when its owner leaves.
+The original lifecycle coupled these two facts: page cleanup could also close the
+agent connection. The correction separated task ownership from the replaceable
+browser attachment. Ending voice stops capture and playback while admitted work
+continues under its existing deadlines and permissions.
+
+Returning restores the same task, its result and any exact pending decision.
+It does not submit the original prompt again. Authenticated ownership and fresh
+attachment identifiers reject foreign handles and late controls from an older
+page. Audio from a detached turn stays silent; snapshots restore task information
+without replaying sound. Explicit interruption still requests confirmed task
+cancellation, and approvals still require the user's original decision flow.
+
+Review found a subtler race: a task could finish during reconnect setup, deliver
+its result, and then include it again in the snapshot. Holding live delivery until
+acknowledgement and snapshot were queued removed that duplication. A regression
+exercised the actual task bridge and worker while setup was deliberately paused.
+
+Focused lifecycle and browser checks passed. A deployed browser canary then
+left a real task while it ran, recovered its progress, left again and restored
+the completed result. Multiple attachments kept one task submission and replayed
+no old audio. The harmless command did not require approval; pending decisions
+remain separately covered by protocol fixtures. Physical user navigation
+acceptance remains untested. Retention is bounded and does not survive service
+restart. Missing handles fail visibly without repeating an uncertain action.
+The lesson is to give work and its view separate lifetimes, then test the boundary
+when either finishes first.
