@@ -2132,3 +2132,13 @@ Focused checks and a deployed browser canary passed: one real task survived
 multiple attachments and its result returned without repeating work or old audio.
 The [case study](case-studies/voice-agent-tasks.md#when-the-page-left-before-the-task-finished)
 records why reconnecting must restore state without repeating an action.
+
+
+## September 26, 2026 — Keeping a chosen voice responsive
+
+An accepted voice preview answered a question about sound, but left responsiveness
+unproven. A subsequent experiment measured real incremental audio, interruption
+and the next reply. Dependency and cleanup defects were corrected before the
+selected voice reached the interface. The
+[case study](case-studies/voice-agent-tasks.md#when-a-good-preview-was-not-enough)
+explains why timbre and streaming quality needed separate evidence.

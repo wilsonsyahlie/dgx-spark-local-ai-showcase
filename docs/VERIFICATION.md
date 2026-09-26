@@ -826,3 +826,14 @@ remains a protocol-fixture result, not a live approval claim. Physical user
 navigation acceptance remains untested. The design does not claim continuity
 through service restart, automatic approval, background notification or
 arbitrary-duration retention.
+
+
+## September 26, 2026 — Reference voice qualification
+
+The owner accepted a local preview. Later measurements established incremental
+audio arrival, output faster than playback, a longer continuous reply and clean
+recovery after interruption. Fifteen focused checks exercised input limits,
+concurrent ownership, stale controls, blocked output, bounded cleanup and uncertain
+completion. Deployed interface and task-continuation results are summarized in the
+case study. Automated playback evidence is distinguished from physical listening;
+endurance, reboot and rollback execution were not established.

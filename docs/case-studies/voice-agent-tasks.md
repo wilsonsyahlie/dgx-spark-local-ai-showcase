@@ -121,3 +121,40 @@ acceptance remains untested. Retention is bounded and does not survive service
 restart. Missing handles fail visibly without repeating an uncertain action.
 The lesson is to give work and its view separate lifetimes, then test the boundary
 when either finishes first.
+
+
+## When a good preview was not enough
+
+A requested voice was first demonstrated in a local reference-based preview.
+The owner accepted its sound. That evidence did not establish whether the voice
+would respond promptly in conversation: the preview produced a complete clip
+before returning it. The next experiment therefore measured when real audio first
+arrived and whether generation could stay ahead of playback.
+
+A dependency mismatch stopped the first streaming candidate before speech.
+A compatible pinned candidate passed the same experiment. Independent review also
+found three less visible defects: closing a blocked transport could wait forever,
+a full output queue bypassed a deadline, and text escaping could overflow the
+message bound. Focused regressions covered those cases before promotion.
+
+The eventual qualification separated four questions: was the voice acceptable,
+did audio arrive promptly, did playback remain continuous, and could interruption
+release the actual producer before the next reply? Fifteen focused checks and
+real local audio tests passed. The surrounding task permissions and continuation
+behavior were preserved. Deployed results follow below; the accepted preview is
+not presented as physical acceptance of every device or call.
+
+This retrospective illustrates a general lesson: a convincing media sample is
+only one part of a conversational feature. Timing, backpressure, cancellation and
+truthful failure states need their own evidence. No deployment instructions or
+current infrastructure details are included here.
+
+
+Deployed qualification then passed two consecutive replies with no measurable
+scheduled gaps or browser errors. Explicit interruption stopped playback and
+returned to listening. A real local task survived two page departures, restored
+progress and its final result, and submitted the work only once. A narrow layout
+also passed. The shared native speech interface produced consecutive incremental
+replies; no external call or message was used as a test. These results qualify
+local software behavior, while physical listening to the deployed voice and
+long-running endurance remain separate limits.
