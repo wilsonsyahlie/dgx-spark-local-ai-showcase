@@ -725,3 +725,20 @@ the final interface corrections, whose focused regressions and live cancellation
 passed. Physical acoustics, echo, subjective quality, sustained use, reboot and
 external-message tests are outside this claim. See the
 [retrospective](case-studies/voice-agent-tasks.md).
+
+
+## September 26, 2026 — Native-channel speech evidence
+
+Focused candidate checks covered patient pauses, partial recognition, stale
+audio and reply rejection, bounded playback, delivery before synthesis completed,
+leave/rejoin state and two distinct cancellation directions. An installed-runtime
+probe verified imports and native audio framing without replacing the running
+adapter. Review exposed protocol and cleanup defects that required separate
+regressions. Service, gateway and independent protocol checks passed, followed
+by scoped activation with matching reviewed source. A live local fixture kept
+a deliberate pause within one utterance, obtained an exact approval, executed
+an agent tool and delivered audio before synthesis finished. It used a separate
+authenticated agent interface and a native audio sink, so actual channel dispatch
+and a physical call are not established by that result. No microphone, echo,
+sustained-use or rollback claim follows from these fixtures. The [retrospective](case-studies/native-channel-speech.md)
+explains the difference between stopping audio and stopping work.

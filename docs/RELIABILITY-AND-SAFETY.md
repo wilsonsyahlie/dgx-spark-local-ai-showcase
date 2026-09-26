@@ -292,3 +292,12 @@ Record the exact fixed profile used, verify only its selected model inputs, and 
 legacy request meaning. More steps justify calling a run higher effort; call it better
 only after inspecting the artifact, and keep subject accuracy and production readiness as
 separate judgments.
+
+
+### A voice interruption needs an explicit owner
+
+The worker producing a spoken final answer and the agent performing a task have
+different responsibilities. Stopping one must not accidentally cancel the other.
+A call generation also belongs to the task that heard the request; reconnecting
+a client cannot make an old answer valid for a new call. Test late replies,
+producer drain and admission release separately from ordinary audio completion.

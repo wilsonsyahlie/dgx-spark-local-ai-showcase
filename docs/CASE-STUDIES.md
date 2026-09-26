@@ -909,3 +909,11 @@ successful subtitle download.
 ## 2026-09-25 — Browser-view handoff without a second controller
 
 A persistent private browser moved from manual first-view disconnection to an automatic, input-safe handoff to the newest view. A real-browser fixture found close-event ordering defects; activation restored the live browser, but a second live viewer was not attached. The result is portable *single-view control*, not simultaneous multi-view interaction. Full retrospective: [making a private browser usable from another view](BROWSER-VIEW-HANDOFF.md).
+
+
+## Native voice transport needs separate ownership boundaries
+
+Incremental audio improves delivery only when conversation completion, speaker
+identity, task execution and resource cleanup remain independently controlled.
+A native-channel change tested those boundaries and corrected a disconnect
+cleanup race before scoped activation. [Read the retrospective](case-studies/native-channel-speech.md).

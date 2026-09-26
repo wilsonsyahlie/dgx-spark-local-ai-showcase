@@ -2063,3 +2063,17 @@ longer approval wait exposed an audio receive-limit mismatch that was corrected.
 Final interface regressions and served-page checks passed while physical acoustics
 and sustained use remained outside the evidence. The [retrospective](case-studies/voice-agent-tasks.md)
 explains why fluent prose and a completed tool label were insufficient evidence.
+
+
+## September 26, 2026 — Patient conversation in a native voice channel
+
+A native messaging voice transport exposed a different integration problem from
+a browser microphone: recognizing fragments quickly did not establish when the
+person had finished speaking, and stopping a reply must not cancel agent work.
+The revision combined patient turn completion, explicit speaker ownership and
+a dedicated audio worker while retaining the existing agent. Review also found
+that resource admission needed to remain held through actual producer cleanup.
+Focused checks, scoped activation and a real local speech fixture passed. The
+fixture used a separate authenticated agent interface and an audio sink; it did
+not establish an actual channel call. The [retrospective](case-studies/native-channel-speech.md)
+records that evidence boundary.
