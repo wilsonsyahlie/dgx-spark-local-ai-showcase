@@ -2105,3 +2105,18 @@ was ready in 4.7 seconds and text was visible before audio began. This is one
 observed successful exchange, not a controlled benchmark or a general guarantee.
 The [retrospective](case-studies/native-channel-speech.md#when-recognition-worked-but-the-reply-did-not)
 records why these are separate acceptance questions.
+
+
+## September 26, 2026 — Conversation naming competed with speech
+
+Browser speech exposed several boundaries: automatic naming competed with
+synthesis, faster production overflowed a bounded queue, and cancellation lost
+a completion marker. Instrumented playback passed after those corrections, but
+the user still heard stuttering. The reopened investigation found automatic
+memory reasoning during playback and premature listening transitions in the
+browser. A scoped memory policy and a small playback cushion now address those
+paths while preserving recall, tools and approvals. Two nontrivial browser turns
+now pass without scheduling gaps or errors, with no automatic memory reasoning
+observed in the separate log window. The owner then confirmed smooth playback
+for both replies in a renewed physical retry. Sustained-use testing remains open. The [case study](case-studies/voice-agent-tasks.md#when-auxiliary-work-delayed-speech)
+records why a clean synthetic trace cannot overrule a failed listening retry.

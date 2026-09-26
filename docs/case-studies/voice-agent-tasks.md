@@ -50,3 +50,43 @@ These results do not establish physical microphone performance, echo handling,
 subjective speech quality, sustained use or reboot recovery. Cancellation does
 not undo completed actions. The retrospective publishes the reasoning and
 evidence boundary without deployment instructions or operational identifiers.
+
+
+## When auxiliary work delayed speech
+
+A browser complaint first exposed audio arriving too slowly. Usage accounting
+identified automatic conversation naming continuing after the main answer. The
+bridge now confirms an explicit title before accepting a prompt. A marked
+response-style hint asks for concise summaries while preserving requested detail;
+native history includes it after substantive input, while browser transcripts
+and receipt identity retain the raw text. Bare greetings keep their prior path.
+
+Removing competing work exposed a bounded-queue failure when synthesis became
+fast. Pacing output ahead of playback preserved the queue limit. Interruption
+then exposed a lost completion marker missed by a component-only check; the
+actual worker waited indefinitely. Forwarding completion during cancellation
+released the worker while queued audio stopped. Instrumented playback and
+interruption checks passed.
+
+The user's physical retry still stuttered. That result reopened the investigation
+rather than being dismissed because scheduling traces looked clean. Separate
+memory-provider accounting revealed additional automatic reasoning during
+playback. The main agent's usage record had established title suppression, not
+an otherwise idle inference system.
+
+A scoped session option now suppresses only new automatic memory reasoning at
+startup, initial recall and post-turn speculation. Normal sessions retain their
+defaults. Base and ready recall, synchronization, explicit memory tools and
+approvals keep their existing behavior. Effective policy is checked after
+initialization, and unsupported execution routing rejects the option.
+
+The browser also adds a small initial playback cushion and prevents listening
+from appearing while audio remains scheduled. Focused native and browser checks
+passed; the active revision also passed two nontrivial browser turns without
+meaningful scheduling gaps or errors. Effective memory policy was confirmed,
+and separate provider logs showed no automatic reasoning performance records
+in the test window. Speech returned ready and idle. The owner then confirmed
+smooth playback for both replies in a renewed physical retry. This accepts a
+two-reply sample without claiming sustained performance. The lesson is to account for every inference
+producer and test both directions of a streaming imbalance, while giving the
+user's actual listening result priority over synthetic scheduling evidence.

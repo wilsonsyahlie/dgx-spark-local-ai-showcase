@@ -777,3 +777,30 @@ the owner, with text delivered before audio began. Answer readiness was measured
 at 4.7 seconds versus roughly 12 seconds on the earlier turn. Different answer
 lengths and conversation context prevent treating this as a controlled benchmark.
 Longer exchanges and substantive tool tasks require their own acceptance evidence.
+
+
+## September 26, 2026 — Browser audio supply and auxiliary requests
+
+Initial instrumentation identified automatic naming overlapping speech, then
+bounded-queue overflow after synthesis became faster. Worker and live browser
+checks verified pacing and repaired cancellation. A complete longer response
+scheduled every received chunk without meaningful gaps or errors and returned
+to listening. The user nevertheless retried and still heard stuttering; physical
+acceptance therefore remained failed.
+
+Separate memory-provider accounting exposed inference absent from the main
+agent's usage record. A new session policy blocks only new automatic memory
+reasoning, retaining base and ready context, synchronization and explicit tools.
+Focused native checks cover initialization, first-turn and post-turn behavior,
+normal defaults, rebuilds and effective readback. Browser timing checks also
+verify a small initial cushion and no premature listening transitions. Existing
+bridge, session, cancellation and narrow-screen fixtures passed.
+
+The active revision passed two nontrivial browser turns, scheduling every
+received audio chunk without meaningful gaps or errors and leaving speech ready
+and idle. Effective memory policy was confirmed, and the separate provider log
+window contained no automatic reasoning performance records. The owner then
+confirmed smooth playback for both replies in a renewed physical retry. This
+supersedes the earlier failed acceptance for a two-reply sample, while sustained
+performance remains untested. The initial capture clipped its request, so these
+results are observational rather than a controlled latency benchmark.
