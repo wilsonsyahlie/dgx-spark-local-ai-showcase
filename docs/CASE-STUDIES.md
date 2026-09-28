@@ -917,3 +917,10 @@ Incremental audio improves delivery only when conversation completion, speaker
 identity, task execution and resource cleanup remain independently controlled.
 A native-channel change tested those boundaries and corrected a disconnect
 cleanup race before scoped activation. [Read the retrospective](case-studies/native-channel-speech.md).
+
+## Native ARM64 audio-studio qualification
+
+[Separate audio-studio qualification](case-studies/native-arm-audio-studio.md) traces
+the choice of a native CPU installation, a build-tool correction, and an offline
+watermark-cache failure. It distinguishes tested preset and reference-conditioned synthesis, browser
+playback and restart recovery from unqualified GPU support and subjective quality.

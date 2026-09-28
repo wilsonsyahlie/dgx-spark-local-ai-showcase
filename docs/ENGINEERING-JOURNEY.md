@@ -2142,3 +2142,15 @@ and the next reply. Dependency and cleanup defects were corrected before the
 selected voice reached the interface. The
 [case study](case-studies/voice-agent-tasks.md#when-a-good-preview-was-not-enough)
 explains why timbre and streaming quality needed separate evidence.
+
+## September 28 — Separate audio-studio qualification on ARM64
+
+VoiceStudio was installed in a native CPU environment after source inspection found
+that its published containers and CUDA dependency selection did not qualify this
+architecture for GPU use. Upstream dependency pins were retained. A short preset
+narration produced valid watermarked audio; native build-tool selection and an
+offline watermark-cache gap were diagnosed along the way. The existing conversational
+voice workflow was preserved. A synthetic-reference clone, completed browser
+synthesis/playback, failure/retry, duplicate-action prevention and refresh/restart
+recovery passed. CPU rendering remained slow; GPU acceleration and subjective
+voice quality were not qualified. See the [audio-studio case study](case-studies/native-arm-audio-studio.md).
