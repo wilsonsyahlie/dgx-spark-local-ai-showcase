@@ -893,3 +893,8 @@ a real browser on an isolated broken-page fixture. The agent corrected the error
 a fresh browser run verified a working button, no script/resource failures and
 a phone-width fit. The task-authority seam was isolated from real project records.
 This is evidence of agent-owned repair, not acceptance of the unfinished game.
+
+
+### Project-specific scheduling exception
+
+A follow-up qualification covered an owner-authorized artwork batch outside its default time window. Twelve source and deployed-module checks passed for exact project/execution/plan binding, malformed or revoked authority, asynchronous rechecks, resource contention, stopping and non-replay. Independent plan/source review passed. A natural scheduler run generated a real image with matching image/provenance hashes and two distinct locally evaluated candidates, then admitted the next item. Whole-batch completion, final game fidelity and physical-device play were not claimed. The default schedule and resource ownership checks were retained.

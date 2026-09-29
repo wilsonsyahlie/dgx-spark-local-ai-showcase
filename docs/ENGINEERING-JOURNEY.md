@@ -2203,3 +2203,8 @@ and transport checks. The same project resumed from saved work. Schema/browser
 correction and rejected reviews gained an explicit agent repair cycle, with distinct
 turn identities, backups and fresh verification. Unknown effects remain fenced.
 See [project repair without clock cutoffs](case-studies/project-repair-without-clock-cutoffs.md).
+
+
+### 2026-09-29 — An explicit exception for one queued batch
+
+The owner made a machine available after the usual work window. A project-bound scheduling exception let the existing local worker proceed while preserving resource and stop checks. Twelve behavior checks and independent review preceded a naturally completed, provenance-verified image and the next item's automatic start. The batch remained ongoing; this was acceptance of the scheduling behavior, not acceptance of the game. See [the project recovery case study](case-studies/project-repair-without-clock-cutoffs.md).

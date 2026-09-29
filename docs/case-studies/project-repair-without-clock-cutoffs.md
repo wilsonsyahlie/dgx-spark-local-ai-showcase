@@ -54,3 +54,12 @@ a real browser on an isolated broken-page fixture. The agent corrected the error
 a fresh browser run verified a working button, no script/resource failures and
 a phone-width fit. The task-authority seam was isolated from real project records.
 This is evidence of agent-owned repair, not acceptance of the unfinished game.
+
+
+## Allowing an explicitly requested batch outside its normal schedule
+
+A later request exposed a separate scheduling constraint: a healthy queued artwork batch could not start outside the normal operating window, even after the owner made the machine available. The change added an explicit exception bound to that project, execution and frozen plan. It did not widen the default schedule. The exception was rechecked after awaited probes and immediately before each item was claimed. Revocation prevents later exceptional starts while an admitted item drains normally.
+
+Physical availability, other-work ownership, queue checks, stop behavior and uncertain-outcome handling remained in force. Twelve focused checks passed, including stale execution and plan bindings, malformed grants, revocation during a probe, busy resources and stopping. Independent review caught the need for a final check after asynchronous waits.
+
+The natural scheduler then produced a real image with matching saved provenance and two distinct candidate requests; a subsequent item started automatically. This proves that the requested scheduling exception reached real local generation. It does not establish completion or visual quality of the whole game. Withdrawal uses the recorded grant rather than erasing generated files or restoring task databases.
