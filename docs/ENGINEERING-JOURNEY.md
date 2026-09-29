@@ -2178,3 +2178,8 @@ An authorized follow-up corrected invented review criteria and missing verdict h
 ## September 29 — A usable team needs ownership and receipts
 
 A bounded game-prototype workflow combined coding, generated artwork and review behind one request. Real qualification exposed assumptions about task ownership and delivery before completion could be trusted. Preserved attempts, exact consent and explicit uncertainty were as important as the preview. See the [retrospective](case-studies/local-project-coordination.md#follow-up-make-a-small-team-usable-from-one-request).
+
+
+### Standing authority with exact receipts
+
+Repeated routine game prompts were replaced with task-bound one-operation decisions. Review preserved protected questions, rejected a global-state fallback, and exercised dispatch races and actual local tool output. The change improves workflow continuity while keeping unknown outcomes visible.

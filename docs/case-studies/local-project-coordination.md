@@ -75,3 +75,12 @@ The real browser also exposed missing credentials on sandboxed image requests. A
 
 
 Later browser verification exposed two deployment assumptions: an unpinned executable path and browser settings under a protected home directory. A namespace-only probe missed the second failure. An equivalent restricted service reproduced it; private child-process settings directories corrected it without relaxing the service policy. The final acceptance must match the actual saved game bytes, because integration can change files after an earlier successful playtest. Native file-helper restrictions also did not constrain terminal execution under the same trusted identity; post-turn learning had its own completion boundary. These are explicit trust and evidence limits, not claims of isolated hostile agents.
+
+
+## Follow-up: remove repeated consent for routine work
+
+A supposedly simple game workflow still interrupted its owner to create a plan and check local code. Standing authorization replaced those repeated routine decisions with a durable one-operation reply tied to the exact active task. The interface could show progress while preserving real questions and protected exceptions.
+
+A tempting session-wide toggle had a stale-identity fallback and uncertain cleanup. Reusing the existing request relay avoided those global-state risks. Review also found that an overly broad classifier could authorize explicit infrastructure changes; recognized execution categories and native protection metadata narrowed it before release. These controls preserve a trusted-worker boundary, not a new operating-system sandbox.
+
+The verification separated duplicate delivery, Stop races, expired identities, unknown acknowledgements, foreground priority and active-work budgeting. A real local marker operation checked the native request-to-result path without generating another game. The lesson is that fewer prompts require clear standing authority and reliable receipts, not the removal of every decision boundary.

@@ -861,3 +861,8 @@ The [follow-up](case-studies/local-project-coordination.md#follow-up-stop-review
 ## Multi-role prototype workflow
 
 The [retrospective](case-studies/local-project-coordination.md#follow-up-make-a-small-team-usable-from-one-request) distinguishes isolated lifecycle/resource fixtures, authenticated UI tests and actual task/artifact qualification. Rejected setup attempts were preserved, with continuation only after proof of no dispatch. Duplicate actions, stale responses, permission identity and restart uncertainty were checked separately. Limited browser smoke tests do not establish every gameplay property, and reviewed examples do not guarantee future model quality.
+
+
+### Routine game command authorization
+
+Qualification distinguishes recognized automatic decisions from protected/manual requests, duplicate and stale identity handling, Stop after admission, unknown acknowledgements, foreground priority and active-work budgets. The native local marker test confirms one reply and one file effect without a human permission card. Existing native policy and other sessions remain unchanged; arbitrary script confinement and new gameplay quality are not inferred.
