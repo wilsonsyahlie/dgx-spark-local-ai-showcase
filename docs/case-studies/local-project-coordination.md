@@ -34,3 +34,14 @@ A related account-security improvement used native authentication through a smal
 Qualification covered assignment transitions, concurrency checks, database rejection, synthetic password changes, session revocation, duplicate submissions, uncertain responses, refresh and a narrow browser layout. Live checks verified the native account-menu entry and wrong-password rejection without changing the owner's password. Labelled routing fixtures produced no agent work. The final continuation was traced from its saved decision to one execution.
 
 The lesson is to protect invariants where data is committed, then verify delivery independently from scheduling. A repair to one visible task cannot substitute for preventing the same invalid state on the next task. These checks do not promise that unrelated future agent tasks can never fail.
+
+
+## Follow-up: verify a handoff as the new owner
+
+A later ordinary task exposed a permission transition missed by the earlier helper-driven test. A worker saved its result and handed ownership to a reviewer, but verification still used the worker's old read authority. The denied read was treated as uncertain publication, which blocked review even though the result already existed.
+
+Verification was changed to use the destination role for current task state and the source role for the original execution. Permission boundaries and unknown-outcome protection were retained. Exact saved receipts allowed recovery of review without replaying completed work. A fresh read-only task then exercised the complete handoff with successful executions and durable results; the refreshed interface no longer showed the recovery failure.
+
+Focused regressions reproduced the old failure and covered queued review, late cancellation, changed ownership, missing or duplicate receipts and unavailable readback. The exercise also exposed separate output-quality limits: an unrequested review criterion and a missing explicit verdict. Those tasks remained conservatively blocked for review rather than being reported as accepted. Neither this fix nor its successful delivery checks promised that model judgments would always be correct.
+
+The lesson is to test ordinary user entry paths and to keep execution success, delivery proof and review acceptance distinct.

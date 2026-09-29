@@ -846,3 +846,8 @@ The [coordination case](case-studies/local-project-coordination.md) has focused 
 ## Assignment and account-security follow-up
 
 Focused assignment and database checks, synthetic native-authentication/browser tests and independent page-restoration race review qualified the [follow-up](case-studies/local-project-coordination.md#follow-up-a-task-must-be-valid-before-an-agent-receives-it). Deployed checks covered task transitions, a real account-menu link, wrong-password rejection, refresh and narrow layout. Routing fixtures dispatched no work. One explicit continuation reached one native job, then an existing deadline stopped it while it awaited permission. The separate lifetime defect remained unresolved; completed product delivery was not claimed. Production password rotation, endurance and state restoration were not tested.
+
+
+## Handoff ownership follow-up
+
+The [follow-up](case-studies/local-project-coordination.md#follow-up-verify-a-handoff-as-the-new-owner) reproduced an obsolete-owner read failure, then qualified recovery without replay and a fresh read-only worker/reviewer path. Native completion, exact result delivery, scoped denial and refreshed desktop/narrow interface checks passed. Unrequested review criteria and missing verdicts remained unresolved; successful execution was not reported as accepted output.
