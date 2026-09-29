@@ -2158,3 +2158,8 @@ voice quality were not qualified. See the [audio-studio case study](case-studies
 ## September 29 — Observable agent handoff
 
 A small local worker/reviewer pilot exposed mismatched approval, cancellation and task-disposition semantics. The qualified design separated execution from settlement and publication, retaining uncertain outcomes for inspection. A complete harmless task, independent review and browser checks supported the result. See the [retrospective](case-studies/local-project-coordination.md).
+
+
+## September 29 — Prevent the next invalid task
+
+A rejected projectless task exposed a gap between normal creation and agent admission. The repair enforced valid assignment before execution and at storage, then qualified explicit recovery independently of recurring scheduling. A private password form also treated lost acknowledgements as unknown outcomes. The [retrospective follow-up](case-studies/local-project-coordination.md#follow-up-a-task-must-be-valid-before-an-agent-receives-it) records the checks and their limits.

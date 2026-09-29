@@ -21,3 +21,16 @@ The clean acceptance task was a harmless health report followed by an independen
 The pilot did not qualify dangerous production changes, external-message delivery, prolonged unattended operation or restoration from backup. Earlier qualification failures remained visible in the engineering record. This case study contains no deployment recipe, current network topology, private identifiers, configuration or credentials.
 
 The practical lesson is to make every handoff observable and durable. A successful response from one layer cannot stand in for confirmed completion in another.
+
+
+## Follow-up: a task must be valid before an agent receives it
+
+An ordinary creation path allowed an agent assignment without the required project. Admission rejected the task before execution, while the adapter misleadingly suggested a credential problem. The fix addressed the creation and assignment paths, then backed them with a database rule that also covered direct or bulk writes. Missing scope was filled for the intended roles; conflicting explicit choices were rejected. Checks at startup made removed safeguards and unqualified upgrades visible.
+
+Explicit recovery uncovered a second assumption: an active control timer did not imply delivery when its callback depended on disabled periodic scheduling. Separating those responsibilities allowed one recorded continuation to reach one native job without enabling recurring agent work. The recovered task subsequently hit an existing deadline while awaiting native permission. It stopped without a delivered result. That separate execution-lifetime defect remained unresolved; the evidence established one resumed execution, not a finished product.
+
+A related account-security improvement used native authentication through a small private form. Lost acknowledgement after a password change was treated as an unknown outcome, with no automatic resend. Only nonsecret recovery metadata persisted. Independent review reproduced stale-response races during page restoration, which were corrected before activation.
+
+Qualification covered assignment transitions, concurrency checks, database rejection, synthetic password changes, session revocation, duplicate submissions, uncertain responses, refresh and a narrow browser layout. Live checks verified the native account-menu entry and wrong-password rejection without changing the owner's password. Labelled routing fixtures produced no agent work. The final continuation was traced from its saved decision to one execution.
+
+The lesson is to protect invariants where data is committed, then verify delivery independently from scheduling. A repair to one visible task cannot substitute for preventing the same invalid state on the next task. These checks do not promise that unrelated future agent tasks can never fail.
