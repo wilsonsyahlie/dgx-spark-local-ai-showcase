@@ -84,3 +84,25 @@ A supposedly simple game workflow still interrupted its owner to create a plan a
 A tempting session-wide toggle had a stale-identity fallback and uncertain cleanup. Reusing the existing request relay avoided those global-state risks. Review also found that an overly broad classifier could authorize explicit infrastructure changes; recognized execution categories and native protection metadata narrowed it before release. These controls preserve a trusted-worker boundary, not a new operating-system sandbox.
 
 The verification separated duplicate delivery, Stop races, expired identities, unknown acknowledgements, foreground priority and active-work budgeting. A real local marker operation checked the native request-to-result path without generating another game. The lesson is that fewer prompts require clear standing authority and reliable receipts, not the removal of every decision boundary.
+
+
+## Let the game determine its artwork needs
+
+A larger request revealed that a small default image quota had quietly become a product limitation. The correction followed the whole path: request form, saved retry identity, planning instructions and validation. The game now determines its complete artwork inventory while each item retains measured resource admission and saved provenance. A larger inventory also required concise plan references, visible progress and a safe place to wait between items.
+
+A separate generated-code crash showed why a model's completion message is weak evidence. The browser found an initialization error and a layout that did not fit smaller screens. The revised workflow can return positively observed browser defects for a bounded repair, then check the resulting files again. Cancellation, source ownership and artwork integrity remain conditions for continuing; unknown effects are not treated as a request to start over.
+
+Review rejected both stale success assumptions and prompt-only preservation of images. The engineering lesson is to scale the workflow around durable evidence, not to infer game quality from more assets or another model response. Automated smoke checks and focused source tests remain distinct from actual gameplay acceptance.
+
+The larger plan also exposed the difference between an icon's display size and the image generator's supported source sizes. The correction preserves the planned roles while fixing invalid generation fields, with bounded validation and saved evidence. A failed attempt remains visible history; correcting its plan does not mean it had succeeded.
+
+A live correction then exposed a different boundary: a completed reply triggered an automatic follow-up from a delegated audit, colliding with the next submitted step. The correction was retained in history without subsequent tool execution, and the uncertain wrapper remained failed. Owned-session idle checks now separate turns while retaining the final uncertainty fence. A saved inventory is validated directly rather than broadly replanned; a durable baseline prevents recovery from silently dropping artwork roles. Snapshot polling reduces the observed collision but is not an atomic submission protocol or proof that every background subsystem has settled.
+
+
+## Follow-up: permission must reach the tools that do the work
+
+The owner later chose broader task authority, superseding the earlier routine-only policy. The coordinator retained exact request identity and a single durable decision while removing category exclusions covered by that grant. Direct file tools also needed access to the existing game workspace: a worker able to run a terminal could still have its generated file rejected. Real write, edit and read checks exposed and verified that distinction. Broader authority does not create operating-system isolation or remove every native restriction.
+
+Another stop came from a completed visual review with valid values in a different textual representation. A narrow parser correction retained strict field and type checks, reused the completed evidence and generated only the missing candidate. Preserved drafts and image receipts reduced wasted work; precise failure details made the next diagnosis possible. Permission fixes cannot guarantee generated-code quality.
+
+A restart exposed another gap between a running service and its base image: earlier fixes existed in its writable layer. The already-qualified derived artifact preserved them, while a base-only pin lost a required capability. The lesson is to verify the actual reconstructed application files and behavior, not just a familiar image identity. Full game generation and gameplay acceptance remain separate from these measured repairs.

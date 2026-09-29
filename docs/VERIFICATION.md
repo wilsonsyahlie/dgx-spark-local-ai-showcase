@@ -866,3 +866,10 @@ The [retrospective](case-studies/local-project-coordination.md#follow-up-make-a-
 ### Routine game command authorization
 
 Qualification distinguishes recognized automatic decisions from protected/manual requests, duplicate and stale identity handling, Stop after admission, unknown acknowledgements, foreground priority and active-work budgets. The native local marker test confirms one reply and one file effect without a human permission card. Existing native policy and other sessions remain unchanged; arbitrary script confinement and new gameplay quality are not inferred.
+
+### Game inventory and browser-repair evidence
+
+Focused tests cover large inventories, request identity, progress checkpoints, cancellation, source ownership, fresh browser outcomes and artwork integrity. Full game acceptance also requires live generation and gameplay evidence; an automated browser smoke check is not a promise that every interaction is correct.
+
+
+The game follow-up distinguishes permission relay tests, real file write/edit/read checks, strict review-format handling and retained image evidence from final gameplay acceptance. Reconstructed runtime verification exposed fixes that were absent from a base artifact. Full artwork completion and gameplay remain separate acceptance requirements.

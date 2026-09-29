@@ -2183,3 +2183,10 @@ A bounded game-prototype workflow combined coding, generated artwork and review 
 ### Standing authority with exact receipts
 
 Repeated routine game prompts were replaced with task-bound one-operation decisions. Review preserved protected questions, rejected a global-state fallback, and exercised dispatch races and actual local tool output. The change improves workflow continuity while keeping unknown outcomes visible.
+
+### From small image quotas to complete game inventories
+
+A larger game request exposed arbitrary limits spread across the interface and coordinator. The workflow was revised to plan the needed artwork, preserve progress between sequential items, and feed confirmed browser defects through bounded repair and rechecking. The retained evidence distinguishes generated assets, working code and verified gameplay.
+
+
+The game workflow then exposed two different failure classes: authority that did not reach the file tools, and completed review evidence rejected for its representation. The repairs broadened task permissions under an explicit owner grant and reused verified work. Restart qualification also caught a base artifact missing existing fixes. These are measured operational repairs; they do not establish final game quality.
