@@ -924,3 +924,7 @@ cleanup race before scoped activation. [Read the retrospective](case-studies/nat
 the choice of a native CPU installation, a build-tool correction, and an offline
 watermark-cache failure. It distinguishes tested preset and reference-conditioned synthesis, browser
 playback and restart recovery from unqualified GPU support and subjective quality.
+
+## Local project coordination
+
+[Coordinating local agents without duplicating their work](case-studies/local-project-coordination.md) examines exact consent, cancellation and durable worker/reviewer handoff, including the failures that shaped the design.

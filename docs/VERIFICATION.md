@@ -837,3 +837,7 @@ concurrent ownership, stale controls, blocked output, bounded cleanup and uncert
 completion. Deployed interface and task-continuation results are summarized in the
 case study. Automated playback evidence is distinguished from physical listening;
 endurance, reboot and rollback execution were not established.
+
+## Local project pilot
+
+The [coordination case](case-studies/local-project-coordination.md) has focused state/protocol tests, independent race review, a complete harmless worker/reviewer task, real native interruption and fresh-task proof, and private browser access/recovery checks. The foreground trigger was controlled. Physical acoustic behavior, external delivery, dangerous changes, prolonged operation and restore acceptance remain outside that evidence.

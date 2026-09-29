@@ -2154,3 +2154,7 @@ voice workflow was preserved. A synthetic-reference clone, completed browser
 synthesis/playback, failure/retry, duplicate-action prevention and refresh/restart
 recovery passed. CPU rendering remained slow; GPU acceleration and subjective
 voice quality were not qualified. See the [audio-studio case study](case-studies/native-arm-audio-studio.md).
+
+## September 29 — Observable agent handoff
+
+A small local worker/reviewer pilot exposed mismatched approval, cancellation and task-disposition semantics. The qualified design separated execution from settlement and publication, retaining uncertain outcomes for inspection. A complete harmless task, independent review and browser checks supported the result. See the [retrospective](case-studies/local-project-coordination.md).

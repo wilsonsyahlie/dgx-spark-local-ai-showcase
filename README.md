@@ -49,3 +49,7 @@ The public Git history records the staged assembly and review of this sanitized 
 it is not the production engineering timeline. The genuine milestone order is reconstructed
 from reviewed private evidence in [Engineering journey](docs/ENGINEERING-JOURNEY.md).
 Commit dates reflect showcase publication, not original production activation dates.
+
+## Local project coordination
+
+A worker/reviewer pilot qualified explicit consent, cancellation and durable result handoff. See the [engineering case study](docs/case-studies/local-project-coordination.md) for failures, evidence and limits.
