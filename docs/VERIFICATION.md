@@ -898,3 +898,8 @@ This is evidence of agent-owned repair, not acceptance of the unfinished game.
 ### Project-specific scheduling exception
 
 A follow-up qualification covered an owner-authorized artwork batch outside its default time window. Twelve source and deployed-module checks passed for exact project/execution/plan binding, malformed or revoked authority, asynchronous rechecks, resource contention, stopping and non-replay. Independent plan/source review passed. A natural scheduler run generated a real image with matching image/provenance hashes and two distinct locally evaluated candidates, then admitted the next item. Whole-batch completion, final game fidelity and physical-device play were not claimed. The default schedule and resource ownership checks were retained.
+
+
+### Negative evidence from an unfinished interactive artifact
+
+A browser load and independent script syntax check agreed on a startup failure in a pending game build; a phone-width layout also overflowed. Source inspection established renderer intent only. A prefixed start-control label was not exercised by the generic smoke locator, so interaction coverage was explicitly unproven. Backed-up project notes and the reviewer checklist received the findings and a click-first acceptance clarification; the local worker's mounted readback matched. No game-source repair or completed-game acceptance is claimed by this handoff.

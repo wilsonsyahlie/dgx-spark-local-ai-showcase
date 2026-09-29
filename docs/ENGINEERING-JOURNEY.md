@@ -2208,3 +2208,8 @@ See [project repair without clock cutoffs](case-studies/project-repair-without-c
 ### 2026-09-29 — An explicit exception for one queued batch
 
 The owner made a machine available after the usual work window. A project-bound scheduling exception let the existing local worker proceed while preserving resource and stop checks. Twelve behavior checks and independent review preceded a naturally completed, provenance-verified image and the next item's automatic start. The batch remained ongoing; this was acceptance of the scheduling behavior, not acceptance of the game. See [the project recovery case study](case-studies/project-repair-without-clock-cutoffs.md).
+
+
+### 2026-09-29 — Separating renderer intent from user acceptance
+
+Inspection of an unfinished game found a reproducible startup error despite three-dimensional rendering code. The measured failure, mobile-layout limit and requested click-first interaction model were passed into the worker's project notes and reviewer inputs. The source and frozen artwork were preserved. This is a corrective handoff with implementation still pending, not a working-game claim. See [the project recovery case study](case-studies/project-repair-without-clock-cutoffs.md).

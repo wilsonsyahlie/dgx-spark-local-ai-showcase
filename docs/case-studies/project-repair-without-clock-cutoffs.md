@@ -63,3 +63,12 @@ A later request exposed a separate scheduling constraint: a healthy queued artwo
 Physical availability, other-work ownership, queue checks, stop behavior and uncertain-outcome handling remained in force. Twelve focused checks passed, including stale execution and plan bindings, malformed grants, revocation during a probe, busy resources and stopping. Independent review caught the need for a final check after asynchronous waits.
 
 The natural scheduler then produced a real image with matching saved provenance and two distinct candidate requests; a subsequent item started automatically. This proves that the requested scheduling exception reached real local generation. It does not establish completion or visual quality of the whole game. Withdrawal uses the recorded grant rather than erasing generated files or restoring task databases.
+
+
+## A renderer claim still needs a running game
+
+A later inspection distinguished flat texture images, mesh-based renderer code and the actual player experience. The unfinished artifact contained perspective and mesh code, but an independent browser load and syntax check both found a startup error. A phone-width view also overflowed. Neither a source label nor an asset count established a working three-dimensional game.
+
+The findings were attached to the local worker's project notes and reviewer checklist without editing game source or restarting artwork. The requested interaction model was clarified as click-to-move with contextual actions and mouse camera controls; keyboard movement was optional. Existing frozen artwork records were retained. The handoff requires actual startup, rotated views and mouse-only gameplay checks before acceptance.
+
+This records a measured defect and corrective handoff, not a completed repair. The diagnostic's initial context probe also failed and was corrected; no successful gameplay or visual-fidelity claim follows from that probe. Implementation, integration and final verification remain with the local worker.
