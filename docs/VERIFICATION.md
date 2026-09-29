@@ -903,3 +903,8 @@ A follow-up qualification covered an owner-authorized artwork batch outside its 
 ### Negative evidence from an unfinished interactive artifact
 
 A browser load and independent script syntax check agreed on a startup failure in a pending game build; a phone-width layout also overflowed. Source inspection established renderer intent only. A prefixed start-control label was not exercised by the generic smoke locator, so interaction coverage was explicitly unproven. Backed-up project notes and the reviewer checklist received the findings and a click-first acceptance clarification; the local worker's mounted readback matched. No game-source repair or completed-game acceptance is claimed by this handoff.
+
+
+### Structured vision assessment recovery
+
+The original malformed assessment was reproduced. Twenty-five distinct focused checks passed against both candidate and exact deployed helper sources; inherited cases made thirty test executions. A real structured-output trial failed first and remains negative evidence. A corrected compatibility trial preserved and validated the complete model-produced object, then the stalled asset finished with verified image and provenance records. A naturally scheduled successor established continued progress. Unknown transport, incomplete output, changed identity and missing release do not authorize replay. Full batch completion and game visual or gameplay quality remain outside this repair's acceptance claim.

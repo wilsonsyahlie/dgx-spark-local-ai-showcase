@@ -2213,3 +2213,8 @@ The owner made a machine available after the usual work window. A project-bound 
 ### 2026-09-29 — Separating renderer intent from user acceptance
 
 Inspection of an unfinished game found a reproducible startup error despite three-dimensional rendering code. The measured failure, mobile-layout limit and requested click-first interaction model were passed into the worker's project notes and reviewer inputs. The source and frozen artwork were preserved. This is a corrective handoff with implementation still pending, not a working-game claim. See [the project recovery case study](case-studies/project-repair-without-clock-cutoffs.md).
+
+
+### 2026-09-29 — Preserve the image when its assessment is malformed
+
+An artwork stall was traced to invalid assessment formatting, followed by an unexpected local runtime response channel during qualification. The repair constrained output, preserved raw provenance, distinguished a rejected completed assessment from uncertain work, and reused saved artwork. The recovered item and natural batch continuation were verified; unfinished game acceptance remained with the local agent. See [the project recovery case study](case-studies/project-repair-without-clock-cutoffs.md).

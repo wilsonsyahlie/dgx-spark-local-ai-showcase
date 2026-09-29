@@ -72,3 +72,12 @@ A later inspection distinguished flat texture images, mesh-based renderer code a
 The findings were attached to the local worker's project notes and reviewer checklist without editing game source or restarting artwork. The requested interaction model was clarified as click-to-move with contextual actions and mouse camera controls; keyboard movement was optional. Existing frozen artwork records were retained. The handoff requires actual startup, rotated views and mouse-only gameplay checks before acceptance.
 
 This records a measured defect and corrective handoff, not a completed repair. The diagnostic's initial context probe also failed and was corrected; no successful gameplay or visual-fidelity claim follows from that probe. Implementation, integration and final verification remain with the local worker.
+
+
+## Recovering a completed but unusable assessment
+
+A later artwork batch stopped because a vision assessment contained unescaped quotation marks. The image itself was already saved. Strict parsing correctly rejected the answer, but treating every rejection as uncertain work prevented useful recovery. The repair added a fixed response schema, bound it into receipt identity, and retained each raw assessment and model-release receipt. Only a positively completed, released, invalid assessment can trigger a new review of the same saved image. Uncertain execution and generation are still protected from replay.
+
+The first live structured-output qualification also failed. Inspection showed that the runtime had placed a complete schema object in its reasoning field while leaving the content field empty. The compatibility handling accepts only a whole strictly valid schema object under that exact condition and retains its original field and source. It does not extract objects from prose, repair guessed fields or accept unfinished inference. The original failed attempt remains failed; an explicitly labelled rejected-assessment sentinel reconciled its proven terminal state without inventing its unavailable answer.
+
+Focused checks covered malformed responses, cache and identity mismatches, missing release, changed images, unknown transport and incompatible response channels. A real same-image qualification and the recovered asset then passed, followed by normal artwork continuation. Prior assets and the project plan were retained. This establishes pipeline recovery, not acceptance of the unfinished game: integration and actual interaction tests remained separate work for the local agent.
