@@ -2218,3 +2218,8 @@ Inspection of an unfinished game found a reproducible startup error despite thre
 ### 2026-09-29 — Preserve the image when its assessment is malformed
 
 An artwork stall was traced to invalid assessment formatting, followed by an unexpected local runtime response channel during qualification. The repair constrained output, preserved raw provenance, distinguished a rejected completed assessment from uncertain work, and reused saved artwork. The recovered item and natural batch continuation were verified; unfinished game acceptance remained with the local agent. See [the project recovery case study](case-studies/project-repair-without-clock-cutoffs.md).
+
+
+### 2026-09-29 — Replace rejected placeholder art with native geometry
+
+A classic-location recreation moved from generic procedural scenery to native assets after direct user rejection. Model-decoder and disconnected-stair failures were measured and corrected; browser evidence distinguishes fixture-assisted resource checks from a later complete mouse-only quest journey and unfinished full-game acceptance. See [the visual fidelity case study](case-studies/visual-fidelity-beyond-placeholder-art.md).

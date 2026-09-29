@@ -908,3 +908,8 @@ A browser load and independent script syntax check agreed on a startup failure i
 ### Structured vision assessment recovery
 
 The original malformed assessment was reproduced. Twenty-five distinct focused checks passed against both candidate and exact deployed helper sources; inherited cases made thirty test executions. A real structured-output trial failed first and remains negative evidence. A corrected compatibility trial preserved and validated the complete model-produced object, then the stalled asset finished with verified image and provenance records. A naturally scheduled successor established continued progress. Unknown transport, incomplete output, changed identity and missing release do not authorize replay. Full batch completion and game visual or gameplay quality remain outside this repair's acceptance claim.
+
+
+### Native game asset fidelity
+
+The [fidelity case study](case-studies/visual-fidelity-beyond-placeholder-art.md) records passing native collision/inventory tests, a continuous starting-location-to-quest-giver browser route, fixture-assisted ingredient interactions, one-time completion, refresh/stale-save handling, load retry and phone-sized layout. A subsequent full quest journey passed through mouse controls from a fresh game without fixture mutations. Physical touch, owner-device performance and comprehensive combat/skill acceptance remain outside the demonstrated evidence.
