@@ -106,3 +106,10 @@ The owner later chose broader task authority, superseding the earlier routine-on
 Another stop came from a completed visual review with valid values in a different textual representation. A narrow parser correction retained strict field and type checks, reused the completed evidence and generated only the missing candidate. Preserved drafts and image receipts reduced wasted work; precise failure details made the next diagnosis possible. Permission fixes cannot guarantee generated-code quality.
 
 A restart exposed another gap between a running service and its base image: earlier fixes existed in its writable layer. The already-qualified derived artifact preserved them, while a base-only pin lost a required capability. The lesson is to verify the actual reconstructed application files and behavior, not just a familiar image identity. Full game generation and gameplay acceptance remain separate from these measured repairs.
+
+
+## Permanent transport rejection should not become an endless retry
+
+A task transcript filled with repeated warnings because an optional event stream was deliberately unsupported while saved-status polling worked. The adapter already ran both paths independently, but kept reconnecting after a permanent capability rejection. The correction ends only the optional stream consumer after its first rejection, releases the response body and emits one informational message. Status polling still carries the actual success, failure, cancellation or timeout result. Temporary server failures retain their reconnect behavior, and each new execution probes capability afresh.
+
+The unchanged adapter reproduced repeated requests and warnings before the fix. Focused tests of the actual execution function checked single fallback, an unfinished response body, successful and failed status results, cancellation, timeout with a stop request, temporary reconnect and a working stream. Historical logs remain intact. Deployment waits for the current work to settle naturally before loading the guarded adapter; a transport-warning fix does not certify the generated game.

@@ -873,3 +873,6 @@ Focused tests cover large inventories, request identity, progress checkpoints, c
 
 
 The game follow-up distinguishes permission relay tests, real file write/edit/read checks, strict review-format handling and retained image evidence from final gameplay acceptance. Reconstructed runtime verification exposed fixes that were absent from a base artifact. Full artwork completion and gameplay remain separate acceptance requirements.
+
+
+Optional event-stream fallback was verified separately from task success: permanent rejection produces one informational transition while saved-status monitoring continues; temporary failures still reconnect. Actual-function fixtures cover response cleanup, result/failure/cancellation, timeout-stop and fresh execution. Deployment and task-state preservation are recorded independently from final game quality.

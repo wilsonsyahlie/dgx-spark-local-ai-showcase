@@ -2190,3 +2190,6 @@ A larger game request exposed arbitrary limits spread across the interface and c
 
 
 The game workflow then exposed two different failure classes: authority that did not reach the file tools, and completed review evidence rejected for its representation. The repairs broadened task permissions under an explicit owner grant and reused verified work. Restart qualification also caught a base artifact missing existing fixes. These are measured operational repairs; they do not establish final game quality.
+
+
+A noisy task transcript exposed a retry classification error: a permanently unsupported optional stream kept reconnecting even though saved-status monitoring worked. A one-time informational fallback preserves real errors and completion evidence while eliminating repeated warnings. Existing work reaches a natural stopping point before the adapter is reloaded.
