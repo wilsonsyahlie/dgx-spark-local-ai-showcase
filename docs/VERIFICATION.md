@@ -856,3 +856,8 @@ The [follow-up](case-studies/local-project-coordination.md#follow-up-verify-a-ha
 ## Review meaning and explicit decisions
 
 The [follow-up](case-studies/local-project-coordination.md#follow-up-stop-reviews-from-inventing-the-assignment) used deterministic parser and actual bridge fixtures for ambiguity, cancellation, restart and bounded correction. Independent review caught a post-completion race before activation. Two real reviews then accepted existing work with native completion, durable delivery and refreshed desktop/narrow interface evidence. Earlier measured scope/format issues were resolved; separate readiness-cancellation and deadline limits, plus uncertainty about future model judgments, remain explicit.
+
+
+## Multi-role prototype workflow
+
+The [retrospective](case-studies/local-project-coordination.md#follow-up-make-a-small-team-usable-from-one-request) distinguishes isolated lifecycle/resource fixtures, authenticated UI tests and actual task/artifact qualification. Rejected setup attempts were preserved, with continuation only after proof of no dispatch. Duplicate actions, stale responses, permission identity and restart uncertainty were checked separately. Limited browser smoke tests do not establish every gameplay property, and reviewed examples do not guarantee future model quality.

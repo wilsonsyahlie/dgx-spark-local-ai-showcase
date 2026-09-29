@@ -2173,3 +2173,8 @@ A committed result was misclassified as uncertain when handoff verification used
 ## September 29 — Keep the reviewer on the assignment
 
 An authorized follow-up corrected invented review criteria and missing verdict handling. One bounded correction, persistent attempts and turn-bound cancellation kept the protocol controlled. Existing tasks passed review without repeating work; model judgment remains fallible. See the [retrospective](case-studies/local-project-coordination.md#follow-up-stop-reviews-from-inventing-the-assignment).
+
+
+## September 29 — A usable team needs ownership and receipts
+
+A bounded game-prototype workflow combined coding, generated artwork and review behind one request. Real qualification exposed assumptions about task ownership and delivery before completion could be trusted. Preserved attempts, exact consent and explicit uncertainty were as important as the preview. See the [retrospective](case-studies/local-project-coordination.md#follow-up-make-a-small-team-usable-from-one-request).

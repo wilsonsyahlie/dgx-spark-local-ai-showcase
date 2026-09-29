@@ -56,3 +56,22 @@ One malformed verdict may receive a single format correction using existing evid
 Focused asynchronous fixtures and independent review covered rejection, ambiguous output, timeout, restart, storage failure and a cancellation gap after completion. Two existing tasks were reviewed again without repeating their workers or changing artifacts. One first encountered an unchanged readiness cancellation before any prompt. Exact no-action evidence allowed one supported continuation, with the cancelled attempt retained separately. Both actual reviews used exactly one correction with no additional tools and received explicit passing decisions with verified execution and delivery; refreshed desktop and narrow views showed the new results. Earlier scope and format findings were resolved for these measured cases, while the separate deadline limitation remained unchanged.
 
 The lesson is to preserve the assignment's meaning across agents and to distinguish a valid response format from a correct judgment. No model-based review can promise that every future decision will be right.
+
+
+## Follow-up: make a small team usable from one request
+
+A separate prototype workflow turned one game description into planning, coding, generated artwork, integration and review. The interface showed understandable stages, exact permission requests, saved images and a sandboxed playable preview. A deterministic coordinator tracked dependencies; model execution and graphics production could overlap without turning the workflow into unrestricted recursive delegation.
+
+Real qualification uncovered assumptions that isolated tests missed: task ownership rules, an ignored adapter setting and disabled demand delivery. Failed attempts were retained. A supported continuation was allowed only after proving that the failed adapter had dispatched nothing and the original children remained untouched. This is why configuring roles is not sufficient evidence that a team can actually work.
+
+Graphics ownership required more than an empty queue. Another workload's supervisor restarted a stopped model, and a malformed diagnostic briefly returned misleading silence. Corrected process and resource evidence established availability. A separate unsafe legacy liveness check was contained through refusal to replay unknown work, without broadening the repair into unrelated machinery.
+
+The engineering result was a bounded workflow with durable requests, separate active and human-wait budgets, exact permission identity and explicit failure states. Navigation did not own execution. Service interruption, uncertain side effects and stopping an already submitted graphics item remained different situations. Tests covered these boundaries at appropriate layers, plus a real small-game qualification. Preview smoke checks were distinguished from gameplay and image-use evidence; future model judgment and arbitrary game quality remain unguaranteed.
+
+The lesson is that a friendly interface needs rigorous ownership and receipts underneath it. More agents alone do not create a reliable team.
+
+
+The real browser also exposed missing credentials on sandboxed image requests. A short-lived read-only preview capability preserved the isolation boundary, with constrained navigation and redacted URL logs. Separately, an inherited voice-display limit interrupted a longer permission prompt. A larger bounded display did not change command authority. Recovery waited for actual native completion and reconciled artifacts because a missing session registry entry did not prove its worker had stopped. Interaction tests then distinguished actual generated-image use and gameplay from static smoke checks.
+
+
+Later browser verification exposed two deployment assumptions: an unpinned executable path and browser settings under a protected home directory. A namespace-only probe missed the second failure. An equivalent restricted service reproduced it; private child-process settings directories corrected it without relaxing the service policy. The final acceptance must match the actual saved game bytes, because integration can change files after an earlier successful playtest. Native file-helper restrictions also did not constrain terminal execution under the same trusted identity; post-turn learning had its own completion boundary. These are explicit trust and evidence limits, not claims of isolated hostile agents.
