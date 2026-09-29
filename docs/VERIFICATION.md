@@ -913,3 +913,8 @@ The original malformed assessment was reproduced. Twenty-five distinct focused c
 ### Native game asset fidelity
 
 The [fidelity case study](case-studies/visual-fidelity-beyond-placeholder-art.md) records passing native collision/inventory tests, a continuous starting-location-to-quest-giver browser route, fixture-assisted ingredient interactions, one-time completion, refresh/stale-save handling, load retry and phone-sized layout. A subsequent full quest journey passed through mouse controls from a fresh game without fixture mutations. Physical touch, owner-device performance and comprehensive combat/skill acceptance remain outside the demonstrated evidence.
+
+
+### Animated-body and audio follow-up
+
+The [fidelity follow-up](case-studies/visual-fidelity-beyond-placeholder-art.md#follow-up-animation-assembly-and-audible-playback) adds whole-body topology checks for every exported frame, visible four-direction ground-click walking, native material inspection and thirty-two browser audio checks. The latter measure decoded samples and silence, load/decode failure, mute races, duplicate activation, looping, retry, import, refresh and phone-width controls. Restart recovery preserved the tested progress fields; final delivered assets were bound to source hashes. Position fixtures were confined to isolated test browsers. Physical hearing, touch hardware, owner-device performance and complete gameplay remain unverified. Earlier character-animation and substitute-music acceptance is explicitly superseded.

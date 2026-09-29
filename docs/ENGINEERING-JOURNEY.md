@@ -2223,3 +2223,8 @@ An artwork stall was traced to invalid assessment formatting, followed by an une
 ### 2026-09-29 — Replace rejected placeholder art with native geometry
 
 A classic-location recreation moved from generic procedural scenery to native assets after direct user rejection. Model-decoder and disconnected-stair failures were measured and corrected; browser evidence distinguishes fixture-assisted resource checks from a later complete mouse-only quest journey and unfinished full-game acceptance. See [the visual fidelity case study](case-studies/visual-fidelity-beyond-placeholder-art.md).
+
+
+### 2026-09-30 — Verify complete animated bodies and decoded sound
+
+Direct user feedback reopened character and audio acceptance. Shared body pivots, consistent coordinate conversion and a real player appearance corrected disconnected limbs and reversed facing. Gesture-based playback, explicit retry and a locally retained original recording replaced silent restoration and the rejected substitute melody. The follow-up distinguishes browser sample evidence from physical hearing and retains full-game limits. See [the fidelity follow-up](case-studies/visual-fidelity-beyond-placeholder-art.md#follow-up-animation-assembly-and-audible-playback).

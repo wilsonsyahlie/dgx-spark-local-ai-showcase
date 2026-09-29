@@ -41,3 +41,38 @@ interactions, not a complete or pixel-identical replacement for the original gam
 The general lesson is to separate asset fidelity, source correctness, live
 interaction evidence and final user acceptance. Preserve a rejected approach in
 the engineering history rather than relabeling it a success.
+
+
+## Follow-up: animation assembly and audible playback
+
+User feedback exposed two limits in the earlier native-asset acceptance: the
+character limbs separated during animation, and the player appeared to move
+backwards. Each body part had been animated with its own pivot, while resting
+and animated geometry used inconsistent coordinate conversion. The repair
+merges the complete body before native transforms, converts coordinates once,
+and uses a genuine player appearance rather than a similarly named character.
+A location-specific character definition also replaced a misleading name match.
+Native palette lighting, frame durations, texture and transparency are retained.
+
+A separate silent-audio report reproduced a saved enabled preference with no
+live audio context after reload. Playback now starts through a trusted gesture,
+exposes enable, mute and retry controls, and fences stale asynchronous work.
+The user also rejected the substitute melody. A locally served original
+recording replaced it; decoded playback loops without creating duplicate
+sources. Muting cuts the output immediately even if browser suspension stalls.
+
+Validation covered nineteen coherent bodies and all five hundred eleven
+exported frames, actual ground-click movement in four directions, nonzero
+audio samples, immediate silence, failed loading and decoding, duplicate
+activation, late completion, retry, save import, refresh and narrow layouts.
+Eight existing game logic checks and thirty-two audio checks passed. A controlled
+restart retained tested progress and recovered playback after another gesture.
+Inspected browser images show connected bodies, and delivered artifacts were
+checked against their reviewed sources.
+
+The earlier native-asset record is superseded for character animation and
+music acceptance. These checks do not establish physical speaker output,
+owner-device smoothness or complete original-game fidelity. Restricted assets
+and recordings remain outside this retrospective. The prevention rule is to
+test assembled animated geometry and actual decoded output: source provenance,
+a settings checkbox and a successful page load prove different things.
