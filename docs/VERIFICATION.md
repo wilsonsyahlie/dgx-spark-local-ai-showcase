@@ -851,3 +851,8 @@ Focused assignment and database checks, synthetic native-authentication/browser 
 ## Handoff ownership follow-up
 
 The [follow-up](case-studies/local-project-coordination.md#follow-up-verify-a-handoff-as-the-new-owner) reproduced an obsolete-owner read failure, then qualified recovery without replay and a fresh read-only worker/reviewer path. Native completion, exact result delivery, scoped denial and refreshed desktop/narrow interface checks passed. Unrequested review criteria and missing verdicts remained unresolved; successful execution was not reported as accepted output.
+
+
+## Review meaning and explicit decisions
+
+The [follow-up](case-studies/local-project-coordination.md#follow-up-stop-reviews-from-inventing-the-assignment) used deterministic parser and actual bridge fixtures for ambiguity, cancellation, restart and bounded correction. Independent review caught a post-completion race before activation. Two real reviews then accepted existing work with native completion, durable delivery and refreshed desktop/narrow interface evidence. Earlier measured scope/format issues were resolved; separate readiness-cancellation and deadline limits, plus uncertainty about future model judgments, remain explicit.

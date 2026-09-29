@@ -45,3 +45,14 @@ Verification was changed to use the destination role for current task state and 
 Focused regressions reproduced the old failure and covered queued review, late cancellation, changed ownership, missing or duplicate receipts and unavailable readback. The exercise also exposed separate output-quality limits: an unrequested review criterion and a missing explicit verdict. Those tasks remained conservatively blocked for review rather than being reported as accepted. Neither this fix nor its successful delivery checks promised that model judgments would always be correct.
 
 The lesson is to test ordinary user entry paths and to keep execution success, delivery proof and review acceptance distinct.
+
+
+## Follow-up: stop reviews from inventing the assignment
+
+Once delivery worked, two different review problems became visible: an extra claim in a worker's report became an invented requirement, and another review never stated its decision. The repair separated the requested outcome from model assertions and required an explicit supported verdict. An accurate report that a property is absent can satisfy an inspection request; a reviewer should not silently turn inspection into implementation.
+
+One malformed verdict may receive a single format correction using existing evidence, within the original execution budget. A second unclear result remains visibly inconclusive. Exact attempt records and turn-bound permission checks preserve cancellation and prevent stale consent from applying to later work. The prompt requests no tools during correction; this is not a new capability sandbox.
+
+Focused asynchronous fixtures and independent review covered rejection, ambiguous output, timeout, restart, storage failure and a cancellation gap after completion. Two existing tasks were reviewed again without repeating their workers or changing artifacts. One first encountered an unchanged readiness cancellation before any prompt. Exact no-action evidence allowed one supported continuation, with the cancelled attempt retained separately. Both actual reviews used exactly one correction with no additional tools and received explicit passing decisions with verified execution and delivery; refreshed desktop and narrow views showed the new results. Earlier scope and format findings were resolved for these measured cases, while the separate deadline limitation remained unchanged.
+
+The lesson is to preserve the assignment's meaning across agents and to distinguish a valid response format from a correct judgment. No model-based review can promise that every future decision will be right.

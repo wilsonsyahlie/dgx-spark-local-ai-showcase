@@ -2168,3 +2168,8 @@ A rejected projectless task exposed a gap between normal creation and agent admi
 ## September 29 — Ownership changed before verification
 
 A committed result was misclassified as uncertain when handoff verification used the former owner's permissions. Reading through the new owner's authority fixed the boundary without widening access. A fresh ordinary task qualified delivery; separate review-quality limits remained visible. See the [retrospective](case-studies/local-project-coordination.md#follow-up-verify-a-handoff-as-the-new-owner).
+
+
+## September 29 — Keep the reviewer on the assignment
+
+An authorized follow-up corrected invented review criteria and missing verdict handling. One bounded correction, persistent attempts and turn-bound cancellation kept the protocol controlled. Existing tasks passed review without repeating work; model judgment remains fallible. See the [retrospective](case-studies/local-project-coordination.md#follow-up-stop-reviews-from-inventing-the-assignment).
