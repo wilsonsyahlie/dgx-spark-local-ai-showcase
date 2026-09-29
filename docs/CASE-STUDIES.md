@@ -928,3 +928,5 @@ playback and restart recovery from unqualified GPU support and subjective qualit
 ## Local project coordination
 
 [Coordinating local agents without duplicating their work](case-studies/local-project-coordination.md) examines exact consent, cancellation and durable worker/reviewer handoff, including the failures that shaped the design.
+
+- [Project repair without clock cutoffs](case-studies/project-repair-without-clock-cutoffs.md) — elapsed-work cancellation, retained cause and local agent correction.

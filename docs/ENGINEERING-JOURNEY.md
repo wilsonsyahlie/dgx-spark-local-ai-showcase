@@ -2193,3 +2193,13 @@ The game workflow then exposed two different failure classes: authority that did
 
 
 A noisy task transcript exposed a retry classification error: a permanently unsupported optional stream kept reconnecting even though saved-status monitoring worked. A one-time informational fallback preserves real errors and completion evidence while eliminating repeated warnings. Existing work reaches a natural stopping point before the adapter is reloaded.
+
+
+## September 29 — Preserve productive work and let the local agent repair it
+
+A fixed elapsed deadline cancelled a project after code was saved, and a generic
+cancellation hid the cause. Owner-directed removal of the deadline preserved Stop
+and transport checks. The same project resumed from saved work. Schema/browser
+correction and rejected reviews gained an explicit agent repair cycle, with distinct
+turn identities, backups and fresh verification. Unknown effects remain fenced.
+See [project repair without clock cutoffs](case-studies/project-repair-without-clock-cutoffs.md).

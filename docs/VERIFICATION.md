@@ -876,3 +876,20 @@ The game follow-up distinguishes permission relay tests, real file write/edit/re
 
 
 Optional event-stream fallback was verified separately from task success: permanent rejection produces one informational transition while saved-status monitoring continues; temporary failures still reconnect. Actual-function fixtures cover response cleanup, result/failure/cancellation, timeout-stop and fresh execution. Deployment and task-state preservation are recorded independently from final game quality.
+
+
+## September 29 — Project continuation and automatic correction
+
+The deadline/cause baseline failed as expected. Ten runtime regressions, twenty-three
+project recovery tests and eighteen native transport tests passed. These cover Stop,
+unknown effects, continued corrections, missing outputs, exact pending-art exemptions,
+and separate repair/reviewer contexts. Authenticated deployed state and source
+fingerprints verified activation; the same project completed its coding stage.
+Artwork and final game acceptance remain pending. The full reviewer rework sequence
+is covered by fixtures; this record does not claim completed-game visual acceptance.
+
+A live qualification used the deployed repair loop, actual local agent tools and
+a real browser on an isolated broken-page fixture. The agent corrected the error;
+a fresh browser run verified a working button, no script/resource failures and
+a phone-width fit. The task-authority seam was isolated from real project records.
+This is evidence of agent-owned repair, not acceptance of the unfinished game.
