@@ -972,3 +972,10 @@ Actual provider compatibility and a stale settled notice failed before correctio
 their evidence remained retained. A successful process exit with a mismatch was
 not semantic acceptance. Original game preservation did not establish gameplay,
 and browser evidence did not establish physical phone or audible quality.
+
+
+The [notice-recovery follow-up](CHAT-ROUTING-RETROSPECTIVE.md#follow-up-completion-text-also-needed-ownership)
+adds measured cached-page, later-turn and old-acknowledgement cases. Notice identity
+survived recovery until fresh proof, while obsolete waiting cleared without a new
+settlement claim. Newer errors and unknown effects stayed visible. Deployed bytes
+and read-only recovery were verified separately from these controlled scenarios.

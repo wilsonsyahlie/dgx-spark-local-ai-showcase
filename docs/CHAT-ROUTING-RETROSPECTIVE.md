@@ -26,3 +26,14 @@ did not establish game playability. Physical phone, audible quality, broad proje
 authority, model ranking and long endurance remained outside the evidence. The
 lesson was to test the exact entry the owner used and keep intent, effect and proof
 distinct. This retrospective contains no deployment procedure or current topology.
+
+
+## Follow-up: completion text also needed ownership
+
+Final browser scenarios exposed the old waiting notice after returning to a cached
+page, advancing a task turn or recovering an older applied acknowledgement. The
+refinement retained only the same task's known notice identity and waited for fresh
+positive proof; obsolete text cleared without implying that newer work was settled.
+Older acknowledgements could not reinstate it, and newer errors or uncertainty
+remained visible. Focused browser scenarios and deployed read-only recovery passed.
+The earlier successful cases and failed evidence were preserved separately.
