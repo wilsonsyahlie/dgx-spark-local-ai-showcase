@@ -301,3 +301,8 @@ different responsibilities. Stopping one must not accidentally cancel the other.
 A call generation also belongs to the task that heard the request; reconnecting
 a client cannot make an old answer valid for a new call. Test late replies,
 producer drain and admission release separately from ordinary audio completion.
+
+
+## Automatic writes still need independent evidence
+
+In the [supervision exercise](SUPERVISED-LOCAL-TASKS.md), scoped standing authorization removed routine file prompts while backups and final-file checks remained mandatory. Delayed actions needed generation identity, cancellation needed exact owned receipts, and uncertain acceptance stayed fenced. A worker report and advertised tools were insufficient proof of actual effects.

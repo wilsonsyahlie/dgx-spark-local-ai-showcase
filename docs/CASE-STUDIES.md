@@ -939,3 +939,8 @@ playback and restart recovery from unqualified GPU support and subjective qualit
 ## Native editor prerequisites and honest asset acceptance
 
 [Preparation retrospective](case-studies/native-editor-preparation.md): executable tools and genuine rendered drafts, with clear limits around animation, entitlement and playable-game acceptance.
+
+
+## Exercised tools and retained ownership
+
+The [supervised task retrospective](SUPERVISED-LOCAL-TASKS.md) follows advertised-but-unavailable tools, a real failed draft and repair, exact Stop, restart context and a corrected inert preview.

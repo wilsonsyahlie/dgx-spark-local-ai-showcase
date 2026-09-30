@@ -220,3 +220,8 @@ Keep generation quality as a small set of reviewed fixed graphs. Bind the select
 to request identity and provenance, preserve the historical default for legacy receipts,
 and reject cross-profile replay. This keeps presentation effort controllable without
 turning the request surface into executable workflow configuration.
+
+
+## Retrospective supervision boundary
+
+The [supervision experiment](SUPERVISED-LOCAL-TASKS.md) explored a cloud coordinator exception for submitted task content with local workers. Standing task-file write authority, separate offline checks and owned execution receipts formed a bounded delegation pattern. This retrospective illustrates the pattern without specifying a production topology or general cloud fallback.

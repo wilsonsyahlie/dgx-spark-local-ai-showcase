@@ -922,3 +922,8 @@ The [fidelity follow-up](case-studies/visual-fidelity-beyond-placeholder-art.md#
 ### Native tools and a rendered draft
 
 The [preparation retrospective](case-studies/native-editor-preparation.md) distinguishes verified archives and executable tools, actual saved-scene readback/render, inspected textured meshes and 27 isolated combat assertions from a working editor or game. Review found primitive anatomy and zero skeletal skins or animation clips. Original combat-failure logs were unavailable; a later independent reproduction was retained and correctly labelled. GPU visibility, community build claims and an uncompiled scaffold did not establish editor rendering, asset import, interactive recovery, audio, performance or final fidelity.
+
+
+## Bounded supervision demonstrations
+
+The [supervision retrospective](SUPERVISED-LOCAL-TASKS.md) separates 37 focused test executions, actual delegation/takeover/cancellation, restart continuation and browser behavior from semantic guarantees, endurance and physical device acceptance. Failed gates are retained rather than retroactively counted as passes.

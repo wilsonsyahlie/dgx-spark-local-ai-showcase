@@ -2232,3 +2232,8 @@ Direct user feedback reopened character and audio acceptance. Shared body pivots
 ## September 30 — Prove native prerequisites, retain the unfinished outcome
 
 An experimental native editor route qualified isolated asset-authoring and compiler tools through checksum checks, real save/readback/render evidence, inspected exports and 27 combat assertions. Dependency failures, a fixture correction and a diagnostic undercount informed the evidence. The initial source-access block later cleared through owner-completed invitation acceptance and a pinned fetch. A later route choice superseded experimental build activation and added mandatory verified cleanup after every game test. Primitive anatomy, absent skeletal animation, editor rendering and gameplay remained separate unverified requirements. See the [preparation retrospective](case-studies/native-editor-preparation.md).
+
+
+## A submitted-task supervision experiment
+
+An owner-approved cloud coordinator delegated bounded work locally, independently checked outputs and took over a deliberately faulty draft. Actual tool execution, exact cancellation and restart context required proof beyond model prose. Failed runtime setup, fault harnesses and an idle activation mistake remain part of the [retrospective](SUPERVISED-LOCAL-TASKS.md).
