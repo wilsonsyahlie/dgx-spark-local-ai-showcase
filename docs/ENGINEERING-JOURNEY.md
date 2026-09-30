@@ -2238,6 +2238,11 @@ An experimental native editor route qualified isolated asset-authoring and compi
 
 An owner-approved cloud coordinator delegated bounded work locally, independently checked outputs and took over a deliberately faulty draft. Actual tool execution, exact cancellation and restart context required proof beyond model prose. Failed runtime setup, fault harnesses and an idle activation mistake remain part of the [retrospective](SUPERVISED-LOCAL-TASKS.md).
 
+A final preservation audit found a snapshot filename collision. Exact original
+capture bytes were recovered against their previously recorded hash; unique
+destinations and complete index checks qualified the repair without restoring
+production state. The retrospective retains this additional failure and lesson.
+
 
 ## September 30 — Make phone conversations usable without replaying work
 

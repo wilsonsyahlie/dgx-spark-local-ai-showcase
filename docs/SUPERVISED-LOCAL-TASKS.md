@@ -42,3 +42,11 @@ These are bounded engineering demonstrations. They do not establish arbitrary
 model correctness, physical device acceptance, long endurance or best-model
 selection. The lesson is to prove actual tool effects, preserve ownership and
 failures, and keep result inspection independent of a worker's claims.
+
+The final backup audit also exposed a preservation mistake: two snapshots with
+the same filename shared one destination. A non-inference capture snapshot was
+reconstructed from its retained pure builder and matched its independently
+recorded original hash exactly. The failed copy history remained explicit; no
+production state was restored. Unique destinations, a real collision fixture
+and a complete indexed hash scan qualified the repair. Backup creation and
+continued byte preservation required separate evidence.
