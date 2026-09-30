@@ -2264,3 +2264,13 @@ A later native module and scene-import milestone produced actual offscreen deskt
 ## September 30 — Keep the owner’s visual rejection visible
 
 The rejected boss art prompted separate Blender studies using verified licensed anatomy and photographed surfaces. Static asset checks and a real scene render passed, while independent visual review still found the requested fidelity unachieved. Earlier runtime assets remained unchanged. See the [visual-brief retrospective](case-studies/native-editor-preparation.md#follow-up-test-the-art-against-the-visual-brief).
+
+
+## September 30 — Delivery includes finding the application
+
+An owner could not find a qualified phone conversation app in its launcher.
+Measured source and live-page inspection confirmed an omitted launch entry.
+One card corrected discovery; real browser clicks, narrow layouts, refresh and
+delayed failed status reads qualified the navigation. The conversation system
+was unchanged. Physical phone installation and hearing remained separate.
+See the [follow-up retrospective](PHONE-CONVERSATION-APP.md#follow-up-the-launcher-is-part-of-the-user-path).

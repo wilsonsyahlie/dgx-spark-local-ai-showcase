@@ -950,3 +950,14 @@ The [rendering follow-up](case-studies/native-editor-preparation.md#follow-up-cr
 ### Visual brief after asset checks
 
 The [art retrospective](case-studies/native-editor-preparation.md#follow-up-test-the-art-against-the-visual-brief) distinguishes qualified source licenses, static geometry, embedded images and a real Blender render from owner acceptance. Independent visual review still found the fidelity unachieved. Animation, new engine activation, physical controls, hearing, packaging and performance remained open.
+
+
+### Phone launch discovery follow-up
+
+Fourteen actual browser checks qualified the added launch entry: narrow and
+desktop layout, resolved destination, protected-login next path, refresh,
+repeated plain navigation and explicitly observed delayed status failure.
+Source comparison proved a single addition; live static bytes matched and the
+existing process remained active. Conversation qualification was reused, not
+inferred from this navigation test. Physical installation, password entry,
+permissions and hearing remained unproven. See the [follow-up](PHONE-CONVERSATION-APP.md#follow-up-the-launcher-is-part-of-the-user-path).
