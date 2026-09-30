@@ -43,3 +43,12 @@ The progression retained failed transport and caller checks instead of treating 
 ### Owner rejects the visual design
 
 The owner explicitly rejected the shown design as nowhere near the requested game polish. That feedback overrode any interpretation of the preview as art acceptance. The existing art remains rejected drafts. Further Blender studies are replacing primitive anatomy with reshaped CC0 human sculpt bases and photographed CC0 material maps, with originals retained. These studies are separate from the runtime and do not establish skeletal animation, final art quality or a completed encounter.
+
+
+## Follow-up: test the art against the visual brief
+
+The owner rejected the previews as nowhere near the requested game polish. Working builds and structurally valid assets could not answer that criticism. After further procedural studies still looked assembled, Blender work used verified CC0 artist anatomy and photographed CC0 material surfaces, with source and license provenance retained. The anatomy was reshaped and environment geometry authored separately; derived topology was described honestly. Earlier scenes and runtime assets stayed intact.
+
+New static boss, courtyard and cliff exports passed geometry and embedded-image checks, and the combined editable scene produced an actual Blender inspection render. Authoring failures were preserved: exported names differed from object labels, empty geometry affected joins, guessed material-map keys failed, and thousands of individual foliage details caused slow scene updates. Batched geometry helped, while a separate root-parent failure required a new corrected candidate. Owned authoring processes were bounded and verified closed.
+
+Visual review still found the requested fidelity unachieved, particularly in fused anatomy, cloth drape and surface variation. More polygons and atmosphere had not supplied the missing character art. The render was not an engine gameplay frame; skeletal animation, new engine activation, controls, heard audio, packaging and performance remained unverified. The engineering lesson is to keep file validity and visual acceptance as separate gates, and to retain the owner's rejection until the actual result meets the brief.

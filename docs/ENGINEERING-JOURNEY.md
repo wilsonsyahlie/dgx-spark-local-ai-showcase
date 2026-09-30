@@ -2259,3 +2259,8 @@ and hearing on a physical iPhone remained a separate acceptance step. See the
 ## September 30 — Cross build and rendering boundaries without overstating the game
 
 A later native module and scene-import milestone produced actual offscreen desktop and portrait readiness frames. Partial imports, incompatible material usage and tiny text were measured and repaired with retained failure history. Game tests verified process closure; sound imports, a separate sculpt revision and isolated combat checks remained distinct from hearing, animation and finished gameplay. See the [rendering follow-up](case-studies/native-editor-preparation.md#follow-up-cross-the-build-import-and-rendering-boundaries-separately).
+
+
+## September 30 — Keep the owner’s visual rejection visible
+
+The rejected boss art prompted separate Blender studies using verified licensed anatomy and photographed surfaces. Static asset checks and a real scene render passed, while independent visual review still found the requested fidelity unachieved. Earlier runtime assets remained unchanged. See the [visual-brief retrospective](case-studies/native-editor-preparation.md#follow-up-test-the-art-against-the-visual-brief).

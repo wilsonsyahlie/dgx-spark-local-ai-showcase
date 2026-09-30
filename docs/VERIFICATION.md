@@ -945,3 +945,8 @@ destructive tool approval or long-duration qualification was claimed.
 ### Actual native build and readiness frames
 
 The [rendering follow-up](case-studies/native-editor-preparation.md#follow-up-cross-the-build-import-and-rendering-boundaries-separately) records real compilation, twenty-five meshes and ninety-three saved assets, then distinguishes a failed cold scenario from later successful desktop and portrait readiness captures. Image hashes, dimensions, visible text and owned-process exit were verified. Twenty material packages were repaired and reread, with seventy-three other original packages unchanged. Eight imported sounds, thirty logic assertions and a separately revised static sculpt remain insufficient for hearing, animation, physical controls, performance or completed-game fidelity.
+
+
+### Visual brief after asset checks
+
+The [art retrospective](case-studies/native-editor-preparation.md#follow-up-test-the-art-against-the-visual-brief) distinguishes qualified source licenses, static geometry, embedded images and a real Blender render from owner acceptance. Independent visual review still found the fidelity unachieved. Animation, new engine activation, physical controls, hearing, packaging and performance remained open.

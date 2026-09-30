@@ -956,3 +956,8 @@ between browser audio evidence and physical-device acceptance.
 ### Native build and readiness previews
 
 The [extended encounter retrospective](case-studies/native-editor-preparation.md#follow-up-cross-the-build-import-and-rendering-boundaries-separately) follows real compilation, partial-import recovery, material compatibility, readable frame captures and verified process closure, while retaining the unfinished art and gameplay outcome.
+
+
+### Licensed art studies and a failed fidelity gate
+
+The [art follow-up](case-studies/native-editor-preparation.md#follow-up-test-the-art-against-the-visual-brief) explains why geometry validity, rendered previews and process closure did not establish the requested polish. Derived assets, preserved authoring failures and remaining art/game limits are explicit.
