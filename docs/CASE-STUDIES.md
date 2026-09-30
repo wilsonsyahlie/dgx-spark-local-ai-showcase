@@ -961,3 +961,10 @@ The [extended encounter retrospective](case-studies/native-editor-preparation.md
 ### Licensed art studies and a failed fidelity gate
 
 The [art follow-up](case-studies/native-editor-preparation.md#follow-up-test-the-art-against-the-visual-brief) explains why geometry validity, rendered previews and process closure did not establish the requested polish. Derived assets, preserved authoring failures and remaining art/game limits are explicit.
+
+
+## Supervision from the conversation the owner used
+
+[Retrospective](CHAT-ROUTING-RETROSPECTIVE.md): an entry mismatch and extra password
+gate, exact identity and settlement receipts, semantic output checks, preserved
+failed evidence and recovery without automatic replay.

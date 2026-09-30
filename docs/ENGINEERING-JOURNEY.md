@@ -2274,3 +2274,13 @@ One card corrected discovery; real browser clicks, narrow layouts, refresh and
 delayed failed status reads qualified the navigation. The conversation system
 was unchanged. Physical phone installation and hearing remained separate.
 See the [follow-up retrospective](PHONE-CONVERSATION-APP.md#follow-up-the-launcher-is-part-of-the-user-path).
+
+
+## September 30 — Test the conversation the owner uses
+
+An existing chat still sent work directly to a local agent, while the requested
+supervision experiment lived behind a separate password gate. The correction
+tested the owner's actual entry, reused existing sign-in, and demonstrated local
+delegation with exact output checks and recovery without replay. Provider-format
+and stale terminal-notice failures were preserved. The original game was preserved
+without a new gameplay claim. See the [retrospective](CHAT-ROUTING-RETROSPECTIVE.md).

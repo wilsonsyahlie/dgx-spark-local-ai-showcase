@@ -317,3 +317,14 @@ retired control identities and newly requested state proof closed those races.
 Missing runtime state required saved-history viewing rather than automatic task
 continuation. Synthetic microphone capture and scheduled audio established a
 browser path; they did not establish physical iPhone permissions or hearing.
+
+
+### Existing entry, exact intent and truthful completion
+
+The [routing case](CHAT-ROUTING-RETROSPECTIVE.md) illustrates reusing authenticated
+identity without imposing an unrequested second password. Actions remained bound
+to owner, exact intent and generation; rejected outcomes permitted correction,
+while uncertain effects retained durable fences and required positive owned proof.
+Stop signalling could not depend on journal success. A terminal notice advanced
+only its own proven state and preserved newer errors. Backups, independent review
+and preserved original work were distinct from functional game acceptance.

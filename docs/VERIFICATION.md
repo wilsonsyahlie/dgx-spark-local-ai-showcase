@@ -961,3 +961,14 @@ Source comparison proved a single addition; live static bytes matched and the
 existing process remained active. Conversation qualification was reused, not
 inferred from this navigation test. Physical installation, password entry,
 permissions and hearing remained unproven. See the [follow-up](PHONE-CONVERSATION-APP.md#follow-up-the-launcher-is-part-of-the-user-path).
+
+
+### Chat-routing qualification
+
+The [routing retrospective](CHAT-ROUTING-RETROSPECTIVE.md) separates isolated
+fault/browser checks from actual entry-to-delegation, final-content assertions,
+same-context follow-up, accepted-response cancellation and restart recovery.
+Actual provider compatibility and a stale settled notice failed before correction;
+their evidence remained retained. A successful process exit with a mismatch was
+not semantic acceptance. Original game preservation did not establish gameplay,
+and browser evidence did not establish physical phone or audible quality.

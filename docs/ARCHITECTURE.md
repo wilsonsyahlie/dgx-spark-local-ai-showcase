@@ -225,3 +225,12 @@ turning the request surface into executable workflow configuration.
 ## Retrospective supervision boundary
 
 The [supervision experiment](SUPERVISED-LOCAL-TASKS.md) explored a cloud coordinator exception for submitted task content with local workers. Standing task-file write authority, separate offline checks and owned execution receipts formed a bounded delegation pattern. This retrospective illustrates the pattern without specifying a production topology or general cloud fallback.
+
+
+### Retrospective: the entry is part of orchestration
+
+The [chat-routing case](CHAT-ROUTING-RETROSPECTIVE.md) showed that a separate
+qualified coordinator interface had not satisfied automatic supervision from
+the owner's existing conversation. Reusing verified identity, retaining bounded
+delegation and distinguishing rejected from uncertain actions corrected that
+workflow. This records an engineering lesson without specifying current topology.
