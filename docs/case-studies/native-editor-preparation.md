@@ -25,3 +25,21 @@ Separate task tools and child-process environments avoided changing the existing
 A native engine can supply useful rendering and animation tools, but it cannot make rough assets meet a high-fidelity brief. Acceptance still needs the actual imported scene, visible character quality and a playable encounter.
 
 The owner later chose a different editor route, superseding the experimental build before activation. Saved source and authored assets were retained. Future game tests must close their owned processes after every outcome and verify exit; that cleanup was a requirement, with live implementation and game acceptance still pending.
+
+
+## Follow-up: cross the build, import and rendering boundaries separately
+
+The later supported-editor route produced an actual native module and class load, followed by a changed module compile and link. Thirty focused combat assertions remained separate from the user experience. Bounded process ownership was exercised against ordinary exit, failure, timeout, cancellation, descendants, duplicate admission and harness death. Game tests then verified their owned processes had closed after every outcome.
+
+An initial import saved twenty-five meshes and ninety-three asset packages before failing on a changed fog API. Preserving the partial result allowed a separate verified finishing step and fresh scene readback. Eight original sounds were imported; that established assets, not sound heard by a player.
+
+The first real framebuffer exposed small text and a missing material-usage setting. It also failed its scenario deadline during cold startup despite a normal editor exit. A temporary-object API check preceded a backed repair of twenty material packages, while seventy-three other original packages stayed unchanged. Later desktop and narrow portrait readiness frames passed their state and saved-image checks. Their hashes, dimensions, visible text and process closure were verified. They were offscreen previews, not evidence of physical controls, heard sound or performance.
+
+A separate Blender face-and-robe revision retained the original art. Export inspection caught a colour attribute deactivated by geometry joining; a new export preserved the intended colour data. The revision still used static transform parts, with no skeletal animation, and had not replaced the runtime model. Its visible quality remained below the brief.
+
+The progression retained failed transport and caller checks instead of treating them as game failures or silently making them green. Complete backup readback and actual build artifacts supplied the missing evidence. The lesson extended beyond tooling: saved geometry, compatible materials, readable pixels, process cleanup and a finished playable encounter each require their own proof. Input and recovery, audio acceptance, packaging, endurance and final fidelity remained open.
+
+
+### Owner rejects the visual design
+
+The owner explicitly rejected the shown design as nowhere near the requested game polish. That feedback overrode any interpretation of the preview as art acceptance. The existing art remains rejected drafts. Further Blender studies are replacing primitive anatomy with reshaped CC0 human sculpt bases and photographed CC0 material maps, with originals retained. These studies are separate from the runtime and do not establish skeletal animation, final art quality or a completed encounter.

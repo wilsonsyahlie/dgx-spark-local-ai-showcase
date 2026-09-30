@@ -951,3 +951,8 @@ The [supervised task retrospective](SUPERVISED-LOCAL-TASKS.md) follows advertise
 [Retrospective](PHONE-CONVERSATION-APP.md): a mobile text/voice experience,
 native session ownership, recovery without repeated effects, and the difference
 between browser audio evidence and physical-device acceptance.
+
+
+### Native build and readiness previews
+
+The [extended encounter retrospective](case-studies/native-editor-preparation.md#follow-up-cross-the-build-import-and-rendering-boundaries-separately) follows real compilation, partial-import recovery, material compatibility, readable frame captures and verified process closure, while retaining the unfinished art and gameplay outcome.
