@@ -996,3 +996,26 @@ A retained live worker failure recovered through authorized file writing and
 current-content assertions after budget exhaustion and a correctly rejected
 read-only-check mutation. Earlier failed evidence remained; a chosen reasoning
 setting was not treated as proof of correctness.
+
+
+## Difficulty-assessment evidence limits
+
+Controlled tests exercised stable inputs, known positive/negative controls, actual
+code versions, coaching, progress refusal and an authorized section correction.
+A naturally timed-out checker did not gain authority despite printing a plausible
+report. Independent reviews reproduced and corrected input-sealing, outside-byte,
+context, rebasing and lexical-credit gaps. These establish tested authority rules,
+not intrinsic intelligence, complete application quality or permanent learning.
+An overwritten receipt's reconstruction matched a prior independently observed
+checksum, while the missing pre-write backup remains a recorded limitation.
+
+
+A later coached continuation first returned incomplete, then succeeded on a smaller
+component correction. It wrote a small adapter connecting the corrected local
+module to retained earlier supervisor code with explicit authorship. A pellet-count
+validation mismatch blocked integration; focused local correction followed, and
+the actual saved files passed graph and simulated gameplay/audio-API assertions.
+Earlier application files remained exact. Budget-limited jobs and the initial
+failed integration stayed in history. There was no measured difficulty grant or
+new supervisor implementation takeover. Browser rendering, physical hearing and
+a hosted website still require separate evidence.

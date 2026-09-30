@@ -975,3 +975,10 @@ failed evidence and recovery without automatic replay.
 [Visible reasoning effort](REASONING-EFFORT-RETROSPECTIVE.md) records the gap
 between a UI choice and proof of the accepted setting, the value of retained
 migration failures, and recovery that preserves the original request.
+
+
+## Assessing difficulty after coaching
+
+[Measured implementation help](COACHING-ROLE-RETROSPECTIVE.md) retains the evolution
+from immediate recovery to a blanket teaching rule and then a bounded assessment.
+Its evidence distinguishes operational limits, genuine code progress and authorship.

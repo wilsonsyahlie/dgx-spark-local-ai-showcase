@@ -244,3 +244,12 @@ setting, accepted request and observed runtime context were distinct evidence.
 A migration needed durable first-install provenance so lost state could not
 silently become a default. These are general design lessons, not deployment
 instructions or a description of an operational endpoint.
+
+
+## Retrospective: evidence before narrow implementation help
+
+Teaching and expert implementation can coexist when authority follows inspected
+failure evidence. Comparable drafts require stable tests, fixed surrounding
+context, meaningful controls and recorded feedback. Raw-byte boundaries and exact
+predicted mutation checks protect the assessed scope. A version counter alone
+cannot diagnose capability. See the [retrospective](COACHING-ROLE-RETROSPECTIVE.md).

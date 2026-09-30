@@ -2294,3 +2294,17 @@ the current turn's saved and accepted setting. Protocol captures exposed a label
 that mapped to another effort; it was excluded. Reviews caught damaged-state
 migration paths before activation. Live selected turns and read-only recovery
 passed without claiming comparative reasoning quality. See the [retrospective](REASONING-EFFORT-RETROSPECTIVE.md).
+
+
+## September30 — Teach first, assess before implementation help
+
+A coordinator finished an incomplete delegated application under an old recovery
+policy. The owner rejected instant takeover, then clarified that genuinely hard
+sections still needed expert implementation. The resulting procedure diagnosed
+operational failures, supplied references and compared coached local revisions
+against fixed qualified criteria. Narrow code authority depended on actual stalled
+progress and relevant failures, not a retry counter. Reviews caught input seals,
+byte boundaries, varying context, mutation rebasing and misleading lexical credit.
+Controlled authority tests and a real timeout refusal passed. Partial application
+progress stayed separate from quality and learning claims. See the
+[retrospective](COACHING-ROLE-RETROSPECTIVE.md).
