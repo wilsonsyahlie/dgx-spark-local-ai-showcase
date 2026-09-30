@@ -927,3 +927,16 @@ The [preparation retrospective](case-studies/native-editor-preparation.md) disti
 ## Bounded supervision demonstrations
 
 The [supervision retrospective](SUPERVISED-LOCAL-TASKS.md) separates 37 focused test executions, actual delegation/takeover/cancellation, restart continuation and browser behavior from semantic guarantees, endurance and physical device acceptance. Failed gates are retained rather than retroactively counted as passes.
+
+
+### Phone text and voice acceptance
+
+The [retrospective](PHONE-CONVERSATION-APP.md) distinguishes forty-four backend
+checks and thirty-three browser checks from eight deployed user checks and six
+deployed boundary groups. Real text answers, refresh without prompt replay,
+read-only saved-history recovery, and a synthetic local voice answer passed.
+Voice input/output hashes were independently matched to the exact native turn;
+scheduled PCM and ended microphone tracks were measured separately. Physical
+iPhone installation, Safari permission behavior, owner-password login and
+audibility remained unproven. No second global restart, forced compaction,
+destructive tool approval or long-duration qualification was claimed.

@@ -306,3 +306,14 @@ producer drain and admission release separately from ordinary audio completion.
 ## Automatic writes still need independent evidence
 
 In the [supervision exercise](SUPERVISED-LOCAL-TASKS.md), scoped standing authorization removed routine file prompts while backups and final-file checks remained mandatory. Delayed actions needed generation identity, cancellation needed exact owned receipts, and uncertain acceptance stayed fenced. A worker report and advertised tools were insufficient proof of actual effects.
+
+
+### Recovery must preserve uncertainty
+
+The [phone conversation retrospective](PHONE-CONVERSATION-APP.md) found that a
+valid login did not establish authority over every session, and a late native
+acknowledgement could invalidate an earlier idle observation. Exact ownership,
+retired control identities and newly requested state proof closed those races.
+Missing runtime state required saved-history viewing rather than automatic task
+continuation. Synthetic microphone capture and scheduled audio established a
+browser path; they did not establish physical iPhone permissions or hearing.

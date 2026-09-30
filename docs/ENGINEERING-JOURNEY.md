@@ -2237,3 +2237,15 @@ An experimental native editor route qualified isolated asset-authoring and compi
 ## A submitted-task supervision experiment
 
 An owner-approved cloud coordinator delegated bounded work locally, independently checked outputs and took over a deliberately faulty draft. Actual tool execution, exact cancellation and restart context required proof beyond model prose. Failed runtime setup, fault harnesses and an idle activation mistake remain part of the [retrospective](SUPERVISED-LOCAL-TASKS.md).
+
+
+## September 30 — Make phone conversations usable without replaying work
+
+A Safari-installable Hermes interface brought text and voice into a small-screen
+experience. A failed authenticated connection and independent review exposed
+assumptions about session ownership, initialized policy and late acknowledgements.
+The resulting adapter preserved native authority and kept uncertain effects
+fenced across reconnects. Focused, browser and deployed checks passed; synthetic
+speech was tied to the actual native answer and audio scheduling. Installation
+and hearing on a physical iPhone remained a separate acceptance step. See the
+[retrospective](PHONE-CONVERSATION-APP.md).

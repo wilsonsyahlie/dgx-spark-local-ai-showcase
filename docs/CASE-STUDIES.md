@@ -944,3 +944,10 @@ playback and restart recovery from unqualified GPU support and subjective qualit
 ## Exercised tools and retained ownership
 
 The [supervised task retrospective](SUPERVISED-LOCAL-TASKS.md) follows advertised-but-unavailable tools, a real failed draft and repair, exact Stop, restart context and a corrected inert preview.
+
+
+## Phone conversations without accidental task replay
+
+[Retrospective](PHONE-CONVERSATION-APP.md): a mobile text/voice experience,
+native session ownership, recovery without repeated effects, and the difference
+between browser audio evidence and physical-device acceptance.
