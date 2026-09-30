@@ -2228,3 +2228,7 @@ A classic-location recreation moved from generic procedural scenery to native as
 ### 2026-09-30 — Verify complete animated bodies and decoded sound
 
 Direct user feedback reopened character and audio acceptance. Shared body pivots, consistent coordinate conversion and a real player appearance corrected disconnected limbs and reversed facing. Gesture-based playback, explicit retry and a locally retained original recording replaced silent restoration and the rejected substitute melody. The follow-up distinguishes browser sample evidence from physical hearing and retains full-game limits. See [the fidelity follow-up](case-studies/visual-fidelity-beyond-placeholder-art.md#follow-up-animation-assembly-and-audible-playback).
+
+## September 30 — Prove native prerequisites, retain the unfinished outcome
+
+An experimental native editor route qualified isolated asset-authoring and compiler tools through checksum checks, real save/readback/render evidence, inspected exports and 27 combat assertions. Dependency failures, a fixture correction and a diagnostic undercount informed the evidence. The initial source-access block later cleared through owner-completed invitation acceptance and a pinned fetch. A later route choice superseded experimental build activation and added mandatory verified cleanup after every game test. Primitive anatomy, absent skeletal animation, editor rendering and gameplay remained separate unverified requirements. See the [preparation retrospective](case-studies/native-editor-preparation.md).

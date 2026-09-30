@@ -935,3 +935,7 @@ playback and restart recovery from unqualified GPU support and subjective qualit
 ## Visual fidelity requires the right source material
 
 [Case study](case-studies/visual-fidelity-beyond-placeholder-art.md): native geometry replaced visually rejected placeholders, with explicit boundaries between interactive prototype checks and final game acceptance.
+
+## Native editor prerequisites and honest asset acceptance
+
+[Preparation retrospective](case-studies/native-editor-preparation.md): executable tools and genuine rendered drafts, with clear limits around animation, entitlement and playable-game acceptance.
