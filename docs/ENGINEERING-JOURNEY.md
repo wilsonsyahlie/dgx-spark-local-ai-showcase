@@ -2284,3 +2284,13 @@ tested the owner's actual entry, reused existing sign-in, and demonstrated local
 delegation with exact output checks and recovery without replay. Provider-format
 and stale terminal-notice failures were preserved. The original game was preserved
 without a new gameplay claim. See the [retrospective](CHAT-ROUTING-RETROSPECTIVE.md).
+
+
+## September 30 — Make reasoning intent visible
+
+A conversation showed progress without exposing the reasoning setting the owner
+wanted to choose. The experiment separated the next message's preference from
+the current turn's saved and accepted setting. Protocol captures exposed a label
+that mapped to another effort; it was excluded. Reviews caught damaged-state
+migration paths before activation. Live selected turns and read-only recovery
+passed without claiming comparative reasoning quality. See the [retrospective](REASONING-EFFORT-RETROSPECTIVE.md).

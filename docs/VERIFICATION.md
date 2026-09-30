@@ -979,3 +979,20 @@ adds measured cached-page, later-turn and old-acknowledgement cases. Notice iden
 survived recovery until fresh proof, while obsolete waiting cleared without a new
 settlement claim. Newer errors and unknown effects stayed visible. Deployed bytes
 and read-only recovery were verified separately from these controlled scenarios.
+
+
+## Reasoning control experiment
+
+Five choices were checked through protocol capture, unchanged capability surface,
+request/state boundaries and browser recovery. Two real selected turns preserved
+one conversation and matched persisted context, while current output assertions
+and replacement backups passed. Read-only restart recovery retained the setting
+and draft without replay. A separate advertised mode emitted a different effort
+and was excluded. These results did not establish comparative reasoning quality,
+relative latency, physical-device acceptance, prolonged stability or rollback
+execution. See the [retrospective](REASONING-EFFORT-RETROSPECTIVE.md).
+
+A retained live worker failure recovered through authorized file writing and
+current-content assertions after budget exhaustion and a correctly rejected
+read-only-check mutation. Earlier failed evidence remained; a chosen reasoning
+setting was not treated as proof of correctness.

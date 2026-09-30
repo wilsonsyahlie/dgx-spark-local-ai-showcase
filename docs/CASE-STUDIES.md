@@ -968,3 +968,10 @@ The [art follow-up](case-studies/native-editor-preparation.md#follow-up-test-the
 [Retrospective](CHAT-ROUTING-RETROSPECTIVE.md): an entry mismatch and extra password
 gate, exact identity and settlement receipts, semantic output checks, preserved
 failed evidence and recovery without automatic replay.
+
+
+## Reasoning choice and truthful state
+
+[Visible reasoning effort](REASONING-EFFORT-RETROSPECTIVE.md) records the gap
+between a UI choice and proof of the accepted setting, the value of retained
+migration failures, and recovery that preserves the original request.

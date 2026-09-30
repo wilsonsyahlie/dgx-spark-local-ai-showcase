@@ -234,3 +234,13 @@ qualified coordinator interface had not satisfied automatic supervision from
 the owner's existing conversation. Reusing verified identity, retaining bounded
 delegation and distinguishing rejected from uncertain actions corrected that
 workflow. This records an engineering lesson without specifying current topology.
+
+
+## Retrospective: a setting belongs to its action
+
+The [reasoning control experiment](REASONING-EFFORT-RETROSPECTIVE.md) treated
+reasoning choice as immutable message intent. Browser preference, stored turn
+setting, accepted request and observed runtime context were distinct evidence.
+A migration needed durable first-install provenance so lost state could not
+silently become a default. These are general design lessons, not deployment
+instructions or a description of an operational endpoint.
