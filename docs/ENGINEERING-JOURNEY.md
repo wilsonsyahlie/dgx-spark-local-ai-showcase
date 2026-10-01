@@ -2326,3 +2326,12 @@ The requested visual quality and finished game remained unfinished. See the
 The actual native image subsequently failed visual review despite passing
 readiness and closure checks. Neutral views exposed geometric interpretation
 errors; isolated source revisions did not establish artistic acceptance.
+
+## October 1 — Diagnostics that stopped interrupting play
+
+A visible command window exposed an overlooked usability problem in an internal
+launcher. The corrective design created its harness without a console and kept
+errors in logs. Normal, verbose, timeout and native-engine checks were observed
+on the active desktop with verified process closure. This launcher result did
+not establish the unfinished town game's artistic quality. See the
+[retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
