@@ -92,3 +92,26 @@ before every consequential check prevents the next failure from losing its evide
 One repaired rendering artifact does not establish the reference's organic detail,
 composition or final game. Those requirements remain unfinished. This retrospective
 contains no game assets, current operational topology or deployable project.
+
+
+## Successful transfer can still be an unsuccessful image
+
+A source candidate finally passed its geometry, UV and tangent checks. Baking
+then exposed another evidence trap: a completed operator had produced black
+images. A controlled comparison isolated an unsupported denoising path. The
+corrected owned-scene bake was checked over occupied UV regions, keeping raw
+images separate from packed export channels.
+
+A strict comparison also revealed tangent precision loss in export. Recording
+that same invocation supported a correction in a fresh copy; only the allowed
+tangent components changed. Saved native bounds and connected material graphs
+qualified, while unavailable internal arrays stayed explicit rather than being
+replaced with default metadata.
+
+Close and wide engine images retained the surface coloration and readable ivy.
+Independent visual review still failed the reference target: the landmark was
+too smooth, the banks too sparse, and the composition lacked a lived-in village's
+atmosphere. Technical transfer and process cleanup cannot substitute for that
+visual requirement. The next step is a source-corresponding playable district,
+then the rest of the town. Finished gameplay and delivery remain unfinished.
+This retrospective includes no assets, current topology or deployable project.

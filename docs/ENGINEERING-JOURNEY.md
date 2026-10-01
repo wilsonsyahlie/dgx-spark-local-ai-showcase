@@ -2379,3 +2379,15 @@ contract audit. The shape-guard round was rejected, as was canonical startup at 
 The documented delivery comparison scored 9/10 versus 0/10; no candidate qualified for activation.
 The [retrospective](TESTED-SKILL-REUSE.md) preserves failures, authorship and bounded
 claims rather than equating package assistance with changed model weights.
+
+
+## October 2 — Passing the pipeline without passing the picture
+
+A source asset's geometry and tangent checks passed, then a controlled bake
+comparison and an explicitly bounded export-copy correction resolved separate
+pipeline defects. Connected native materials and actual close/wide images
+qualified the transfer. Independent visual review still rejected the smooth
+landmark, sparse banks and weak atmosphere. The next stage joins accurate
+district layout with classic movement; the complete town and finished game
+remain unfinished. See the
+[retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
