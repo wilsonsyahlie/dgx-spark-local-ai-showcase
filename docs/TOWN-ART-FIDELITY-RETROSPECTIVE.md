@@ -130,3 +130,16 @@ Windows refused the foreground acquisition needed by the automated controls audi
 A collector also reused an older local evidence filename prefix. The original records survived, but the overwritten aliases had to be marked untrusted and collected again into separate destinations. The lesson was to reject existing evidence destinations and bind acceptance to the recorded run identity. Another generated test fixture failed strict compilation; a separate corrected fixture preserved the failure history instead of weakening checks.
 
 Independent review accepted the character-orientation correction, background inactivity and exact source preservation within their stated limits. Reference-quality art, a complete playable native town, audio, recovery flows and packaged delivery remained unfinished. The next useful gate was a connected, visibly supported town route and an early cooked executable. This is a retrospective engineering record, with no assets or deployable configuration.
+
+
+### Integrating a complete town without overstating the result
+
+A native town controller gained source-derived ladders and local portal routes. Portable checks covered attachment, detachment, released input, supported arrival and unavailable destinations. Independent review found that a release shorter than a simulation step could disappear; a reproduced regression guided the backed correction. Compilation established compatibility while ordinary interactive controls remained unqualified.
+
+The town candidate preserved original geometry and character records. Lossless atlas checks and exported terrain decoding were useful preparation gates. Conditional character visibility, newly authored navigation dialogue and temporary terrain were kept provisional. A copied music track and saved looping flag did not establish audible playback.
+
+Native import exposed two different failures. An observed depth-bound difference corrected the expected importer result without changing geometry or loosening tolerance. The next import saved the candidate, then failed a support check after reload. A fresh read-only process observed the expected saved support and collision setting. Because the failed assertion had not recorded its operands, its cause remained unproven; the saved observation did not rewrite the earlier failure into a pass.
+
+A broader verification check also found that a previously qualified asset list was only a subset. Additional existing files were enrolled from their current observed hashes, with no invented historical guarantee. The lesson was to state scope precisely, record operands before assertions and collect failures independently.
+
+The native integration and saved candidate are intermediate progress. Complete architecture, reference-quality art, ordinary controls, recovery, audio and packaged delivery remain unfinished. The persistent full-game goal continues. This retrospective contains no game assets or deployable configuration.
