@@ -2346,3 +2346,14 @@ an isolated lighting comparison restored detail but left shadows too deep.
 The next art revision therefore has a clearer baseline while the requested
 fidelity and finished game remain unachieved. See the
 [retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
+
+
+## October 1 — Looking close enough to judge foliage
+
+A photographic ivy revision improved the native scene, but the wide frame could
+not resolve leaf detail. A camera-only close view preserved lighting and field
+of view, visibly showing veins, cutout edges, curvature and connected branches.
+It also revealed a separate cap shading defect. Failed metadata inspection was
+retained truthfully, and unavailable backface evidence remained explicit. The
+requested art fidelity and finished game are still unfinished. See the
+[retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).

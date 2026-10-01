@@ -50,3 +50,22 @@ not accepted lighting. The landmark, surrounding cover and background still
 need substantial correction; requested fidelity and finished gameplay remain
 unfinished. This retrospective contains no assets, operational configuration
 or deployable project.
+
+
+## Detail needs a meaningful viewing distance
+
+Replacing flat leaves with photographic foliage was only part of the work.
+Saved material graphs established the intended image bindings, while one
+metadata inspection failed because an editor facility was unavailable. Retaining
+that failed result prevented a successful cleanup check from becoming a false
+claim of successful inspection.
+
+The wide native scene showed improved leaves but hid detail. A separate close
+camera view preserved the scene's lighting and field of view. Leaf veins, mask
+edges, curved surfaces and several branch connections became visible; backfaces
+and all attachments were not thereby proved. The same view exposed broad cap
+shading discontinuities. Their cause remains unresolved, so a different pigment
+cannot be described as a measured fix. Close inspection improved the evidence,
+while the whole scene's requested fidelity and finished game remain unfinished.
+This is a retrospective engineering story, with no game assets or deployable
+project.
