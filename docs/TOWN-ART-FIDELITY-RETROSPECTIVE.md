@@ -115,3 +115,18 @@ atmosphere. Technical transfer and process cleanup cannot substitute for that
 visual requirement. The next step is a source-corresponding playable district,
 then the rest of the town. Finished gameplay and delivery remain unfinished.
 This retrospective includes no assets, current topology or deployable project.
+
+
+### From a standing scene to supported town movement
+
+A native standing frame exposed a subtle presentation bug: a flat character plane inherited the spawn rotation and appeared edge-on. Separating the plane's orientation from its foot movement made the next rendered frame readable. That result established one correction, while the provisional characters and environment still failed the intended artistic quality.
+
+The movement layer was then checked against the complete original town geometry. Preserving entire source records mattered more than matching object counts: collision links, layer assignments, conditional character visibility and repeated spawn markers all carry meaning. Collision, minimap and visual camera bounds were kept separate. Hundreds of portable assertions covered declared seam, slope, platform and boundary cases; skipped cases and tests that measured only bounded execution remained explicit limitations. Ladders and usable portals were still future implementation.
+
+Native observations found a focus distinction that compilation could not reveal. The viewport widget claimed focus while the application was in the background. Simulation and animation were active, although no unintended character motion was observed. Combining those focus predicates and clearing input on transitions stopped simulation in a fresh background run. This did not establish physical keyboard recovery or ordinary interactive controls.
+
+Windows refused the foreground acquisition needed by the automated controls audit. The audit sent no gameplay inputs and produced no gameplay captures. Development continued rather than weakening the focus policy or escalating desktop control. A zero process exit did not turn that failed audit into a pass: its own failure report was authoritative.
+
+A collector also reused an older local evidence filename prefix. The original records survived, but the overwritten aliases had to be marked untrusted and collected again into separate destinations. The lesson was to reject existing evidence destinations and bind acceptance to the recorded run identity. Another generated test fixture failed strict compilation; a separate corrected fixture preserved the failure history instead of weakening checks.
+
+Independent review accepted the character-orientation correction, background inactivity and exact source preservation within their stated limits. Reference-quality art, a complete playable native town, audio, recovery flows and packaged delivery remained unfinished. The next useful gate was a connected, visibly supported town route and an early cooked executable. This is a retrospective engineering record, with no assets or deployable configuration.

@@ -2391,3 +2391,8 @@ landmark, sparse banks and weak atmosphere. The next stage joins accurate
 district layout with classic movement; the complete town and finished game
 remain unfinished. See the
 [retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
+
+
+### Native town orientation, focus and source geometry
+
+Actual rendering revealed and corrected an edge-on character plane. Separate native observations corrected background simulation caused by confusing widget focus with application focus. Complete source geometry was preserved and declared portable movement fixtures passed, with skipped cases retained as limits. Windows denied the controls audit's foreground request, so no interactive behavior was accepted. Collection and test-preparation failures remained visible in the engineering record. Independent review accepted the limited progression while full-town construction, reference-quality art and packaged delivery remained unfinished.
