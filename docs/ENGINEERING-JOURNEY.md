@@ -2401,3 +2401,8 @@ Actual rendering revealed and corrected an edge-on character plane. Separate nat
 ### Full-town integration and measured import limits
 
 Source-derived ladders and local routes passed declared portable checks and compiled into a native town candidate. Import failures led to a measured bounds correction and a separate read-only saved-map inspection. The earlier failure remained failed where its operands were missing. Asset-list scope was made explicit rather than extending a historical guarantee. The full game still requires complete architecture, reference art, interactive recovery, audio and packaged delivery.
+
+
+### Inspecting the delivered native package
+
+A successful town cook initially produced an archive without its cooked assets. A measured output-layout mismatch guided a preserved-copy and stage-only recovery. Manifest, archive and loose-data checks established resource inclusion while appearance, ordinary startup, controls and audio remained unqualified. Failed attempts stayed retained and the full-game goal continues.

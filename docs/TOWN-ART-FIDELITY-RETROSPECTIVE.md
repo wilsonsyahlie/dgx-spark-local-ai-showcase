@@ -143,3 +143,16 @@ Native import exposed two different failures. An observed depth-bound difference
 A broader verification check also found that a previously qualified asset list was only a subset. Additional existing files were enrolled from their current observed hashes, with no invented historical guarantee. The lesson was to state scope precisely, record operands before assertions and collect failures independently.
 
 The native integration and saved candidate are intermediate progress. Complete architecture, reference-quality art, ordinary controls, recovery, audio and packaged delivery remain unfinished. The persistent full-game goal continues. This retrospective contains no game assets or deployable configuration.
+
+
+### A successful cook can still produce an incomplete package
+
+An isolated native town cook succeeded after a memory-limit failure was measured and the candidate's compilation overlap was reduced. Resource arguments were kept distinct from proven effective settings. The original project and successful cooked output were preserved.
+
+The first archive still omitted the town's cooked map and assets, despite a successful packaging exit. Source inspection found a disagreement between the cooker output directory and the platform layout expected by staging. A verified copy into the expected layout allowed packaging to recover without another cook or changes to the engine.
+
+Actual manifest and archive checks then confirmed the map, character textures, material, sprite geometry, music and package companions. Loose runtime data matched, and the staged and archived files agreed by path, size and hash. Those checks establish inclusion; they do not establish the appearance of the town, ordinary startup, playable controls or audible music.
+
+A rejected evidence schema and a transport-timeout collection gap were also preserved and corrected without rewriting failed outcomes. Independent review, exception-safe receipt collection and checks of the delivered artifact were the useful safeguards. The lesson is to verify the package rather than treating a successful tool exit as delivery.
+
+The full game remains unfinished. The last visual comparison failed the reference-fidelity target, and complete architecture, ordinary gameplay, recovery, audio and packaged default launch still require work. This retrospective contains no game assets or deployable commands.
