@@ -1025,3 +1025,11 @@ a hosted website still require separate evidence.
 Rendered native output and controlled gameplay/persistence checks supported a
 prototype milestone. They did not establish physical play, listening, endurance
 or original-game fidelity. See the [retrospective](SINGLE-CITY-NATIVE-PROTOTYPE.md).
+
+## Town art inspection and the fidelity boundary
+
+Geometry orientation, measured editor interfaces, material assignments and saved
+instance persistence passed their respective checks. They do not establish the
+requested native appearance, movement, gameplay or artistic acceptance. The
+initial owner rejection remains authoritative. See the
+[retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).

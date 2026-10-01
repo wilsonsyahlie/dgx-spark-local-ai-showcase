@@ -2315,3 +2315,10 @@ An original single-city prototype connected driving, walking, pursuit and missio
 Native rendering and controlled checks passed after review and screenshot corrections.
 Physical play, sound, endurance and the requested commercial-game fidelity remained
 unqualified. See the [retrospective](SINGLE-CITY-NATIVE-PROTOTYPE.md).
+
+## October 1 — A town scene that missed the visual brief
+
+The owner rejected a generic procedural result. Corrective work verified one
+landmark's geometry and a saved inspection scene, while preserving failed drafts.
+The requested visual quality and finished game remained unfinished. See the
+[retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
