@@ -2322,3 +2322,7 @@ The owner rejected a generic procedural result. Corrective work verified one
 landmark's geometry and a saved inspection scene, while preserving failed drafts.
 The requested visual quality and finished game remained unfinished. See the
 [retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
+
+The actual native image subsequently failed visual review despite passing
+readiness and closure checks. Neutral views exposed geometric interpretation
+errors; isolated source revisions did not establish artistic acceptance.
