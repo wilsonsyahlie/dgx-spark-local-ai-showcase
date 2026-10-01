@@ -69,3 +69,26 @@ cannot be described as a measured fix. Close inspection improved the evidence,
 while the whole scene's requested fidelity and finished game remain unfinished.
 This is a retrospective engineering story, with no game assets or deployable
 project.
+
+
+## Correct one artifact without overstating the mechanism
+
+The roof shading defect received a narrow measured correction. Controlled native
+comparisons removed broad patches while retaining the roof's casting and foliage
+shadows. A copied asset initially referenced a missing source; the failed attempt
+was kept, the original was protected, and a fresh copied reference was qualified
+before rebuilding. The resulting image supports that specific corrective outcome,
+without proving identical internal geometry or a precise renderer mechanism.
+An earlier unavailable metadata API had returned defaults; those were retracted as
+facts about the actual mesh rather than carried into a convenient explanation.
+
+Source authoring remained a separate gate. A bevel introduced collapsed faces.
+Targeted local repair preserved unrelated coordinates and passed geometric checks,
+but tangent failures prevented baking and import. A diagnostic collection became
+unreliable after an operation; copied-before and newly acquired-after data agreed,
+so the diagnostic failure was not mislabelled as corrupted UVs. Recording operands
+before every consequential check prevents the next failure from losing its evidence.
+
+One repaired rendering artifact does not establish the reference's organic detail,
+composition or final game. Those requirements remain unfinished. This retrospective
+contains no game assets, current operational topology or deployable project.

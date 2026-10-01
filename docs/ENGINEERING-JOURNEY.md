@@ -2357,3 +2357,16 @@ It also revealed a separate cap shading defect. Failed metadata inspection was
 retained truthfully, and unavailable backface evidence remained explicit. The
 requested art fidelity and finished game are still unfinished. See the
 [retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
+
+
+## October 2 — A rendering correction is still smaller than the game
+
+Close inspection led to a controlled comparison that removed broad roof shading
+patches while retaining its casting and foliage shadows. The copied asset first
+failed a source-reference check, and that failure was preserved before a fresh
+copy was repaired and rebuilt. Unsupported default metadata claims were retracted.
+A separate source revision passed geometry checks but failed tangent qualification;
+a stale diagnostic read was distinguished from unchanged stored UVs. These steps
+improve the evidence and one rendering defect. They do not establish the requested
+art fidelity or deliver the finished game. See the
+[retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
