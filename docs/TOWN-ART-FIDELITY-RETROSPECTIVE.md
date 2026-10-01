@@ -27,3 +27,26 @@ versions and failed results were preserved. Source terrain and saved-placement
 checks progressed, but the requested visuals, movement and finished game
 remained unfinished. Reliable development tooling supports artistic iteration;
 it cannot replace visual acceptance.
+
+
+## Distinguishing a rendering result from an accepted game
+
+Repeatedly stopping at intermediate results frustrated the owner. The full game
+objective now persists through failed visual reviews. Correcting development
+tooling or producing another frame is progress, not delivery.
+
+A scene-copy check also illustrated how a verifier can create a false failure:
+component enumeration changed while the compared geometry and settings did not.
+The corrected comparison preserved meaningful ordering. Photographed ivy source
+checks found a transparent attachment point and an invalid leaf tangent; new
+source geometry corrected them without claiming native visual acceptance.
+
+When the ground still looked pale, inspecting the saved material graph was only
+the first step. A screenshot-bound diagnostic confirmed the renderer actually
+used the intended camera and Base Color view. The texture was present before
+lighting. An isolated skylight comparison restored surface detail but made
+shadows too deep. That result became a diagnostic baseline for further art work,
+not accepted lighting. The landmark, surrounding cover and background still
+need substantial correction; requested fidelity and finished gameplay remain
+unfinished. This retrospective contains no assets, operational configuration
+or deployable project.

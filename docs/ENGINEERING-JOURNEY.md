@@ -2335,3 +2335,14 @@ errors in logs. Normal, verbose, timeout and native-engine checks were observed
 on the active desktop with verified process closure. This launcher result did
 not establish the unfinished town game's artistic quality. See the
 [retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
+
+
+## October 1 — Preserving the goal through failed visual comparisons
+
+The unfinished town game became a persistent objective. Intermediate tooling
+fixes and rejected images remain progress records, not completion. A later
+renderer diagnostic showed the ground texture was present before lighting;
+an isolated lighting comparison restored detail but left shadows too deep.
+The next art revision therefore has a clearer baseline while the requested
+fidelity and finished game remain unachieved. See the
+[retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
