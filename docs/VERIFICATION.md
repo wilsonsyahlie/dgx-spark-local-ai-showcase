@@ -1019,3 +1019,9 @@ Earlier application files remained exact. Budget-limited jobs and the initial
 failed integration stayed in history. There was no measured difficulty grant or
 new supervisor implementation takeover. Browser rendering, physical hearing and
 a hosted website still require separate evidence.
+
+## Native city prototype
+
+Rendered native output and controlled gameplay/persistence checks supported a
+prototype milestone. They did not establish physical play, listening, endurance
+or original-game fidelity. See the [retrospective](SINGLE-CITY-NATIVE-PROTOTYPE.md).

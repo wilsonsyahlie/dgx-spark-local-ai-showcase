@@ -982,3 +982,5 @@ migration failures, and recovery that preserves the original request.
 [Measured implementation help](COACHING-ROLE-RETROSPECTIVE.md) retains the evolution
 from immediate recovery to a blanket teaching rule and then a bounded assessment.
 Its evidence distinguishes operational limits, genuine code progress and authorship.
+
+- [A single-city native prototype](SINGLE-CITY-NATIVE-PROTOTYPE.md): system behavior and visual fidelity as separate deliverables.
