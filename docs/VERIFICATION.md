@@ -1033,3 +1033,7 @@ instance persistence passed their respective checks. They do not establish the
 requested native appearance, movement, gameplay or artistic acceptance. The
 initial owner rejection remains authoritative. See the
 [retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
+
+## Reusable package evaluation
+
+Freeze independently qualified correct and targeted broken controls before worker inference, inspect actual saved adapters and served library bytes, and preserve frozen scores alongside any conservative supplemental audit. Semantic display controls must accept equivalent correct presentations and reject wrong values/order. A supplied controller comparison includes reduced implementation work. A small pilot does not qualify weight learning, general task transfer, production catalog integration or physical hearing; pre-backup gaps and any recovery must remain disclosed.

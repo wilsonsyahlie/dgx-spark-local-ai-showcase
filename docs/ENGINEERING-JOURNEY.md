@@ -2370,3 +2370,12 @@ a stale diagnostic read was distinguished from unchanged stored UVs. These steps
 improve the evidence and one rendering defect. They do not establish the requested
 art fidelity or deliver the finished game. See the
 [retrospective](TOWN-ART-FIDELITY-RETROSPECTIVE.md).
+
+## October 1–2 — Testing transfer from a reusable lesson
+
+Five separately frozen paired pilots distinguished helper assistance from controller
+reuse. The first was rejected despite some full completions. The second controller round retained its original rubric results alongside a stricter
+contract audit. The shape-guard round was rejected, as was canonical startup at 8/10 versus 0/10.
+The documented delivery comparison scored 9/10 versus 0/10; no candidate qualified for activation.
+The [retrospective](TESTED-SKILL-REUSE.md) preserves failures, authorship and bounded
+claims rather than equating package assistance with changed model weights.
