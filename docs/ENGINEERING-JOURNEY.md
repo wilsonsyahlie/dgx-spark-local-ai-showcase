@@ -2479,3 +2479,8 @@ A focused ordering-check continuation reproduced an old acceptance gap without c
 ## October 2 — Testing a useful snapshot-auditor task
 
 A bounded library task behind a supplied read-only driver compared current workflow with trusted checks. Current workflow 1/1 ordinary clean; candidate 0/1 final-checker-qualified. The supplied-checker candidate did not meet the predefined focused task rule. A comparative finishing benefit was not established. The candidate regressed on 27 selected cases; this bundle is not promoted. The artifact checks snapshot consistency, not live authenticity. See [the auditor pair record](SNAPSHOT-AUDITOR-PAIR.md).
+
+
+## October 2 — Testing focused file edits
+
+The candidate met the frozen focused repair rule. Both arms finished correctly; no comparative completion gain was observed. Among these two correct finishes, reported generated output fell from 3455 to 1330 tokens (61.5%). No rollout or automatic further trial. See [the guarded small-edit pair](GUARDED-SMALL-EDIT-PAIR.md).
