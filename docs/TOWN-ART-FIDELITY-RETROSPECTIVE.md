@@ -183,3 +183,16 @@ A town reconstruction moved from identical doors toward distinct wood entrances,
 The geometry work exposed separate errors: a collapsed roof edge, limited-precision clipping, vertical profile distortion and an inset operation that made a convex contour nonconvex. The last defect let a clipper and its checker agree on the wrong region. Corrected half-plane offsets and retained rejected-input controls addressed that failure without loosening the source overlap threshold.
 
 Exported geometry and local surface-map composition passed limited checks. UV-based triangle vectors are not supplied or engine-generated tangents. The new art has not been imported; the last native reference comparison remains a failure. Construction, forest, characters, gameplay, UI, audio and recovery remain unfinished. This retrospective contains no game assets or deployable configuration.
+
+
+### What the first native construction transfer proved—and did not prove
+
+The reconstruction moved from exported geometry into an actual engine scene. Native bounds and material-slot checks exposed a coordinate-basis mismatch that a source preview could not reveal. Correcting depth, normals and winding together preserved the original texture layout. The importer also generated extra textures despite disabled material import; the evidence record followed the actual asset inventory and retained the extras.
+
+Scene serialization exposed another gap. A collision setter call did not establish saved behavior, and the initial attempt lacked an immediate profile witness. A new cloned scene records the state before the change, immediately afterward and after reload. The intended profile persists for every imported landmark. This proves the supported workflow, while the earlier failure mechanism remains uncertain.
+
+The next render attempt reached its time limit during shader startup and produced no image. Cleanup evidence therefore qualifies a closed failed attempt, not successful art. The lifecycle checker was corrected to preserve explicit timeout status and reject mislabeled or incorrectly typed evidence. A larger cache from a prior successful run suggests a scoped recovery path; it is not a fidelity result.
+
+The project also retains a process lesson: reconstructing exact prior source bytes after an edit can recover evidence, but cannot retroactively satisfy a missing pre-edit backup. Subsequent changes use preserved revisions and backups.
+
+Native import and saved-state checks are real progress. Shader readiness, generated tangent appearance and the detailed video-reference style remain unqualified. Terrain, forest composition, three-dimensional characters, complete gameplay, UI, audio and recovery still need work. The existing package was handed over as a rough prototype when requested; the newer construction has not yet been packaged. The full objective remains unfinished.
