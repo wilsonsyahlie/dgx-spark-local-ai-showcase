@@ -2474,3 +2474,8 @@ Source inspection found an unresolved contract violation in the dependency-wave 
 ## October 2 — Closing the missed ordering test boundary
 
 A focused ordering-check continuation reproduced an old acceptance gap without changing the original implementation or scores. Current workflow 0/1 ordinary clean; supplied checker plus directions 1/1 final-checker-qualified. The supplied-checker candidate passed the predefined focused boundary rule. This one pair also recorded an additional clean candidate finish; it does not establish a general gain. See [the focused record](ORDERING-CHECK-PAIR.md).
+
+
+## October 2 — Testing a useful snapshot-auditor task
+
+A bounded library task behind a supplied read-only driver compared current workflow with trusted checks. Current workflow 1/1 ordinary clean; candidate 0/1 final-checker-qualified. The supplied-checker candidate did not meet the predefined focused task rule. A comparative finishing benefit was not established. The candidate regressed on 27 selected cases; this bundle is not promoted. The artifact checks snapshot consistency, not live authenticity. See [the auditor pair record](SNAPSHOT-AUDITOR-PAIR.md).
