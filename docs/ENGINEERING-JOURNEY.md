@@ -2406,3 +2406,8 @@ Source-derived ladders and local routes passed declared portable checks and comp
 ### Inspecting the delivered native package
 
 A successful town cook initially produced an archive without its cooked assets. A measured output-layout mismatch guided a preserved-copy and stage-only recovery. Manifest, archive and loose-data checks established resource inclusion while appearance, ordinary startup, controls and audio remained unqualified. Failed attempts stayed retained and the full-game goal continues.
+
+
+### Recording runtime failures after a successful build
+
+A rebuilt package passed content and lifecycle checks but failed both frame attempts. The offscreen report exposed an incorrect material-query assumption. Clean exits and correct camera observations did not qualify absent images. The requested game and its reference appearance remain unfinished.

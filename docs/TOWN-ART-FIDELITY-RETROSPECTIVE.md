@@ -156,3 +156,12 @@ Actual manifest and archive checks then confirmed the map, character textures, m
 A rejected evidence schema and a transport-timeout collection gap were also preserved and corrected without rewriting failed outcomes. Independent review, exception-safe receipt collection and checks of the delivered artifact were the useful safeguards. The lesson is to verify the package rather than treating a successful tool exit as delivery.
 
 The full game remains unfinished. The last visual comparison failed the reference-fidelity target, and complete architecture, ordinary gameplay, recovery, audio and packaged default launch still require work. This retrospective contains no game assets or deployable commands.
+
+
+### A successful build can still expose a wrong frame checker
+
+An editor-only assumption in a native game's checker was corrected for packaged runtime. Verified cooked content was reused with a rebuilt executable, while original inputs and earlier outputs stayed preserved.
+
+The next visible attempt closed before capture. A separately reviewed offscreen run returned a failed frame report: the checker asked for a texture parameter, but the authored materials used ordinary texture samples. Correct camera observations and a successful process exit did not supply missing screenshot pixels. Both failures remained recorded, and no identical retry followed.
+
+The next correction requires inspecting the actual material's active texture references. Builds, content preservation and lifecycle checks passed; captured frames, ordinary launch, gameplay, sound, recovery and reference appearance remained unfinished. The full game goal continues. This retrospective includes no game assets or deployable configuration.
