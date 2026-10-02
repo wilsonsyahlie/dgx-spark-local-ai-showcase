@@ -1042,3 +1042,8 @@ Freeze independently qualified correct and targeted broken controls before worke
 ### Local-response diagnostic evidence
 
 Deterministic failure and persistence controls, real journal/detail integration and injected desktop/phone browser states passed. Complete declared runtime surfaces were qualified through local capture without inference. A single live success canary closed its exact request and returned a persisted diagnostic through the authenticated application. Natural failures, ordinary supervisor dispatch and physical phone/native Stop were not qualified. These limits are retained in the [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md).
+
+
+### Descriptive local-worker pilot
+
+Qualified positive and negative graders, launch safeguards and runtime continuity checks preceded ten isolated one-shot jobs. 8 of ten saved implementations passed every frozen hidden check; 94 of 106 cases received verified credit. Worker outcomes were 8 budget_reached, 1 failed, 1 returned. No retries, production activation or direct comparison with earlier application experiments was made. Ordinary supervisor dispatch and physical phone behavior were not accepted. See [the retrospective](LOCAL-WORKER-COMPLETION-DIAGNOSIS.md).

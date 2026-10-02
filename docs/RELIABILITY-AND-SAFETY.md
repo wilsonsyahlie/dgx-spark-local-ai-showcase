@@ -333,3 +333,8 @@ and preserved original work were distinct from functional game acceptance.
 ### Precise diagnostics without broader authority
 
 Preserve bounded terminal evidence rather than arbitrary backend messages. Cleanup and uncertainty retain precedence over diagnostics, while persistence faults remain visible. Repeated teardown failures need assumption review and new evidence, not weaker checks. A runtime binding is prospective; it must not rewrite negative historical trials. See the [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md).
+
+
+### Durable outcomes and precise limits
+
+Reject missing APIs before crediting input-rejection cases. Treat incomplete student execution as unverified, and trusted checker faults as a hold. Recover repeated-failure pauses from durable evidence without replay. Preserve preceding backups for every source edit; later exact recovery does not erase a timing gap. See [the retrospective](LOCAL-WORKER-COMPLETION-DIAGNOSIS.md).

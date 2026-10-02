@@ -991,3 +991,8 @@ Its evidence distinguishes operational limits, genuine code progress and authors
 ## Useful local-response failure evidence
 
 Fixed classifications and bounded terminal fields made diagnostics useful while preserving exact ownership, cancellation and persistence boundaries. The [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md) explains qualification, retained failures, live acceptance and untested behavior.
+
+
+## Local-worker completion evidence
+
+A fresh coding pilot measured saved behavior separately from worker status and retained failures, ownership proof and preparation limits. See [the retrospective](LOCAL-WORKER-COMPLETION-DIAGNOSIS.md).

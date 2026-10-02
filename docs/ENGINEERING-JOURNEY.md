@@ -2426,3 +2426,8 @@ A missing graphics-module dependency was corrected while failed evidence stayed 
 ### Source-specific construction before the next engine view
 
 Distinct entrances and physical recesses replaced generic drafting. A nonconvex inset exposed a shared assumption between geometry and its checker; retained negative controls helped correct it. Source geometry and local surface payloads passed limited checks. The art is still offline, and the last native visual comparison remains failed.
+
+
+### October 2 — Inspecting the worker completion loop
+
+8 of ten saved implementations passed every frozen hidden check; 94 of 106 cases received verified credit. Worker outcomes were 8 budget_reached, 1 failed, 1 returned. Tool-loop friction led to a focused instruction proposal, with no activation or measured capability gain. See the [retrospective](LOCAL-WORKER-COMPLETION-DIAGNOSIS.md).
