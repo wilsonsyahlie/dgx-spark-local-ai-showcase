@@ -165,3 +165,12 @@ An editor-only assumption in a native game's checker was corrected for packaged 
 The next visible attempt closed before capture. A separately reviewed offscreen run returned a failed frame report: the checker asked for a texture parameter, but the authored materials used ordinary texture samples. Correct camera observations and a successful process exit did not supply missing screenshot pixels. Both failures remained recorded, and no identical retry followed.
 
 The next correction requires inspecting the actual material's active texture references. Builds, content preservation and lifecycle checks passed; captured frames, ordinary launch, gameplay, sound, recovery and reference appearance remained unfinished. The full game goal continues. This retrospective includes no game assets or deployable configuration.
+
+
+### Moving from build recovery into whole-town construction
+
+A native game's material observer compiled but failed to link an imported graphics symbol. Adding its owning module recovered actual editor and game builds. Earlier failures stayed recorded; the new executable still needed packaging and a successful captured frame.
+
+Architectural drafting expanded to nine landmark groups with 32 source anchors accounted for. Source-derived roof curtains were rejected, and shared revisions produced coherent roof undersides and supports. Connected ground geometry passed exported topology and primary-contact checks after targeted triangle splits. A manifest that accidentally hashed its own empty file was preserved and replaced by an externally bound payload manifest.
+
+These are source and construction checks. Doors, windows, distinctive rooms, secondary platforms, foliage and materials remain unfinished. Draft previews are not native game renders; the last reference comparison still failed. Gameplay, characters, UI, audio and recovery also remain unfinished. This retrospective includes no game assets or deployable configuration.

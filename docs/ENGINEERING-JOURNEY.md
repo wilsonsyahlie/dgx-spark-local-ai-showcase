@@ -2416,3 +2416,8 @@ A rebuilt package passed content and lifecycle checks but failed both frame atte
 ### October 2 — Making local failure evidence useful
 
 A controlled reproduction separated generic-message information loss from unknown historical failure causes. Bounded diagnostic fields retained exact cleanup precedence. Separately approved isolated runtime qualification, focused controls and injected browser checks preceded one verified local success canary and authenticated readback. Failed experiments remain negative; natural failures and physical phone behavior were not established. See the [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md).
+
+
+### Beginning whole-town construction after build recovery
+
+A missing graphics-module dependency was corrected while failed evidence stayed preserved. New architectural and connected-ground drafts passed limited source checks, with remaining construction defects explicit. The new native executable and draft art still need packaged-frame and visual qualification; the requested game remains unfinished.
