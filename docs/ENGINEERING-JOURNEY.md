@@ -2449,3 +2449,8 @@ Native import and saved-state checks are real progress. Shader readiness, genera
 ## October 2 — Comparing one worker instruction under fixed budgets
 
 Baseline clean completion was 2/10 versus 0/10 for the candidate; frozen-suite acceptance was 7/10 versus 6/10. The candidate did not meet the predeclared gates. The experiment provides no basis for adoption or a capability-gain claim. See [the matched comparison](MATCHED-WORKER-WORKFLOW-COMPARISON.md).
+
+
+## October 2 — Testing a finish allowance with a capped pilot
+
+Eight-step jobs finished cleanly 0/3; twelve-step jobs 2/3, with 16 paired case regressions. The pilot did not demonstrate a completion gain that justified expanding the experiment. Production limits remained unchanged. See [the capped pilot](CAPPED-WORKER-STEP-BUDGET-PILOT.md).

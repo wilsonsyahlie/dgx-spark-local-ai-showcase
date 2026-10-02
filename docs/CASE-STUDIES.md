@@ -1001,3 +1001,8 @@ A fresh coding pilot measured saved behavior separately from worker status and r
 ## Matched worker workflow comparison
 
 Baseline clean completion was 2/10 versus 0/10 for the candidate; frozen-suite acceptance was 7/10 versus 6/10. The candidate did not meet the predeclared gates. The experiment provides no basis for adoption or a capability-gain claim. See [the matched comparison](MATCHED-WORKER-WORKFLOW-COMPARISON.md).
+
+
+## Capped worker step-budget pilot
+
+Eight-step jobs finished cleanly 0/3; twelve-step jobs 2/3, with 16 paired case regressions. The pilot did not demonstrate a completion gain that justified expanding the experiment. Production limits remained unchanged. See [the capped pilot](CAPPED-WORKER-STEP-BUDGET-PILOT.md).
