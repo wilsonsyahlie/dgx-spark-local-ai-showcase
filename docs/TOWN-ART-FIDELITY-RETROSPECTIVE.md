@@ -174,3 +174,12 @@ A native game's material observer compiled but failed to link an imported graphi
 Architectural drafting expanded to nine landmark groups with 32 source anchors accounted for. Source-derived roof curtains were rejected, and shared revisions produced coherent roof undersides and supports. Connected ground geometry passed exported topology and primary-contact checks after targeted triangle splits. A manifest that accidentally hashed its own empty file was preserved and replaced by an externally bound payload manifest.
 
 These are source and construction checks. Doors, windows, distinctive rooms, secondary platforms, foliage and materials remain unfinished. Draft previews are not native game renders; the last reference comparison still failed. Gameplay, characters, UI, audio and recovery also remain unfinished. This retrospective includes no game assets or deployable configuration.
+
+
+### Turning generic entrances into source-specific construction
+
+A town reconstruction moved from identical doors toward distinct wood entrances, bamboo gates, shutters, windows, ivy and a ground-level oven. Source placements drove the geometry; physical recesses replaced flat dark panels. A porch was explicitly kept freestanding rather than claimed to sit flush against a curved wall.
+
+The geometry work exposed separate errors: a collapsed roof edge, limited-precision clipping, vertical profile distortion and an inset operation that made a convex contour nonconvex. The last defect let a clipper and its checker agree on the wrong region. Corrected half-plane offsets and retained rejected-input controls addressed that failure without loosening the source overlap threshold.
+
+Exported geometry and local surface-map composition passed limited checks. UV-based triangle vectors are not supplied or engine-generated tangents. The new art has not been imported; the last native reference comparison remains a failure. Construction, forest, characters, gameplay, UI, audio and recovery remain unfinished. This retrospective contains no game assets or deployable configuration.

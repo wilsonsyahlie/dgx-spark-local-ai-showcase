@@ -2421,3 +2421,8 @@ A controlled reproduction separated generic-message information loss from unknow
 ### Beginning whole-town construction after build recovery
 
 A missing graphics-module dependency was corrected while failed evidence stayed preserved. New architectural and connected-ground drafts passed limited source checks, with remaining construction defects explicit. The new native executable and draft art still need packaged-frame and visual qualification; the requested game remains unfinished.
+
+
+### Source-specific construction before the next engine view
+
+Distinct entrances and physical recesses replaced generic drafting. A nonconvex inset exposed a shared assumption between geometry and its checker; retained negative controls helped correct it. Source geometry and local surface payloads passed limited checks. The art is still offline, and the last native visual comparison remains failed.
