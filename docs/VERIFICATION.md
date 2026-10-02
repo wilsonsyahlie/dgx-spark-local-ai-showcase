@@ -1037,3 +1037,8 @@ initial owner rejection remains authoritative. See the
 ## Reusable package evaluation
 
 Freeze independently qualified correct and targeted broken controls before worker inference, inspect actual saved adapters and served library bytes, and preserve frozen scores alongside any conservative supplemental audit. Semantic display controls must accept equivalent correct presentations and reject wrong values/order. A supplied controller comparison includes reduced implementation work. A small pilot does not qualify weight learning, general task transfer, production catalog integration or physical hearing; pre-backup gaps and any recovery must remain disclosed.
+
+
+### Local-response diagnostic evidence
+
+Deterministic failure and persistence controls, real journal/detail integration and injected desktop/phone browser states passed. Complete declared runtime surfaces were qualified through local capture without inference. A single live success canary closed its exact request and returned a persisted diagnostic through the authenticated application. Natural failures, ordinary supervisor dispatch and physical phone/native Stop were not qualified. These limits are retained in the [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md).

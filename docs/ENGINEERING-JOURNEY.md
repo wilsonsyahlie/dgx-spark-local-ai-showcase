@@ -2411,3 +2411,8 @@ A successful town cook initially produced an archive without its cooked assets. 
 ### Recording runtime failures after a successful build
 
 A rebuilt package passed content and lifecycle checks but failed both frame attempts. The offscreen report exposed an incorrect material-query assumption. Clean exits and correct camera observations did not qualify absent images. The requested game and its reference appearance remain unfinished.
+
+
+### October 2 — Making local failure evidence useful
+
+A controlled reproduction separated generic-message information loss from unknown historical failure causes. Bounded diagnostic fields retained exact cleanup precedence. Separately approved isolated runtime qualification, focused controls and injected browser checks preceded one verified local success canary and authenticated readback. Failed experiments remain negative; natural failures and physical phone behavior were not established. See the [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md).

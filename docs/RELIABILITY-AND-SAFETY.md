@@ -328,3 +328,8 @@ while uncertain effects retained durable fences and required positive owned proo
 Stop signalling could not depend on journal success. A terminal notice advanced
 only its own proven state and preserved newer errors. Backups, independent review
 and preserved original work were distinct from functional game acceptance.
+
+
+### Precise diagnostics without broader authority
+
+Preserve bounded terminal evidence rather than arbitrary backend messages. Cleanup and uncertainty retain precedence over diagnostics, while persistence faults remain visible. Repeated teardown failures need assumption review and new evidence, not weaker checks. A runtime binding is prospective; it must not rewrite negative historical trials. See the [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md).

@@ -986,3 +986,8 @@ Its evidence distinguishes operational limits, genuine code progress and authors
 - [A single-city native prototype](SINGLE-CITY-NATIVE-PROTOTYPE.md): system behavior and visual fidelity as separate deliverables.
 
 - [Reusable controllers need a transfer test](TESTED-SKILL-REUSE.md): measured paired assistance, failure-informed validation and bounded claims.
+
+
+## Useful local-response failure evidence
+
+Fixed classifications and bounded terminal fields made diagnostics useful while preserving exact ownership, cancellation and persistence boundaries. The [retrospective](LOCAL-RESPONSE-DIAGNOSTICS.md) explains qualification, retained failures, live acceptance and untested behavior.
