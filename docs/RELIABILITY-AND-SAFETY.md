@@ -338,3 +338,8 @@ Preserve bounded terminal evidence rather than arbitrary backend messages. Clean
 ### Durable outcomes and precise limits
 
 Reject missing APIs before crediting input-rejection cases. Treat incomplete student execution as unverified, and trusted checker faults as a hold. Recover repeated-failure pauses from durable evidence without replay. Preserve preceding backups for every source edit; later exact recovery does not erase a timing gap. See [the retrospective](LOCAL-WORKER-COMPLETION-DIAGNOSIS.md).
+
+
+## Isolate workflow experiments and freeze acceptance before inference
+
+Own-check success does not establish independent correctness or clean finish. Compile trusted checker inputs outside behavior catches, preserve distinct value types, count tool occurrences and require completed validated producers before consumers sharing lifecycle state. Preserve failed freezes and never tune the candidate after inspecting trial output. See [the retrospective](MATCHED-WORKER-WORKFLOW-COMPARISON.md).

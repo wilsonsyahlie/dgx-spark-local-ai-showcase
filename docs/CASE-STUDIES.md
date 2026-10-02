@@ -996,3 +996,8 @@ Fixed classifications and bounded terminal fields made diagnostics useful while 
 ## Local-worker completion evidence
 
 A fresh coding pilot measured saved behavior separately from worker status and retained failures, ownership proof and preparation limits. See [the retrospective](LOCAL-WORKER-COMPLETION-DIAGNOSIS.md).
+
+
+## Matched worker workflow comparison
+
+Baseline clean completion was 2/10 versus 0/10 for the candidate; frozen-suite acceptance was 7/10 versus 6/10. The candidate did not meet the predeclared gates. The experiment provides no basis for adoption or a capability-gain claim. See [the matched comparison](MATCHED-WORKER-WORKFLOW-COMPARISON.md).

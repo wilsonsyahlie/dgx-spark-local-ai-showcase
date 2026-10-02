@@ -2444,3 +2444,8 @@ The next render attempt reached its time limit during shader startup and produce
 The project also retains a process lesson: reconstructing exact prior source bytes after an edit can recover evidence, but cannot retroactively satisfy a missing pre-edit backup. Subsequent changes use preserved revisions and backups.
 
 Native import and saved-state checks are real progress. Shader readiness, generated tangent appearance and the detailed video-reference style remain unqualified. Terrain, forest composition, three-dimensional characters, complete gameplay, UI, audio and recovery still need work. The existing package was handed over as a rough prototype when requested; the newer construction has not yet been packaged. The full objective remains unfinished.
+
+
+## October 2 — Comparing one worker instruction under fixed budgets
+
+Baseline clean completion was 2/10 versus 0/10 for the candidate; frozen-suite acceptance was 7/10 versus 6/10. The candidate did not meet the predeclared gates. The experiment provides no basis for adoption or a capability-gain claim. See [the matched comparison](MATCHED-WORKER-WORKFLOW-COMPARISON.md).
