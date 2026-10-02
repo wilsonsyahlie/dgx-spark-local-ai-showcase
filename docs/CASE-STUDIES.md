@@ -1011,3 +1011,13 @@ Eight-step jobs finished cleanly 0/3; twelve-step jobs 2/3, with 16 paired case 
 ## Supplied acceptance-check pilot
 
 Current workflow: 0/1 clean finish; supplied checker plus directions: 1/1. A preliminary finish signal was observed in this single pair. No production workflow changed. See [the supplied-check pilot](TRUSTED-ACCEPTANCE-CHECK-PILOT.md).
+
+
+## Trusted-check repeatability trial
+
+Current workflow: 1/4 clean. Supplied checker plus directions: 3/4 ordinary clean and 3/4 checker-qualified. 0 paired case regressions. The predefined frozen-suite repeatability gate passed on this selected four-pair sample. Independent source review nevertheless found an uncovered candidate ordering violation; full-contract correctness and rollout acceptance remain unestablished. See [the repeatability record](TRUSTED-CHECK-REPEATABILITY.md).
+
+
+### Independent review limit
+
+Source inspection found an unresolved contract violation in the dependency-wave candidate: later waves follow dependency-release order rather than original input order when those orders conflict. For inputs ordered a, b, c, d, where c depends on b and d depends on a, the code trace produces a first wave of a, b and then d, c; the contract requires c, d in the second wave. This counterexample was inferred from the saved source, not executed as an additional case. Both frozen acceptance suites missed that boundary. The reported three candidate finishes are therefore qualified by the frozen suites, not proof of three fully correct implementations. The original scores and test gate are retained without rescoring. Practical correctness and rollout acceptance remain unestablished; the defect was recorded without repair, replay or test expansion.

@@ -1072,3 +1072,17 @@ The baseline stopped at its third request with an output-limit incomplete receip
 One selected pair cannot establish statistical significance, broad coding improvement, throughput gain or production readiness. Bounded tests do not prove exhaustive correctness or the truth of every report. Correct saved artifacts with an exhausted budget remain incomplete. Ordinary application dispatch, phone interaction, scheduling and deployment were not tested. The existing worker workflow remains active. Any follow-on experiment requires its own scope.
 
 Current workflow: 0/1 clean finish; supplied checker plus directions: 1/1. A preliminary finish signal was observed in this single pair. No production workflow changed. See [the supplied-check pilot](TRUSTED-ACCEPTANCE-CHECK-PILOT.md).
+
+
+## Repeatability evidence boundary
+
+The audit observed 8 jobs, 40 accepted native requests and 168 cumulative main-lane executor settlements. The executor denominator includes 150 pre-inference executions: 70 fresh successful qualification checks and 80 retained earlier preparation checks; 18 are live worker checks and final grades. Separate synthetic control namespaces are excluded. All owned work settled. Production sources, logical state, controller, resident runtime, historical evidence and existing dirty checkouts remained preserved. The paired comparison recorded 0 case regressions and 16 improved credits.
+
+This is one observation per arm on four selected small-module contracts. It does not establish statistical significance, general coding improvement, causal mechanism, speed gain or production readiness. Timing is descriptive; successful and failed jobs do not constitute equivalent completed work. Improved case credits against an absent implementation are not distinct diagnosed code defects. Tests are bounded, not exhaustive correctness or proof of every worker claim. Ordinary application dispatch, phone interaction, scheduling and deployment were not tested. The trial introduced no production workflow change. Any next real-work trial requires its own authorization and evidence.
+
+Current workflow: 1/4 clean. Supplied checker plus directions: 3/4 ordinary clean and 3/4 checker-qualified. 0 paired case regressions. The predefined frozen-suite repeatability gate passed on this selected four-pair sample. Independent source review nevertheless found an uncovered candidate ordering violation; full-contract correctness and rollout acceptance remain unestablished. See [the repeatability record](TRUSTED-CHECK-REPEATABILITY.md).
+
+
+### Independent review limit
+
+Source inspection found an unresolved contract violation in the dependency-wave candidate: later waves follow dependency-release order rather than original input order when those orders conflict. For inputs ordered a, b, c, d, where c depends on b and d depends on a, the code trace produces a first wave of a, b and then d, c; the contract requires c, d in the second wave. This counterexample was inferred from the saved source, not executed as an additional case. Both frozen acceptance suites missed that boundary. The reported three candidate finishes are therefore qualified by the frozen suites, not proof of three fully correct implementations. The original scores and test gate are retained without rescoring. Practical correctness and rollout acceptance remain unestablished; the defect was recorded without repair, replay or test expansion.
