@@ -1006,3 +1006,8 @@ Baseline clean completion was 2/10 versus 0/10 for the candidate; frozen-suite a
 ## Capped worker step-budget pilot
 
 Eight-step jobs finished cleanly 0/3; twelve-step jobs 2/3, with 16 paired case regressions. The pilot did not demonstrate a completion gain that justified expanding the experiment. Production limits remained unchanged. See [the capped pilot](CAPPED-WORKER-STEP-BUDGET-PILOT.md).
+
+
+## Supplied acceptance-check pilot
+
+Current workflow: 0/1 clean finish; supplied checker plus directions: 1/1. A preliminary finish signal was observed in this single pair. No production workflow changed. See [the supplied-check pilot](TRUSTED-ACCEPTANCE-CHECK-PILOT.md).
