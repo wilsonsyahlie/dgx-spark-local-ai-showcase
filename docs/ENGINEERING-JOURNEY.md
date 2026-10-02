@@ -2469,3 +2469,8 @@ Current workflow: 1/4 clean. Supplied checker plus directions: 3/4 ordinary clea
 ### Independent review limit
 
 Source inspection found an unresolved contract violation in the dependency-wave candidate: later waves follow dependency-release order rather than original input order when those orders conflict. For inputs ordered a, b, c, d, where c depends on b and d depends on a, the code trace produces a first wave of a, b and then d, c; the contract requires c, d in the second wave. This counterexample was inferred from the saved source, not executed as an additional case. Both frozen acceptance suites missed that boundary. The reported three candidate finishes are therefore qualified by the frozen suites, not proof of three fully correct implementations. The original scores and test gate are retained without rescoring. Practical correctness and rollout acceptance remain unestablished; the defect was recorded without repair, replay or test expansion.
+
+
+## October 2 — Closing the missed ordering test boundary
+
+A focused ordering-check continuation reproduced an old acceptance gap without changing the original implementation or scores. Current workflow 0/1 ordinary clean; supplied checker plus directions 1/1 final-checker-qualified. The supplied-checker candidate passed the predefined focused boundary rule. This one pair also recorded an additional clean candidate finish; it does not establish a general gain. See [the focused record](ORDERING-CHECK-PAIR.md).
