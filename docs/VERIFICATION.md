@@ -1145,3 +1145,8 @@ Selected trial correctness improved, but ordinary adoption missed its 10-second 
 ## Memory trial evidence limits
 
 Focused108 and two distinct seven-case source/artifact layers passed. Ordinary acceptance failed; exact request/process closure, original recovery and natural quiet scheduling passed. Mock controls do not establish live success, and no broad gain or real-user memory accuracy was claimed. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).
+
+
+## Silent-failure repair evidence limits
+
+Tests failed on old code and passed on new; a 14-minute soak and a per-bot proxy path check passed. Real use, overnight stability and independent review of the code changes were not established. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).

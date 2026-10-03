@@ -353,3 +353,8 @@ Keep original failed scores intact. Request identity, terminal settlement, fresh
 ## Preserve a failed trial while improving cleanup
 
 A wrapper can exit while a child remains alive. Check exact captured ownership, bound each wait, defer repeated signals through cleanup and preserve initial failures after corrected checks pass. Source correctness and safe reversal do not override failed adoption. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).
+
+
+## Check after a reboot and widen the monitor
+
+Verify mounts, failed services and scheduled jobs after a reboot, and make a monitor re-alert while red. Read a recovery tool's limits first, and retry a transient probe without weakening drift checks. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).

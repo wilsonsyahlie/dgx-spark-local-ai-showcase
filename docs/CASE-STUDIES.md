@@ -1056,3 +1056,8 @@ An encouraging small sample did not qualify an everyday upgrade. The retrospecti
 ## Memory publication-boundary trial
 
 A retrospective on separating memory correctness, model acceptance and recovery safety. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).
+
+
+## Silent failures after a reboot
+
+A retrospective on failures a health check could not see, and a repair that needed two fixes. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).

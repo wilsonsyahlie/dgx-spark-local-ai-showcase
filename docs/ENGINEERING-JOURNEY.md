@@ -2504,3 +2504,8 @@ Four selected candidate tasks passed versus one baseline task, but ordinary chat
 ## October 3 — A memory correction held at ordinary acceptance
 
 Software and running-source checks passed, but the one predeclared chat canary failed. The earlier software was recovered with saved data and failed evidence intact; natural quiet scheduling passed. No gain was retained. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).
+
+
+## October 3 — Two weeks of unnoticed failures
+
+A read-only audit found failures the monitor never showed. The repair needed a safety-bound fix and a bounded probe retry, with one early error reversed; real use and overnight stability remain unproven. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).

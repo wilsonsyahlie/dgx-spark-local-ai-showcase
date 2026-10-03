@@ -1,0 +1,13 @@
+# Two weeks of silent failures after a reboot, and why the monitor missed them
+
+A read-only audit of a home AI workstation found problems that had been standing for up to two weeks while the health check stayed quiet. An unplanned reboot had left an external drive unmounted, which put two dependent services into endless restart loops. Six small per-item VPN networks used by a browser bot had also failed days after the reboot and, by design, did not restart. A weekly job had skipped five weeks in a row after a model name changed. A required scheduled job did not exist.
+
+The monitor could not see most of this. It did not check failed services, restart counts, scheduled-job errors or backup age, and it alerted once per failure and then stayed silent, so a permanent red looked like a resolved one. The audit also found no real disaster-recovery backup, only same-disk rollback copies.
+
+Repairing it taught three separate lessons. First, the drive's standard repair command was refused even with administrator rights, and a different built-in scan-and-fix command worked. Second, the recovery tool for the VPN networks refused to run because a browser's disposable cache pushed a safety bound over its limit, and my first attempt, run without checking that precondition, left a slot half-recovered until I reversed it. The fix was to stop counting regenerable cache in the integrity fingerprint while still checking everything else. Third, after recovery the networks died again within minutes, because a supervisor treated a single failed address probe as fatal. A bounded retry for that one probe, with every other check left strict, appeared to address it in a short soak.
+
+Each code change had tests that failed on the old code and passed on the new. Afterward all six networks were healthy for a 14-minute soak, and each bot could reach a public page only through its own proxy while direct access stayed blocked. That is not the same as proof: the next scheduled run of the repaired weekly job, a widened monitor (not yet built), a real account login, live restock detection, alert delivery and an overnight run were not tested, the cause of the original probe failures is not established, and the two code changes were not independently reviewed before installation.
+
+The engineering lessons are practical. Check mounts, failed services and scheduled jobs after every reboot. Make a monitor re-alert while it is red and cover failures it cannot currently see. Read a recovery tool's limits before running it. Retry a transient probe without loosening the checks that catch real drift. And keep failures visible after corrected checks pass.
+
+This is a retrospective account, not deployment instructions.
