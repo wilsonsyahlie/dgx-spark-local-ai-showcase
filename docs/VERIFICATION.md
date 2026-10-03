@@ -1135,3 +1135,8 @@ Startup and warm-up did not prove complete-task correctness. The failed measured
 ## October3 — Native sampling rejection verification
 
 Actual request serialization/effective parameter checks,42 grading/gate controls and9 actual process-fixture controls supported a fresh six-pair trial. Fixture release results were synthetic; all22 real requests had separate exact natural settlement proof and all14 native executions closed. Baseline3/6 versus candidate2/6, both warm-ups wrong, two comparable successes below the minimum: retention rejected. No candidate deployment/cancellation/phone UI was tested. See [the complete limits](REJECTED-NATIVE-SAMPLING.md).
+
+
+## Thinking-default evidence limits
+
+Selected trial correctness improved, but ordinary adoption missed its 10-second cap and tool-schema condition. Full capture, causal attribution and general gain were unproven; original recovery and natural quiet scheduler continuity were verified. See [the record](REJECTED-THINKING-DEFAULT.md).

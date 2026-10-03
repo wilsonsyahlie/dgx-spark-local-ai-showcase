@@ -1,0 +1,13 @@
+# An encouraging reasoning trial did not qualify an everyday upgrade
+
+A small reasoning experiment scored four correct tasks out of four versus one out of four for the baseline. Both excluded readiness checks passed. The sample was selected around known weaknesses and included a reused repair contract, so it did not establish a general improvement rate. The only pair correct in both conditions took about twice as long and generated about 3.64 times as much output with the candidate. This was a quality-versus-delay observation, not a speedup.
+
+A provisional software change then reached an ordinary chat test. It returned the correct short answer in 11.414 seconds against a predeclared 10-second cap. The attempt was rejected; the remaining five checks stopped. There was no retry, changed cap, repaired output or retrospective passing score. The ordinary path also used 33 tools rather than the isolated harness's 27, leaving the original schema condition unmet. No matched ordinary baseline established what caused the delay.
+
+The saved response capture was incomplete. A complete matching request and a consistent response prefix established identity, while independent protected settlement established completion. They did not establish complete wire coverage. Zero reasoning characters in an incomplete prefix did not establish zero reasoning overall or reasoning efficacy. Recovery evidence was kept separate from acceptance evidence.
+
+The earlier software was returned through a reviewed reversal that preserved saved conversations and current state. Actual software identity, installed bytes, settings, health and the saved conversation were checked afterward. Three existing script-only jobs then ran naturally, saved outputs and future run times, and recorded quiet suppression with zero message attempts. Quiet was not reported as sent, and scheduler continuity was not presented as candidate answer quality. No fresh generation test was added during recovery.
+
+The engineering lesson is to validate gains through the ordinary entry point before retention, and to make safe reversal independent of whether an improvement succeeded. Temporary process records can disappear; historical terminal records require fresh ownership and process-absence checks. Capture prefixes and delivery receipts answer different questions. All original failures and scores stayed preserved. No performance upgrade was retained from this attempt.
+
+This is a retrospective, non-deployable engineering story. It excludes private prompts, operational configuration, topology, identifiers, logs and recovery artifacts. Phone and voice behavior, remaining canaries, future candidate scheduled agents, causal attribution and general productivity were not established.

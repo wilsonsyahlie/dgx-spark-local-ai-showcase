@@ -2494,3 +2494,8 @@ The acceleration candidate was rejected after its first measured task ended with
 ## October3 — Rejecting a sampling recommendation
 
 A fresh balanced six-pair native comparison scored3/6 correct for baseline and2/6 for recommended sampling; both excluded warm-ups failed exact output. No runtime change or general performance gain was retained. All14 executions and22 actual requests closed cleanly. See [the rejected comparison](REJECTED-NATIVE-SAMPLING.md).
+
+
+## October 3 — Rejecting an everyday reasoning default
+
+Four selected candidate tasks passed versus one baseline task, but ordinary chat missed its frozen speed limit. The attempt was rejected and the earlier software returned; three natural quiet script runs verified scheduler continuity. See [the record](REJECTED-THINKING-DEFAULT.md).

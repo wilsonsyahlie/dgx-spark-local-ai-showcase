@@ -253,3 +253,8 @@ failure evidence. Comparable drafts require stable tests, fixed surrounding
 context, meaningful controls and recorded feedback. Raw-byte boundaries and exact
 predicted mutation checks protect the assessed scope. A version counter alone
 cannot diagnose capability. See the [retrospective](COACHING-ROLE-RETROSPECTIVE.md).
+
+
+## Retrospective: validate the ordinary path
+
+An isolated harness can differ from everyday chat. Serialized intent, ordinary behavior and recovery safety need distinct evidence; this is a design lesson, not an operational topology or deployment guide. See [the record](REJECTED-THINKING-DEFAULT.md).

@@ -1046,3 +1046,8 @@ The acceleration candidate was rejected after its first measured task ended with
 ## Rejected native sampling recommendation
 
 Publisher guidance was tested against exact output, strict JSON and file repair. The candidate failed the frozen retention gates; no upgrade was claimed. See [the comparison record](REJECTED-NATIVE-SAMPLING.md).
+
+
+## Rejected thinking-default adoption
+
+An encouraging small sample did not qualify an everyday upgrade. The retrospective separates failed acceptance, incomplete capture and safe reversal. See [the record](REJECTED-THINKING-DEFAULT.md).

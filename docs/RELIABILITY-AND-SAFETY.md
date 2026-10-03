@@ -343,3 +343,8 @@ Reject missing APIs before crediting input-rejection cases. Treat incomplete stu
 ## Isolate workflow experiments and freeze acceptance before inference
 
 Own-check success does not establish independent correctness or clean finish. Compile trusted checker inputs outside behavior catches, preserve distinct value types, count tool occurrences and require completed validated producers before consumers sharing lifecycle state. Preserve failed freezes and never tune the candidate after inspecting trial output. See [the retrospective](MATCHED-WORKER-WORKFLOW-COMPARISON.md).
+
+
+## Safe reversal must not depend on a passing upgrade
+
+Keep original failed scores intact. Request identity, terminal settlement, fresh process absence and durable suppression each prove different facts; none should be substituted for efficacy or complete capture. See [the record](REJECTED-THINKING-DEFAULT.md).
