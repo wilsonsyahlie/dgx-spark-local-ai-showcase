@@ -1130,3 +1130,8 @@ Independent post-change review also caught a worker statement conflating its sup
 ## Acceleration trial evidence limits
 
 Startup and warm-up did not prove complete-task correctness. The failed measured task blocked retention; exact settlement and recovery were verified. Speed, causal decoding regression and phone cancellation remain unproved. See [the retrospective](REJECTED-NATIVE-ACCELERATION.md).
+
+
+## October3 — Native sampling rejection verification
+
+Actual request serialization/effective parameter checks,42 grading/gate controls and9 actual process-fixture controls supported a fresh six-pair trial. Fixture release results were synthetic; all22 real requests had separate exact natural settlement proof and all14 native executions closed. Baseline3/6 versus candidate2/6, both warm-ups wrong, two comparable successes below the minimum: retention rejected. No candidate deployment/cancellation/phone UI was tested. See [the complete limits](REJECTED-NATIVE-SAMPLING.md).

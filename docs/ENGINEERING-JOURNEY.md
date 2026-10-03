@@ -2489,3 +2489,8 @@ The candidate met the frozen focused repair rule. Both arms finished correctly; 
 ## October 3 — Rejecting an unqualified acceleration candidate
 
 The acceleration candidate was rejected after its first measured task ended without a tool call or required artifact. The retained serving artifact and original operating policy were recovered and verified. No completed-task speed gain was established. See [the retrospective](REJECTED-NATIVE-ACCELERATION.md).
+
+
+## October3 — Rejecting a sampling recommendation
+
+A fresh balanced six-pair native comparison scored3/6 correct for baseline and2/6 for recommended sampling; both excluded warm-ups failed exact output. No runtime change or general performance gain was retained. All14 executions and22 actual requests closed cleanly. See [the rejected comparison](REJECTED-NATIVE-SAMPLING.md).

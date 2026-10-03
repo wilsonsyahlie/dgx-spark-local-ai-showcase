@@ -1041,3 +1041,8 @@ The candidate met the frozen focused repair rule. Both arms finished correctly; 
 ## Rejected acceleration candidate
 
 The acceleration candidate was rejected after its first measured task ended without a tool call or required artifact. The retained serving artifact and original operating policy were recovered and verified. No completed-task speed gain was established. See [the retrospective](REJECTED-NATIVE-ACCELERATION.md).
+
+
+## Rejected native sampling recommendation
+
+Publisher guidance was tested against exact output, strict JSON and file repair. The candidate failed the frozen retention gates; no upgrade was claimed. See [the comparison record](REJECTED-NATIVE-SAMPLING.md).
