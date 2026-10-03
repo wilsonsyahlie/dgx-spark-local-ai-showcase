@@ -2499,3 +2499,8 @@ A fresh balanced six-pair native comparison scored3/6 correct for baseline and2/
 ## October 3 — Rejecting an everyday reasoning default
 
 Four selected candidate tasks passed versus one baseline task, but ordinary chat missed its frozen speed limit. The attempt was rejected and the earlier software returned; three natural quiet script runs verified scheduler continuity. See [the record](REJECTED-THINKING-DEFAULT.md).
+
+
+## October 3 — A memory correction held at ordinary acceptance
+
+Software and running-source checks passed, but the one predeclared chat canary failed. The earlier software was recovered with saved data and failed evidence intact; natural quiet scheduling passed. No gain was retained. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).

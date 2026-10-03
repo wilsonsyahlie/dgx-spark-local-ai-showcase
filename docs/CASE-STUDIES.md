@@ -1051,3 +1051,8 @@ Publisher guidance was tested against exact output, strict JSON and file repair.
 ## Rejected thinking-default adoption
 
 An encouraging small sample did not qualify an everyday upgrade. The retrospective separates failed acceptance, incomplete capture and safe reversal. See [the record](REJECTED-THINKING-DEFAULT.md).
+
+
+## Memory publication-boundary trial
+
+A retrospective on separating memory correctness, model acceptance and recovery safety. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).

@@ -348,3 +348,8 @@ Own-check success does not establish independent correctness or clean finish. Co
 ## Safe reversal must not depend on a passing upgrade
 
 Keep original failed scores intact. Request identity, terminal settlement, fresh process absence and durable suppression each prove different facts; none should be substituted for efficacy or complete capture. See [the record](REJECTED-THINKING-DEFAULT.md).
+
+
+## Preserve a failed trial while improving cleanup
+
+A wrapper can exit while a child remains alive. Check exact captured ownership, bound each wait, defer repeated signals through cleanup and preserve initial failures after corrected checks pass. Source correctness and safe reversal do not override failed adoption. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).

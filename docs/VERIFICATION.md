@@ -1140,3 +1140,8 @@ Actual request serialization/effective parameter checks,42 grading/gate controls
 ## Thinking-default evidence limits
 
 Selected trial correctness improved, but ordinary adoption missed its 10-second cap and tool-schema condition. Full capture, causal attribution and general gain were unproven; original recovery and natural quiet scheduler continuity were verified. See [the record](REJECTED-THINKING-DEFAULT.md).
+
+
+## Memory trial evidence limits
+
+Focused108 and two distinct seven-case source/artifact layers passed. Ordinary acceptance failed; exact request/process closure, original recovery and natural quiet scheduling passed. Mock controls do not establish live success, and no broad gain or real-user memory accuracy was claimed. See [the trial record](MEMORY-PUBLICATION-BOUNDARY-TRIAL.md).
