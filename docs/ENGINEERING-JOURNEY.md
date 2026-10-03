@@ -2484,3 +2484,8 @@ A bounded library task behind a supplied read-only driver compared current workf
 ## October 2 — Testing focused file edits
 
 The candidate met the frozen focused repair rule. Both arms finished correctly; no comparative completion gain was observed. Among these two correct finishes, reported generated output fell from 3455 to 1330 tokens (61.5%). No rollout or automatic further trial. See [the guarded small-edit pair](GUARDED-SMALL-EDIT-PAIR.md).
+
+
+## October 3 — Rejecting an unqualified acceleration candidate
+
+The acceleration candidate was rejected after its first measured task ended without a tool call or required artifact. The retained serving artifact and original operating policy were recovered and verified. No completed-task speed gain was established. See [the retrospective](REJECTED-NATIVE-ACCELERATION.md).

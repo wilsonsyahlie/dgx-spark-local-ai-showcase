@@ -1125,3 +1125,8 @@ One supplied-module repair, one sample per arm, baseline first. The tool and usa
 The candidate met the frozen focused repair rule. Both arms finished correctly; no comparative completion gain was observed. Among these two correct finishes, reported generated output fell from 3455 to 1330 tokens (61.5%). No rollout or automatic further trial. See [the guarded small-edit pair](GUARDED-SMALL-EDIT-PAIR.md).
 
 Independent post-change review also caught a worker statement conflating its supplied checks with independent coverage. The statement remains in the original report; the observed clean outcomes rely on the separately executed grader, not that claim. A receipt ownership label inherited from the previous evaluation was corrected without changing any appended content. These were reporting corrections, not worker repair or rescoring. Prevention: name the suite actually executed and distinguish worker self-report from independent verification.
+
+
+## Acceleration trial evidence limits
+
+Startup and warm-up did not prove complete-task correctness. The failed measured task blocked retention; exact settlement and recovery were verified. Speed, causal decoding regression and phone cancellation remain unproved. See [the retrospective](REJECTED-NATIVE-ACCELERATION.md).
