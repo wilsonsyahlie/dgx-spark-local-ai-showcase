@@ -2509,3 +2509,8 @@ Software and running-source checks passed, but the one predeclared chat canary f
 ## October 3 — Two weeks of unnoticed failures
 
 A read-only audit found failures the monitor never showed. The repair needed a safety-bound fix and a bounded probe retry, with one early error reversed; real use and overnight stability remain unproven. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).
+
+
+## October 3 — A memory recheck failed after a correct answer
+
+The software fixture and sole real request passed their own requirements, but the required follow-up idle boundary failed. Earlier load observations were not retained; later healthy state did not rescore it. The original software was returned, saved data preserved and natural quiet scheduling verified. No gain was retained. See [the recheck record](MEMORY-DELIVERY-RECHECK.md).

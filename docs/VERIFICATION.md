@@ -1150,3 +1150,6 @@ Focused108 and two distinct seven-case source/artifact layers passed. Ordinary a
 ## Silent-failure repair evidence limits
 
 Tests failed on old code and passed on new; a 14-minute soak and a per-bot proxy path check passed. Real use, overnight stability and independent review of the code changes were not established. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).
+
+
+Ready-memory delivery recheck: source inclusion and request correctness/settlement passed; the frozen post-answer idle boundary failed. Program-only recovery and natural quiet scheduler continuity passed. No retained performance gain or private-memory accuracy claim. See [the evidence boundaries](MEMORY-DELIVERY-RECHECK.md).
