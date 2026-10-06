@@ -2519,3 +2519,8 @@ The software fixture and sole real request passed their own requirements, but th
 ## 2026-10-06 — Independent language admission
 
 Audio and caption requirements were separated after a playback-language mismatch. Actual-stream admission and role-independent request routing were qualified with isolated controls, real probes and natural quiet runs. Existing-library repair and a first genuine new import/playback remain unverified. [Evidence boundaries and lessons](case-studies/LANGUAGE-ADMISSION.md).
+
+
+## 2026-10-06 — Existing-content caption repair
+
+Separately authorized repairs added matched captions, corrected an episode-identity mismatch and verified the player served the selected files. Joined previews, cue grouping and stale database handles each exposed different evidence failures. A scoped future-release rule retained actual-stream admission; human playback and the next unreleased episode remain unverified. [Repair and evidence limits](case-studies/CAPTION-REPAIR.md).
