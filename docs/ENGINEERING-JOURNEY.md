@@ -2514,3 +2514,8 @@ A read-only audit found failures the monitor never showed. The repair needed a s
 ## October 3 — A memory recheck failed after a correct answer
 
 The software fixture and sole real request passed their own requirements, but the required follow-up idle boundary failed. Earlier load observations were not retained; later healthy state did not rescore it. The original software was returned, saved data preserved and natural quiet scheduling verified. No gain was retained. See [the recheck record](MEMORY-DELIVERY-RECHECK.md).
+
+
+## 2026-10-06 — Independent language admission
+
+Audio and caption requirements were separated after a playback-language mismatch. Actual-stream admission and role-independent request routing were qualified with isolated controls, real probes and natural quiet runs. Existing-library repair and a first genuine new import/playback remain unverified. [Evidence boundaries and lessons](case-studies/LANGUAGE-ADMISSION.md).

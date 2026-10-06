@@ -1061,3 +1061,8 @@ A retrospective on separating memory correctness, model acceptance and recovery 
 ## Silent failures after a reboot
 
 A retrospective on failures a health check could not see, and a repair that needed two fixes. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).
+
+
+## Independent language admission
+
+[Language admission as two requirements](case-studies/LANGUAGE-ADMISSION.md) examines unsafe import ordering, privileged routing bypasses, durable uncertain outcomes and bounded verification.
