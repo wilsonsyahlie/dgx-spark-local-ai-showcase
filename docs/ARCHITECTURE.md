@@ -258,3 +258,8 @@ cannot diagnose capability. See the [retrospective](COACHING-ROLE-RETROSPECTIVE.
 ## Retrospective: validate the ordinary path
 
 An isolated harness can differ from everyday chat. Serialized intent, ordinary behavior and recovery safety need distinct evidence; this is a design lesson, not an operational topology or deployment guide. See [the record](REJECTED-THINKING-DEFAULT.md).
+
+
+### Retrospective supervised-harness boundary
+
+The qualified change separated submission ownership, supervisor planning/checks, native local implementation and result delivery. Fresh tasks received isolated file authority instead of shared-history import. Parent-owned request identities and exact durable settlement fenced successor work; local tools retained generation checks, automatic predecessor backups and implementation attribution. The visible interface distinguished automatic supervision from preserved local-only conversations. This describes engineering roles, not deployable topology.

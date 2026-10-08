@@ -358,3 +358,8 @@ A wrapper can exit while a child remains alive. Check exact captured ownership, 
 ## Check after a reboot and widen the monitor
 
 Verify mounts, failed services and scheduled jobs after a reboot, and make a monitor re-alert while red. Read a recovery tool's limits first, and retry a transient probe without weakening drift checks. See [the record](SILENT-FAILURES-AFTER-A-REBOOT.md).
+
+
+### Supervision does not expand worker authority
+
+Only explicitly submitted task content, its files and worker results were eligible for the dedicated supervisor exception. Workers remained local with bounded task-file/check capabilities and no general fallback. Infrastructure, budget, cancellation and incomplete-output failures did not establish intrinsic difficulty. Existing measured marked-section intervention controls remained conservative. Generated scripts received opaque origin and task-scoped assets; lost acknowledgements and unknown settlement retained durable fences rather than optimistic retries. All predecessor artifacts and failed observations remained recoverable.

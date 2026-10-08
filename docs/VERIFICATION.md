@@ -1153,3 +1153,8 @@ Tests failed on old code and passed on new; a 14-minute soak and a per-bot proxy
 
 
 Ready-memory delivery recheck: source inclusion and request correctness/settlement passed; the frozen post-answer idle boundary failed. Program-only recovery and natural quiet scheduler continuity passed. No retained performance gain or private-memory accuracy claim. See [the evidence boundaries](MEMORY-DELIVERY-RECHECK.md).
+
+
+### Supervised-harness acceptance
+
+Acceptance combined fifty boundary controls, fifteen transport controls, nineteen intervention-policy controls, nine interface controls and eleven protected-preview controls with real specialist jobs. The live counter improved from five passing and four failing cases to nine passing cases under the same independent checker; a general review preserved app bytes. Real clicks, exact download bytes, refresh and narrow-screen layout passed. Active cancellation proved owned closure, a fresh successor omitted a newline and was correctly rejected before local correction, and an owned restart preserved state without inference replay. Existing phone interface and effort regressions passed, while the separate older execution qualification remained unqualified. Browser automation did not qualify certificate trust or physical-device behavior; legacy output availability did not constitute a new full-game audit.
