@@ -2531,3 +2531,8 @@ Separately authorized repairs added matched captions, corrected an episode-ident
 An isolated Turnstone experiment qualified local file generation, coached correction, predecessor backups and request cancellation on ARM hardware. A missing mutation hook exposed why testing a backup helper is weaker than testing installed tool dispatch. Service restart retained saved results without replay; browser and adoption limits were kept separate from model correctness. [Trial and evidence boundaries](case-studies/LOCAL-HARNESS-TRIAL.md).
 
 The final review also caught a backend-specific database option mismatch: state had landed in the task area and intended native backups were absent. A preserved consistent migration, running-file-handle checks, native snapshot integrity and a new local trial supplied replacement evidence. Historical state claims were explicitly superseded rather than rescored.
+
+
+### Forwarded browser access follow-up
+
+The user-facing browser returned an access error after direct local tests had passed. Forwarding had changed the browser authority while validation still required the application's listening port. A narrow loopback-authority correction was checked through a real forwarding hop, authenticated reads, saved history and refresh at two screen widths. Negative controls preserved the access boundary; no inference was dispatched. [Evidence lesson](case-studies/LOCAL-HARNESS-TRIAL.md).
