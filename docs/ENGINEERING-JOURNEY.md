@@ -2536,3 +2536,8 @@ The final review also caught a backend-specific database option mismatch: state 
 ### Forwarded browser access follow-up
 
 The user-facing browser returned an access error after direct local tests had passed. Forwarding had changed the browser authority while validation still required the application's listening port. A narrow loopback-authority correction was checked through a real forwarding hop, authenticated reads, saved history and refresh at two screen widths. Negative controls preserved the access boundary; no inference was dispatched. [Evidence lesson](case-studies/LOCAL-HARNESS-TRIAL.md).
+
+
+### Private access and launch discovery follow-up
+
+The isolated harness subsequently gained private encrypted browser access and a launch card in the home portal. Certificate validation, authenticated reads, saved history and refresh were qualified through the actual access route. Real card clicks worked at desktop and phone widths without dispatching inference. Existing access routes were preserved. Separate-device connectivity and production supervisor integration were not established. [Access and discovery evidence](case-studies/LOCAL-HARNESS-TRIAL.md).
