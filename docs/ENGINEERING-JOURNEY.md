@@ -2529,3 +2529,5 @@ Separately authorized repairs added matched captions, corrected an episode-ident
 ## 2026-10-08 — Bounded local harness trial
 
 An isolated Turnstone experiment qualified local file generation, coached correction, predecessor backups and request cancellation on ARM hardware. A missing mutation hook exposed why testing a backup helper is weaker than testing installed tool dispatch. Service restart retained saved results without replay; browser and adoption limits were kept separate from model correctness. [Trial and evidence boundaries](case-studies/LOCAL-HARNESS-TRIAL.md).
+
+The final review also caught a backend-specific database option mismatch: state had landed in the task area and intended native backups were absent. A preserved consistent migration, running-file-handle checks, native snapshot integrity and a new local trial supplied replacement evidence. Historical state claims were explicitly superseded rather than rescored.
