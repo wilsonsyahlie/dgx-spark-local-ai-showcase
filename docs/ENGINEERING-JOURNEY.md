@@ -2541,3 +2541,8 @@ The user-facing browser returned an access error after direct local tests had pa
 ### Private access and launch discovery follow-up
 
 The isolated harness subsequently gained private encrypted browser access and a launch card in the home portal. Certificate validation, authenticated reads, saved history and refresh were qualified through the actual access route. Real card clicks worked at desktop and phone widths without dispatching inference. Existing access routes were preserved. Separate-device connectivity and production supervisor integration were not established. [Access and discovery evidence](case-studies/LOCAL-HARNESS-TRIAL.md).
+
+
+### Specialist research and delegation qualification
+
+A later bounded Turnstone trial used actual local coding and general-purpose specialists through native delegation. Official model research was screened against hardware and then checked with installed harness source and small heldout tasks. Automatic predecessor backups, offline script checks and exact-owned cancellation were qualified in parent and child work. Restart retained final results and files without replay, while detailed child-step projections proved transient. These results support provisional roles, not a universal model ranking or automatic cloud-supervisor integration. [Specialist evidence and limits](case-studies/LOCAL-HARNESS-TRIAL.md).
