@@ -2546,3 +2546,7 @@ The isolated harness subsequently gained private encrypted browser access and a 
 ### Specialist research and delegation qualification
 
 A later bounded Turnstone trial used actual local coding and general-purpose specialists through native delegation. Official model research was screened against hardware and then checked with installed harness source and small heldout tasks. Automatic predecessor backups, offline script checks and exact-owned cancellation were qualified in parent and child work. Restart retained final results and files without replay, while detailed child-step projections proved transient. These results support provisional roles, not a universal model ranking or automatic cloud-supervisor integration. [Specialist evidence and limits](case-studies/LOCAL-HARNESS-TRIAL.md).
+
+### Real-task error recovery
+
+A real game task exposed mismatches in restricted tools, child guidance, response-reserve accounting and saved-session approval behavior. Repairs were checked against installed sessions, local parent/child execution, native compaction and reopening saved work. Independent browser evidence also contradicted a passing worker review, reinforcing the need to preserve failed checks and coach a precise reproduction. [Recovery evidence and remaining limits](case-studies/LOCAL-HARNESS-TRIAL.md).
