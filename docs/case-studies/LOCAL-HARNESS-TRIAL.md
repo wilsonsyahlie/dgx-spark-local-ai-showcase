@@ -1,0 +1,15 @@
+# A bounded local harness trial
+
+An orchestration demonstration prompted an installation experiment with Turnstone on ARM hardware. The outcome was a separate, file-only local worker trial. It did not establish automatic cloud-supervisor integration or justify replacing an existing task workflow.
+
+The released container architecture did not match the test machine. A native derivative was built from a pinned stable package, with nonroot execution, a read-only application root and a small writable task area. Model execution stayed local. File operations were automatically approved within that task area, while network and command execution were excluded from the trial.
+
+A local worker generated a small interval-merging function. An independent checker, held outside the writable task area, exercised thirteen behaviors. Fresh generation passed them. A separate deliberately seeded endpoint bug then tested coaching: feedback described the failing cases and the worker made a minimal correction. That controlled seed was not classified as a capability failure or a reason for supervisor takeover.
+
+The first coached result was functionally correct, but automatic predecessor backups were absent. Inspection found that the integration had defined mutation wrappers without installing them on the session class. A helper-only backup test would have missed that defect. After repair, installed write and edit dispatch both preserved the exact predecessor; deliberately unavailable backups prevented mutation. A fresh coached trial passed the same behavior cases and preserved the seed hash. The earlier backup failure remained failed in the record.
+
+A second lifecycle defect appeared when streaming output ended before the exact request cleanup receipt was available. A bounded serialized handoff replaced premature rejection. Cancellation was verified through an exact backend-abort receipt, followed by successful readmission. An auxiliary title request completed normally; it was not mislabeled as aborted. Restart retained saved messages and the generated file without replaying inference. Runtime-only stream handoff metadata was distinguished from durable conversation identity.
+
+The evidence had limits. A file-tool fixture did not qualify command execution, distributed coordination, general model difficulty detection or production supervisor integration. A synthetic pending-journal rejection did not substitute for a process-crash experiment. Backend cancellation did not by itself prove stale-response rendering was correct. Browser recovery and error-path observations were treated separately from code behavior; comprehensive upstream UI race qualification remained outside the adoption claim. Shared request accounting also did not establish exclusive resource reservation.
+
+The useful result was a reviewable local experiment with independent output checks and honest failure history. The prevention rule was concrete: when a safety hook wraps a side effect, test the installed dispatch path under both success and enforced failure, then bind the evidence to the artifact that actually ran.

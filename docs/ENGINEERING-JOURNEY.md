@@ -2524,3 +2524,8 @@ Audio and caption requirements were separated after a playback-language mismatch
 ## 2026-10-06 — Existing-content caption repair
 
 Separately authorized repairs added matched captions, corrected an episode-identity mismatch and verified the player served the selected files. Joined previews, cue grouping and stale database handles each exposed different evidence failures. A scoped future-release rule retained actual-stream admission; human playback and the next unreleased episode remain unverified. [Repair and evidence limits](case-studies/CAPTION-REPAIR.md).
+
+
+## 2026-10-08 — Bounded local harness trial
+
+An isolated Turnstone experiment qualified local file generation, coached correction, predecessor backups and request cancellation on ARM hardware. A missing mutation hook exposed why testing a backup helper is weaker than testing installed tool dispatch. Service restart retained saved results without replay; browser and adoption limits were kept separate from model correctness. [Trial and evidence boundaries](case-studies/LOCAL-HARNESS-TRIAL.md).
