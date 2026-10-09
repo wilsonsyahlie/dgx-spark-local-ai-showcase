@@ -368,3 +368,8 @@ Only explicitly submitted task content, its files and worker results were eligib
 ### Recovery authority must match the deployed credential
 
 Credential fixtures must reproduce production least privilege. Exact owned physical closure plus an existing saved token is distinct from privileged tokenless orphan reconciliation. Missing credentials, uncertain acknowledgements and incomplete stream termination remain fences, not reasons to expand authority or replay effects. Initialization evidence must belong to the actual launch incarnation. Tests must preserve failed observations, immutable task history and predecessor backups. Infrastructure or context failures do not prove intrinsic model difficulty or authorize immediate supervisor takeover.
+
+
+### Video ownership extends through model release
+
+An empty queue does not prove authority to unload global model residency. Qualification begins with a clean cached-model inventory and carries exact owned operation identity through terminal completion and release. An uncertain submission or asynchronous release retains cooperative exclusion while the saved operation is inspected, without repeating the request. A retained lease file cannot replace a live operating-system lock. Diagnostic cleanup also requires exact process identity and measured memory recovery rather than a broad process-name kill.
