@@ -1071,3 +1071,6 @@ A retrospective on failures a health check could not see, and a repair that need
 ## Existing-content caption repair
 
 [Caption repair while preserving media](case-studies/CAPTION-REPAIR.md) covers scoped source recovery, retained failures, interval-aware verification and player-visible acceptance.
+
+
+- [Mixed-quant runtime qualification](case-studies/mixed-quant-runtime-qualification.md): package, numerical, execution and recovery evidence kept separate; deployment not yet qualified.

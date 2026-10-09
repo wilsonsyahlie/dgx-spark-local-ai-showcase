@@ -2570,3 +2570,8 @@ actual browser responsiveness and exact view ownership. Isolated fatal-driver
 tests and a separate deployed rendered-view check passed, while the initiating
 crash remains unresolved. [The recovery lesson](BROWSER-DISPLAY-RECOVERY.md)
 distinguishes transport, application and output evidence.
+
+
+## 2026-10-09 — Native runtime qualification separated from deployment
+
+An exact mixed-quant candidate passed small reference and ordinary-command checks, while live handoff and initialization failures remained visible. Ownership, acknowledgement settlement and fresh recovery receipts were tested independently. A full-size short answer was later proven, separated from a rejected dependency check and a fresh trial stopped by an unchanged resource guard. Repeatable safe execution and full deployment remained unqualified. [Retrospective and limits](case-studies/mixed-quant-runtime-qualification.md).

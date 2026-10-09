@@ -1166,3 +1166,8 @@ recovery, ownership and explicit-close behavior, then the deployed viewer and
 source. Failed early tests were preserved. The initiating crash and sustained
 reliability were not established; physical-device and actual game-action
 qualification were excluded. [Recovery evidence boundaries](BROWSER-DISPLAY-RECOVERY.md).
+
+
+## Mixed-quant native-runtime qualification checkpoint
+
+Small numerical reference and ordinary command execution passed; hardened startup, delayed acknowledgement, stale receipt and typed restart-availability controls passed. One full-size short answer and clean exit are proven separately from a later dependency rejection. Corrected exact-mapping controls passed; the final fresh trial stopped on the unchanged swap-growth guard during initialization. Failed trials remain retained; repeatability, performance, context and deployment remain unqualified. [Evidence boundary](case-studies/mixed-quant-runtime-qualification.md).
