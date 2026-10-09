@@ -2580,3 +2580,8 @@ An exact mixed-quant candidate passed small reference and ordinary-command check
 ## 2026-10-09 — A benchmark needed reliable failure evidence
 
 A coding candidate comparison exposed why successful downloads and process exits cannot stand in for checked artifacts. Fixed jobs, resource guards, stream ownership and exact recovery made infrastructure failures distinguishable from model quality. [The qualification lesson](case-studies/practical-model-qualification.md) preserves the limits of small tests.
+
+
+## 2026-10-09–10 — Optional worker integration and truthful recovery
+
+A qualified coding candidate became an optional new-task choice without replacing the original default or importing old work. A local-authored counter passed twenty-seven independent cases, deliberate negative checking and real desktop/narrow preview/download/refresh acceptance. Deployed state-sidecar, early-health warmup and overprivileged-fixture assumptions were measured and corrected without broadening worker authority. Exact physical closure remained distinct from unknown stream completion; recovery continued saved operations without inference replay. A compaction stress witness failed retention and remains explicit, while oversized input was rejected before inference. Cancellation, restoration and the bounded coached follow-up are detailed in the verification record.

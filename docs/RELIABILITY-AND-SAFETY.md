@@ -363,3 +363,8 @@ Verify mounts, failed services and scheduled jobs after a reboot, and make a mon
 ### Supervision does not expand worker authority
 
 Only explicitly submitted task content, its files and worker results were eligible for the dedicated supervisor exception. Workers remained local with bounded task-file/check capabilities and no general fallback. Infrastructure, budget, cancellation and incomplete-output failures did not establish intrinsic difficulty. Existing measured marked-section intervention controls remained conservative. Generated scripts received opaque origin and task-scoped assets; lost acknowledgements and unknown settlement retained durable fences rather than optimistic retries. All predecessor artifacts and failed observations remained recoverable.
+
+
+### Recovery authority must match the deployed credential
+
+Credential fixtures must reproduce production least privilege. Exact owned physical closure plus an existing saved token is distinct from privileged tokenless orphan reconciliation. Missing credentials, uncertain acknowledgements and incomplete stream termination remain fences, not reasons to expand authority or replay effects. Initialization evidence must belong to the actual launch incarnation. Tests must preserve failed observations, immutable task history and predecessor backups. Infrastructure or context failures do not prove intrinsic model difficulty or authorize immediate supervisor takeover.

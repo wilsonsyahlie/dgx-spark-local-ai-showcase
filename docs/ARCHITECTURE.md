@@ -263,3 +263,8 @@ An isolated harness can differ from everyday chat. Serialized intent, ordinary b
 ### Retrospective supervised-harness boundary
 
 The qualified change separated submission ownership, supervisor planning/checks, native local implementation and result delivery. Fresh tasks received isolated file authority instead of shared-history import. Parent-owned request identities and exact durable settlement fenced successor work; local tools retained generation checks, automatic predecessor backups and implementation attribution. The visible interface distinguished automatic supervision from preserved local-only conversations. This describes engineering roles, not deployable topology.
+
+
+### Retrospective optional-worker selection
+
+New-task model choice was bound durably to the accepted task rather than mutable composer state. The supervisor coordinated native local implementation, independent checks and artifact delivery. Request identity, exact ownership and initialized restoration fenced transitions through a replaceable resource. Source qualifications and a retained startup guard prevented an older executable from silently handling unsupported saved tasks. These are engineering roles and historical design principles, not current deployable topology.
