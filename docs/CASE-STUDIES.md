@@ -1074,3 +1074,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Mixed-quant runtime qualification](case-studies/mixed-quant-runtime-qualification.md): package, numerical, execution and recovery evidence kept separate; deployment not yet qualified.
+
+
+- [Practical coding model comparison](case-studies/practical-model-qualification.md): fixed independent jobs, measured cache capacity, retained infrastructure failures and exact recovery.

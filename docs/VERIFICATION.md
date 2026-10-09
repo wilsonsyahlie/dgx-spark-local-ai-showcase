@@ -1171,3 +1171,6 @@ qualification were excluded. [Recovery evidence boundaries](BROWSER-DISPLAY-RECO
 ## Mixed-quant native-runtime qualification checkpoint
 
 Small numerical reference and ordinary command execution passed; hardened startup, delayed acknowledgement, stale receipt and typed restart-availability controls passed. One full-size short answer and clean exit are proven separately from a later dependency rejection. Corrected exact-mapping controls passed; the final fresh trial stopped on the unchanged swap-growth guard during initialization. Failed trials remain retained; repeatability, performance, context and deployment remain unqualified. [Evidence boundary](case-studies/mixed-quant-runtime-qualification.md).
+
+
+- [Practical coding model comparison](case-studies/practical-model-qualification.md): fixed independent jobs, measured cache capacity, retained infrastructure failures and exact recovery.

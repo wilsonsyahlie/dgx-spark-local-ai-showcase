@@ -2575,3 +2575,8 @@ distinguishes transport, application and output evidence.
 ## 2026-10-09 — Native runtime qualification separated from deployment
 
 An exact mixed-quant candidate passed small reference and ordinary-command checks, while live handoff and initialization failures remained visible. Ownership, acknowledgement settlement and fresh recovery receipts were tested independently. A full-size short answer was later proven, separated from a rejected dependency check and a fresh trial stopped by an unchanged resource guard. Repeatable safe execution and full deployment remained unqualified. [Retrospective and limits](case-studies/mixed-quant-runtime-qualification.md).
+
+
+## 2026-10-09 — A benchmark needed reliable failure evidence
+
+A coding candidate comparison exposed why successful downloads and process exits cannot stand in for checked artifacts. Fixed jobs, resource guards, stream ownership and exact recovery made infrastructure failures distinguishable from model quality. [The qualification lesson](case-studies/practical-model-qualification.md) preserves the limits of small tests.
