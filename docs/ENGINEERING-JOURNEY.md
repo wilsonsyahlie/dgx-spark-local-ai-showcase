@@ -2562,3 +2562,11 @@ The delivery boundary uses bounded regular-file reads without following links. G
 ## 2026-10-08–09 — Automatic supervision with native local implementation
 
 An owner correction showed that manual coaching did not make the harness automatically supervised. New submissions were connected to the authorized supervisor; prior local conversations and shared outputs stayed explicitly local-only. A controlled local counter failed independent checks, received coaching and passed the unchanged suite after local correction. A general specialist reviewed without changing the app. Real output interaction, exact downloads, effort receipts, cancellation, fresh post-stop work and restart preservation passed. Early transport, shutdown and preview failures were retained and repaired against positive and negative controls; an omitted newline was corrected locally after the same checker rejected it. No training, blanket takeover, maximal-context result or repair of an unrelated older qualification mismatch was claimed. Separate sanitized progression and retrospective records preserve those boundaries.
+
+## 2026-10-09 — Connection success needed application health
+
+A connected blank display survived its browser driver. Recovery now depends on
+actual browser responsiveness and exact view ownership. Isolated fatal-driver
+tests and a separate deployed rendered-view check passed, while the initiating
+crash remains unresolved. [The recovery lesson](BROWSER-DISPLAY-RECOVERY.md)
+distinguishes transport, application and output evidence.

@@ -1158,3 +1158,11 @@ Ready-memory delivery recheck: source inclusion and request correctness/settleme
 ### Supervised-harness acceptance
 
 Acceptance combined fifty boundary controls, fifteen transport controls, nineteen intervention-policy controls, nine interface controls and eleven protected-preview controls with real specialist jobs. The live counter improved from five passing and four failing cases to nine passing cases under the same independent checker; a general review preserved app bytes. Real clicks, exact download bytes, refresh and narrow-screen layout passed. Active cancellation proved owned closure, a fresh successor omitted a newline and was correctly rejected before local correction, and an owned restart preserved state without inference replay. Existing phone interface and effort regressions passed, while the separate older execution qualification remained unqualified. Browser automation did not qualify certificate trust or physical-device behavior; legacy output availability did not constitute a new full-game audit.
+
+### Browser display recovery
+
+Checks crossed application protocol, owned-driver failure, visible framebuffer
+recovery, ownership and explicit-close behavior, then the deployed viewer and
+source. Failed early tests were preserved. The initiating crash and sustained
+reliability were not established; physical-device and actual game-action
+qualification were excluded. [Recovery evidence boundaries](BROWSER-DISPLAY-RECOVERY.md).
