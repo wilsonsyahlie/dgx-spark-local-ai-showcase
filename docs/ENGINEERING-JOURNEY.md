@@ -2585,3 +2585,10 @@ A coding candidate comparison exposed why successful downloads and process exits
 ## 2026-10-09–10 — Optional worker integration and truthful recovery
 
 A qualified coding candidate became an optional new-task choice without replacing the original default or importing old work. A local-authored counter passed twenty-seven independent cases, deliberate negative checking and real desktop/narrow preview/download/refresh acceptance. Deployed state-sidecar, early-health warmup and overprivileged-fixture assumptions were measured and corrected without broadening worker authority. Exact physical closure remained distinct from unknown stream completion; recovery continued saved operations without inference replay. A compaction stress witness failed retention and remains explicit, while oversized input was rejected before inference. Cancellation, restoration and the bounded coached follow-up are detailed in the verification record.
+
+
+## 2026-10-10 — Put orchestration in the interface people actually use
+
+A parallel task landing page had made model and reasoning controls invisible in the familiar application. The correction integrated supervised tasks into its real workspace tabs and shared composer while keeping older local conversations separate. New work fails closed when supervision is unavailable; a loading failure cannot silently choose a different execution path.
+
+Reviews exposed receipt races between browser tabs, polling that could discard every slow response, inherited attachment handlers and lost access to earlier outputs. Focused browser controls covered lost acknowledgements, narrow layouts, refresh and closing views. A real task produced checked local output, and a narrow-screen defect was corrected through targeted local coaching rather than automatic takeover. Checked artifacts, exact downloads and restored previews established the scoped outcome. This is an engineering retrospective, not a deployable configuration or a broader model-quality claim. A draft-backup gap and inherited cancellation-test limits remain explicit.

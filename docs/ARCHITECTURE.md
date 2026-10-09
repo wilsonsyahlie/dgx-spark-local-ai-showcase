@@ -268,3 +268,10 @@ The qualified change separated submission ownership, supervisor planning/checks,
 ### Retrospective optional-worker selection
 
 New-task model choice was bound durably to the accepted task rather than mutable composer state. The supervisor coordinated native local implementation, independent checks and artifact delivery. Request identity, exact ownership and initialized restoration fenced transitions through a replaceable resource. Source qualifications and a retained startup guard prevented an older executable from silently handling unsupported saved tasks. These are engineering roles and historical design principles, not current deployable topology.
+
+
+## 2026-10-10 — Put orchestration in the interface people actually use
+
+A parallel task landing page had made model and reasoning controls invisible in the familiar application. The correction integrated supervised tasks into its real workspace tabs and shared composer while keeping older local conversations separate. New work fails closed when supervision is unavailable; a loading failure cannot silently choose a different execution path.
+
+Reviews exposed receipt races between browser tabs, polling that could discard every slow response, inherited attachment handlers and lost access to earlier outputs. Focused browser controls covered lost acknowledgements, narrow layouts, refresh and closing views. A real task produced checked local output, and a narrow-screen defect was corrected through targeted local coaching rather than automatic takeover. Checked artifacts, exact downloads and restored previews established the scoped outcome. This is an engineering retrospective, not a deployable configuration or a broader model-quality claim. A draft-backup gap and inherited cancellation-test limits remain explicit.
