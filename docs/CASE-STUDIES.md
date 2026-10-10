@@ -1091,3 +1091,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Local specialist-team qualification](case-studies/local-specialist-team-qualification.md): actual handoffs, background shell contracts, durable groups and private Desktop recovery.
+
+
+- [Specialist-team model capacity](case-studies/local-team-model-capacity.md): real capacity, asynchronous handoffs, warm residency, protection failures and truthful review waiver.

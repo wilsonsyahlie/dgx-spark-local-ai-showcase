@@ -2622,3 +2622,8 @@ Fresh local roles, actual recipient execution and sender relays, an unchanged re
 ## 2026-10-10 — Automatic release after an idle conversation
 
 The experimental local chat received service-local idle release after the owner objected to retaining the graphics card until manual Stop. Request admission and full ownership cleanup were reused, with no model or authentication redesign. Independent review caught diagnostic failures that could otherwise kill the timer. [Idle-release design, evidence and limits](case-studies/persistent-private-model-access.md).
+
+
+## 2026-10-10 — Qualifying a specialist-team model change
+
+A real context mismatch, asynchronous readiness, actual recipient execution and sender relay, saved session routing and warm GPU residency qualified a bounded local model change. Review waiver and a missed immediate backup remained explicit. [Evidence and limits](case-studies/local-team-model-capacity.md).

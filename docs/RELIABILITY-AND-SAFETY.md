@@ -393,3 +393,8 @@ A queued acknowledgement does not prove delivery. Test the actual asynchronous s
 ### Automatic release is an ownership transition
 
 When an idle model owns a shared device, engine unload alone is insufficient: verify owned processes close, memory returns, original service identities resume and the recovery hold retires. Measure the full natural interval after request completion with browser polling still active. Keep admission fencing and active/queued protection; make timer error handling survive both observation and diagnostic failures. Fixture clock tests establish boundaries, but do not substitute for a natural deployed timeout.
+
+
+### Actual capacity and warm residency
+
+Match model discovery metadata to measured live server capacity before agent activation; preserve framework minimum assertions. Load acknowledgements require readiness evidence. Change supported saved-session routes alongside defaults. Check warm GPU residency after request completion before admitting video. Make protection a code dependency of mutation, and preserve a failed backup as an exception. An explicitly cancelled review is waived, never an independent pass.
