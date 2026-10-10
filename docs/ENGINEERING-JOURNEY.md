@@ -2597,3 +2597,8 @@ Reviews exposed receipt races between browser tabs, polling that could discard e
 ## 2026-10-10 — A local video demonstration became a qualified starter workflow
 
 Two native video modes were added without upgrading the existing interface. Publisher hashes, exact browser graphs, saved-library refresh and narrow layouts, full video/audio decode and transferred hashes established the scoped outcome. A memory guard refused an initial attempt; exact owned diagnostic closure restored host headroom. Both later runs completed and proved owned model release. Near-exhausted device memory limits the qualification to the small tested profile. [Case study and retained limits](case-studies/local-video-workflow-qualification.md).
+
+
+## 2026-10-10 — Repair the generated game through bounded local coaching
+
+A generated game required dependency wiring, truthful test fixtures and short-preview layout correction. Independent source and deployed checks rejected an initial incomplete result and a later clipped layout. Local implementation stayed with the same worker; the supervisor coached and checked. Original behavior assertions, exact output provenance and backups were preserved. Real gameplay, narrow controls, generated audio, full-page access, refresh and final restoration passed. Resource-guard failures and startup latency remain distinct from task difficulty. [Evidence and limits](case-studies/generated-game-repair.md).

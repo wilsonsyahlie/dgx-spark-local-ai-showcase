@@ -1193,3 +1193,8 @@ Reviews exposed receipt races between browser tabs, polling that could discard e
 ### Local video workflow qualification
 
 Two small text-to-video and image-to-video clips completed using the intended native graphs. Publisher file hashes, schema/link checks, full browser-to-API input equality, saved-workflow open/refresh at desktop and narrow widths, decoded video and audio, and source/destination media hashes passed. Continuous owned prompt/release sequences ended with actual zero cached models. Resource values were periodic samples and timings included preparation around submission; neither is a broad performance benchmark. The refused low-memory attempt and failed large-inline transport remain recorded failures. Acknowledgement-loss behavior received source review, not injected live execution. Larger profiles, second-pass enhancement, physical devices and reboot remain unverified.
+
+
+## 2026-10-10 — Generated game repair
+
+Original core/collision checks and all retained browser assertions, exact final-manifest completion/downloads, local authorship and predecessor backups passed. Deployed desktop/narrow controls, touch/keyboard, score, pause/resume, mute/restart, natural terminal transition, native nonzero audio waveform and refresh passed. The full-page uninstrumented output had no console, page or asset errors. Candidate closure and restored original identity/readiness were verified. Emulated touch and headless audio do not prove physical-device or speaker behavior. [Detailed failures, corrections and limits](case-studies/generated-game-repair.md).
