@@ -1085,3 +1085,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Limited-memory local model trial](case-studies/limited-memory-model-trial.md): preserved guards, effective residency, actual output and exact recovery.
+
+
+- [Persistent private model access](case-studies/persistent-private-model-access.md): native chat, ownership boundaries, truthful receipts and tested recovery.

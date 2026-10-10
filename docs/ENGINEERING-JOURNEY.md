@@ -2607,3 +2607,8 @@ A generated game required dependency wiring, truthful test fixtures and short-pr
 ## 2026-10-10 — Qualify a large-model experiment under limited host memory
 
 A standalone local inference trial exposed invalid detached streams and mapped-cache memory pressure before succeeding with supported bounded residency. The original memory floor and coding assertions remained unchanged. Actual browser flow and exact owned cleanup passed; the first coding instruction failure and crash-recovery limits remain explicit. [Experiment, measured results and limits](case-studies/limited-memory-model-trial.md).
+
+
+## 2026-10-10 — Make an experimental local model accessible
+
+An installed but stopped trial gained private home-portal access with persistent lifecycle controls and native streamed chat. Saved-intent acceptance, stale responses, duplicate actions, reconnection and true owner-loss exclusion were verified independently; a launcher-identity testing error was retained and corrected. [Access and recovery evidence](case-studies/persistent-private-model-access.md).

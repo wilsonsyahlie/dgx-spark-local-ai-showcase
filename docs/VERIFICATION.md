@@ -1203,3 +1203,8 @@ Original core/collision checks and all retained browser assertions, exact final-
 ### Limited-memory local model trial
 
 Publisher model hashes, explicit prediction-tensor rehashes, loaded capacity, arithmetic, one coached nine-case coding correction with unchanged input-preservation checks, contained generated-code execution, actual desktop/narrow browser response, loading/duplicate/refresh and exact original-service restoration passed. The first coding output violated the permitted-function restriction. Earlier launcher and memory-floor attempts failed and were closed independently. Sampled memory and two short output speeds do not qualify sustained performance, full-context accuracy or broad coding quality. [Evidence and limits](case-studies/limited-memory-model-trial.md).
+
+
+### Private access for an experimental model
+
+Actual portal navigation, private encrypted access, native streamed chat, desktop/narrow layouts, loading, duplicate requests, refresh, Stop and service-restart continuity passed. Focused regressions covered rejected-body framing, interrupted Stop delivery and uncertain launch fencing. True owner loss with a free mutex still refused competing work before exact recovery. A failed launcher-target test was preserved. Physical-device/logon/reboot, long-context quality and simultaneous monitor loss were not exercised. [Scope and limits](case-studies/persistent-private-model-access.md).

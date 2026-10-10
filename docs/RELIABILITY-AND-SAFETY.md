@@ -378,3 +378,8 @@ An empty queue does not prove authority to unload global model residency. Qualif
 ### Preserve guards while changing candidate memory behavior
 
 An unloaded model inventory is not exclusion from demand loading or supervisor restart. A bounded candidate needs exact process ownership, atomic descendant containment and continued cooperative exclusion until device release and original-service recovery are observed. A memory-floor stop can occur during mapped cache filling before the engine trims pages; it is not automatically an out-of-memory crash. Supported bounded residency and effective file-read behavior can be tested without relaxing the external floor. Allocation headroom guides sizing and is not a continuous free-memory guarantee. Abrupt owner death retains an exclusion gap that primitive controls do not prove away.
+
+
+### Durable device admission and truthful lifecycle receipts
+
+A mutex released by process death is insufficient when another controller retains a live inference job. A separate durable ownership record can block admission until job closure, resource release and exact service recovery are proved. Check the record around lock acquisition and fail closed on uncertain state. A launcher identifier may differ from the real operation owner; bind fault tests to the observed ownership contract. A saved request is not proof of effect acceptance, and an unread rejected HTTP body must never become a second request.
