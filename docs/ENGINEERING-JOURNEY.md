@@ -2612,3 +2612,8 @@ A standalone local inference trial exposed invalid detached streams and mapped-c
 ## 2026-10-10 — Make an experimental local model accessible
 
 An installed but stopped trial gained private home-portal access with persistent lifecycle controls and native streamed chat. Saved-intent acceptance, stale responses, duplicate actions, reconnection and true owner-loss exclusion were verified independently; a launcher-identity testing error was retained and corrected. [Access and recovery evidence](case-studies/persistent-private-model-access.md).
+
+
+## 2026-10-10 — Qualifying a local specialist team and private Desktop access
+
+Fresh local roles, actual recipient execution and sender relays, an unchanged reviewed artifact, saved groups and cold client recovery qualified a small specialist-team workflow. Foreground/background differences and launcher ownership failures remained recorded. [Evidence and limits](case-studies/local-specialist-team-qualification.md).

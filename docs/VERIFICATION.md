@@ -1208,3 +1208,8 @@ Publisher model hashes, explicit prediction-tensor rehashes, loaded capacity, ar
 ### Private access for an experimental model
 
 Actual portal navigation, private encrypted access, native streamed chat, desktop/narrow layouts, loading, duplicate requests, refresh, Stop and service-restart continuity passed. Focused regressions covered rejected-body framing, interrupted Stop delivery and uncertain launch fencing. True owner loss with a free mutex still refused competing work before exact recovery. A failed launcher-target test was preserved. Physical-device/logon/reboot, long-context quality and simultaneous monitor loss were not exercised. [Scope and limits](case-studies/persistent-private-model-access.md).
+
+
+### Specialist-team and private Desktop qualification
+
+Native role configuration, direct and background command probes, recipient history and actual sender relays passed. A created helper passed execution and independent edge checks; review left its bytes unchanged. Three groups survived refresh and cold client startup; one addressed response had both frontend and backend persistence. HTTP/WebSocket credential and origin negatives, exact backend stop/restart, duplicate-launch reuse and ordinary shortcut live connections passed. Reboot, logon, sustained network loss and broad team quality remain untested.

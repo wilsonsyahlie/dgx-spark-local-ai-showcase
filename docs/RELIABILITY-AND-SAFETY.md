@@ -383,3 +383,8 @@ An unloaded model inventory is not exclusion from demand loading or supervisor r
 ### Durable device admission and truthful lifecycle receipts
 
 A mutex released by process death is insufficient when another controller retains a live inference job. A separate durable ownership record can block admission until job closure, resource release and exact service recovery are proved. Check the record around lock acquisition and fail closed on uncertain state. A launcher identifier may differ from the real operation owner; bind fault tests to the observed ownership contract. A saved request is not proof of effect acceptance, and an unread rejected HTTP body must never become a second request.
+
+
+### Queued work requires recipient evidence
+
+A queued acknowledgement does not prove delivery. Test the actual asynchronous shell, persist recipient replies and normal exit notifications, and require the sender to relay the result. Role guidance is not filesystem isolation. Private passwordless convenience retains authentication; stop only an exact owned process and verify its absence rather than inferring closure from a supervisor exit. Preserve failed attempts and do not replay uncertain submissions.

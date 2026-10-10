@@ -1088,3 +1088,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Persistent private model access](case-studies/persistent-private-model-access.md): native chat, ownership boundaries, truthful receipts and tested recovery.
+
+
+- [Local specialist-team qualification](case-studies/local-specialist-team-qualification.md): actual handoffs, background shell contracts, durable groups and private Desktop recovery.

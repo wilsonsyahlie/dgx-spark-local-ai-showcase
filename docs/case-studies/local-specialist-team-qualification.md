@@ -1,0 +1,11 @@
+# A bot team needs evidence of actual handoffs
+
+A request to reproduce a specialist bot team grew to include a simpler Desktop connection after the owner forgot a dashboard login. Fresh roles reused an existing local inference service. Private access removed the password prompt through supported client controls while preserving the browser dashboard account boundary. Convenience still depended on authentication and OS-encrypted secret storage; role labels did not create security sandboxes.
+
+The first important failure was a misleading queued acknowledgement. Recipient execution had failed because the background shell could not find the native command. A direct command passed after a scoped initializer was added, but the actual asynchronous path still failed. Independent review identified the different shell startup contract. Testing that exact execution layer led to a bounded correction, then recipient history, exit notifications and sender relays proved delivery.
+
+A developer created and executed a small helper, and another role reviewed the unchanged file. Independent boundary checks qualified the artifact. Saved groups survived refresh and a cold client restart; one addressed group request returned a durable selected-member reply. These observations established a small working path, not general autonomous-team quality or concurrent fairness.
+
+Desktop connection reliability also required exact process evidence. A remotely launched child initially disappeared when its initiating transport ended. A natural interactive launch survived. A separate duplicate-action failure exposed a locked-byte read; the corrected path reused one connection during simultaneous calls. The final ordinary shortcut launch recovered a visible app and established its private connection, with setup triggers disabled afterward.
+
+The engineering lesson is to distinguish queued from delivered, foreground probes from background execution, saved configuration from live recovery, and a supervisor's exit from its child's absence. Backups and exact ownership made failures reviewable without account resets, blanket process cleanup or production model changes. Reboot, sustained network loss, physical devices and broad collaboration quality remain outside the tested evidence. This retrospective contains no current topology, private data or deployable instructions.
