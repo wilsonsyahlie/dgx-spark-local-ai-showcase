@@ -373,3 +373,8 @@ Credential fixtures must reproduce production least privilege. Exact owned physi
 ### Video ownership extends through model release
 
 An empty queue does not prove authority to unload global model residency. Qualification begins with a clean cached-model inventory and carries exact owned operation identity through terminal completion and release. An uncertain submission or asynchronous release retains cooperative exclusion while the saved operation is inspected, without repeating the request. A retained lease file cannot replace a live operating-system lock. Diagnostic cleanup also requires exact process identity and measured memory recovery rather than a broad process-name kill.
+
+
+### Preserve guards while changing candidate memory behavior
+
+An unloaded model inventory is not exclusion from demand loading or supervisor restart. A bounded candidate needs exact process ownership, atomic descendant containment and continued cooperative exclusion until device release and original-service recovery are observed. A memory-floor stop can occur during mapped cache filling before the engine trims pages; it is not automatically an out-of-memory crash. Supported bounded residency and effective file-read behavior can be tested without relaxing the external floor. Allocation headroom guides sizing and is not a continuous free-memory guarantee. Abrupt owner death retains an exclusion gap that primitive controls do not prove away.

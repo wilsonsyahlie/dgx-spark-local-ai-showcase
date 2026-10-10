@@ -1082,3 +1082,6 @@ A retrospective on failures a health check could not see, and a repair that need
 - [Local video workflow qualification](case-studies/local-video-workflow-qualification.md): native graph proof, measured memory, fully decoded outputs and owned release.
 
 - [Generated game repair](case-studies/generated-game-repair.md): dependency wiring, unchanged behavior assertions, bounded local correction and real playable output.
+
+
+- [Limited-memory local model trial](case-studies/limited-memory-model-trial.md): preserved guards, effective residency, actual output and exact recovery.

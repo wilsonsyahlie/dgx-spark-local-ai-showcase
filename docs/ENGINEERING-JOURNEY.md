@@ -2602,3 +2602,8 @@ Two native video modes were added without upgrading the existing interface. Publ
 ## 2026-10-10 — Repair the generated game through bounded local coaching
 
 A generated game required dependency wiring, truthful test fixtures and short-preview layout correction. Independent source and deployed checks rejected an initial incomplete result and a later clipped layout. Local implementation stayed with the same worker; the supervisor coached and checked. Original behavior assertions, exact output provenance and backups were preserved. Real gameplay, narrow controls, generated audio, full-page access, refresh and final restoration passed. Resource-guard failures and startup latency remain distinct from task difficulty. [Evidence and limits](case-studies/generated-game-repair.md).
+
+
+## 2026-10-10 — Qualify a large-model experiment under limited host memory
+
+A standalone local inference trial exposed invalid detached streams and mapped-cache memory pressure before succeeding with supported bounded residency. The original memory floor and coding assertions remained unchanged. Actual browser flow and exact owned cleanup passed; the first coding instruction failure and crash-recovery limits remain explicit. [Experiment, measured results and limits](case-studies/limited-memory-model-trial.md).

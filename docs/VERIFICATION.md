@@ -1198,3 +1198,8 @@ Two small text-to-video and image-to-video clips completed using the intended na
 ## 2026-10-10 — Generated game repair
 
 Original core/collision checks and all retained browser assertions, exact final-manifest completion/downloads, local authorship and predecessor backups passed. Deployed desktop/narrow controls, touch/keyboard, score, pause/resume, mute/restart, natural terminal transition, native nonzero audio waveform and refresh passed. The full-page uninstrumented output had no console, page or asset errors. Candidate closure and restored original identity/readiness were verified. Emulated touch and headless audio do not prove physical-device or speaker behavior. [Detailed failures, corrections and limits](case-studies/generated-game-repair.md).
+
+
+### Limited-memory local model trial
+
+Publisher model hashes, explicit prediction-tensor rehashes, loaded capacity, arithmetic, one coached nine-case coding correction with unchanged input-preservation checks, contained generated-code execution, actual desktop/narrow browser response, loading/duplicate/refresh and exact original-service restoration passed. The first coding output violated the permitted-function restriction. Earlier launcher and memory-floor attempts failed and were closed independently. Sampled memory and two short output speeds do not qualify sustained performance, full-context accuracy or broad coding quality. [Evidence and limits](case-studies/limited-memory-model-trial.md).
