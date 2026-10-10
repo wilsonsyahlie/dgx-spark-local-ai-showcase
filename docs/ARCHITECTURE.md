@@ -275,3 +275,8 @@ New-task model choice was bound durably to the accepted task rather than mutable
 A parallel task landing page had made model and reasoning controls invisible in the familiar application. The correction integrated supervised tasks into its real workspace tabs and shared composer while keeping older local conversations separate. New work fails closed when supervision is unavailable; a loading failure cannot silently choose a different execution path.
 
 Reviews exposed receipt races between browser tabs, polling that could discard every slow response, inherited attachment handlers and lost access to earlier outputs. Focused browser controls covered lost acknowledgements, narrow layouts, refresh and closing views. A real task produced checked local output, and a narrow-screen defect was corrected through targeted local coaching rather than automatic takeover. Checked artifacts, exact downloads and restored previews established the scoped outcome. This is an engineering retrospective, not a deployable configuration or a broader model-quality claim. A draft-backup gap and inherited cancellation-test limits remain explicit.
+
+
+### Idle release for the experimental native session
+
+A service-local monotonic timer measures readiness and native request completion, excluding browser polling. Native admission and a stop fence prevent idle expiry from interrupting admitted work or racing an automatic reload. The existing session guardian performs full cleanup and original ownership restoration; access controls report automatic closure and offer an explicit new Start. The timer adds no browser-owned lifecycle or new workload priority.

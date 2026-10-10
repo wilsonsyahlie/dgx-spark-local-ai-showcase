@@ -388,3 +388,8 @@ A mutex released by process death is insufficient when another controller retain
 ### Queued work requires recipient evidence
 
 A queued acknowledgement does not prove delivery. Test the actual asynchronous shell, persist recipient replies and normal exit notifications, and require the sender to relay the result. Role guidance is not filesystem isolation. Private passwordless convenience retains authentication; stop only an exact owned process and verify its absence rather than inferring closure from a supervisor exit. Preserve failed attempts and do not replay uncertain submissions.
+
+
+### Automatic release is an ownership transition
+
+When an idle model owns a shared device, engine unload alone is insufficient: verify owned processes close, memory returns, original service identities resume and the recovery hold retires. Measure the full natural interval after request completion with browser polling still active. Keep admission fencing and active/queued protection; make timer error handling survive both observation and diagnostic failures. Fixture clock tests establish boundaries, but do not substitute for a natural deployed timeout.

@@ -2617,3 +2617,8 @@ An installed but stopped trial gained private home-portal access with persistent
 ## 2026-10-10 — Qualifying a local specialist team and private Desktop access
 
 Fresh local roles, actual recipient execution and sender relays, an unchanged reviewed artifact, saved groups and cold client recovery qualified a small specialist-team workflow. Foreground/background differences and launcher ownership failures remained recorded. [Evidence and limits](case-studies/local-specialist-team-qualification.md).
+
+
+## 2026-10-10 — Automatic release after an idle conversation
+
+The experimental local chat received service-local idle release after the owner objected to retaining the graphics card until manual Stop. Request admission and full ownership cleanup were reused, with no model or authentication redesign. Independent review caught diagnostic failures that could otherwise kill the timer. [Idle-release design, evidence and limits](case-studies/persistent-private-model-access.md).

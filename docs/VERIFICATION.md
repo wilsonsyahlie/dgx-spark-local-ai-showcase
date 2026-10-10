@@ -1213,3 +1213,8 @@ Actual portal navigation, private encrypted access, native streamed chat, deskto
 ### Specialist-team and private Desktop qualification
 
 Native role configuration, direct and background command probes, recipient history and actual sender relays passed. A created helper passed execution and independent edge checks; review left its bytes unchanged. Three groups survived refresh and cold client startup; one addressed response had both frontend and backend persistence. HTTP/WebSocket credential and origin negatives, exact backend stop/restart, duplicate-launch reuse and ordinary shortcut live connections passed. Reboot, logon, sustained network loss and broad team quality remain untested.
+
+
+### Automatic idle release follow-up
+
+Twelve focused policy checks and the installed native service fixture passed, covering the exact interval, message completion, active/queued admission, racing reload, polling exclusion and combined observation/diagnostic failure recovery. A deployed native session completed two short streamed requests, retained its timer through access-control restarts, and naturally stopped after the full five-minute interval with continuous browser polling. Owned work closed, device memory returned near baseline, all original service identities resumed and the recovery hold retired. New Start, native chat/history refresh, duplicate action fencing, manual Stop, desktop/narrow refresh, stale/offline/retry and existing boundary regressions passed. The evidence collector initially omitted manager authentication and failed before saving; its corrected version checked immutable natural-closure records separately from final stopped state. Physical devices, reboot and prolonged unattended operation remain untested.
