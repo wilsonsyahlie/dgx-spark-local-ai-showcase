@@ -2627,3 +2627,8 @@ The experimental local chat received service-local idle release after the owner 
 ## 2026-10-10 — Qualifying a specialist-team model change
 
 A real context mismatch, asynchronous readiness, actual recipient execution and sender relay, saved session routing and warm GPU residency qualified a bounded local model change. Review waiver and a missed immediate backup remained explicit. [Evidence and limits](case-studies/local-team-model-capacity.md).
+
+
+## 2026-10-10 — Correcting specialist serving location and qualifying concurrency
+
+A dedicated local batched server supersedes the intermediate workstation route. Six actual short concurrent sequences, an asynchronous coding handoff, old-model retirement and a remote desktop client are qualified with shared-context and review-waiver limits. [Evidence and limits](case-studies/concurrent-specialists-remote-clients.md).

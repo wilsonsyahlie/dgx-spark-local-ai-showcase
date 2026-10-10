@@ -398,3 +398,8 @@ When an idle model owns a shared device, engine unload alone is insufficient: ve
 ### Actual capacity and warm residency
 
 Match model discovery metadata to measured live server capacity before agent activation; preserve framework minimum assertions. Load acknowledgements require readiness evidence. Change supported saved-session routes alongside defaults. Check warm GPU residency after request completion before admitting video. Make protection a code dependency of mutation, and preserve a failed backup as an exception. An explicitly cancelled review is waived, never an independent pass.
+
+
+### Serving-host fidelity and shared capacity
+
+Confirm the intended serving host before reusing installed desktop weights. Require explicit authority and native idle-state evidence before releasing another backend. Measure running sequences and shared token capacity separately. Preserve failure-time state and do not replay an uncertain unload. Validate source-built client signatures before activation and use native encrypted enrollment. An owner-cancelled review remains waived, not a passing review.

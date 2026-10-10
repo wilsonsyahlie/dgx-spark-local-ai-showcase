@@ -1094,3 +1094,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Specialist-team model capacity](case-studies/local-team-model-capacity.md): real capacity, asynchronous handoffs, warm residency, protection failures and truthful review waiver.
+
+
+- [Concurrent specialists and remote clients](case-studies/concurrent-specialists-remote-clients.md): corrected serving location, measured concurrency, retirement and remote display boundaries.

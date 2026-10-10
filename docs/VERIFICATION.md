@@ -1223,3 +1223,8 @@ Twelve focused policy checks and the installed native service fixture passed, co
 ### Specialist-team model capacity and handoff
 
 Structured streamed tool/result protocol passed. Initial agent initialization rejected insufficient actual context; later live server capacity and matching metadata passed. Native recipient execution, normal background exit and sender relay passed. Remaining roles returned native replies, including an existing group session; saved routes and idle leases were checked. Resident-chat video rejection passed. UI recovery, full-context prompts, reboot/logon, sustained outages, crash injection and broad output quality remain untested. Further independent reviews were explicitly waived by the owner, not marked passed. One immediate pre-refresh owner backup was missed and remains a recorded exception.
+
+
+### Concurrent specialists and remote clients
+
+Pinned weight integrity, native idle backend release, authenticated loopback serving, six actual concurrent short requests, an accepted benign original-code game request, saved routes, recipient execution and sender relay passed. Slot count is distinct from shared full-context capacity. Intermediate workstation inference was measured retired. The Mac client uses protected local signing and native encrypted connection enrollment; user-visible checks are recorded in the case study. Broad quality, zero refusals, sustained full-context concurrency, physical acceptance, reboot and unattended recovery remain unqualified. Further independent reviews were waived by the owner, not passed.
