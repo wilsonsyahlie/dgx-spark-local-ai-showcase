@@ -2632,3 +2632,8 @@ A real context mismatch, asynchronous readiness, actual recipient execution and 
 ## 2026-10-10 — Correcting specialist serving location and qualifying concurrency
 
 A dedicated local batched server supersedes the intermediate workstation route. Six actual short concurrent sequences, an asynchronous coding handoff, old-model retirement and a remote desktop client are qualified with shared-context and review-waiver limits. [Evidence and limits](case-studies/concurrent-specialists-remote-clients.md).
+
+
+## 2026-10-11 — Qualifying an image adapter and native compatibility update
+
+Verified matching weights, protected native support update, saved workflow acceptance, actual image metadata and workload release. One measured sample with explicit quality and regression limits. [Evidence and limits](case-studies/native-anime-workflow-qualification.md).

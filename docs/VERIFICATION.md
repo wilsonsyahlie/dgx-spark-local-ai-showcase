@@ -1228,3 +1228,8 @@ Structured streamed tool/result protocol passed. Initial agent initialization re
 ### Concurrent specialists and remote clients
 
 Pinned weight integrity, native idle backend release, authenticated loopback serving, six actual concurrent short requests, an accepted benign original-code game request, saved routes, recipient execution and sender relay passed. Slot count is distinct from shared full-context capacity. Intermediate workstation inference was measured retired. The Mac client uses protected local signing and native encrypted connection enrollment; user-visible checks are recorded in the case study. Broad quality, zero refusals, sustained full-context concurrency, physical acceptance, reboot and unattended recovery remain unqualified. Further independent reviews were waived by the owner, not passed.
+
+
+### Native anime workflow qualification
+
+Publisher file integrity, full protected predecessors, consistent database backup, native dependency/support readiness, unchanged graphics runtime and cooperative guard, exact saved graph, real image/metadata/patch proof and owned native cache release passed. Saved-library open, refresh and narrow viewport passed. Previous video classes remain registered without regeneration. Physical acceptance, reboot, broad quality, editing/maxsize/batch and exhaustive native UI failure cases remain untested; further independent reviews owner-waived.

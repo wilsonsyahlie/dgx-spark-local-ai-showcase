@@ -1,0 +1,13 @@
+# A downloaded adapter is only one part of a working image workflow
+
+An image setup request exposed a compatibility gap: the installed application did not support the adapter's base-model family. The engineering work therefore included matching the adapter, text encoder, base and decoder, verifying publisher hashes, and qualifying the necessary native application update. A similar-looking accelerated base was incompatible, while an alternate compressed adapter was an alternative rather than something to stack.
+
+Protected source, user state, environment and a consistent database snapshot preceded activation. The graphics runtime and cooperative workload guard were preserved. An existing idle model was released through its supported control under explicit owner authority. Exact process identity and queue state governed the application restart.
+
+The first detached transfer ended with the remote connection. A proposed temporary scheduled task was rejected and never existed; the shell wrapper's exit status alone did not establish success. A foreground connection completed the verified transfer. An archive initially encountered an active database lock. The corrected backup retained the failed attempt, used a consistent database snapshot and excluded only the ephemeral zero-byte lock. Two encoding failures affected observations rather than image execution and were corrected without resubmission.
+
+A native saved workflow was built and compared with the intended API graph. Actual saved-library open, refresh and a narrow viewport passed. One synthetic nonexplicit prompt produced a real image at the configured resolution and sampling settings. Native loading evidence confirmed that the adapter patched the diffusion model and left the matching text encoder unpatched. The saved image's metadata matched terminal history, its transfer hash matched, and it was visually inspected.
+
+The one test completed in about twelve seconds. Periodic memory samples are not exact peaks, a benchmark or a future latency guarantee. Exclusive workload ownership persisted through native model-cache release, with an empty queue and zero cached models proved afterwards. Earlier video workflow classes still registered, but video generation was not repeated.
+
+Local operating knowledge was verified through the agent's mounted view. The owner waived further independent reviews, which remain recorded as waived. Physical acceptance, reboot, maximum resolutions or batches, reference-image editing, broad quality and exhaustive native UI failure cases remain unqualified. This retrospective intentionally contains no current private topology or deployable setup instructions.

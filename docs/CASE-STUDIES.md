@@ -1097,3 +1097,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Concurrent specialists and remote clients](case-studies/concurrent-specialists-remote-clients.md): corrected serving location, measured concurrency, retirement and remote display boundaries.
+
+
+- [Native anime workflow qualification](case-studies/native-anime-workflow-qualification.md): matching model components, protected compatibility activation and real artifact proof.

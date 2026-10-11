@@ -403,3 +403,8 @@ Match model discovery metadata to measured live server capacity before agent act
 ### Serving-host fidelity and shared capacity
 
 Confirm the intended serving host before reusing installed desktop weights. Require explicit authority and native idle-state evidence before releasing another backend. Measure running sequences and shared token capacity separately. Preserve failure-time state and do not replay an uncertain unload. Validate source-built client signatures before activation and use native encrypted enrollment. An owner-cancelled review remains waived, not a passing review.
+
+
+### Native compatibility and image artifact proof
+
+Match the adapter base and encoder explicitly before downloading alternatives. Protect source, environment and consistent database state before required compatibility activation. Distinguish ephemeral database locks from durable data. Remote-child lifetime and shell error output require actual state checks. Confirm native patch attachment and saved image metadata before calling a request successful; prove owned native cache release. Record sampled memory and owner review waivers truthfully.
