@@ -1106,3 +1106,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Reviewer empty tool boundary](case-studies/reviewer-empty-tool-boundary.md): tracing literal tool output through sanitization and qualifying a scoped role-guidance mitigation.
+
+
+- [Playable previews and generation defaults](case-studies/playable-preview-generation-defaults.md): real pixel verification, durable static receipts and measured specialist request parameters.

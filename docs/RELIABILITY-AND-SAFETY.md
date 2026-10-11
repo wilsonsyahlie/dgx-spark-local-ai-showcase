@@ -413,3 +413,7 @@ Match the adapter base and encoder explicitly before downloading alternatives. P
 ### Register before preparation; acknowledge only after native unwind
 
 Preserve exact work ownership when integrating a new engine, include preparatory and translated requests in busy state, and treat unknown cancellation as uncertainty. Inspect the actual runtime cgroup before claiming a swap limit. Preserve watchdog failures and distinguish capacity mitigation from a proven root-cause repair. Scope adjacent findings without silently repairing them.
+
+
+### Real pixels, immutable receipts and typed generation settings
+Mocked graphics checks cannot establish visual correctness. Independent review added nonblocking file handling, queue progress, crash recovery, durable publication and isolated receipt-failure checks. Actual request serialization established sampling zeros after configuration merges. [Boundaries and limits](case-studies/playable-preview-generation-defaults.md).

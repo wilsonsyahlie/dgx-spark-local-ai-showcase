@@ -2647,3 +2647,8 @@ Verified model artifacts, protected routing, native role turns, exact cancellati
 ## 2026-10-11 — An empty reviewer reply traced across the tool boundary
 
 Exact request reproduction distinguished an unavailable tool envelope from a transport failure. Scoped role guidance passed both waiting and substantive-review checks, preserving the original work. [Evidence and limits](case-studies/reviewer-empty-tool-boundary.md).
+
+
+## 2026-10-11 — Playable creation links and measured recipe defaults
+
+A creator-owned renderer repair, bounded static publication, native creator link delivery and six-profile generation-parameter matching were qualified with real browser and final-request evidence. [Outcome, failed approaches and limits](case-studies/playable-preview-generation-defaults.md).

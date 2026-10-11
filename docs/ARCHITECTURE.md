@@ -280,3 +280,7 @@ Reviews exposed receipt races between browser tabs, polling that could discard e
 ### Idle release for the experimental native session
 
 A service-local monotonic timer measures readiness and native request completion, excluding browser polling. Native admission and a stop fence prevent idle expiry from interrupting admitted work or racing an automatic reload. The existing session guardian performs full cleanup and original ownership restoration; access controls report automatic closure and offer an explicit new Start. The timer adds no browser-owned lifecycle or new workload priority.
+
+
+### Retrospective: publishing generated browser artifacts
+Explicit static bundles, separate accepted snapshots, typed generation parameters and native role guidance formed a bounded creation-to-preview workflow. This case describes the design and evidence, not a deployment topology. [Preview qualification](case-studies/playable-preview-generation-defaults.md).

@@ -1,0 +1,27 @@
+# Playable previews and measured generation defaults
+
+## Outcome
+A local creator's completed browser animation became immediately accessible through a verified clickable preview. The owner also required future web creations to finish with such a link and required six specialist profiles to use the published generation defaults. The creator repaired its own renderer; the supervising implementation work supplied measured feedback and verified the live result.
+
+## What failed and changed
+A downloadable artifact initially failed the owner's request to try the creation immediately. The rendered scene then showed distorted triangles even though mocked checks and the graphics API reported no error. Source inspection found incompatible vertex packing and draw strides, alongside incomplete triangle emission. The local creator repaired both and strengthened checks against recorded buffer payloads and actual attribute bindings. Real rendering subsequently showed a recognizable bird riding a bicycle. This establishes a specific repair, not parity with a demonstration video's art quality.
+
+Preview publication used explicitly selected generated static assets, bounded validation, immutable accepted copies, pinned byte integrity and durable receipts. A container-side client could stage assets without controlling the host service or exposing unrelated files. Sandbox and asset-path restrictions allowed the tested local modules and styles while blocking network, frame, worker and persistent-origin access. Interrupted acknowledgements were recovered by checking the same request rather than blindly publishing again.
+
+Independent review caught nonblocking-file, completed-queue starvation, interrupted-publication, receipt-failure and filesystem durability gaps before activation. Regression checks retained those failures. A receipt-write test originally used a dangling symlink that would actually be replaced successfully; it was corrected to inject a real failure and prove later queue progress. A bounded persistent preview superseded a temporary single-artifact listener while preserving the owner's existing bookmark.
+
+Comparing the published serving recipe to specialist configuration revealed inherited smaller context/output budgets and disabled thinking. After explicit owner direction, supported configuration controls matched six profiles to thinking enabled, output cap32,768, context262,144 and temperature0/top-k0/top-p1/min-p0. Existing routing, model selection, local inference, authentication and tool boundaries were retained. Exact idle sessions were reconstructed without replaying old assignments; preserved-message checks protected prior history.
+
+## Evidence
+- Thirteen focused publication tests covered unsafe paths/types/links, size/count/hash limits, incomplete staging, tampering, completed-queue progress, nonblocking special files, interruption recovery and isolated receipt failures.
+- Recorded geometry/layout checks and real browser rendering, animation advance, pause/resume, reload and a narrow canvas qualified the repaired animation. Narrow canvas coverage did not establish phone touch usability.
+- Actual explicit-bundle publication, MIME and hashes, missing routes, CSS/module imports and browser sandbox restrictions passed at qualification and deployed layers. The bookmark retained exact accepted bytes across a service restart; a separate client fetched the repaired bytes.
+- Main and developer native turns created test counter pages, published them, independently checked transport and returned actual Markdown links. Their pages passed desktop/narrow controls and refresh. All specialist identity files were read back through the maintained container mount.
+- Six native short sequential specialist turns showed larger effective context, real reasoning and updated preview instructions. Each configured profile's final serialized SDK request proved numeric zero values, output cap and thinking after merges. Prior messages and main configuration were preserved.
+
+## Limits and lessons
+A final-scene social post does not expose its complete prompt, settings or execution history. No undocumented author workflow was asserted. Matching generation defaults does not guarantee equivalent creative output or refusal behavior. Existing audited eager runtime behavior was retained; this was a generation-parameter match, not a claim of total engine equivalence.
+
+Short sequential checks do not prove full-context capacity, simultaneous maximum-output concurrency, speed benchmarks, every future creator's compliance or every app's visual quality. Reboot, logout and physical-device acceptance were not performed. An unrelated inactive low-latency voice route was outside the qualified text workflow. Backend apps, external dependencies and origin-persistent storage require a separately approved design; immutable retained previews also need an authorized long-term retention policy.
+
+When a user asks to try a web creation, return a verified browser URL. When a graphics mock passes, inspect real pixels. When matching a serving recipe, verify the final typed request and active agent, then state the workload tested. Preserve failed evidence and current history; keep rollback scoped to the owned preview and protected configuration predecessors. This retrospective contains no production configuration, current topology, deployable commands, raw records or private artifacts.

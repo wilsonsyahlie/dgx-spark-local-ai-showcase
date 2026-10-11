@@ -1243,3 +1243,7 @@ Pinned artifact verification, runtime import, focused lifecycle and adapter chec
 ### Reviewer empty-reply diagnosis
 
 Exact original request fingerprint reproduced in complete and streamed output; native sanitizer reproduced empty text. Revised role fixture, tool-result continuation, live pass and substantive code finding passed. Native prompt and unchanged-history readbacks passed. Original group replay and physical acceptance remain untested; generic recovery remains a limit.
+
+
+### Playable creation links and recipe parameter matching
+Focused publication checks, actual bundle/browser sandbox checks, live animation and restart/client hashes, two native creator deliveries, six native specialist context/reasoning turns, per-profile serialized requests and preserved-history readbacks passed. No full-context/maximal-concurrency, benchmark parity, physical device, reboot or pelican touch-control claim. Independent concrete plan/evidence review completed; final publication review remains a separate gate. [Evidence scope](case-studies/playable-preview-generation-defaults.md).
