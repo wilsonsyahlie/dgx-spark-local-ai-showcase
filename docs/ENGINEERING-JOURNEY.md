@@ -2642,3 +2642,8 @@ Verified matching weights, protected native support update, saved workflow accep
 ## 2026-10-11 — Preserving agent ownership across an inference engine migration
 
 Verified model artifacts, protected routing, native role turns, exact cancellation and bounded concurrency. An early memory watchdog stop remains recorded with an unproven cause and bounded later evidence. [Qualification and limits](case-studies/shared-runtime-ownership-qualification.md).
+
+
+## 2026-10-11 — An empty reviewer reply traced across the tool boundary
+
+Exact request reproduction distinguished an unavailable tool envelope from a transport failure. Scoped role guidance passed both waiting and substantive-review checks, preserving the original work. [Evidence and limits](case-studies/reviewer-empty-tool-boundary.md).

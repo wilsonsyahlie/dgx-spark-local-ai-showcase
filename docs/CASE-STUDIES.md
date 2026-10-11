@@ -1103,3 +1103,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Shared runtime ownership qualification](case-studies/shared-runtime-ownership-qualification.md): preserving conversation state, native cancellation and truthful memory evidence across a runtime migration.
+
+
+- [Reviewer empty tool boundary](case-studies/reviewer-empty-tool-boundary.md): tracing literal tool output through sanitization and qualifying a scoped role-guidance mitigation.
