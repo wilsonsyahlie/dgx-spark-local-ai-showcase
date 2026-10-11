@@ -1233,3 +1233,8 @@ Pinned weight integrity, native idle backend release, authenticated loopback ser
 ### Native anime workflow qualification
 
 Publisher file integrity, full protected predecessors, consistent database backup, native dependency/support readiness, unchanged graphics runtime and cooperative guard, exact saved graph, real image/metadata/patch proof and owned native cache release passed. Saved-library open, refresh and narrow viewport passed. Previous video classes remain registered without regeneration. Physical acceptance, reboot, broad quality, editing/maxsize/batch and exhaustive native UI failure cases remain untested; further independent reviews owner-waived.
+
+
+### Shared runtime ownership qualification
+
+Pinned artifact verification, runtime import, focused lifecycle and adapter checks, actual text/reasoning/tools/vision/cache/Responses, every role desktop turn, bounded concurrency, exact three-path cancellation with surviving work, and native busy/idle probes passed. Early watchdog and role failure retained; subsequent owned swap remained zero in sampled qualification. Full-context stress, speed/quality/refusal guarantees, reboot, physical acceptance and exhaustive UI cases remain untested. Independent review owner-waived.

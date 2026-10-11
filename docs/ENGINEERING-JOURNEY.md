@@ -2637,3 +2637,8 @@ A dedicated local batched server supersedes the intermediate workstation route. 
 ## 2026-10-11 — Qualifying an image adapter and native compatibility update
 
 Verified matching weights, protected native support update, saved workflow acceptance, actual image metadata and workload release. One measured sample with explicit quality and regression limits. [Evidence and limits](case-studies/native-anime-workflow-qualification.md).
+
+
+## 2026-10-11 — Preserving agent ownership across an inference engine migration
+
+Verified model artifacts, protected routing, native role turns, exact cancellation and bounded concurrency. An early memory watchdog stop remains recorded with an unproven cause and bounded later evidence. [Qualification and limits](case-studies/shared-runtime-ownership-qualification.md).

@@ -408,3 +408,8 @@ Confirm the intended serving host before reusing installed desktop weights. Requ
 ### Native compatibility and image artifact proof
 
 Match the adapter base and encoder explicitly before downloading alternatives. Protect source, environment and consistent database state before required compatibility activation. Distinguish ephemeral database locks from durable data. Remote-child lifetime and shell error output require actual state checks. Confirm native patch attachment and saved image metadata before calling a request successful; prove owned native cache release. Record sampled memory and owner review waivers truthfully.
+
+
+### Register before preparation; acknowledge only after native unwind
+
+Preserve exact work ownership when integrating a new engine, include preparatory and translated requests in busy state, and treat unknown cancellation as uncertainty. Inspect the actual runtime cgroup before claiming a swap limit. Preserve watchdog failures and distinguish capacity mitigation from a proven root-cause repair. Scope adjacent findings without silently repairing them.

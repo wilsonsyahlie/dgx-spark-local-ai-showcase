@@ -1100,3 +1100,6 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Native anime workflow qualification](case-studies/native-anime-workflow-qualification.md): matching model components, protected compatibility activation and real artifact proof.
+
+
+- [Shared runtime ownership qualification](case-studies/shared-runtime-ownership-qualification.md): preserving conversation state, native cancellation and truthful memory evidence across a runtime migration.
