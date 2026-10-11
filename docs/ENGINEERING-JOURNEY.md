@@ -2652,3 +2652,8 @@ Exact request reproduction distinguished an unavailable tool envelope from a tra
 ## 2026-10-11 — Playable creation links and measured recipe defaults
 
 A creator-owned renderer repair, bounded static publication, native creator link delivery and six-profile generation-parameter matching were qualified with real browser and final-request evidence. [Outcome, failed approaches and limits](case-studies/playable-preview-generation-defaults.md).
+
+
+## 2026-10-11 — Creator-owned motion repair beyond a clean render
+
+The local creator repaired wheel and pedaling mechanics while independent inspection checked actual uploaded geometry, overlapping support faces and the exact published artifact. Failed harness assumptions and bounded visual/device limits remain explicit. [Evidence and lessons](case-studies/creator-owned-motion-qualification.md).

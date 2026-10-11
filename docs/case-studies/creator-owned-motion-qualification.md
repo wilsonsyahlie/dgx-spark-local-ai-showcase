@@ -1,0 +1,15 @@
+# Creator-owned animation repair with measured motion
+
+A generated bicycle animation rendered without obvious graphics errors, yet its wheels rotated about the wrong axis and its rider did not pedal coherently. The owner required the original local creator to repair it. The supervisor kept ownership explicit: the creator changed the project and its tests; independent inspection supplied measured feedback.
+
+The repair connected wheel rotation to travel speed and effective mesh radius, separated rotating crank arms from upright pedal platforms, and solved the rider’s two-link legs using the actual scaled mesh endpoints. A surface-contact check exposed a subtler false positive: the lowest toe lay outside the pedal footprint while the overlapping sole floated above it. Contact was qualified from overlapping uploaded geometry, rather than a whole-mesh minimum or an invented point.
+
+Incomplete native turns were retained and continued within the existing limits. Several failures belonged to the test harness: incompatible API argument order, double-versus-Float32 equality and empty capture sets that could produce misleading individual passes. These did not establish an inability to write the scene. Recorded failure evidence guided small corrections without changing inference settings or taking over the creator’s implementation.
+
+Qualification must distinguish focused project checks, real browser physics, artifact delivery and visual quality. A known-bad predecessor failed the same support validator that accepted the corrected geometry. Immutable publication preserves older outputs, and exact source-to-served hashes establish which version a browser opened. Screen-size and control checks are recorded separately from mechanical checks.
+
+Bounded evidence does not establish artistic parity with a demonstration, universal future agent compliance or physical-device reliability. Failed attempts, protected predecessors and rollback requirements remain in the private operational record; this retrospective contains no production artifacts or deployment procedure.
+
+Verified outcome: the creator’s rendering check passed, with 88 geometry assertions and 40 motion assertions over 73 phases. Independent browser qualification checked 74 phases and 3,700 real overlapping support points with zero failures; wheel orientation, ground clearance and connected limb endpoints met explicit bounds. The published page matched the creator’s source exactly. Animation, repeated pause/resume, orbit, zoom, reset, narrow-screen layout, emulated touch and refresh passed. These are mechanical and browser checks, not an artistic-quality benchmark.
+
+The test suite’s overall coverage gates prevent success with missing captures. Some individual labels can still read PASS after a capture failure; those labels alone are not evidence. The complete suite and independent real-browser capture are required. Physical devices, reboot, network-loss and unavailable-graphics recovery remain untested. No production model, inference settings or shared service was changed.

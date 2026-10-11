@@ -1109,3 +1109,5 @@ A retrospective on failures a health check could not see, and a repair that need
 
 
 - [Playable previews and generation defaults](case-studies/playable-preview-generation-defaults.md): real pixel verification, durable static receipts and measured specialist request parameters.
+
+- [Creator-owned motion repair and actual support qualification](case-studies/creator-owned-motion-qualification.md): preserve implementation ownership, reject false contact and separate complete capture coverage from individual PASS labels.

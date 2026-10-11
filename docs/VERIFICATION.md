@@ -1247,3 +1247,8 @@ Exact original request fingerprint reproduced in complete and streamed output; n
 
 ### Playable creation links and recipe parameter matching
 Focused publication checks, actual bundle/browser sandbox checks, live animation and restart/client hashes, two native creator deliveries, six native specialist context/reasoning turns, per-profile serialized requests and preserved-history readbacks passed. No full-context/maximal-concurrency, benchmark parity, physical device, reboot or pelican touch-control claim. Independent concrete plan/evidence review completed; final publication review remains a separate gate. [Evidence scope](case-studies/playable-preview-generation-defaults.md).
+
+
+## Creator-owned motion qualification — 2026-10-11
+
+Rendering alone did not establish wheel or pedaling correctness. Creator checks passed 88 geometry and 40 motion assertions; independent browser qualification passed 74 phases and 3,700 overlapping support samples. A known-bad predecessor failed the same support validator. Exact published bytes, repeated controls, narrow-screen layout, emulated touch and refresh passed. Individual labels require complete capture coverage; physical devices, failure recovery and artistic parity remain unqualified. [Methods, failed assumptions and limits](case-studies/creator-owned-motion-qualification.md).
