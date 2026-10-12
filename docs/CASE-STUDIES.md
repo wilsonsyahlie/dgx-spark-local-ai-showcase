@@ -1117,3 +1117,6 @@ A retrospective on failures a health check could not see, and a repair that need
 ## 2026-10-12 — Capability-aware research completion
 
 A researcher-only workflow correction preserves permissions and local model settings while distinguishing available search from unavailable extraction, limiting retries, and requiring cited normal-text results. Preserved activation failures and the separate unmodified finalization edge remain explicit. [Evidence and limits](case-studies/research-capability-completion.md).
+
+
+- [Bounded desktop connection recovery](case-studies/desktop-connection-recovery.md): serialized ownership checks and measured recovery without restarting the app.

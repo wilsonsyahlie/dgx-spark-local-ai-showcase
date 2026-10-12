@@ -2666,3 +2666,8 @@ Restored a retained local model through unchanged safeguards and qualified compa
 ## 2026-10-12 — Capability-aware research completion
 
 A researcher-only workflow correction preserves permissions and local model settings while distinguishing available search from unavailable extraction, limiting retries, and requiring cited normal-text results. Preserved activation failures and the separate unmodified finalization edge remain explicit. [Evidence and limits](case-studies/research-capability-completion.md).
+
+
+### 2026-10-12 — Bounded desktop connection recovery
+
+Added approved user-session recovery for a missing private transport. Controlled recovery preserved the app and completed in about fourteen seconds; physical wake and sustained outages remain untested. See [the retrospective](case-studies/desktop-connection-recovery.md).

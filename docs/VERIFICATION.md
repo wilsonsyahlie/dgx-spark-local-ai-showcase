@@ -1261,3 +1261,8 @@ Supported restoration retained exact model identity and guards. One completed re
 ## 2026-10-12 — Capability-aware research completion
 
 A researcher-only workflow correction preserves permissions and local model settings while distinguishing available search from unavailable extraction, limiting retries, and requiring cited normal-text results. Preserved activation failures and the separate unmodified finalization edge remain explicit. [Evidence and limits](case-studies/research-capability-completion.md).
+
+
+### Desktop connection recovery
+
+Eleven guard cases, simulated bounded failure retries, native concurrent launches, lock contention, watcher restart and one controlled owned-transport loss passed. Existing app and network helper survived with renewed connectivity and forwarded health. Physical wake, network switching, next login, sustained outage and owner-visible UI acceptance remain untested. [Evidence scope](case-studies/desktop-connection-recovery.md).
