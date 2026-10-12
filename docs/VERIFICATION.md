@@ -1281,3 +1281,6 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 ### Failure-evidence diagnostic qualification
 
 Nine observer lifecycle regressions and a short live attachment passed; five guard entries and returns paired. No permanent guard correction or historical causal reproduction passed. [Evidence boundary](case-studies/failure-evidence-before-guard-changes.md).
+
+
+Limit/reset capture qualification: twelve probes attached, six guard calls paired and cleanup completed. Natural write attribution is NOT TESTED; the interrupted predecessor had one pending read. Neither segment establishes permanent repair. [Limits](case-studies/failure-evidence-before-guard-changes.md#closing-the-limit-transition-and-peak-reset-evidence-gap).

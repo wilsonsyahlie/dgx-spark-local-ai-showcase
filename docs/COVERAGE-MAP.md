@@ -11,3 +11,6 @@ Functional artifacts, routing/history preservation, live role turns, tool result
 
 
 - Finite diagnostic lifecycle, rejected guard-filter hypothesis and explicit unfinished repair: [failure-evidence record](case-studies/failure-evidence-before-guard-changes.md).
+
+
+- Limit-transition/descriptor-reset observation, explicit interrupted-read and gap coverage: [diagnostic follow-up](case-studies/failure-evidence-before-guard-changes.md#closing-the-limit-transition-and-peak-reset-evidence-gap).

@@ -11,3 +11,12 @@ A finite read-only observer was qualified to capture actual guard reads and attr
 ## Evidence limits and prevention
 
 The historical cause and permanent repair remain unproven. Clean requests do not replace a reproduced failure. Identity polling is not atomic proof, rate-limited details require retained aggregates, and missing or truncated terminal evidence is inconclusive. The prevention rule is to preserve attributable failure evidence before changing a safety decision, and to report restoration, diagnostic qualification and permanent repair as separate outcomes.
+
+
+## Closing the limit-transition and peak-reset evidence gap
+
+A renewed review identified two specific missing observations: attempted limit changes and per-descriptor peak resets. The finite diagnostic was extended to pair those write entries and returns, distinguish success from failure, and keep descriptor peak state separate from global and local watermarks. It collects no write buffers. Missing attribution, incomplete pairs and suppressed details remain explicit.
+
+Qualification attached twelve probes and observed six paired ordinary guard reads, with clean detachment. No natural writes occurred, so write attribution remains unexercised rather than passed. The earlier observer ended deliberately with one pending read; that segment has incomplete coverage. The replacement preserves the original observation deadline and records a discontinuity instead of silently restarting a fresh window.
+
+The historical cause and permanent repair remain unproven. This closes a diagnostic design gap, without validating a counter classifier or weakening the production guard.

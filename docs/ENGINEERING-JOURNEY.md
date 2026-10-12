@@ -2686,3 +2686,8 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 ### 2026-10-12 — Qualifying failure evidence before guard changes
 
 Independent review rejected an unproven counter filter and qualified finite diagnostic lifecycle controls. Historical cause and permanent repair remain unfinished. [Evidence and limits](case-studies/failure-evidence-before-guard-changes.md).
+
+
+### 2026-10-12 — Explicit limit/reset capture and discontinuous evidence
+
+Extended the finite diagnosis to distinguish successful limit writes and descriptor peak resets. Qualification had no natural write; interrupted capture and the observation gap remain explicit. [Unfinished repair evidence](case-studies/failure-evidence-before-guard-changes.md#closing-the-limit-transition-and-peak-reset-evidence-gap).
