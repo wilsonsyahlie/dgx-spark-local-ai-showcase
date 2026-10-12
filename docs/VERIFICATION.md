@@ -1252,3 +1252,8 @@ Focused publication checks, actual bundle/browser sandbox checks, live animation
 ## Creator-owned motion qualification — 2026-10-11
 
 Rendering alone did not establish wheel or pedaling correctness. Creator checks passed 88 geometry and 40 motion assertions; independent browser qualification passed 74 phases and 3,700 overlapping support samples. A known-bad predecessor failed the same support validator. Exact published bytes, repeated controls, narrow-screen layout, emulated touch and refresh passed. Individual labels require complete capture coverage; physical devices, failure recovery and artistic parity remain unqualified. [Methods, failed assumptions and limits](case-studies/creator-owned-motion-qualification.md).
+
+
+## Guarded recovery and native telemetry — 2026-10-12
+
+Supported restoration retained exact model identity and guards. One completed request matched native counter deltas, two natural scrapes advanced, and authenticated panel data and actual desktop/narrow views showed activity. Separate histogram quantiles and unavailable metrics preserve semantics. The original and current dashboards reproduced the same console error; zero-console-error remains failed. Range navigation does not prove returned bounds. [Detailed evidence and limits](case-studies/guarded-recovery-native-telemetry.md).

@@ -2657,3 +2657,8 @@ A creator-owned renderer repair, bounded static publication, native creator link
 ## 2026-10-11 — Creator-owned motion repair beyond a clean render
 
 The local creator repaired wheel and pedaling mechanics while independent inspection checked actual uploaded geometry, overlapping support faces and the exact published artifact. Failed harness assumptions and bounded visual/device limits remain explicit. [Evidence and lessons](case-studies/creator-owned-motion-qualification.md).
+
+
+## 2026-10-12 — Guarded recovery and native telemetry
+
+Restored a retained local model through unchanged safeguards and qualified compatible metrics from completed requests through natural collection to actual dashboard views. Pre-existing frontend errors and recurrence limits remain explicit. [Evidence and limits](case-studies/guarded-recovery-native-telemetry.md).
