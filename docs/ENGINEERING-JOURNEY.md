@@ -2662,3 +2662,7 @@ The local creator repaired wheel and pedaling mechanics while independent inspec
 ## 2026-10-12 — Guarded recovery and native telemetry
 
 Restored a retained local model through unchanged safeguards and qualified compatible metrics from completed requests through natural collection to actual dashboard views. Pre-existing frontend errors and recurrence limits remain explicit. [Evidence and limits](case-studies/guarded-recovery-native-telemetry.md).
+
+## 2026-10-12 — Capability-aware research completion
+
+A researcher-only workflow correction preserves permissions and local model settings while distinguishing available search from unavailable extraction, limiting retries, and requiring cited normal-text results. Preserved activation failures and the separate unmodified finalization edge remain explicit. [Evidence and limits](case-studies/research-capability-completion.md).

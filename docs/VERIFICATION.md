@@ -1257,3 +1257,7 @@ Rendering alone did not establish wheel or pedaling correctness. Creator checks 
 ## Guarded recovery and native telemetry — 2026-10-12
 
 Supported restoration retained exact model identity and guards. One completed request matched native counter deltas, two natural scrapes advanced, and authenticated panel data and actual desktop/narrow views showed activity. Separate histogram quantiles and unavailable metrics preserve semantics. The original and current dashboards reproduced the same console error; zero-console-error remains failed. Range navigation does not prove returned bounds. [Detailed evidence and limits](case-studies/guarded-recovery-native-telemetry.md).
+
+## 2026-10-12 — Capability-aware research completion
+
+A researcher-only workflow correction preserves permissions and local model settings while distinguishing available search from unavailable extraction, limiting retries, and requiring cited normal-text results. Preserved activation failures and the separate unmodified finalization edge remain explicit. [Evidence and limits](case-studies/research-capability-completion.md).

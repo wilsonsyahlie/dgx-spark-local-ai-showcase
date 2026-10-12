@@ -1113,3 +1113,7 @@ A retrospective on failures a health check could not see, and a repair that need
 - [Creator-owned motion repair and actual support qualification](case-studies/creator-owned-motion-qualification.md): preserve implementation ownership, reject false contact and separate complete capture coverage from individual PASS labels.
 
 - [Guarded recovery and native telemetry qualification](case-studies/guarded-recovery-native-telemetry.md): separate backend readiness from panel selectors, preserve guard authority and record browser failures honestly.
+
+## 2026-10-12 — Capability-aware research completion
+
+A researcher-only workflow correction preserves permissions and local model settings while distinguishing available search from unavailable extraction, limiting retries, and requiring cited normal-text results. Preserved activation failures and the separate unmodified finalization edge remain explicit. [Evidence and limits](case-studies/research-capability-completion.md).
