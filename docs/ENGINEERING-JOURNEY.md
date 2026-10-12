@@ -2676,3 +2676,8 @@ Added approved user-session recovery for a missing private transport. Controlled
 ### 2026-10-12 — Owner-requested coding-turn cap removal
 
 Removed an explicit coding-worker iteration cap through supported configuration. Real-loop deterministic controls verified continuation and interruption while existing settings and history stayed intact. [Evidence and limits](case-studies/coding-turn-cap-removal.md).
+
+
+## 2026-10-12 — Backup-filesystem warning and connection recovery
+
+A narrow warning classifier plus independent TCP-listener corroboration repairs the existing recovery path without dropping ownership checks. Unknown or conflicting inspection results still fail closed. Independent review corrected a native dual-stack parser omission before activation. [Engineering record](case-studies/backup-warning-reconnection.md).

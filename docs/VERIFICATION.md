@@ -1271,3 +1271,8 @@ Eleven guard cases, simulated bounded failure retries, native concurrent launche
 ### Coding-turn cap removal
 
 Installed factory/shared-budget checks, deterministic real-loop continuation, former-cap control, interruption and a fresh native local reply passed. Existing messages and other settings were preserved. Sustained real-model continuation, physical-client acceptance and reboot remain untested. [Bounded evidence](case-studies/coding-turn-cap-removal.md).
+
+
+## 2026-10-12 — Backup-filesystem warning and connection recovery
+
+A narrow warning classifier plus independent TCP-listener corroboration repairs the existing recovery path without dropping ownership checks. Unknown or conflicting inspection results still fail closed. Independent review corrected a native dual-stack parser omission before activation. [Engineering record](case-studies/backup-warning-reconnection.md).

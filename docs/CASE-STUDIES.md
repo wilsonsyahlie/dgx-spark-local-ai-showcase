@@ -1123,3 +1123,8 @@ A researcher-only workflow correction preserves permissions and local model sett
 
 
 - [Removing an explicit coding-turn cap](case-studies/coding-turn-cap-removal.md): supported unlimited configuration, shared-budget proof and interruption controls.
+
+
+## 2026-10-12 — Backup-filesystem warning and connection recovery
+
+A narrow warning classifier plus independent TCP-listener corroboration repairs the existing recovery path without dropping ownership checks. Unknown or conflicting inspection results still fail closed. Independent review corrected a native dual-stack parser omission before activation. [Engineering record](case-studies/backup-warning-reconnection.md).
