@@ -1276,3 +1276,8 @@ Installed factory/shared-budget checks, deterministic real-loop continuation, fo
 ## 2026-10-12 — Backup-filesystem warning and connection recovery
 
 A narrow warning classifier plus independent TCP-listener corroboration repairs the existing recovery path without dropping ownership checks. Unknown or conflicting inspection results still fail closed. Independent review corrected a native dual-stack parser omission before activation. [Engineering record](case-studies/backup-warning-reconnection.md).
+
+
+### Failure-evidence diagnostic qualification
+
+Nine observer lifecycle regressions and a short live attachment passed; five guard entries and returns paired. No permanent guard correction or historical causal reproduction passed. [Evidence boundary](case-studies/failure-evidence-before-guard-changes.md).
