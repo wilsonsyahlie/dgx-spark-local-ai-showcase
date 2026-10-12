@@ -20,3 +20,10 @@ A renewed review identified two specific missing observations: attempted limit c
 Qualification attached twelve probes and observed six paired ordinary guard reads, with clean detachment. No natural writes occurred, so write attribution remains unexercised rather than passed. The earlier observer ended deliberately with one pending read; that segment has incomplete coverage. The replacement preserves the original observation deadline and records a discontinuity instead of silently restarting a fresh window.
 
 The historical cause and permanent repair remain unproven. This closes a diagnostic design gap, without validating a counter classifier or weakening the production guard.
+
+
+### Worker-owned circular-motion creation verified
+
+The local worker completed an interrupted circular-motion creation and published its own preview. Read-only review identified a mismatched coordinate/color index and a tile-placement convention; supported non-interrupting guidance let the worker apply the fixes. Existing negative controls remained intact. Retained tool results showed a clean smoke run, 100 geometry checks and 41 motion checks; independent served-content readback and a real browser confirmed load, animation, pause/resume, refresh recovery and phone-width layout. Tangent-facing motion and inverse pose were checked across a full lap. Existing conversation rows were preserved field for field.
+
+A preliminary browser assertion used a convention mismatch at an insufficient sample; its evidence was preserved and the corrected actual-matrix check covered the full lap. A separate worker diagnostic timed out awaiting manual approval; that blocked command was neither retried nor bypassed, and approval settings stayed unchanged. Physical-device acceptance and exhaustive visual quality remain untested. This creative outcome does not establish the cause of the recurring backend shutdown or prove a permanent backend repair. Rollback retains the protected predecessor and conversation snapshots without automatic restore or task replay.

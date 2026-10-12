@@ -14,3 +14,8 @@ Functional artifacts, routing/history preservation, live role turns, tool result
 
 
 - Limit-transition/descriptor-reset observation, explicit interrupted-read and gap coverage: [diagnostic follow-up](case-studies/failure-evidence-before-guard-changes.md#closing-the-limit-transition-and-peak-reset-evidence-gap).
+
+
+### Circular creation evidence checkpoint
+
+A local worker completed and published a circular-motion creation after read-only review guidance. Actual harness results and independent browser/readback checks verified the bounded outcome; existing conversations were preserved. A blocked approval attempt and a corrected preliminary verification mistake remain explicit. Physical-device acceptance is untested, and the recurring backend repair remains unproven. See [the failure-evidence case study](case-studies/failure-evidence-before-guard-changes.md).
