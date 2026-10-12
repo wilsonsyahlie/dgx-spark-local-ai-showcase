@@ -1266,3 +1266,8 @@ A researcher-only workflow correction preserves permissions and local model sett
 ### Desktop connection recovery
 
 Eleven guard cases, simulated bounded failure retries, native concurrent launches, lock contention, watcher restart and one controlled owned-transport loss passed. Existing app and network helper survived with renewed connectivity and forwarded health. Physical wake, network switching, next login, sustained outage and owner-visible UI acceptance remain untested. [Evidence scope](case-studies/desktop-connection-recovery.md).
+
+
+### Coding-turn cap removal
+
+Installed factory/shared-budget checks, deterministic real-loop continuation, former-cap control, interruption and a fresh native local reply passed. Existing messages and other settings were preserved. Sustained real-model continuation, physical-client acceptance and reboot remain untested. [Bounded evidence](case-studies/coding-turn-cap-removal.md).

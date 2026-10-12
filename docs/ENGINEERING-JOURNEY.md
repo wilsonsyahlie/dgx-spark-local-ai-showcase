@@ -2671,3 +2671,8 @@ A researcher-only workflow correction preserves permissions and local model sett
 ### 2026-10-12 — Bounded desktop connection recovery
 
 Added approved user-session recovery for a missing private transport. Controlled recovery preserved the app and completed in about fourteen seconds; physical wake and sustained outages remain untested. See [the retrospective](case-studies/desktop-connection-recovery.md).
+
+
+### 2026-10-12 — Owner-requested coding-turn cap removal
+
+Removed an explicit coding-worker iteration cap through supported configuration. Real-loop deterministic controls verified continuation and interruption while existing settings and history stayed intact. [Evidence and limits](case-studies/coding-turn-cap-removal.md).

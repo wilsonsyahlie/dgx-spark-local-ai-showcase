@@ -1120,3 +1120,6 @@ A researcher-only workflow correction preserves permissions and local model sett
 
 
 - [Bounded desktop connection recovery](case-studies/desktop-connection-recovery.md): serialized ownership checks and measured recovery without restarting the app.
+
+
+- [Removing an explicit coding-turn cap](case-studies/coding-turn-cap-removal.md): supported unlimited configuration, shared-budget proof and interruption controls.
