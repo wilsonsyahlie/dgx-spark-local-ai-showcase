@@ -1289,3 +1289,8 @@ Limit/reset capture qualification: twelve probes attached, six guard calls paire
 ### Circular creation evidence checkpoint
 
 A local worker completed and published a circular-motion creation after read-only review guidance. Actual harness results and independent browser/readback checks verified the bounded outcome; existing conversations were preserved. A blocked approval attempt and a corrected preliminary verification mistake remain explicit. Physical-device acceptance is untested, and the recurring backend repair remains unproven. See [the failure-evidence case study](case-studies/failure-evidence-before-guard-changes.md).
+
+
+### Spherical-world correction verification
+
+Retained worker tests and independently verified served content, real browser motion/controls, refresh, confirmed portrait dimensions and nonempty rider projections support the bounded spherical-world result. Sampled emitted surfaces and intended-reason negative controls replaced weak helper-only checks. Exact collision, exhaustive coverage, physical-device acceptance and reference equality are not established. Conversation content preservation is distinguished from native compaction metadata. The historical backend repair remains unproven. [Evidence and superseded planar scope](case-studies/failure-evidence-before-guard-changes.md#clarified-spherical-world-acceptance).

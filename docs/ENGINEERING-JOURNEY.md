@@ -2696,3 +2696,8 @@ Extended the finite diagnosis to distinguish successful limit writes and descrip
 ### Circular creation evidence checkpoint
 
 A local worker completed and published a circular-motion creation after read-only review guidance. Actual harness results and independent browser/readback checks verified the bounded outcome; existing conversations were preserved. A blocked approval attempt and a corrected preliminary verification mistake remain explicit. Physical-device acceptance is untested, and the recurring backend repair remains unproven. See [the failure-evidence case study](case-studies/failure-evidence-before-guard-changes.md).
+
+
+### 2026-10-13 — Corrected spherical-world acceptance
+
+The owner clarified a spherical world rather than a planar circular path. The local worker's published successor passed bounded emitted-geometry and real-browser verification; framing and negative-control failures were retained and corrected. Physical-device/reference equality and permanent backend repair remain unverified. See [the retrospective evidence](case-studies/failure-evidence-before-guard-changes.md#clarified-spherical-world-acceptance).

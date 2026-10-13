@@ -27,3 +27,16 @@ The historical cause and permanent repair remain unproven. This closes a diagnos
 The local worker completed an interrupted circular-motion creation and published its own preview. Read-only review identified a mismatched coordinate/color index and a tile-placement convention; supported non-interrupting guidance let the worker apply the fixes. Existing negative controls remained intact. Retained tool results showed a clean smoke run, 100 geometry checks and 41 motion checks; independent served-content readback and a real browser confirmed load, animation, pause/resume, refresh recovery and phone-width layout. Tangent-facing motion and inverse pose were checked across a full lap. Existing conversation rows were preserved field for field.
 
 A preliminary browser assertion used a convention mismatch at an insufficient sample; its evidence was preserved and the corrected actual-matrix check covered the full lap. A separate worker diagnostic timed out awaiting manual approval; that blocked command was neither retried nor bypassed, and approval settings stayed unchanged. Physical-device acceptance and exhaustive visual quality remain untested. This creative outcome does not establish the cause of the recurring backend shutdown or prove a permanent backend repair. Rollback retains the protected predecessor and conversation snapshots without automatic restore or task replay.
+
+
+### Clarified spherical-world acceptance
+
+A previously verified circular path did not satisfy the owner's intended small spherical world. The earlier checks remain historical evidence for their bounded scope. The local worker produced the corrected successor; supervision provided measured review feedback and independent verification, preserving worker authorship.
+
+Rendered evidence caught malformed coordinate frames, sphere normalization and camera framing. Geometry checks also exposed a vertex-count error, an invalid opposite-side coverage test and a grid workaround that created a seam. The worker corrected these without hiding failures or relaxing tolerances. A final follow-up fixed cropped framing and made negative controls reject the intended failure reason. Empty or stale verification samples were excluded and replaced with actual nonempty draw evidence.
+
+The final served artifact matched its verified content. Retained tests and independent browser observations covered spherical motion, orientation, sampled road coverage, animation controls, reset, refresh and portrait framing. Contact remains approximate and includes slight overlap; exact collision and exhaustive surface proof are not claimed. Stored conversation content was preserved while native context-compaction metadata changed explicitly.
+
+Physical-device acceptance and visual equality with the referenced demonstration remain untested. This is a retrospective verification story, not deployment guidance or a permanent backend-reliability claim. No model or safety-policy change was part of this creative correction. Protected predecessors remain available for controlled rollback.
+
+Prevention: clarify intended geometry, test actual emitted surfaces with meaningful negative controls, and inspect the published view after the final camera change.
