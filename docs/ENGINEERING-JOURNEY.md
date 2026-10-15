@@ -2726,3 +2726,8 @@ A bounded cache-reclaim control restored substantial immediately free memory whi
 ### 2026-10-15 — Respect the live allocation decision
 
 A reproduced lone-request cache-growth bypass was corrected and activated, with focused, scheduler and installed-artifact checks. Historical shutdown attribution and bounded creative-task acceptance remain separate. [Evidence and limits](case-studies/refused-allocation-boundary.md).
+
+
+### 2026-10-15 — Test focused repair instructions
+
+Read-only discovery separated an available editing tool from restrictive task wording. A bounded synthetic repair comparison evaluates additional guidance without changing production defaults. [Evidence and limits](case-studies/focused-repair-briefs.md).
