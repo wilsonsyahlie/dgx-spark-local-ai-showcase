@@ -2701,3 +2701,8 @@ A local worker completed and published a circular-motion creation after read-onl
 ### 2026-10-13 — Corrected spherical-world acceptance
 
 The owner clarified a spherical world rather than a planar circular path. The local worker's published successor passed bounded emitted-geometry and real-browser verification; framing and negative-control failures were retained and corrected. Physical-device/reference equality and permanent backend repair remain unverified. See [the retrospective evidence](case-studies/failure-evidence-before-guard-changes.md#clarified-spherical-world-acceptance).
+
+
+### 2026-10-15 — Qualifying a sparse-table paging correction
+
+A narrow loader inconsistency was reproduced with identical data and real mapping flags. A cold small-file comparison reduced resident pages from288to9for the same nine requested pages. The result is limited to that fixture; broader reliability acceptance remains separate. See [the measured paging record](case-studies/failure-evidence-before-guard-changes.md#a-sparse-mapping-paging-correction).

@@ -1294,3 +1294,11 @@ A local worker completed and published a circular-motion creation after read-onl
 ### Spherical-world correction verification
 
 Retained worker tests and independently verified served content, real browser motion/controls, refresh, confirmed portrait dimensions and nonempty rider projections support the bounded spherical-world result. Sampled emitted surfaces and intended-reason negative controls replaced weak helper-only checks. Exact collision, exhaustive coverage, physical-device acceptance and reference equality are not established. Conversation content preservation is distinguished from native compaction metadata. The historical backend repair remains unproven. [Evidence and superseded planar scope](case-studies/failure-evidence-before-guard-changes.md#clarified-spherical-world-acceptance).
+
+
+### 2026-10-15 — Sparse-mapping qualification
+
+Thirty functional and mapping checks passed for each implementation, with a further installed-artifact check. A single predeclared cold-file comparison retained the raw page counts, equal bytes and actual advice flags. The tiny-fixture paging result does not establish a whole-model memory or speed gain; sustained task completion and historical failure attribution remain separately evaluated. [Evidence boundaries](case-studies/failure-evidence-before-guard-changes.md#a-sparse-mapping-paging-correction).
+
+
+The retained correction completed one bounded native task over seventeen model calls. The worker ran fifteen tests; fourteen independent CLI checks passed against the actual generated artifact. Exact task settlement, idle backend state and preservation of prior message content were checked separately. Two workspace corrections were needed, so this was an assisted completion rather than an unchanged matched workload or a speed comparison. A privilege probe expired without a grant and a deletion request was denied; existing staging artifacts were retained. The task supports bounded reliability only, while historical shutdown attribution and universal stability remain unproven. The diagnostic observation ended deliberately with one unmatched final read; no full pairing or causal coverage is claimed.

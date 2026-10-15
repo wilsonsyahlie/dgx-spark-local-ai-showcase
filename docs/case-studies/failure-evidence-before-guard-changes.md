@@ -40,3 +40,17 @@ The final served artifact matched its verified content. Retained tests and indep
 Physical-device acceptance and visual equality with the referenced demonstration remain untested. This is a retrospective verification story, not deployment guidance or a permanent backend-reliability claim. No model or safety-policy change was part of this creative correction. Protected predecessors remain available for controlled rollback.
 
 Prevention: clarify intended geometry, test actual emitted surfaces with meaningful negative controls, and inspect the published view after the final camera change.
+
+
+### A sparse-mapping paging correction
+
+A reliability investigation exposed a separate, reproducible loader inconsistency: one packed-table path omitted the random-read advice already used by its neighboring loader. The correction applies that existing advice to the byte mappings used for sparse gathers. It preserves the requested rows and their exact bytes.
+
+The original and corrected installed implementations each passed thirty mapped-file checks, covering repeated and boundary rows, consolidated and split shards, empty selections, invalid indices, and the actual operating-system mapping flags. Unsupported advice remains explicitly best effort; a successful data test is not proof the advice applied.
+
+One predeclared cold-file experiment then requested nine pages from each of two independent small fixture files. Both began with zero resident pages. The original mapping left 288 pages resident; the corrected mapping left nine, with identical gathered bytes. This is a thirty-two-fold reduction in that fixture's resident-page footprint. It is not a whole-model memory ratio, a throughput result, or proof of the initiating shutdown cause. Cache preparation affected only the newly created fixture files.
+
+Artifact verification checked the effective module and mapping behavior, rather than treating an unchanged base image as proof of unchanged program bytes. Earlier failed reliability observations remain failures. Broader sustained-workload acceptance and causal shutdown repair remain separate requirements; the fixture result alone cannot close them.
+
+
+The retained correction completed one bounded native task over seventeen model calls. The worker ran fifteen tests; fourteen independent CLI checks passed against the actual generated artifact. Exact task settlement, idle backend state and preservation of prior message content were checked separately. Two workspace corrections were needed, so this was an assisted completion rather than an unchanged matched workload or a speed comparison. A privilege probe expired without a grant and a deletion request was denied; existing staging artifacts were retained. The task supports bounded reliability only, while historical shutdown attribution and universal stability remain unproven. The diagnostic observation ended deliberately with one unmatched final read; no full pairing or causal coverage is claimed.
