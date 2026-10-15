@@ -2721,3 +2721,8 @@ A bounded coding rebuild stopped at a retained protection boundary before produc
 ### 2026-10-15 — Separate recovered headroom from permanent repair
 
 A bounded cache-reclaim control restored substantial immediately free memory while retaining the running backend and existing protections. The historical failure remains unattributed; the recovery record preserves that distinction and the fresh-task validation boundary. [Evidence and limits](case-studies/bounded-cache-recovery.md).
+
+
+### 2026-10-15 — Respect the live allocation decision
+
+A reproduced lone-request cache-growth bypass was corrected and activated, with focused, scheduler and installed-artifact checks. Historical shutdown attribution and bounded creative-task acceptance remain separate. [Evidence and limits](case-studies/refused-allocation-boundary.md).
