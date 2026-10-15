@@ -2716,3 +2716,8 @@ A routine-task comparison checked the actual request control and installed think
 ### 2026-10-15 — An interrupted performance comparison
 
 A bounded coding rebuild stopped at a retained protection boundary before producing an implementation. Preserved source state, negative controls and explicit non-results prevented an unsupported speed claim. [Retrospective](case-studies/context-comparison-stopped-by-guard.md).
+
+
+### 2026-10-15 — Separate recovered headroom from permanent repair
+
+A bounded cache-reclaim control restored substantial immediately free memory while retaining the running backend and existing protections. The historical failure remains unattributed; the recovery record preserves that distinction and the fresh-task validation boundary. [Evidence and limits](case-studies/bounded-cache-recovery.md).

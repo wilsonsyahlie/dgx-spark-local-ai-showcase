@@ -1317,3 +1317,10 @@ This single pair does not prove a general slowdown or identify the cause. Output
 ## Incomplete context comparison
 
 The first attempt failed without a new implementation; the second stayed unrun. History/request-construction controls and a real no-op reset negative test qualified specific boundaries, not task success. Visual acceptance, comparative timing and an underlying repair were not established. [Evidence limits](case-studies/context-comparison-stopped-by-guard.md).
+
+
+## 2026-10-15 — Bounded cache recovery
+
+One independently reviewed, identity-pinned cache-reclaim request completed without retry. Before/after memory movement and positive writer closure were checked; the unchanged backend remained healthy and idle, with no owned swap. Identity-control and exact task-deadline tests passed. Shared cache ownership, possible refault costs, sequential sampling and unresolved historical causality remain explicit. This is manual mitigation evidence, not permanent shutdown prevention or a speed result. The fresh useful-work outcome requires separate artifact and browser evidence. [Recovery record](case-studies/bounded-cache-recovery.md).
+
+Fresh-task result: deadline interruption with positive settlement; backend remained healthy, but generated output failed independent desktop/narrow-screen visual review and was not accepted or published as a completed artifact. The attempt required a preservation-only reminder. Sampled uncertainty and retrospective backup limits remain explicit. No permanent-repair or performance-gain claim follows.
