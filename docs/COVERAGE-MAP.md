@@ -22,3 +22,8 @@ A local worker completed and published a circular-motion creation after read-onl
 
 
 Spherical-world acceptance adds sampled emitted-surface coverage, intended-reason failure controls and published desktop/portrait framing evidence to [the existing failure-evidence case study](case-studies/failure-evidence-before-guard-changes.md#clarified-spherical-world-acceptance). It does not add exact collision, physical-device or permanent backend-repair coverage.
+
+
+### Consecutive local edits — 2026-10-15
+
+Covered: durable predecessor capture, actual metadata, consecutive serialized edits, backup/post-write failures, built artifact and native application path, state preservation and natural suppressed delivery. Unqualified: terminal/move/delete protection, unrelated writer conflict merging, physical client/platform acceptance, long-duration and general speed gains. Historical timing-cache protection gap retained. [Case study](case-studies/durable-local-edits.md).

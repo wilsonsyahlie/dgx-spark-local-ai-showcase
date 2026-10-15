@@ -1128,3 +1128,6 @@ A researcher-only workflow correction preserves permissions and local model sett
 ## 2026-10-12 — Backup-filesystem warning and connection recovery
 
 A narrow warning classifier plus independent TCP-listener corroboration repairs the existing recovery path without dropping ownership checks. Unknown or conflicting inspection results still fail closed. Independent review corrected a native dual-stack parser omission before activation. [Engineering record](case-studies/backup-warning-reconnection.md).
+
+
+- [Durable predecessors for consecutive local edits](case-studies/durable-local-edits.md): enforce per-write recoverability and verify the actual application path.

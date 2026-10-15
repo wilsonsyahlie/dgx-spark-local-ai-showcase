@@ -284,3 +284,8 @@ A service-local monotonic timer measures readiness and native request completion
 
 ### Retrospective: publishing generated browser artifacts
 Explicit static bundles, separate accepted snapshots, typed generation parameters and native role guidance formed a bounded creation-to-preview workflow. This case describes the design and evidence, not a deployment topology. [Preview qualification](case-studies/playable-preview-generation-defaults.md).
+
+
+### Retrospective: durable local edit boundary
+
+The edit-protection case placed predecessor capture inside the supported local write path, then propagated receipts through result conversion. Scope and identity checks, durable capture and truthful post-write errors formed one acceptance boundary. This abstract pattern and its exclusions are documented in [the case study](case-studies/durable-local-edits.md).

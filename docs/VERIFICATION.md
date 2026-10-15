@@ -1336,3 +1336,20 @@ Final creative acceptance: the separately reviewed small follow-up completed in 
 ## October 15 focused repair brief comparison
 
 The comparison reuses the same fourteen-case checker and fixed native supervision, with identical source, preservation requirements and worker settings. Frozen deadlines, exact artifact binding and failed outcomes remain explicit. No global instruction promotion or general speed claim is qualified. [Retrospective](case-studies/focused-repair-briefs.md).
+
+
+### 2026-10-15 — Consecutive local edit protection
+
+| Requirement | Observed evidence | Result |
+|---|---|---|
+| Reproduce missing intermediate backup | Both prior workers made two writes with one initial backup | Reproduced; prior comparison remains rejected |
+| Focused, serialized and existing behavior | 196 host checks; four explicit platform skips | Passed within tested platform |
+| Built artifact | 39 installed checks, exact source/metadata, fixed-boundary consecutive edits | Passed |
+| Activated native task | Two actual patch calls, distinct raw predecessors/receipts, actual ownership/mode and final bytes | Passed |
+| Restart and existing entrypoint | Unsent setup failure retained; separately reviewed unchanged entrypoint start; positive/negative authentication | Passed after correction |
+| Preserve existing state | All old conversation rows/columns and profile files unchanged; one new owned session attributed | Passed |
+| Natural scheduling | Post-restart completion, durable suppressed receipt, zero send attempts, future next run | Passed |
+| Known limits | Terminal/move/delete, unrelated writer conflicts, physical client/platform acceptance, duration and speed | Unqualified |
+| Historical protection gap | Earlier timing-cache predecessor not backed up; later runs protected | Unrecoverable gap disclosed |
+
+See [durable predecessors](case-studies/durable-local-edits.md). Publication is a sanitized engineering record, separate from production activation.

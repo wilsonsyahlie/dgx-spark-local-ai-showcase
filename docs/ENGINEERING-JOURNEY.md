@@ -2731,3 +2731,8 @@ A reproduced lone-request cache-growth bypass was corrected and activated, with 
 ### 2026-10-15 — Test focused repair instructions
 
 Read-only discovery separated an available editing tool from restrictive task wording. A bounded synthetic repair comparison evaluates additional guidance without changing production defaults. [Evidence and limits](case-studies/focused-repair-briefs.md).
+
+
+### 2026-10-15 — Protect every supported local edit
+
+A measured missing intermediate-backup failure led to a structural local write-boundary correction. Built-artifact and native consecutive-edit checks passed; a missed independently supervised entrypoint was re-established after an unsent acceptance failure. Existing state and natural suppressed scheduling were verified. No general speed gain is claimed. [Evidence and limits](case-studies/durable-local-edits.md).
