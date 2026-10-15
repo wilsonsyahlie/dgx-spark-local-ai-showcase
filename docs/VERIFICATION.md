@@ -1312,3 +1312,8 @@ The experiment bound supported request controls, installed budget behavior, four
 The pair did not qualify. The current setting completed in244.88seconds; the budgeted setting took257.95seconds, about5.34percent longer. Both passed the same fourteen independent cases. Their self-generated suites recovered from a duplicate-argument helper error and an incorrect expected interval total, respectively, then passed twenty-two and twenty-eight tests. Those failures and repairs remain part of the elapsed times; no replacement run or assistance was supplied. Normal defaults were retained.
 
 This single pair does not prove a general slowdown or identify the cause. Output choices, self-generated tests, order and retained cache state remain limits. Exact task settlement, unchanged prior messages/configuration and the live serving artifact were verified separately. Durable pre-edit backup coverage for every worker self-rewrite was not established; transient preview snapshots were not accepted as proof. The rejected comparison and this audit limit remain explicit rather than being repaired retrospectively by replay.
+
+
+## Incomplete context comparison
+
+The first attempt failed without a new implementation; the second stayed unrun. History/request-construction controls and a real no-op reset negative test qualified specific boundaries, not task success. Visual acceptance, comparative timing and an underlying repair were not established. [Evidence limits](case-studies/context-comparison-stopped-by-guard.md).

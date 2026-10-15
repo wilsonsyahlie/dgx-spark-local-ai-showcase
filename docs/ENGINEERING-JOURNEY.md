@@ -2711,3 +2711,8 @@ A narrow loader inconsistency was reproduced with identical data and real mappin
 ### 2026-10-15 — Bound reasoning before comparing task speed
 
 A routine-task comparison checked the actual request control and installed thinking-budget gate, preserving normal defaults and freezing artifact-bound grading. The retained result and its narrow interpretation are recorded in [the case study](case-studies/failure-evidence-before-guard-changes.md#a-bounded-thinking-budget-comparison).
+
+
+### 2026-10-15 — An interrupted performance comparison
+
+A bounded coding rebuild stopped at a retained protection boundary before producing an implementation. Preserved source state, negative controls and explicit non-results prevented an unsupported speed claim. [Retrospective](case-studies/context-comparison-stopped-by-guard.md).
