@@ -1302,3 +1302,13 @@ Thirty functional and mapping checks passed for each implementation, with a furt
 
 
 The retained correction completed one bounded native task over seventeen model calls. The worker ran fifteen tests; fourteen independent CLI checks passed against the actual generated artifact. Exact task settlement, idle backend state and preservation of prior message content were checked separately. Two workspace corrections were needed, so this was an assisted completion rather than an unchanged matched workload or a speed comparison. A privilege probe expired without a grant and a deletion request was denied; existing staging artifacts were retained. The task supports bounded reliability only, while historical shutdown attribution and universal stability remain unproven. The diagnostic observation ended deliberately with one unmatched final read; no full pairing or causal coverage is claimed.
+
+
+### Bounded reasoning comparison
+
+The experiment bound supported request controls, installed budget behavior, fourteen lifecycle checks and unchanged correctness cases before dispatch. A generic effort selector was not treated as effective merely because it parsed. [Boundaries and retained result](case-studies/failure-evidence-before-guard-changes.md#a-bounded-thinking-budget-comparison).
+
+
+The pair did not qualify. The current setting completed in244.88seconds; the budgeted setting took257.95seconds, about5.34percent longer. Both passed the same fourteen independent cases. Their self-generated suites recovered from a duplicate-argument helper error and an incorrect expected interval total, respectively, then passed twenty-two and twenty-eight tests. Those failures and repairs remain part of the elapsed times; no replacement run or assistance was supplied. Normal defaults were retained.
+
+This single pair does not prove a general slowdown or identify the cause. Output choices, self-generated tests, order and retained cache state remain limits. Exact task settlement, unchanged prior messages/configuration and the live serving artifact were verified separately. Durable pre-edit backup coverage for every worker self-rewrite was not established; transient preview snapshots were not accepted as proof. The rejected comparison and this audit limit remain explicit rather than being repaired retrospectively by replay.

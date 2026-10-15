@@ -2706,3 +2706,8 @@ The owner clarified a spherical world rather than a planar circular path. The lo
 ### 2026-10-15 — Qualifying a sparse-table paging correction
 
 A narrow loader inconsistency was reproduced with identical data and real mapping flags. A cold small-file comparison reduced resident pages from288to9for the same nine requested pages. The result is limited to that fixture; broader reliability acceptance remains separate. See [the measured paging record](case-studies/failure-evidence-before-guard-changes.md#a-sparse-mapping-paging-correction).
+
+
+### 2026-10-15 — Bound reasoning before comparing task speed
+
+A routine-task comparison checked the actual request control and installed thinking-budget gate, preserving normal defaults and freezing artifact-bound grading. The retained result and its narrow interpretation are recorded in [the case study](case-studies/failure-evidence-before-guard-changes.md#a-bounded-thinking-budget-comparison).
