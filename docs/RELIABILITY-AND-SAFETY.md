@@ -422,3 +422,8 @@ Mocked graphics checks cannot establish visual correctness. Independent review a
 ### Consecutive edits and restart completeness
 
 A per-turn backup does not protect every intermediate version. The consecutive-edit case verified distinct durable predecessors and retained receipts through post-write faults. It also required checking independently supervised application entrypoints after a main restart; the first unsent acceptance failure stayed visible. Terminal/move/delete coverage and a historical test-cache gap remain explicit. [Evidence and limits](case-studies/durable-local-edits.md).
+
+
+### 2026-10-17 — Failed qualification is a retained outcome
+
+The creative model experiment recorded a timed-out incumbent and a candidate that never reached readiness. A revised experimental resource policy was explicit; it did not rescore earlier failures. Focused negative controls, an isolated real cross-process accounting protocol and actual restoration evidence qualified the recovery-check repair. Existing message rows and profile settings were preserved. Comparative performance, full capacity and causal swap attribution remain unproven. [Case study](case-studies/creative-model-qualification.md).

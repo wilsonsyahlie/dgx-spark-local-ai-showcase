@@ -2736,3 +2736,8 @@ Read-only discovery separated an available editing tool from restrictive task wo
 ### 2026-10-15 — Protect every supported local edit
 
 A measured missing intermediate-backup failure led to a structural local write-boundary correction. Built-artifact and native consecutive-edit checks passed; a missed independently supervised entrypoint was re-established after an unsent acceptance failure. Existing state and natural suppressed scheduling were verified. No general speed gain is claimed. [Evidence and limits](case-studies/durable-local-edits.md).
+
+
+### 2026-10-17 — Keep failed model qualification separate from recovery
+
+A bounded creative comparison failed before candidate readiness. Task-only recovery checks were repaired and verified, while suitability and performance remained unproven. [Evidence and limits](case-studies/creative-model-qualification.md).

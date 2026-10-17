@@ -1131,3 +1131,6 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 
 
 - [Durable predecessors for consecutive local edits](case-studies/durable-local-edits.md): enforce per-write recoverability and verify the actual application path.
+
+
+- [Creative model qualification and recovery boundaries](case-studies/creative-model-qualification.md): preserve failed loading evidence, test real recovery authority and avoid unsupported performance claims.
