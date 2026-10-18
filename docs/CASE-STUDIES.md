@@ -1137,3 +1137,6 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 
 
 - [Evidence-based software inspection](case-studies/local-software-inspection.md): add a specialist analysis workflow and verify actual agent invocation without changing the reasoning model.
+
+
+- [What a local model trial actually proved](case-studies/fp4-trial-boundaries.md): separate useful coding results, stream settlement, resource-policy phases and assisted workflow acceptance.

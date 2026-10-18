@@ -2756,3 +2756,8 @@ The software-inspection extension became an investigation tab with retained prog
 ## 2026-10-18 — Guarded primary replacement and a failed visual result
 
 The replacement passed deployment and history-preservation checks, while independent coding and browser tests exposed real generated-output failures. A local image comparison correctly recognized the blank scene. See [the case study](case-studies/guarded-primary-evaluation.md). No overall performance gain was established.
+
+
+## October 2026 — Better code did not erase workflow failures
+
+A local trial improved one coding result, but its first creative attempt crossed an output-directory boundary. Resource-policy phases and final HTTP settlement also needed separate verification. The [retrospective](case-studies/fp4-trial-boundaries.md) preserves the distinction between useful gains, checker repairs and an assisted continuation; the assisted attempt timed out, its operator-published scene only partially matched the reference, and the owner chose the previous working model.
