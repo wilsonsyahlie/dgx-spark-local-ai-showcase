@@ -2765,3 +2765,7 @@ A local trial improved one coding result, but its first creative attempt crossed
 ## October 2026 — Correct a zero memory reading without touching inference
 
 A restored engine’s launch signature bypassed dashboard classification. Binding the native workload to actual owned process identity corrected the reading while preserving totals and the running model. [Retrospective](case-studies/native-workload-memory-attribution.md).
+
+## October 2026 — Separate image analysis and startup memory evidence
+
+A larger-candidate trial showed why available memory, model size and safe startup are different measurements. Its shutdown failure informed stricter emergency handling before completing scoped image integration. [Retrospective](case-studies/local-vision-companion.md).

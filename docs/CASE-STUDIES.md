@@ -1142,3 +1142,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [What a local model trial actually proved](case-studies/fp4-trial-boundaries.md): separate useful coding results, stream settlement, resource-policy phases and assisted workflow acceptance.
 
 - [Native workload memory attribution](case-studies/native-workload-memory-attribution.md): correct a zero reading through owned process identity, preserving allocation totals and the inference process.
+
+- [Local image companion and memory qualification](case-studies/local-vision-companion.md): separate image work, preserve failed experiments, and terminate resource breaches before optional diagnostics.
