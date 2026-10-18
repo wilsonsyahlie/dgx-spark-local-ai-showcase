@@ -2746,3 +2746,8 @@ A bounded creative comparison failed before candidate readiness. Task-only recov
 ## 2026-10-18 — Evidence-based software inspection
 
 Added a specialist analysis workflow through an existing agent interface. Package integrity, focused instruction discovery, static app analysis, binary assembly inspection and an actual local-agent invocation were verified separately. Optional engines and static-versus-runtime limits remain explicit. [Engineering account](case-studies/local-software-inspection.md).
+
+
+### 2026-10-18 — From installed capability to usable investigation
+
+The software-inspection extension became an investigation tab with retained progress and results. The engineering focus was keeping a user's single click tied to a single job through delayed responses, refreshes and a web-service restart. Focused backend and browser controls passed, including phone layouts. The case study records the separation between requested static behavior, the assistant's existing authority and the limits of generated conclusions.

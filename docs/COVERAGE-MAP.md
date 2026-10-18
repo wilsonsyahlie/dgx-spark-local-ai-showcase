@@ -27,3 +27,8 @@ Spherical-world acceptance adds sampled emitted-surface coverage, intended-reaso
 ### Consecutive local edits — 2026-10-15
 
 Covered: durable predecessor capture, actual metadata, consecutive serialized edits, backup/post-write failures, built artifact and native application path, state preservation and natural suppressed delivery. Unqualified: terminal/move/delete protection, unrelated writer conflict merging, physical client/platform acceptance, long-duration and general speed gains. Historical timing-cache protection gap retained. [Case study](case-studies/durable-local-edits.md).
+
+
+### Investigation interface
+
+Coverage expanded from tool installation and actual agent invocation to retained investigation state, request identity, cancellation failures and responsive browser behavior. Optional analysis engines, uploads, universal explanation accuracy and a model-speed gain remain unestablished.

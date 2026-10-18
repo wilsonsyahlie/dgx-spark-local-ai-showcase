@@ -294,3 +294,8 @@ The edit-protection case placed predecessor capture inside the supported local w
 ## Extension design lesson: specialist software inspection
 
 The software-inspection exercise favored a pinned command and focused instructions at an existing agent interface. This avoided a core change or an upfront expansion of every ordinary request with the complete specialist catalog. Optional providers remained explicit prerequisites. [Retrospective](case-studies/local-software-inspection.md).
+
+
+### Investigation control as a separate concern
+
+An investigation interface needs durable identity and status independent of page lifetime. The retrospective design separated the web process, finite task ownership and independent stop observation. These responsibilities should not be conflated with model selection or a new execution sandbox. The case study describes lessons without publishing deployment details.

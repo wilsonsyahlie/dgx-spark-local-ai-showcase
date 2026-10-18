@@ -1360,3 +1360,13 @@ See [durable predecessors](case-studies/durable-local-edits.md). Publication is 
 Verified published package bytes, instruction discovery, an inert application message-flow fixture, missing-target rejection, native assembly evidence and actual local-agent invocation. Tool output was independently matched; static inspection does not establish runtime behavior. Explanation and lifecycle closure are separate acceptance gates. [Detailed account](case-studies/local-software-inspection.md).
 
 The final live explanation passed the core message-flow and transformation checks, with a failed supporting-hash attribution retained explicitly. Session/backend/lease closure and settings/history preservation passed. This is bounded tool-use acceptance, not universal answer accuracy.
+
+
+### Investigation interface controls
+
+Focused backend and actual-handler route checks passed. Desktop and two phone-size browser controls covered navigation, errors/retry, repeated clicks, lost acknowledgements, refresh recovery, stale replies, draft preservation and rendering untrusted findings as text. Cleanup failure controls included persistence, process observation and signal races. These controls establish specific boundaries, not broad model quality, physical-device testing or universal analysis support.
+
+
+The real browser-created investigation returned the correct message channel, API method and transformation, with the matching Evidence record and correct root attribution. The evidence file matched the independent control. Reloading and restarting the web service preserved the original job without replay; final findings were visible at desktop and both phone widths. Target digests and the execution sentinel passed, and task/session/backend closure was positively observed. Prior conversations and settings, and existing assistant/model container definitions and process identities, were preserved.
+
+A separate effective swap-limit check failed even though current swap usage was zero. Its onset and cause were not established because the corresponding pre-run counter was missing. The failure was retained separately from passing functional checks; this interface change did not repair that limit or establish full runtime preservation. Qualified functional acceptance is not an assertion that every platform invariant is healthy.

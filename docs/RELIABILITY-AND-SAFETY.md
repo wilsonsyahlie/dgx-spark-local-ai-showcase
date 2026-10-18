@@ -432,3 +432,8 @@ The creative model experiment recorded a timed-out incumbent and a candidate tha
 ## Specialist inspection and evidence boundaries
 
 An analysis capability should identify the selected target, preserve source identity and distinguish static observations from runtime claims. Keep optional engine requirements explicit. Qualify actual agent use separately from installation, and bind watchdog disarm to positive lifecycle closure. [Inspection exercise](case-studies/local-software-inspection.md).
+
+
+### Never replay an uncertain investigation
+
+A missing acknowledgement is an uncertain outcome. Preserve the original request identity, avoid automatic replay and require positive evidence before declaring cancellation or completion. Failure in persistence, process observation or signalling must not bypass cleanup. Apply approval restrictions at the receiving service as well as the page. Preserve clarification drafts while background status checks run.
