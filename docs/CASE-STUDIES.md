@@ -1134,3 +1134,6 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 
 
 - [Creative model qualification and recovery boundaries](case-studies/creative-model-qualification.md): preserve failed loading evidence, test real recovery authority and avoid unsupported performance claims.
+
+
+- [Evidence-based software inspection](case-studies/local-software-inspection.md): add a specialist analysis workflow and verify actual agent invocation without changing the reasoning model.

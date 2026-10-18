@@ -2741,3 +2741,8 @@ A measured missing intermediate-backup failure led to a structural local write-b
 ### 2026-10-17 — Keep failed model qualification separate from recovery
 
 A bounded creative comparison failed before candidate readiness. Task-only recovery checks were repaired and verified, while suitability and performance remained unproven. [Evidence and limits](case-studies/creative-model-qualification.md).
+
+
+## 2026-10-18 — Evidence-based software inspection
+
+Added a specialist analysis workflow through an existing agent interface. Package integrity, focused instruction discovery, static app analysis, binary assembly inspection and an actual local-agent invocation were verified separately. Optional engines and static-versus-runtime limits remain explicit. [Engineering account](case-studies/local-software-inspection.md).

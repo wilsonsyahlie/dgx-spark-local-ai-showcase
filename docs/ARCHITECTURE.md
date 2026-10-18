@@ -289,3 +289,8 @@ Explicit static bundles, separate accepted snapshots, typed generation parameter
 ### Retrospective: durable local edit boundary
 
 The edit-protection case placed predecessor capture inside the supported local write path, then propagated receipts through result conversion. Scope and identity checks, durable capture and truthful post-write errors formed one acceptance boundary. This abstract pattern and its exclusions are documented in [the case study](case-studies/durable-local-edits.md).
+
+
+## Extension design lesson: specialist software inspection
+
+The software-inspection exercise favored a pinned command and focused instructions at an existing agent interface. This avoided a core change or an upfront expansion of every ordinary request with the complete specialist catalog. Optional providers remained explicit prerequisites. [Retrospective](case-studies/local-software-inspection.md).

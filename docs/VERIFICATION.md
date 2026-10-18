@@ -1353,3 +1353,10 @@ The comparison reuses the same fourteen-case checker and fixed native supervisio
 | Historical protection gap | Earlier timing-cache predecessor not backed up; later runs protected | Unrecoverable gap disclosed |
 
 See [durable predecessors](case-studies/durable-local-edits.md). Publication is a sanitized engineering record, separate from production activation.
+
+
+## 2026-10-18 — Software-inspection capability
+
+Verified published package bytes, instruction discovery, an inert application message-flow fixture, missing-target rejection, native assembly evidence and actual local-agent invocation. Tool output was independently matched; static inspection does not establish runtime behavior. Explanation and lifecycle closure are separate acceptance gates. [Detailed account](case-studies/local-software-inspection.md).
+
+The final live explanation passed the core message-flow and transformation checks, with a failed supporting-hash attribution retained explicitly. Session/backend/lease closure and settings/history preservation passed. This is bounded tool-use acceptance, not universal answer accuracy.

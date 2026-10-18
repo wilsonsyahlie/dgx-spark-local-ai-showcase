@@ -427,3 +427,8 @@ A per-turn backup does not protect every intermediate version. The consecutive-e
 ### 2026-10-17 — Failed qualification is a retained outcome
 
 The creative model experiment recorded a timed-out incumbent and a candidate that never reached readiness. A revised experimental resource policy was explicit; it did not rescore earlier failures. Focused negative controls, an isolated real cross-process accounting protocol and actual restoration evidence qualified the recovery-check repair. Existing message rows and profile settings were preserved. Comparative performance, full capacity and causal swap attribution remain unproven. [Case study](case-studies/creative-model-qualification.md).
+
+
+## Specialist inspection and evidence boundaries
+
+An analysis capability should identify the selected target, preserve source identity and distinguish static observations from runtime claims. Keep optional engine requirements explicit. Qualify actual agent use separately from installation, and bind watchdog disarm to positive lifecycle closure. [Inspection exercise](case-studies/local-software-inspection.md).
