@@ -2774,3 +2774,7 @@ A larger-candidate trial showed why available memory, model size and safe startu
 ## October 2026 — Pixels over reassuring verdicts
 
 A generated animated scene exposed blank rendering, desktop cropping and phone obstruction in succession. A contradictory image critique reinforced the need for direct browser evidence. [Retrospective](case-studies/rendered-scene-verification.md).
+
+## October 2026 — A useful trial can end without promotion
+
+A vision candidate caught more selected details while still inventing important scene content. Frozen cases and bounded runtime checks supported keeping the original reviewer. [Retrospective](case-studies/vision-candidate-without-promotion.md).

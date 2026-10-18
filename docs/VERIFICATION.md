@@ -1375,3 +1375,7 @@ A separate effective swap-limit check failed even though current swap usage was 
 ## Generated-scene retrospective
 
 The account distinguishes actual rendering and controls from geometry checks, qualitative reference comparison and unresolved general quality claims. Resource interruption and supervised repair remain explicit. No production assets or deployment instructions are included. [Retrospective](case-studies/rendered-scene-verification.md).
+
+## Finite vision comparison retrospective
+
+The account separates selected case scores, material hallucinations, effective runtime limits, actual coexistence/recovery and unrun live failure injection. No model promotion or universal speedup is claimed. [Retrospective](case-studies/vision-candidate-without-promotion.md).

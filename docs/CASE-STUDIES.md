@@ -1147,3 +1147,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 
 
 - [A scene that rendered was still not ready](case-studies/rendered-scene-verification.md): combine real pixels, bounded motion evidence and fallible image critique without erasing failed attempts.
+
+- [More correct details did not justify a model switch](case-studies/vision-candidate-without-promotion.md): retain material errors alongside selected improvements.
