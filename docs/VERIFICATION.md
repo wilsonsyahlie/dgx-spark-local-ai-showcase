@@ -1383,3 +1383,7 @@ The account separates selected case scores, material hallucinations, effective r
 ## Vision reserve experiment retrospective
 
 The account distinguishes a measured policy cutoff, explicit scope approval, replayed failure checks, actual workload observation and restoration from unproven future-load safety and model quality. [Retrospective](case-studies/vision-reserve-qualification.md).
+
+## Smaller vision comparison retrospective
+
+The account distinguishes successful resource qualification from failed task quality, observed swapping, limited latency comparison and verified restoration. No permanent model switch or universal benchmark claim followed. [Retrospective](case-studies/small-vision-candidate-gate.md).

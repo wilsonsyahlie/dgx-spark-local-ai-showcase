@@ -1151,3 +1151,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [More correct details did not justify a model switch](case-studies/vision-candidate-without-promotion.md): retain material errors alongside selected improvements.
 
 - [Fitting in memory did not make the model a better reviewer](case-studies/vision-reserve-qualification.md): distinguish a successful resource experiment from model usefulness.
+
+- [A smaller model still had to earn the switch](case-studies/small-vision-candidate-gate.md): use a fixed decision gate and preserve negative evidence.
