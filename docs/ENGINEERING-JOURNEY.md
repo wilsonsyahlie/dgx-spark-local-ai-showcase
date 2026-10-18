@@ -2761,3 +2761,7 @@ The replacement passed deployment and history-preservation checks, while indepen
 ## October 2026 — Better code did not erase workflow failures
 
 A local trial improved one coding result, but its first creative attempt crossed an output-directory boundary. Resource-policy phases and final HTTP settlement also needed separate verification. The [retrospective](case-studies/fp4-trial-boundaries.md) preserves the distinction between useful gains, checker repairs and an assisted continuation; the assisted attempt timed out, its operator-published scene only partially matched the reference, and the owner chose the previous working model.
+
+## October 2026 — Correct a zero memory reading without touching inference
+
+A restored engine’s launch signature bypassed dashboard classification. Binding the native workload to actual owned process identity corrected the reading while preserving totals and the running model. [Retrospective](case-studies/native-workload-memory-attribution.md).
