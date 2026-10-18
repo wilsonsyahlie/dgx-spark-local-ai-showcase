@@ -1370,3 +1370,8 @@ Focused backend and actual-handler route checks passed. Desktop and two phone-si
 The real browser-created investigation returned the correct message channel, API method and transformation, with the matching Evidence record and correct root attribution. The evidence file matched the independent control. Reloading and restarting the web service preserved the original job without replay; final findings were visible at desktop and both phone widths. Target digests and the execution sentinel passed, and task/session/backend closure was positively observed. Prior conversations and settings, and existing assistant/model container definitions and process identities, were preserved.
 
 A separate effective swap-limit check failed even though current swap usage was zero. Its onset and cause were not established because the corresponding pre-run counter was missing. The failure was retained separately from passing functional checks; this interface change did not repair that limit or establish full runtime preservation. Qualified functional acceptance is not an assertion that every platform invariant is healthy.
+
+
+## Generated-scene retrospective
+
+The account distinguishes actual rendering and controls from geometry checks, qualitative reference comparison and unresolved general quality claims. Resource interruption and supervised repair remain explicit. No production assets or deployment instructions are included. [Retrospective](case-studies/rendered-scene-verification.md).

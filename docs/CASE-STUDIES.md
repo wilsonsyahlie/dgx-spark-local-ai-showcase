@@ -1144,3 +1144,6 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [Native workload memory attribution](case-studies/native-workload-memory-attribution.md): correct a zero reading through owned process identity, preserving allocation totals and the inference process.
 
 - [Local image companion and memory qualification](case-studies/local-vision-companion.md): separate image work, preserve failed experiments, and terminate resource breaches before optional diagnostics.
+
+
+- [A scene that rendered was still not ready](case-studies/rendered-scene-verification.md): combine real pixels, bounded motion evidence and fallible image critique without erasing failed attempts.

@@ -2769,3 +2769,8 @@ A restored engine’s launch signature bypassed dashboard classification. Bindin
 ## October 2026 — Separate image analysis and startup memory evidence
 
 A larger-candidate trial showed why available memory, model size and safe startup are different measurements. Its shutdown failure informed stricter emergency handling before completing scoped image integration. [Retrospective](case-studies/local-vision-companion.md).
+
+
+## October 2026 — Pixels over reassuring verdicts
+
+A generated animated scene exposed blank rendering, desktop cropping and phone obstruction in succession. A contradictory image critique reinforced the need for direct browser evidence. [Retrospective](case-studies/rendered-scene-verification.md).
