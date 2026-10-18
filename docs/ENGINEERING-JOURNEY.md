@@ -2751,3 +2751,8 @@ Added a specialist analysis workflow through an existing agent interface. Packag
 ### 2026-10-18 — From installed capability to usable investigation
 
 The software-inspection extension became an investigation tab with retained progress and results. The engineering focus was keeping a user's single click tied to a single job through delayed responses, refreshes and a web-service restart. Focused backend and browser controls passed, including phone layouts. The case study records the separation between requested static behavior, the assistant's existing authority and the limits of generated conclusions.
+
+
+## 2026-10-18 — Guarded primary replacement and a failed visual result
+
+The replacement passed deployment and history-preservation checks, while independent coding and browser tests exposed real generated-output failures. A local image comparison correctly recognized the blank scene. See [the case study](case-studies/guarded-primary-evaluation.md). No overall performance gain was established.
