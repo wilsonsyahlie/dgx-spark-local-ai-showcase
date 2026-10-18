@@ -2778,3 +2778,7 @@ A generated animated scene exposed blank rendering, desktop cropping and phone o
 ## October 2026 — A useful trial can end without promotion
 
 A vision candidate caught more selected details while still inventing important scene content. Frozen cases and bounded runtime checks supported keeping the original reviewer. [Retrospective](case-studies/vision-candidate-without-promotion.md).
+
+## October 2026 — Memory fit and quality answer different questions
+
+An explicitly approved reserve experiment let a larger reviewer finish its work. Remaining visual errors and slower responses still prevented promotion. [Retrospective](case-studies/vision-reserve-qualification.md).

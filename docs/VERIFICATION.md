@@ -1379,3 +1379,7 @@ The account distinguishes actual rendering and controls from geometry checks, qu
 ## Finite vision comparison retrospective
 
 The account separates selected case scores, material hallucinations, effective runtime limits, actual coexistence/recovery and unrun live failure injection. No model promotion or universal speedup is claimed. [Retrospective](case-studies/vision-candidate-without-promotion.md).
+
+## Vision reserve experiment retrospective
+
+The account distinguishes a measured policy cutoff, explicit scope approval, replayed failure checks, actual workload observation and restoration from unproven future-load safety and model quality. [Retrospective](case-studies/vision-reserve-qualification.md).
