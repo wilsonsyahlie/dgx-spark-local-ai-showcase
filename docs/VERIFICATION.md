@@ -1387,3 +1387,6 @@ The account distinguishes a measured policy cutoff, explicit scope approval, rep
 ## Smaller vision comparison retrospective
 
 The account distinguishes successful resource qualification from failed task quality, observed swapping, limited latency comparison and verified restoration. No permanent model switch or universal benchmark claim followed. [Retrospective](case-studies/small-vision-candidate-gate.md).
+
+
+Automatic publishing review has explicit fault controls and finite-image limits; see [the retrospective](case-studies/automatic-publish-visual-review.md).

@@ -2786,3 +2786,6 @@ An explicitly approved reserve experiment let a larger reviewer finish its work.
 ## October 2026 — Enforce the gate before switching
 
 A smaller vision candidate fitted safely but retained important visual mistakes and slower responses. The original reviewer stayed in place. [Retrospective](case-studies/small-vision-candidate-gate.md).
+
+
+**Automatic visual review:** a bounded publishing check reduces repeated screenshot requests while preserving uncertainty and creator ownership. [Retrospective](case-studies/automatic-publish-visual-review.md).
