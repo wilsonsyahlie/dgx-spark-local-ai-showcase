@@ -2786,3 +2786,7 @@ An explicitly approved reserve experiment let a larger reviewer finish its work.
 ## October 2026 — Enforce the gate before switching
 
 A smaller vision candidate fitted safely but retained important visual mistakes and slower responses. The original reviewer stayed in place. [Retrospective](case-studies/small-vision-candidate-gate.md).
+
+### 2026-10-19 — Completed media admission recovery
+
+Diagnosed completed downloads hidden by the native manager while automatic imports were disabled. A narrowly scoped metadata discovery repair retains audio/caption admission, storage-only payload handling and durable uncertain-outcome holds. See [the recovery record](COMPLETED-MEDIA-ADMISSION.md). A real scheduled import passed retained-source, destination qualification and library-visibility checks before recovery expanded. Broader coverage and physical playback are not claimed.
