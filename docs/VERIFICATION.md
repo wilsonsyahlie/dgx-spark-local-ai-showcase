@@ -1388,6 +1388,9 @@ The account distinguishes a measured policy cutoff, explicit scope approval, rep
 
 The account distinguishes successful resource qualification from failed task quality, observed swapping, limited latency comparison and verified restoration. No permanent model switch or universal benchmark claim followed. [Retrospective](case-studies/small-vision-candidate-gate.md).
 
+
+Automatic publishing review has explicit fault controls and finite-image limits; see [the retrospective](case-studies/automatic-publish-visual-review.md).
+
 ### Completed-media admission recovery
 
 Twenty-one focused discovery checks and twenty-nine retained admission controls cover native-queue suppression, owner/category/storage binding, incomplete/ambiguous sources, hash rebinding, monitored targets and uncertain outcomes. Actual scheduled import, retained storage-side sources and qualified destination files passed for the initial season. Scope expansion was limited to the independently reviewed current-request selection; see the dated recovery case study. No playback acceptance is claimed.

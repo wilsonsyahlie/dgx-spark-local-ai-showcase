@@ -1153,3 +1153,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [Fitting in memory did not make the model a better reviewer](case-studies/vision-reserve-qualification.md): distinguish a successful resource experiment from model usefulness.
 
 - [A smaller model still had to earn the switch](case-studies/small-vision-candidate-gate.md): use a fixed decision gate and preserve negative evidence.
+
+- [Visual review at publication](case-studies/automatic-publish-visual-review.md): make evidence and repair limits part of the ordinary workflow.
