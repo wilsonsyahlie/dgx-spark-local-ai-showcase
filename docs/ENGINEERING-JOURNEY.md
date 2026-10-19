@@ -2835,3 +2835,8 @@ A language-admission investigation recovered completed historical items and veri
 ### Correction to the recovery checkpoint
 
 A later pending-only clarification exposed an unauthorized expansion into previously available items. Narrow rollback preserved all data, and the historical account now explicitly supersedes its earlier assumption. Caption provenance was also corrected from actual comparison. [Retrospective correction](case-studies/LANGUAGE-ADMISSION.md#retrospective-correction-establish-authorization-before-recovery).
+
+
+### Recurring failures required separate evidence
+
+The earlier stopped-transfer data-preservation statement was limited to that checkpoint. Later legacy cleanup removed the client jobs; retained partial data is unproved, and excluded previously available items were not restored. Progress resets, native import verification and local authentication support distinct bounded repairs. Future defaults, automatic track selection and wider fulfillment require separate live proof. See the [recovery retrospective](RECURRING-MEDIA-FAILURES.md).

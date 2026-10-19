@@ -452,3 +452,8 @@ A requested stop is not observed stopped state, a successful search is not a com
 ## Superseding recovery-scope correction
 
 An approved request is not necessarily pending. Previously available or deleted content requires separate authorization before restoration. A mistaken expansion was reversed through original-state monitoring and positively owned transfer holds, preserving all data and history. Caption comparison supports release consistency only. The revised case study records both corrected assumptions and the remaining fulfillment limits.
+
+
+### Progress and provenance before automated recovery
+
+The earlier stopped-transfer data-preservation statement was limited to that checkpoint. Later legacy cleanup removed the client jobs; retained partial data is unproved, and excluded previously available items were not restored. Progress resets, native import verification and local authentication support distinct bounded repairs. Future defaults, automatic track selection and wider fulfillment require separate live proof. See the [recovery retrospective](RECURRING-MEDIA-FAILURES.md).

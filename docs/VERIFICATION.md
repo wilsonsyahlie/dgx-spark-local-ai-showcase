@@ -1436,3 +1436,8 @@ Repeated source qualification, natural destination receipts and player file join
 ## Superseding recovery-scope correction
 
 An approved request is not necessarily pending. Previously available or deleted content requires separate authorization before restoration. A mistaken expansion was reversed through original-state monitoring and positively owned transfer holds, preserving all data and history. Caption comparison supports release consistency only. The revised case study records both corrected assumptions and the remaining fulfillment limits.
+
+
+### Superseding retention and recovery limits
+
+The earlier stopped-transfer data-preservation statement was limited to that checkpoint. Later legacy cleanup removed the client jobs; retained partial data is unproved, and excluded previously available items were not restored. Progress resets, native import verification and local authentication support distinct bounded repairs. Negative-only future defaults have supported-API and authoritative stored-state verification. Automatic track selection is deployed with a natural already-correct check. Subsequent new-request routing, new-import selection and wider fulfillment still require separate live proof. See the [recovery retrospective](RECURRING-MEDIA-FAILURES.md).
