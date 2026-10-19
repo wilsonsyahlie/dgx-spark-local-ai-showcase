@@ -1163,3 +1163,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [Bounded patch proposals](case-studies/bounded-patch-proposals.md): narrow generation, independent checks and the distinction between a working mechanism and a measured speed upgrade.
 
 - [Whole-task non-thinking](case-studies/whole-task-nonthinking.md): complete-task timing and a below-target result that was not promoted.
+
+- [Batched edit verification](case-studies/batched-edit-verification.md): reviewed mutation safeguards and truthful reporting when the efficiency goal is missed.

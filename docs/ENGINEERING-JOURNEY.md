@@ -2817,3 +2817,7 @@ A small repair experiment separated short patch proposals from protected editing
 ## October 2026 — Keep the adoption threshold after measurement
 
 A complete-task comparison produced correct code sooner, but missed its agreed speed target. The result remained a rejected experiment. [Retrospective](case-studies/whole-task-nonthinking.md).
+
+## October 2026 — Separate working functionality from a missed efficiency goal
+
+Combining a protected edit and focused checks reduced handoffs, but a neutral repair still used four main calls against a maximum-three target. Independent correctness passed; no general speed claim followed. [Retrospective](case-studies/batched-edit-verification.md).

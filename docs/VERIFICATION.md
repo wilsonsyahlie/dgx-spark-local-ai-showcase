@@ -1418,3 +1418,7 @@ Strict parser/scope/status controls and one neutral native repair supported boun
 ## A correct but below-target experiment
 
 Fourteen independent cases passed in both modes, with source/history preservation and bounded request settlement. Full-turn timing included internal errors and corrections; it did not establish general causality or broad performance. See the [retrospective](case-studies/whole-task-nonthinking.md).
+
+## Bounded action, bounded evidence
+
+Twenty-two control groups passed in two environments; a neutral native repair passed fourteen independent cases. The three-call target failed, and the model made a wrong explanatory claim. Source execution, available prompt evidence and performance claims remained separate. [Retrospective](case-studies/batched-edit-verification.md).
