@@ -1161,3 +1161,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 [This retrospective](case-studies/deterministic-browser-handoff.md) explains why a working interface and good visual design require different evidence.
 
 - [Bounded patch proposals](case-studies/bounded-patch-proposals.md): narrow generation, independent checks and the distinction between a working mechanism and a measured speed upgrade.
+
+- [Whole-task non-thinking](case-studies/whole-task-nonthinking.md): complete-task timing and a below-target result that was not promoted.

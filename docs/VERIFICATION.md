@@ -1414,3 +1414,7 @@ The linked case distinguishes observed control transitions, repeated-action and 
 ## Patch proposal experiment
 
 Strict parser/scope/status controls and one neutral native repair supported bounded functionality. Reported generation time is separated from complete task time, with no comparative gain asserted. The [retrospective](case-studies/bounded-patch-proposals.md) retains procedural misses and unresolved bookkeeping debt.
+
+## A correct but below-target experiment
+
+Fourteen independent cases passed in both modes, with source/history preservation and bounded request settlement. Full-turn timing included internal errors and corrections; it did not establish general causality or broad performance. See the [retrospective](case-studies/whole-task-nonthinking.md).

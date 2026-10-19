@@ -1,0 +1,13 @@
+# Whole-task non-thinking: a rejected retention result
+
+Fast individual patch generation did not establish that a complete agent task would be much faster. A later matched comparison therefore measured the whole user-to-final turn, retaining the candidate only if correctness held and elapsed time fell by at least one quarter.
+
+Two isolated developer copies received identical existing source and an equivalent small formatter repair. One retained ordinary reasoning settings; the candidate explicitly disabled reasoning for its main calls and tested auxiliary paths. Actual SDK request serialization was captured with networking blocked before construction. Independent checks and source hashes were frozen before either job. Order was randomized once, the existing cache was left untouched, and each job had one prompt and an independently supervised finite deadline.
+
+Both final artifacts passed all fourteen independent cases and preserved the surrounding interface and validation. The complete measured turns were 94.744 seconds for current settings and 74.994 seconds for the candidate: 20.846 percent less time, below the required twenty-five percent. The candidate would have needed 71.058 seconds or less. The result was rejected for retention; ordinary defaults were preserved and the experiment profiles stayed unpromoted. No further trial was queued.
+
+The numbers include internal mistakes and corrections. The candidate initially supplied an invalid helper operation identifier; the current arm initially asserted an incorrect test expectation, corrected it, and omitted a boolean case from its rewritten self-check. The frozen independent boolean check still passed. The candidate used a patch helper while the current arm patched directly, so this was a whole-workflow observation rather than isolated causality. One small task and one ordering cannot establish broad speed or correctness.
+
+A preparation profile also missed an intermediate predecessor backup. It was retained unused, with the gap explicitly failed. A separate fresh candidate used a verified backup before every supported setter; that established new provenance without repairing the earlier gap. All new request operations settled, including two proven aborts that remained distinct from successful responses. Earlier bookkeeping debt remained unchanged, and protected production histories and settings were preserved.
+
+The lesson was to keep an agreed acceptance boundary after seeing a tempting partial gain. A correct faster result can still fall short of the condition for adopting it. This retrospective is non-deployable and contains no current operational configuration or procedure.

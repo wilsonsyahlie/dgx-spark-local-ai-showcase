@@ -2813,3 +2813,7 @@ A publishing experiment separated control and refresh observations from uncertai
 ## October 2026 — Bound generation without trusting it
 
 A small repair experiment separated short patch proposals from protected editing and browser observations. Functional evidence passed; general speed and perfect procedural adherence were not established. [Retrospective](case-studies/bounded-patch-proposals.md).
+
+## October 2026 — Keep the adoption threshold after measurement
+
+A complete-task comparison produced correct code sooner, but missed its agreed speed target. The result remained a rejected experiment. [Retrospective](case-studies/whole-task-nonthinking.md).
