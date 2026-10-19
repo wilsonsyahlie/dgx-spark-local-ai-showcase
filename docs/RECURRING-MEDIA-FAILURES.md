@@ -34,3 +34,11 @@ A later investigation correlated a completed source with cleanup events and foun
 The recovery work also separated missing metadata from conflicting identity. A failed claim that a catalogue had ended was retained when providers disagreed. A separately reviewed fixed current catalogue could establish only its bounded scope, without becoming a general identity fallback or a claim about future episodes.
 
 Repeated read-only connection setup was measured independently from media processing. Reusing a privately owned authenticated connection preserved every physical check and required verified process cleanup, including a failed-command control. Faster inspection did not relax acquisition safeguards. These are retrospective engineering lessons, not deployment instructions or a claim that every request can acquire a viable source.
+
+## Retrospective: acceptance and file identity can disagree
+
+A later repair began with two independently observed identities: the episode a search result claimed to fulfill and the episode its actual file parser recognized. Relative sequel numbering had linked accepted sources to episodes in the original series. Existing files prevented immediate replacement, but relying on their presence would not protect a later retry after state changed.
+
+The bounded repair combined a narrow acquisition restriction, durable quarantine for known conflicting associations and an exact episode-set check for future single-video imports. A file covering several episodes had to match the complete intended set. Multi-file packs retained their separate validation contract; ambiguous relative sequel titles could remain unavailable rather than being guessed into place.
+
+Independent source review and negative controls preceded activation. Normal scheduled runs then demonstrated the known quarantine outcomes while preserving the correct existing episode identities. An unseen-source mismatch was tested through the actual candidate boundary using mocks, without creating a deliberately bad acquisition. The engineering claim is limited to those boundaries: accepted requests, correct episode identity, viable sources and readable synchronized captions remain distinct facts. This retrospective contains no production configuration or deployment procedure.

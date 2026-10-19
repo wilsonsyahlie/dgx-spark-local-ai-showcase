@@ -1446,3 +1446,5 @@ The earlier stopped-transfer data-preservation statement was limited to that che
 ### Superseding new-import and request-lifecycle evidence
 
 Later natural imports established destination/source identity and selected native-audio/English-caption metadata, superseding the earlier new-import limit. Independent caption provenance and human timing remain unproved. Isolated lifecycle controls, runtime-user artifact checks, protected activation, real-volume persistence and fresh natural schedule receipts support the bounded request-handling repair. A genuine subsequent approval and universal availability remain untested. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-keep-identity-stable-across-different-season-models).
+
+The [episode identity retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-acceptance-and-file-identity-can-disagree) distinguishes live scheduled quarantine proof from mocked unseen-source prevention. It makes no universal mapping, availability or subtitle-synchronization claim.

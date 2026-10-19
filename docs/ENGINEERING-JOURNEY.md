@@ -2845,3 +2845,5 @@ The earlier stopped-transfer data-preservation statement was limited to that che
 ### Stable identities needed a durable lifecycle
 
 A retrospective repair carried positive episode identities across different season models and planned existing-entry language changes only within equivalent quality settings. Failed preimage tests and deployment representation holds remained in the evidence. Natural scheduling and later imports passed bounded checks; genuine future approval behavior and broader fulfillment stayed open. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-keep-identity-stable-across-different-season-models).
+
+A later media reliability investigation separated search acceptance from independently parsed file identity. Narrow acquisition and import guards were reviewed and verified through retained controls and normal scheduled quarantine outcomes; wider availability and subtitle timing stayed explicit limits. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-acceptance-and-file-identity-can-disagree).
