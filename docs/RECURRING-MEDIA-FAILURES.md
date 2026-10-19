@@ -69,3 +69,14 @@ A later content check showed that a plausible episode filename contained the nex
 The preferred exchange operation failed safely in a non-media fixture. The record retained the failure without inventing an error cause that had not been captured. A separately reviewed atomic replacement preserved the original and preceded create-only publication. Atomic rename was not described as compare-and-swap, and lost acknowledgment remained an inspection case rather than permission to retry. Registration and player visibility stayed separate from correct bytes.
 
 The earlier finite recovery also progressed from resumed transfer to verified library/player joins and naturally completed request state. That did not prove human caption timing or every future source. A related shutdown candidate was tested in isolated non-media process stacks, where the baseline exited before a delayed checkpoint and the candidate waited for it. Those established-client results did not justify production activation or claims about startup races, enforced deadlines or natural backup behavior. This retrospective includes no production topology, configuration or deployment procedure.
+
+
+## Retrospective: test the shutdown boundary and the observer
+
+The corrected episode content later reached exact player registration and naturally completed request state. Complete byte identities and available captions supported that result; they did not establish human timing or future source availability.
+
+Shutdown qualification exposed a test gap: a startup barrier had been released before the stop signal arrived. Corrected tests required signal evidence while the boundary was still held, or a positive terminal refusal before release. A second launch attempt produced no second client. Cleanup that exceeded the existing deadline remained an explicit forced-stop failure.
+
+The handoff tests also found an observer defect. Two process reads could straddle exit, turning a legitimate zombie transition into an identity error. A single immutable observation corrected terminal polling while strict signal ownership remained unchanged. Lost responses, repeated interruptions and failure after queued termination were exercised separately; preserved failed attempts were not relabeled as passes.
+
+Container replacement needed evidence beyond those process tests. Settings objects could contain unmasked secrets, so control records used hashes and approved metadata. A never-started clone with empty fixture mounts checked real configuration inheritance. The qualified artifact remained unactivated at this checkpoint because the required quiet boundary was unavailable. This is a non-deployable retrospective: natural maintenance, complete delivery and immunity to forced shutdown remained open.

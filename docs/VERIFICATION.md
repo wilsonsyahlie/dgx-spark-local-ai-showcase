@@ -1452,3 +1452,8 @@ The [episode identity retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-a
 ### Retained-progress recovery retrospective
 
 Bounded evidence covers independent schedule-preservation checks after a recorded partial action, actual-registry regression, protected stopped recheck, renewed transfer and natural saved-state advancement under a shorter checkpoint interval. Corrupted archive and stale admission controls were exercised before writes. The underlying storage-state cause, force-kill attribution, future maintenance boundaries, crash recovery, complete fulfillment and human subtitle timing remain unproved. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-a-counter-reset-did-not-establish-data-loss).
+
+
+### Shutdown qualification retrospective
+
+Positive startup-boundary evidence, a second-launch control, exact synthetic handoff tests, terminal-observer regression and a never-started configuration clone support bounded artifact qualification. An earlier observer failure and explicit deadline failures remain distinct from passes. Complete episode registration reached natural request availability. Live replacement and natural maintenance remained unverified at that checkpoint; wider fulfillment and human caption timing remain open. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-test-the-shutdown-boundary-and-the-observer).
