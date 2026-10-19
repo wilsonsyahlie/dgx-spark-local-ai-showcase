@@ -22,3 +22,12 @@ A separately scoped original-language exception retained strict owner identity c
 Two failed approaches remained visible. An asynchronous metadata-stop transition required observed-state reconciliation, and a helper review arrived after activation despite prior plan review. Later verification and future hardening did not erase that procedural gap. Repeated search-admission holds also revealed disabled monitoring on still-requested missing items; repair preserved exact preimages and readbacks rather than changing global defaults.
 
 This is a bounded engineering checkpoint. Wider source availability and transfer recovery continued separately; a search acknowledgement, selected caption or successful import does not establish universal completion, subjective playback quality or synchronized dialogue.
+
+
+## Retrospective correction: establish authorization before recovery
+
+The earlier monitoring-restoration description was based on a wrong assumption: an approved request with missing files was treated as pending even though it had previously been marked available and unmonitored. A review repeated that interpretation. The user clarified pending-only scope, and the recovery returned those monitoring settings to their recorded originals, stopped only positively identified new incomplete transfers, and preserved data and history. Fresh reads confirmed the corrected states. Deleted items remained excluded.
+
+The caption account also required correction. Calling external captions older had not been established. Actual comparison found matching normalized cue text with only a uniform negligible timestamp difference. That supports consistency with the release; it does not establish human dialogue synchronization.
+
+A narrow subtitle-label matcher correction passed native source-selection integration while retaining all other admission controls. The wider recovery remains ongoing. The engineering lesson is to test authorization, lifecycle interpretation, provenance and fulfillment separately; successful review cannot substitute for user scope.

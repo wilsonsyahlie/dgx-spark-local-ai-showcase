@@ -447,3 +447,8 @@ In one publishing case, typed observations of control state, repeated actions an
 ## Preserve the distinction between requests and outcomes
 
 A requested stop is not observed stopped state, a successful search is not a completed transfer, and a caption track's presence is not its selection or synchronization. Historical recovery should preserve exact provenance and existing data. A late review is a recorded procedural gap even when later checks verify the resulting state.
+
+
+## Superseding recovery-scope correction
+
+An approved request is not necessarily pending. Previously available or deleted content requires separate authorization before restoration. A mistaken expansion was reversed through original-state monitoring and positively owned transfer holds, preserving all data and history. Caption comparison supports release consistency only. The revised case study records both corrected assumptions and the remaining fulfillment limits.

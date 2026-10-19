@@ -1431,3 +1431,8 @@ Nine copier controls, five module syntax checks and ninety-six actual rendered o
 ## Language-admission recovery checkpoint
 
 Repeated source qualification, natural destination receipts and player file joins supported two historical recoveries. A real scoped original-language acquisition also passed admission. The case study retains metadata-stop and review-order failures. Wider source availability, physical playback and caption timing remain outside the demonstrated checkpoint.
+
+
+## Superseding recovery-scope correction
+
+An approved request is not necessarily pending. Previously available or deleted content requires separate authorization before restoration. A mistaken expansion was reversed through original-state monitoring and positively owned transfer holds, preserving all data and history. Caption comparison supports release consistency only. The revised case study records both corrected assumptions and the remaining fulfillment limits.

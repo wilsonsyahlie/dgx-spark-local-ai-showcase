@@ -2830,3 +2830,8 @@ A reusable scene foundation passed bounded correctness checks after a loading-bo
 ## October 2026 — Keep recovery evidence narrower than the promise
 
 A language-admission investigation recovered completed historical items and verified one scoped original-language path. Player selection, asynchronous state changes and a late helper review required separate evidence. Broader fulfillment stayed explicitly open. [Retrospective](case-studies/LANGUAGE-ADMISSION.md#retrospective-distinguish-policy-provenance-and-player-choice).
+
+
+### Correction to the recovery checkpoint
+
+A later pending-only clarification exposed an unauthorized expansion into previously available items. Narrow rollback preserved all data, and the historical account now explicitly supersedes its earlier assumption. Caption provenance was also corrected from actual comparison. [Retrospective correction](case-studies/LANGUAGE-ADMISSION.md#retrospective-correction-establish-authorization-before-recovery).
