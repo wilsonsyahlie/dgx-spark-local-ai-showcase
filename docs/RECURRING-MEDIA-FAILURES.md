@@ -26,3 +26,11 @@ A default change also failed to affect existing entries. A bounded migration req
 Subsequent natural imports verified exact destination/source identities and selected native-audio/English-caption metadata. This supersedes the earlier new-import evidence limit, while caption provenance and human timing remain unproved. Recognized short ancillary clips were retained without importing them; unknown extras still held.
 
 The recovery report needed scrutiny too: counting equal native season numbers could conceal missing later episodes. Explicit crosswalks and unresolved-member accounting made the report more conservative. Client disappearance also could not prove payload disappearance, so known roots remained tracked until readable coverage or positive absence was established. These results support bounded engineering claims, not universal availability or a promise that no future failure can occur. No production topology, configuration or deployment procedure is included here.
+
+## Retrospective: completed transfers can fail after downloading
+
+A later investigation correlated a completed source with cleanup events and found that identity-only import failures had triggered removal. A failure label that appeared to indicate a person had acted was also emitted by automation. The repair configured an exclusion for that narrow failure class while retaining unrelated cleanup safeguards. Supported setting readback and later natural jobs were verified; no eligible real item remained to prove the new exclusion during a natural import failure. That boundary stayed visible.
+
+The recovery work also separated missing metadata from conflicting identity. A failed claim that a catalogue had ended was retained when providers disagreed. A separately reviewed fixed current catalogue could establish only its bounded scope, without becoming a general identity fallback or a claim about future episodes.
+
+Repeated read-only connection setup was measured independently from media processing. Reusing a privately owned authenticated connection preserved every physical check and required verified process cleanup, including a failed-command control. Faster inspection did not relax acquisition safeguards. These are retrospective engineering lessons, not deployment instructions or a claim that every request can acquire a viable source.
