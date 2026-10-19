@@ -11,3 +11,14 @@ Focused checks covered language absence, forced or signs-only captions, mixed pa
 The evidence remains bounded: language metadata can be wrong, catalog classification can be incomplete, existing content was not repaired, and a genuine new download/import/playback cycle had no eligible candidate and was not run. External-caption-only content and replacements remain conservatively held. Repository publication is a retrospective record, not a deployment mechanism.
 
 When caption language matters, treat it as an independent acceptance requirement. Inspect destructive lifecycle ordering before choosing hooks, test privileged paths explicitly, and distinguish command completion from verified results.
+
+
+## Retrospective: distinguish policy, provenance and player choice
+
+A recovery investigation separated three concerns that had been conflated: whether an acquired item was eligible for historical recovery, whether its original audio and full English captions met policy, and which tracks the player actually selected. Two previously completed items passed repeated source qualification and natural destination verification after a minimal eligibility change. Older external captions were retained while the player selected the release-matched embedded track. Synchronization was not measured.
+
+A separately scoped original-language exception retained strict owner identity checks and fail-closed parsing. A real native acquisition subsequently passed the same independent admission path. Dedicated selection and player preferences preserved other owners' rules. Manually selected packs remained explicit operator fulfillment, rather than being given invented acquisition history.
+
+Two failed approaches remained visible. An asynchronous metadata-stop transition required observed-state reconciliation, and a helper review arrived after activation despite prior plan review. Later verification and future hardening did not erase that procedural gap. Repeated search-admission holds also revealed disabled monitoring on still-requested missing items; repair preserved exact preimages and readbacks rather than changing global defaults.
+
+This is a bounded engineering checkpoint. Wider source availability and transfer recovery continued separately; a search acknowledgement, selected caption or successful import does not establish universal completion, subjective playback quality or synchronized dialogue.

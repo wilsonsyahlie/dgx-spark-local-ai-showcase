@@ -2825,3 +2825,8 @@ Combining a protected edit and focused checks reduced handoffs, but a neutral re
 ## October 2026 — Stop at the unmet gate
 
 A reusable scene foundation passed bounded correctness checks after a loading-boundary repair. An unclosed request stopped the second comparison arm, so automatic guidance and speed claims remained held. [Retrospective](case-studies/local-3d-starter.md).
+
+
+## October 2026 — Keep recovery evidence narrower than the promise
+
+A language-admission investigation recovered completed historical items and verified one scoped original-language path. Player selection, asynchronous state changes and a late helper review required separate evidence. Broader fulfillment stayed explicitly open. [Retrospective](case-studies/LANGUAGE-ADMISSION.md#retrospective-distinguish-policy-provenance-and-player-choice).

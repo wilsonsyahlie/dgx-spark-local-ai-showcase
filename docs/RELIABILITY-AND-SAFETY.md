@@ -442,3 +442,8 @@ A missing acknowledgement is an uncertain outcome. Preserve the original request
 ## Keep a verdict narrower than its evidence
 
 In one publishing case, typed observations of control state, repeated actions and refresh replaced broad visual approval. Missing coverage stayed unresolved. Independent review and broken fixtures tested the checker itself; neither successful interaction nor an image opinion certified full product quality.
+
+
+## Preserve the distinction between requests and outcomes
+
+A requested stop is not observed stopped state, a successful search is not a completed transfer, and a caption track's presence is not its selection or synchronization. Historical recovery should preserve exact provenance and existing data. A late review is a recorded procedural gap even when later checks verify the resulting state.

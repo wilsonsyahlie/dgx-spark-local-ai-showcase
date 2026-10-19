@@ -1426,3 +1426,8 @@ Twenty-two control groups passed in two environments; a neutral native repair pa
 ## Reusable scene foundation: correctness without a speed claim
 
 Nine copier controls, five module syntax checks and ninety-six actual rendered observations qualified bounded functionality. Five broken variants were rejected. The unchanged production browser engine rejected the original loading boundary and accepted the minimal repair, including a delayed-network diagnostic. Native output was correct, but a new unclosed request blocked the second comparison arm. Automatic guidance remained unpromoted; matched speed and repaired-revision native performance remained untested. [Retrospective](case-studies/local-3d-starter.md).
+
+
+## Language-admission recovery checkpoint
+
+Repeated source qualification, natural destination receipts and player file joins supported two historical recoveries. A real scoped original-language acquisition also passed admission. The case study retains metadata-stop and review-order failures. Wider source availability, physical playback and caption timing remain outside the demonstrated checkpoint.
