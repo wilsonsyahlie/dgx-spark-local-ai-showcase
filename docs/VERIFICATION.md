@@ -1398,3 +1398,10 @@ Twenty-one focused discovery checks and twenty-nine retained admission controls 
 ### 2026-10-19 — Future completed-item discovery checkpoint
 
 Forty-two future-discovery controls plus twenty-one recovery and twenty-nine original controls passed. Reviewed activation, natural calendar execution, matched started/final receipts, next-run state, alternating branch priority and durable suppressed overlap were measured. One hundred forty-four selected recovery targets have verified destination identities and library visibility. Genuine subsequent-request end-to-end completion, a new film import and physical playback remain unproven; transfer and admission qualification are ongoing. Rollback preserves current state and unknown submission reservations.
+
+
+### 2026-10-19 — Completed-path and catalog-scope verification
+
+This follow-up supersedes the earlier pending-transfer checkpoint. Ninety-five production controls cover original admission, scoped recovery and future discovery, including completed sources retained under a configured incomplete location. The subsequent requested batch passed repeated audio/caption qualification, bounded copy generations, retained-source checks and actual destination/library episode coverage. Provider season grouping was corrected through episode identity, order and air-date comparison. Existing library files and other preferences were preserved.
+
+Explicit operator fulfillment is distinguished from the still-unproven generic future-native-history import test. A new film import, physical playback and caption timing remain untested; broader source availability is not guaranteed. No automatic import bypass, fake history or database rewind was used. See the [retrospective](COMPLETED-MEDIA-ADMISSION.md).

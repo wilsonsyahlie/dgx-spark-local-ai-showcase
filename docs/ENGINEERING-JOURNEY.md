@@ -2797,3 +2797,10 @@ Diagnosed completed downloads hidden by the native manager while automatic impor
 ### 2026-10-19 — Qualifying the next completion
 
 Extended completed-item discovery with bounded ownership evidence, fair processing and explicit failure when policy is missing. Ninety-two checks and natural scheduled execution passed; a genuine later request remains in transfer and admission qualification, so end-to-end future completion is still unproven. [Retrospective](COMPLETED-MEDIA-ADMISSION.md).
+
+
+### 2026-10-19 — Completed-path and catalog-scope verification
+
+This follow-up supersedes the earlier pending-transfer checkpoint. Ninety-five production controls cover original admission, scoped recovery and future discovery, including completed sources retained under a configured incomplete location. The subsequent requested batch passed repeated audio/caption qualification, bounded copy generations, retained-source checks and actual destination/library episode coverage. Provider season grouping was corrected through episode identity, order and air-date comparison. Existing library files and other preferences were preserved.
+
+Explicit operator fulfillment is distinguished from the still-unproven generic future-native-history import test. A new film import, physical playback and caption timing remain untested; broader source availability is not guaranteed. No automatic import bypass, fake history or database rewind was used. See the [retrospective](COMPLETED-MEDIA-ADMISSION.md).
