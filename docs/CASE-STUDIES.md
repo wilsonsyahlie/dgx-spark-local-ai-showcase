@@ -1165,3 +1165,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [Whole-task non-thinking](case-studies/whole-task-nonthinking.md): complete-task timing and a below-target result that was not promoted.
 
 - [Batched edit verification](case-studies/batched-edit-verification.md): reviewed mutation safeguards and truthful reporting when the efficiency goal is missed.
+
+- [Reusable 3D foundation](case-studies/local-3d-starter.md): real loading-boundary qualification, an unclosed request gate and an unevaluated speed target.

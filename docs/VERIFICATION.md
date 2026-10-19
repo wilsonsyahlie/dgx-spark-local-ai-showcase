@@ -1422,3 +1422,7 @@ Fourteen independent cases passed in both modes, with source/history preservatio
 ## Bounded action, bounded evidence
 
 Twenty-two control groups passed in two environments; a neutral native repair passed fourteen independent cases. The three-call target failed, and the model made a wrong explanatory claim. Source execution, available prompt evidence and performance claims remained separate. [Retrospective](case-studies/batched-edit-verification.md).
+
+## Reusable scene foundation: correctness without a speed claim
+
+Nine copier controls, five module syntax checks and ninety-six actual rendered observations qualified bounded functionality. Five broken variants were rejected. The unchanged production browser engine rejected the original loading boundary and accepted the minimal repair, including a delayed-network diagnostic. Native output was correct, but a new unclosed request blocked the second comparison arm. Automatic guidance remained unpromoted; matched speed and repaired-revision native performance remained untested. [Retrospective](case-studies/local-3d-starter.md).

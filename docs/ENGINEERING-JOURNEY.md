@@ -2821,3 +2821,7 @@ A complete-task comparison produced correct code sooner, but missed its agreed s
 ## October 2026 — Separate working functionality from a missed efficiency goal
 
 Combining a protected edit and focused checks reduced handoffs, but a neutral repair still used four main calls against a maximum-three target. Independent correctness passed; no general speed claim followed. [Retrospective](case-studies/batched-edit-verification.md).
+
+## October 2026 — Stop at the unmet gate
+
+A reusable scene foundation passed bounded correctness checks after a loading-boundary repair. An unclosed request stopped the second comparison arm, so automatic guidance and speed claims remained held. [Retrospective](case-studies/local-3d-starter.md).
