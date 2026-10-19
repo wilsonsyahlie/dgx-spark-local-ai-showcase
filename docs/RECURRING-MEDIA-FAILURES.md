@@ -52,3 +52,20 @@ The transfer client later reported much less progress even though substantial fi
 A supported shorter checkpoint interval reduced stale-state exposure. Readback accounted for both legitimate omitted defaults and deferred configuration writes, while failed or empty reads remained errors. Natural saved-state updates during real transfer retained the source and selection. Tests also exercised the actual archive verifier with corrupted bytes and metadata, rather than substituting a failed unrelated command.
 
 The evidence did not prove the underlying partfile cause, a shutdown timeout, safe crash recovery or complete delivery. Future schedule boundaries and human caption timing stayed open. These distinctions are part of the engineering result, not qualifications to remove for a cleaner success story. This retrospective contains no production topology, configuration or deployment procedure.
+
+
+## Retrospective: ETA did not prove a stalled transfer
+
+An investigation distinguished an actual removal actor from another service that had merely recorded strikes. The observed source had no progress, so actor attribution alone did not show that a healthy transfer was deleted. The classification defect was established separately: a parser discarded byte evidence and treated missing ETA as no progress, including paused and growing inputs.
+
+The repair retired only the flawed stall decisions and the shortcut that repeated their old recorded removals. Other safety checks and historical records remained intact. Mocked tests executed the actual function and verified that old stall records still reached those independent checks. A separate guard treated privacy as unknown until metadata positively established it, and held both removal paths before action intent when that evidence was absent. No destructive live canary was created.
+
+Packaging verification caught its own errors. An intermediate restrictive copy and final permission change were legitimate distinct layers; demanding the final permission in every historical layer was the wrong assertion. The corrected audit required the exact transition and final state while retaining strict content, path and unexpected-file checks. A normal later timer run had empty queues. That established scheduling, not a real eligible-item branch; an automatic startup cycle was not substituted for the later run.
+
+## Retrospective: a filename could conceal the wrong episode
+
+A later content check showed that a plausible episode filename contained the next episode's exact source bytes. Publishing only the missing filename would have duplicated the mistake. Independent identities and complete hashes justified correcting the existing content first, while preserving its original inode and bytes for rollback.
+
+The preferred exchange operation failed safely in a non-media fixture. The record retained the failure without inventing an error cause that had not been captured. A separately reviewed atomic replacement preserved the original and preceded create-only publication. Atomic rename was not described as compare-and-swap, and lost acknowledgment remained an inspection case rather than permission to retry. Registration and player visibility stayed separate from correct bytes.
+
+The earlier finite recovery also progressed from resumed transfer to verified library/player joins and naturally completed request state. That did not prove human caption timing or every future source. A related shutdown candidate was tested in isolated non-media process stacks, where the baseline exited before a delayed checkpoint and the candidate waited for it. Those established-client results did not justify production activation or claims about startup races, enforced deadlines or natural backup behavior. This retrospective includes no production topology, configuration or deployment procedure.
