@@ -2793,3 +2793,7 @@ A smaller vision candidate fitted safely but retained important visual mistakes 
 ### 2026-10-19 — Completed media admission recovery
 
 Diagnosed completed downloads hidden by the native manager while automatic imports were disabled. A narrowly scoped metadata discovery repair retains audio/caption admission, storage-only payload handling and durable uncertain-outcome holds. See [the recovery record](COMPLETED-MEDIA-ADMISSION.md). A real scheduled import passed retained-source, destination qualification and library-visibility checks before recovery expanded. Broader coverage and physical playback are not claimed.
+
+### 2026-10-19 — Qualifying the next completion
+
+Extended completed-item discovery with bounded ownership evidence, fair processing and explicit failure when policy is missing. Ninety-two checks and natural scheduled execution passed; a genuine later request remains in transfer and admission qualification, so end-to-end future completion is still unproven. [Retrospective](COMPLETED-MEDIA-ADMISSION.md).

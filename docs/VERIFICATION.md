@@ -1394,3 +1394,7 @@ Automatic publishing review has explicit fault controls and finite-image limits;
 ### Completed-media admission recovery
 
 Twenty-one focused discovery checks and twenty-nine retained admission controls cover native-queue suppression, owner/category/storage binding, incomplete/ambiguous sources, hash rebinding, monitored targets and uncertain outcomes. Actual scheduled import, retained storage-side sources and qualified destination files passed for the initial season. Scope expansion was limited to the independently reviewed current-request selection; see the dated recovery case study. No playback acceptance is claimed.
+
+### 2026-10-19 — Future completed-item discovery checkpoint
+
+Forty-two future-discovery controls plus twenty-one recovery and twenty-nine original controls passed. Reviewed activation, natural calendar execution, matched started/final receipts, next-run state, alternating branch priority and durable suppressed overlap were measured. One hundred forty-four selected recovery targets have verified destination identities and library visibility. Genuine subsequent-request end-to-end completion, a new film import and physical playback remain unproven; transfer and admission qualification are ongoing. Rollback preserves current state and unknown submission reservations.
