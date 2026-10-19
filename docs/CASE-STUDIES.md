@@ -1155,3 +1155,7 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [A smaller model still had to earn the switch](case-studies/small-vision-candidate-gate.md): use a fixed decision gate and preserve negative evidence.
 
 - [Visual review at publication](case-studies/automatic-publish-visual-review.md): make evidence and repair limits part of the ordinary workflow.
+
+## Observed behavior before handoff
+
+[This retrospective](case-studies/deterministic-browser-handoff.md) explains why a working interface and good visual design require different evidence.

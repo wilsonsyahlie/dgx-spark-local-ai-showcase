@@ -437,3 +437,8 @@ An analysis capability should identify the selected target, preserve source iden
 ### Never replay an uncertain investigation
 
 A missing acknowledgement is an uncertain outcome. Preserve the original request identity, avoid automatic replay and require positive evidence before declaring cancellation or completion. Failure in persistence, process observation or signalling must not bypass cleanup. Apply approval restrictions at the receiving service as well as the page. Preserve clarification drafts while background status checks run.
+
+
+## Keep a verdict narrower than its evidence
+
+In one publishing case, typed observations of control state, repeated actions and refresh replaced broad visual approval. Missing coverage stayed unresolved. Independent review and broken fixtures tested the checker itself; neither successful interaction nor an image opinion certified full product quality.

@@ -1405,3 +1405,8 @@ Forty-two future-discovery controls plus twenty-one recovery and twenty-nine ori
 This follow-up supersedes the earlier pending-transfer checkpoint. Ninety-five production controls cover original admission, scoped recovery and future discovery, including completed sources retained under a configured incomplete location. The subsequent requested batch passed repeated audio/caption qualification, bounded copy generations, retained-source checks and actual destination/library episode coverage. Provider season grouping was corrected through episode identity, order and air-date comparison. Existing library files and other preferences were preserved.
 
 Explicit operator fulfillment is distinguished from the still-unproven generic future-native-history import test. A new film import, physical playback and caption timing remain untested; broader source availability is not guaranteed. No automatic import bypass, fake history or database rewind was used. See the [retrospective](COMPLETED-MEDIA-ADMISSION.md).
+
+
+## Browser handoff retrospective
+
+The linked case distinguishes observed control transitions, repeated-action and refresh outcomes from visual fidelity. Hidden ancestors, transient controls, caught errors and a misleading negative fixture were treated as separate regression concerns. [Read the limits](case-studies/deterministic-browser-handoff.md).
