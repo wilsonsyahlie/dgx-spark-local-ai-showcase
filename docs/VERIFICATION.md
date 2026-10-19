@@ -1410,3 +1410,7 @@ Explicit operator fulfillment is distinguished from the still-unproven generic f
 ## Browser handoff retrospective
 
 The linked case distinguishes observed control transitions, repeated-action and refresh outcomes from visual fidelity. Hidden ancestors, transient controls, caught errors and a misleading negative fixture were treated as separate regression concerns. [Read the limits](case-studies/deterministic-browser-handoff.md).
+
+## Patch proposal experiment
+
+Strict parser/scope/status controls and one neutral native repair supported bounded functionality. Reported generation time is separated from complete task time, with no comparative gain asserted. The [retrospective](case-studies/bounded-patch-proposals.md) retains procedural misses and unresolved bookkeeping debt.

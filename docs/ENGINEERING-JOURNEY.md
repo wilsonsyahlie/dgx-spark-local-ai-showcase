@@ -2809,3 +2809,7 @@ Explicit operator fulfillment is distinguished from the still-unproven generic f
 ## October 2026 — Observe behavior before approval
 
 A publishing experiment separated control and refresh observations from uncertain visual judgments. Review exposed invisible ancestors, transient controls and misleading fixtures. [Retrospective](case-studies/deterministic-browser-handoff.md).
+
+## October 2026 — Bound generation without trusting it
+
+A small repair experiment separated short patch proposals from protected editing and browser observations. Functional evidence passed; general speed and perfect procedural adherence were not established. [Retrospective](case-studies/bounded-patch-proposals.md).
