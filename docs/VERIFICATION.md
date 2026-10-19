@@ -1464,3 +1464,8 @@ Positive startup-boundary evidence, a second-launch control, exact synthetic han
 Bounded evidence covers a shared-parser edition collision, retained wrong bytes, protected native/player associations, actual checkpoint modes and reopen preservation, and negative partial-intent controls. A pre-signal runtime-endpoint hold remains a failed attempt with positive phase evidence; it was not relabeled as successful deployment. Natural maintenance, continued deployment, complete fulfillment and human subtitle timing remained unproved. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-agreement-is-not-independent-evidence).
 
 A later separately reviewed live replacement preserved session state and selectively resumed only owned eligible work. Narrow socket qualification and negative durability controls supported that result. An overbroad journal export was corrected before continuation, with raw records retained privately and only sanitized projections exported. This remains bounded recovery evidence; natural scheduled maintenance and complete fulfillment were not established.
+
+
+### Caption delivery and cleanup ownership retrospective
+
+Bounded evidence covers preserved language settings, explicit caption tracking, exact player and physical file sizes, and selected caption bytes matching stored sidecars. It also covers exact-source cleanup guards, preserved unrelated behavior and negative ownership/lock controls without destructive media tests. Human synchronization, genuine future default adoption, natural scheduled delivery, complete fulfillment and later maintenance remained unproved. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-empty-does-not-mean-complete).

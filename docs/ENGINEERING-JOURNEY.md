@@ -2854,3 +2854,6 @@ A retrospective cleanup repair separated absent ETA from measured progress and p
 
 
 A later retrospective showed that acquisition and import could share the same wrong interpretation. Independent edition evidence, byte-preserving retention and exact player associations corrected that collision. Real checkpoint fixtures and partial-intent failures then clarified why unchanged timestamps, file existence and process exit are separate evidence. A runtime-endpoint hold was retained rather than replayed. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-agreement-is-not-independent-evidence).
+
+
+Another retrospective separated untracked captions from successful delivery. A bounded default change and exact player-served caption bytes established more than an empty missing list or a matching filename. Manual recovery also needed explicit ownership at the cleanup boundary, with negative controls and natural-run limits recorded separately. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-empty-does-not-mean-complete).

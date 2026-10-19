@@ -95,3 +95,14 @@ The first deployment attempt held on a runtime endpoint mistakenly included in p
 A separately admitted continuation later completed the bounded replacement, preserving session settings, file selections, verified pieces and original stopped jobs. Only eligible transfers owned by the earlier maintenance attempt resumed. Runtime and persistent-artifact checks were separate from successful startup; the old artifact remained retained. Natural scheduled maintenance was still unverified.
 
 The review also caught excessive evidence export: a raw observe record could carry private tracker metadata. Validation stayed beside the private records and exported a small approved projection plus hashes. The affected control evidence was sanitized only after a private verified preimage existed. The lesson applies to verification itself: a receipt should prove the claim without becoming a new copy of sensitive operational data.
+
+
+## Retrospective: empty does not mean complete
+
+A series with no caption profile reported no missing captions. That empty list meant the work was untracked. A supported setting enabled the existing language default for future additions, and a narrowly scoped assignment corrected the affected existing series while preserving other assignments and unrelated settings. Installed insertion behavior, stored configuration and current caption delivery were checked as separate properties; a real new addition and later scheduled delivery remained unproved.
+
+Recovered English captions passed content-language and cue-coverage checks, including usable hearing-impaired variants. One video still had stale player size metadata despite agreeing physical and native-catalog sizes. A backed-up scoped refresh reconciled the player without rewriting the video. Exact coordinates and sizes then agreed, and selected caption streams fetched in memory on the storage host matched the stored sidecars byte for byte. Those checks did not prove human-heard synchronization or an entirely fulfilled request.
+
+A second boundary involved cleanup ownership. A source intentionally separated from automatic import could look orphaned. A narrow guard checked independently reviewed identity and file selection before removal; absent or malformed protection held the source rather than claiming success. Publication shared cleanup's lock and preserved unrelated behavior, schedules and state. Negative fixtures and positive lock ordering supported that bounded protection without deleting real media. Valid protection, payload completion and a natural cleanup cycle remained separate gates.
+
+Read-only admission failures also exposed a wildcard used where a literal schema prefix was intended. Actual schema inspection and independent review corrected the assumption; failed attempts remained failures. This non-deployable retrospective does not promise complete availability, future source health or universal failure immunity.
