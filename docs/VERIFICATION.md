@@ -1457,3 +1457,10 @@ Bounded evidence covers independent schedule-preservation checks after a recorde
 ### Shutdown qualification retrospective
 
 Positive startup-boundary evidence, a second-launch control, exact synthetic handoff tests, terminal-observer regression and a never-started configuration clone support bounded artifact qualification. An earlier observer failure and explicit deadline failures remain distinct from passes. Complete episode registration reached natural request availability. Live replacement and natural maintenance remained unverified at that checkpoint; wider fulfillment and human caption timing remain open. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-test-the-shutdown-boundary-and-the-observer).
+
+
+### Independent identity and action authority retrospective
+
+Bounded evidence covers a shared-parser edition collision, retained wrong bytes, protected native/player associations, actual checkpoint modes and reopen preservation, and negative partial-intent controls. A pre-signal runtime-endpoint hold remains a failed attempt with positive phase evidence; it was not relabeled as successful deployment. Natural maintenance, continued deployment, complete fulfillment and human subtitle timing remained unproved. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-agreement-is-not-independent-evidence).
+
+A later separately reviewed live replacement preserved session state and selectively resumed only owned eligible work. Narrow socket qualification and negative durability controls supported that result. An overbroad journal export was corrected before continuation, with raw records retained privately and only sanitized projections exported. This remains bounded recovery evidence; natural scheduled maintenance and complete fulfillment were not established.
