@@ -1441,3 +1441,8 @@ An approved request is not necessarily pending. Previously available or deleted 
 ### Superseding retention and recovery limits
 
 The earlier stopped-transfer data-preservation statement was limited to that checkpoint. Later legacy cleanup removed the client jobs; retained partial data is unproved, and excluded previously available items were not restored. Progress resets, native import verification and local authentication support distinct bounded repairs. Negative-only future defaults have supported-API and authoritative stored-state verification. Automatic track selection is deployed with a natural already-correct check. Subsequent new-request routing, new-import selection and wider fulfillment still require separate live proof. See the [recovery retrospective](RECURRING-MEDIA-FAILURES.md).
+
+
+### Superseding new-import and request-lifecycle evidence
+
+Later natural imports established destination/source identity and selected native-audio/English-caption metadata, superseding the earlier new-import limit. Independent caption provenance and human timing remain unproved. Isolated lifecycle controls, runtime-user artifact checks, protected activation, real-volume persistence and fresh natural schedule receipts support the bounded request-handling repair. A genuine subsequent approval and universal availability remain untested. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-keep-identity-stable-across-different-season-models).

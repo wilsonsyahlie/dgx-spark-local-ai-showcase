@@ -15,3 +15,14 @@ Negative-only language rules were subsequently activated with combination contro
 This retrospective does not claim universal source availability, complete recovery, future routing, subjective playback quality or dialogue synchronization. It contains no production configuration or deployment procedure. [Verification boundaries](VERIFICATION.md) remain part of the result.
 
 A capacity blocker revealed another faulty assumption: repeated acquisition records need not advertise identical sizes before metadata arrives. The correction uses fresh ownership evidence and the largest positive estimate while retaining the storage reserve. A real size replaces the estimate when available. Mixed batches still require independent requested-file identity; metadata inspection alone is never reported as completion.
+
+
+## Retrospective: keep identity stable across different season models
+
+Two metadata providers grouped the same programme differently. Matching their season numbers left requested episodes outside monitoring. The repair carried independently positive episode identities through a durable new-approval outbox, rather than treating season ordinals as interchangeable. Database visibility, later episode publication, manual overrides, existing files and uncertain prior actions each needed their own lifecycle rule. An erroneous upstream identity remained visible as an unresolved case.
+
+A default change also failed to affect existing entries. A bounded migration required an equivalent quality profile and current language-rule definitions, with separate checks for the owner's actual assignment and original language. Unknown write outcomes stayed reserved. A failed negative test exposed mutable preimage references; independent copies repaired that cause. Isolated controls, actual runtime-user artifact inspection, preserved settings and durable natural schedule receipts supported deployment. Genuine later approval behavior remained untested until a real new request occurred.
+
+Subsequent natural imports verified exact destination/source identities and selected native-audio/English-caption metadata. This supersedes the earlier new-import evidence limit, while caption provenance and human timing remain unproved. Recognized short ancillary clips were retained without importing them; unknown extras still held.
+
+The recovery report needed scrutiny too: counting equal native season numbers could conceal missing later episodes. Explicit crosswalks and unresolved-member accounting made the report more conservative. Client disappearance also could not prove payload disappearance, so known roots remained tracked until readable coverage or positive absence was established. These results support bounded engineering claims, not universal availability or a promise that no future failure can occur. No production topology, configuration or deployment procedure is included here.

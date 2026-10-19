@@ -2840,3 +2840,8 @@ A later pending-only clarification exposed an unauthorized expansion into previo
 ### Recurring failures required separate evidence
 
 The earlier stopped-transfer data-preservation statement was limited to that checkpoint. Later legacy cleanup removed the client jobs; retained partial data is unproved, and excluded previously available items were not restored. Progress resets, native import verification and local authentication support distinct bounded repairs. Future defaults, automatic track selection and wider fulfillment require separate live proof. See the [recovery retrospective](RECURRING-MEDIA-FAILURES.md).
+
+
+### Stable identities needed a durable lifecycle
+
+A retrospective repair carried positive episode identities across different season models and planned existing-entry language changes only within equivalent quality settings. Failed preimage tests and deployment representation holds remained in the evidence. Natural scheduling and later imports passed bounded checks; genuine future approval behavior and broader fulfillment stayed open. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-keep-identity-stable-across-different-season-models).
