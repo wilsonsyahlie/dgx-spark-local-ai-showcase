@@ -1549,3 +1549,10 @@ This retrospective does not claim complete request delivery, production checkpoi
 A small source extension passed whole-file copy checks, prior-file preservation and separate selected-text qualification. A subsequent metadata-only acquisition passed stopped, public and zero-payload checks. Its exact cleanup guard passed positive and negative controls, including missing leases and changed identities; live installation preserved earlier protection.
 
 The action validator requires current catalogs for its explicit target season and gives frozen nonaction evidence no acquisition authority. This retrospective does not claim completion of that later acquisition, all requests, natural checkpoint persistence, human synchronization or translation. It contains no production configuration, private media, current topology, operational identifiers or deployable instructions.
+
+
+### 2026-10-20 — Contract and partial-version regression checks
+
+The verified checkpoint covers a completed bounded copy, prior-file preservation, selected-text checks and separate image-track bindings. Timestamp regression tests require malformed new intents to create no receipt or submission, while valid work can progress with explicit durable attention. Actual version-pair tests cover interruption after the first publication.
+
+Independent review checked the deployed artifacts, backup integrity and preservation of prior control records. A natural worker turn verified legitimate work without an injected malformed production record. Unrelated policy holds stayed visible. Complete request delivery, future-source availability, natural backup persistence, translated image text and human synchronization remain outside this checkpoint's claims. No production configuration, private media, live topology, operational identifiers or deployable commands are included.

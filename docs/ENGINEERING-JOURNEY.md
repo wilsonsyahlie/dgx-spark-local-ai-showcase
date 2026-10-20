@@ -2938,3 +2938,8 @@ A media-recovery audit exposed an evidence mismatch: the source contained a qual
 ### 2026-10-20 — Bind durable protection to the source actually present
 
 A retained-source extension completed its copy and selected-caption checks without replacing earlier files. The next acquisition exposed a subtler control gap: a frozen protection specification was correct, but the activation controller still needed to verify that the current source and receipt matched it. Independent review caught the missing dispatch-time comparison before installation.
+
+
+### 2026-10-20 — Repair the contract at both ends
+
+A recovery completed another bounded file set with matching copy hashes and preservation checks. Its more consequential lesson came from bookkeeping: a producer wrote numeric timestamps while a consumer expected aware UTC strings, allowing one malformed record to stop unrelated work. Historical catchup repaired the current state; validation before creation and visible per-record isolation prevented the same failure pattern from returning through the normal writer.

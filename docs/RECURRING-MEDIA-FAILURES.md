@@ -236,3 +236,12 @@ A source-protection rule may correctly describe an intended artifact while its c
 Metadata availability also needs careful boundaries. A stalled lookup for a season outside the action scope should not silently authorize cached data for requested targets. A bounded validator can require fresh catalogs for every action target while retaining immutable nonaction evidence explicitly without acquisition authority. A UI-route timeout does not establish a failure in a separate mapper that already uses finite deadlines.
 
 Cleanup protection, payload progress, copy integrity, selected-caption content and human synchronization remain distinct acceptance claims. A successful earlier phase does not imply the next one.
+
+
+### Reject bad records early; keep independent work moving visibly
+
+Fixing one record is weaker than fixing its contract. New acquisition intents now require a valid timestamp before creation. A narrowly isolated historical parsing error produces durable attention without stopping independently valid records. This is not blanket exception handling: configuration and integrity failures still hold, unknown writes remain reserved, and held-only work is never reported as healthy idle.
+
+Publication order mattered too. Testing the actual partial-version combinations revealed that a new consumer could expose an attention field an old orchestrator did not understand. Publishing the orchestrator first preserved visible failures through interruption. Two ordered atomic replacements with backups and no-replay handling were described precisely, rather than called one atomic transaction.
+
+Acceptance also stayed specific to the selected artifact. Decoded text captions received language and cue-span checks. Image captions received physical stream and identical-copy lineage checks without pretending that their text had been decoded. A successful copy, a selected track and synchronized human playback remain different claims.
