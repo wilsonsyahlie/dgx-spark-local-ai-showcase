@@ -2857,3 +2857,6 @@ A later retrospective showed that acquisition and import could share the same wr
 
 
 Another retrospective separated untracked captions from successful delivery. A bounded default change and exact player-served caption bytes established more than an empty missing list or a matching filename. Manual recovery also needed explicit ownership at the cleanup boundary, with negative controls and natural-run limits recorded separately. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-empty-does-not-mean-complete).
+
+
+A subsequent retrospective separated verified season fulfillment from recurring search-policy failures. Cutoff status was insufficient authority for an upgrade, and an existing-file endpoint could not prove automatic-import admission. Preserved failures, exact runtime boundaries and a normal timed canary made those distinctions reviewable. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-permission-is-part-of-correctness).

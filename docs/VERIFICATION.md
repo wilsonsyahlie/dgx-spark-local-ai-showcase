@@ -1469,3 +1469,6 @@ A later separately reviewed live replacement preserved session state and selecti
 ### Caption delivery and cleanup ownership retrospective
 
 Bounded evidence covers preserved language settings, explicit caption tracking, exact player and physical file sizes, and selected caption bytes matching stored sidecars. It also covers exact-source cleanup guards, preserved unrelated behavior and negative ownership/lock controls without destructive media tests. Human synchronization, genuine future default adoption, natural scheduled delivery, complete fulfillment and later maintenance remained unproved. See the [retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-empty-does-not-mean-complete).
+
+
+A subsequent retrospective verified fulfillment independently from request status and a permission repair through an ordinary timed cycle. A separate actual-file import candidate passed isolated before/after and compiled metadata checks; live activation and broader delivery were not inferred. [Evidence boundaries](RECURRING-MEDIA-FAILURES.md#retrospective-permission-is-part-of-correctness).
