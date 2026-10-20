@@ -2884,3 +2884,12 @@ A further retrospective separated embedded-caption qualification from actual pla
 An additive discovery change reached a running service and preserved its original results while finding more candidates. A later ordinary feed completed through that deployment. The next investigation found a different recurring cause: a provider requested slower physical calls, while independent consumers amplified short throttles into long cooldowns. A narrow pacing proposal passed compiled, concurrency, running-fixture and graceful-drain checks; its production acceptance remained a separate unfinished step.
 
 A larger copy recovery also passed byte checks and exact catalog joins. Selected caption text matched the qualified source, but a strict timestamp check retained two failures. Recorded automatic synchronization explained the uniform transformation without proving human-heard correctness. Unknown dates and incomplete request/query bindings were also changed into explicit audit holds. The common lesson was to repair measured causes while retaining evidence that limits the completion claim.
+
+
+### Retrospective: repair cadence before clearing a cooldown
+
+The qualified pacing artifact was subsequently activated through a guarded replacement with consistent backups, exact running-artifact checks and protected configuration comparisons. The previous code remained available for rollback with current state. Live provider results and an ordinary scheduled feed supported the bounded activation claim. Physical cadence was measured in an isolated real runtime; production dispatch timing was left explicitly unmeasured rather than enabling broad sensitive logging.
+
+One downstream consumer still held an earlier long cooldown. A single supported test succeeded and cleared that block through the normal success path, preserving failure history and provider configuration. A consumer that had already recovered naturally was left unchanged. Positive connectivity and scheduled operation were treated as separate evidence.
+
+Another verifier initially interpreted a missing staging file as missing delivery. Positive import history and a stable retained library file established normal source consumption instead. Existing-source, dangling-symlink and changing-library cases remained rejected. Neither this evidence nor a language label established decoded image captions or human playback. A separate replacement-dispatch durability defect and further natural-run checks remained unresolved. This retrospective is non-deployable and makes no zero-failure guarantee.
