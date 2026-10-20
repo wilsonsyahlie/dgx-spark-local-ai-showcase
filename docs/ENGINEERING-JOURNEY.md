@@ -2877,3 +2877,10 @@ A recovery workflow demonstrated why logical file size, allocated bytes, transfe
 
 
 A further retrospective separated embedded-caption qualification from actual player selection, then separated a successful source build from a compatible runtime artifact. Exact content comparisons, emitted assembly identities and durable history exposed different evidence gaps. Held trials were retained and uncertain actions were not repeated. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-qualify-the-selected-track-and-the-deployed-build).
+
+
+### Retrospective: discovery, throttling and truthful holds
+
+An additive discovery change reached a running service and preserved its original results while finding more candidates. A later ordinary feed completed through that deployment. The next investigation found a different recurring cause: a provider requested slower physical calls, while independent consumers amplified short throttles into long cooldowns. A narrow pacing proposal passed compiled, concurrency, running-fixture and graceful-drain checks; its production acceptance remained a separate unfinished step.
+
+A larger copy recovery also passed byte checks and exact catalog joins. Selected caption text matched the qualified source, but a strict timestamp check retained two failures. Recorded automatic synchronization explained the uniform transformation without proving human-heard correctness. Unknown dates and incomplete request/query bindings were also changed into explicit audit holds. The common lesson was to repair measured causes while retaining evidence that limits the completion claim.

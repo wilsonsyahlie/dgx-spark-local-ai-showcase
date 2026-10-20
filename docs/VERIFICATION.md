@@ -1495,3 +1495,10 @@ Verified: accepted-action reconciliation, exact selection and sparse-state contr
 ### Selected content and emitted artifact retrospective
 
 Bounded evidence covers exact selected-caption text and timestamp equivalence, intact copies with prior-content preservation, forty-seven source and controller checks, measured dependency identities and healthy isolated query comparisons. A handoff was reconciled from durable records without replay. Human playback, remaining extended cases, broader fulfillment and production rollout were not claimed complete. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-qualify-the-selected-track-and-the-deployed-build).
+
+
+### Retrospective checkpoint: bounded recurrence tests
+
+A discovery deployment was checked with a live result-preserving query and a subsequent ordinary scheduled feed. A separate pacing candidate passed compiled controls, host-shared concurrency measurements, a running fixture, bounded queue latency and graceful shutdown with a pending request. Synthetic provider responses established transport behavior, not universal provider availability. An explicitly issued request after a throttle did not test an automatic retry policy. Production pacing activation and natural acceptance remained unfinished at this checkpoint.
+
+The copy recovery used source/destination hashes, preserved-file checks and exact catalog joins. Selected English caption text matched the qualified source. Two strict timestamp comparisons remained failed; per-file history and hash bindings explained a deliberate automatic transform separately. Translation, human-heard timing and device playback remained untested. Audit guards now retain unknown dates as unresolved and bind immutable request/query evidence. These are bounded verification results, not a universal availability or playback guarantee.
