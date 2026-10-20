@@ -1570,3 +1570,8 @@ This does not establish later-content-change monitoring, every pending request d
 The bounded follow-up passed generation, restart, reservation, dispatch and fairness controls, plus actual activation transaction and durability tests. Independent artifact and backup review passed. Ordinary scheduled revisits preserved both accepted caption outcomes without writes or false change generations.
 
 Deliberate production replacement, human synchronization and decoded image text remain untested. Separate request-status defects, remaining fulfillment and natural backup persistence remain unfinished. No private content, current topology, production identifiers or deployable commands are published.
+
+
+## October 2026 — Reconciliation evidence remains layered
+
+Large synthetic catalogues and actual-filesystem growth fixtures tested roster progress, restart, expiry, exact hardlink accounting, interrupted inventory and mutation refusal. Artifact and deployment checks then verified the running change and preserved evidence. Natural progress was observed, while complete fulfillment, external delivery and human synchronization remained unproved. A faster warm sample and a passing small fixture were explicitly insufficient. See [the retrospective](RECURRING-MEDIA-FAILURES.md#october-2026--pending-work-needs-progress-across-visits).

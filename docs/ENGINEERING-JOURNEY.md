@@ -2953,3 +2953,8 @@ A recovery preserved existing files and verified new copies, then found that a s
 ### 2026-10-20 — A verified result still needs a change boundary
 
 A one-time caption check could not detect a later replacement. A bounded watcher now revisits accepted targets, records unchanged selections without writes, and gives later changes fresh linked authority. Review corrected mutable-key starvation and a false-change observation after fallback. Natural scheduled revisits preserved both accepted outcomes. Other request-status and fulfillment work remains unfinished.
+
+
+## October 2026 — Durable progress crossed the scheduling and filesystem boundaries
+
+Request reconciliation needed more than a correct final-state predicate. Realistic rotating visits, provider latency and restart exposed lost progress. Exact wide-integer accounting then exposed a separate full-history scanning limit. A failed storage-only qualification was retained, and bounded incremental accounting was qualified before independently checked deployment. Natural progress was observed while missing identity and wider fulfillment limits remained explicit. See the [recurring media retrospective](RECURRING-MEDIA-FAILURES.md#october-2026--pending-work-needs-progress-across-visits).

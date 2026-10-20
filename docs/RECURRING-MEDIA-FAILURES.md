@@ -267,3 +267,23 @@ Review exposed a fairness problem: if the scheduling key changed with every gene
 Deployment encountered another useful boundary: an unchanged state history had gained a legitimate skipped-work receipt while the activation lock was held. The first attempt stopped without replacing code. The correction validates only that narrow concurrent addition and preserves its hash; arbitrary additions and changes remain failures. Final file and directory durability were tested before activation.
 
 Focused policy and real transaction controls passed. Natural observations revisited valid external and embedded selections without another write, and independent review checked deployed artifacts and preserved evidence. A real caption replacement was not deliberately injected; human synchronization and image-caption text remain unproved. This is a retrospective engineering result, not a zero-failure guarantee or deployment recipe.
+
+
+### October 2026 — Pending work needs progress across visits
+
+A background reconciler could look fair while making little durable progress. A long catalogue lost freshness between rotating visits, and restart discarded useful refresh knowledge. Small fast fixtures had missed the interaction. Realistic roster, latency, expiry and restart cases exposed it.
+
+The correction retained fair admission while giving bounded focused work a durable identity. Independent metadata fragments could progress within shared limits, but final completion still required fresh positive identities and fresh presence. A missing identity stayed a hold rather than becoming an ordinal guess.
+
+Filesystem accounting exposed two further mistakes. Wide inode identifiers had been rounded during deduplication. After exact accounting corrected that error, repeated full-history scans became the next limit. Faster warm storage was not sufficient evidence: a larger fixture failed. An incremental inventory with exact own-write updates addressed the repeated scanning instead.
+
+Review then found a subtle pause boundary. Directory validation resumed after a timeout without rechecking a directory already trusted in an earlier call. A closed validation pass fixed that gap while preserving enumeration progress. The design still assumes immutable history and a single writer; unsupported historical rewrites and growth beyond the measured envelope remain limitations.
+
+Focused, actual-filesystem and database controls preceded artifact qualification and independently checked deployment. Natural operation showed resumed work and later reconciliations. This is evidence of bounded progress and preservation, not proof that every requested item exists, every notification arrived or every caption is synchronized. The wider backlog remained unfinished.
+
+
+### Acknowledgment can outlive command history
+
+A recovery guard treated missing old command records as a reason to block unrelated future work. Some operations had durable terminal evidence; others had only known acknowledgments. The corrected protocol separates those cases. An acknowledged operation that is no longer retained does not become a successful operation. It can stop reserving an entire application only after complete current activity, queue, source ownership and target-absence checks. An unknown acknowledgment remains reserved.
+
+The caller is part of the proof. Review caught missing fallback evidence, incomplete final queue enumeration and deadlines checked before a potentially delayed intent write. Actual caller controls required zero submissions after receipt drift, incomplete queues or expiry. Program changes used ordered replacements under shared locks, and a fresh process verified the result. Original evidence was preserved; no old operation was replayed. Actual delivery and the wider backlog remained separate unfinished claims.
