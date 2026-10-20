@@ -1520,3 +1520,10 @@ Evidence covered ordinary scheduled provider recovery, preserved failure history
 
 
 A later isolated startup test initially used an authenticated route before setup and correctly failed its deadline. The process was healthy; a public setup-status response exposed the mistaken test assumption. The failed record was preserved, the fixture exited gracefully, and a separately reviewed readiness check was used for fresh runs. Original and unchanged-repacked executables passed startup and graceful-restart comparisons. The patched executable then passed empty-config startup and additive local-migration checks while retaining the original runtime assets. These observations still did not establish authenticated dispatch, lost-response recovery or natural production delivery. The next acceptance boundary required the application itself to produce every dispatch state from a real local request sequence.
+
+
+### Durable dispatch checkpoint — 2026-10-20
+
+Passed: 149 source cases; unchanged-contract and dependency checks; baseline and patched executable lifecycle checks; five real isolated scheduled cycles/two restarts/one physical submission; paused previous-code compatibility with migrated state; full deployment and recovery fault-path controls; exact row-level startup-maintenance and schema reconciliation; live program and persistent-setting verification; an ordinary production empty-work tick with truthful next-run state; one separate naturally imported file join and language check.
+
+Open: genuine eligible replacement dispatch, overnight checkpoint observation, full requested-cohort fulfillment and human playback. A successful empty tick or accepted search is not download delivery. The first activation remains recorded as held and contained; the separately admitted retained-process recovery is the live operation. No database rewind, original-intent replay, fabricated request or external test notification was used.
