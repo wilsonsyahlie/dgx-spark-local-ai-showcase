@@ -32,3 +32,8 @@ Covered: durable predecessor capture, actual metadata, consecutive serialized ed
 ### Investigation interface
 
 Coverage expanded from tool installation and actual agent invocation to retained investigation state, request identity, cancellation failures and responsive browser behavior. Optional analysis engines, uploads, universal explanation accuracy and a model-speed gain remain unestablished.
+
+
+### Selected-content retrospective
+
+Covered within the checkpoint: selected-text checks, current playback bindings, guarded publication, bounded worker lifetime and natural invalid/valid outcomes. Later subtitle replacements, separate status defects, full request delivery and human playback remain unproved. Image-track lineage is not decoded-caption evidence.

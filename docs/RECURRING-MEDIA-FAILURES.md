@@ -245,3 +245,14 @@ Fixing one record is weaker than fixing its contract. New acquisition intents no
 Publication order mattered too. Testing the actual partial-version combinations revealed that a new consumer could expose an attention field an old orchestrator did not understand. Publishing the orchestrator first preserved visible failures through interruption. Two ordered atomic replacements with backups and no-replay handling were described precisely, rather than called one atomic transaction.
 
 Acceptance also stayed specific to the selected artifact. Decoded text captions received language and cue-span checks. Image captions received physical stream and identical-copy lineage checks without pretending that their text had been decoded. A successful copy, a selected track and synchronized human playback remain different claims.
+
+
+### Preserve only after checking the selected content
+
+An English subtitle label did not prove that its selected text fit the video. Separate caption checks found a bounded timing failure while preserving the original evidence. The recurring defect was an acceptance shortcut that trusted metadata without reading the selected body. A new validator checks actual text on storage and binds its hash to the current media and playback selection. Inconclusive evidence holds; it does not authorize replacement.
+
+Review exposed a second race: audio could change during content validation while the caller still accepted an earlier snapshot. A final current-state check now precedes no-write acceptance. Uncertain writes retain their reservations rather than being repeated. Explicit verification generations preserve historical receipts instead of rewriting them into stronger claims.
+
+Hard runtime limits were tested where the work runs. Killing a caller alone was insufficient evidence. Delayed read and parser fixtures used durable entry markers to prove the intended method was reached, then verified bounded exit and no leftover worker. A faulty fixture injection and an accidentally overridden test-runner method remained recorded and were corrected before their results counted.
+
+Natural scheduled work exercised an invalid-caption fallback and a valid-caption no-write outcome, with prior files and other selections preserved. An embedded image track was qualified through physical metadata and copy lineage; its image text and human synchronization were not proved. Detection of later caption replacements remains unfinished. This retrospective describes evidence and limits, not a deployment recipe or a zero-failure guarantee.

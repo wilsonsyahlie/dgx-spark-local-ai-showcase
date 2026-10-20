@@ -2943,3 +2943,8 @@ A retained-source extension completed its copy and selected-caption checks witho
 ### 2026-10-20 — Repair the contract at both ends
 
 A recovery completed another bounded file set with matching copy hashes and preservation checks. Its more consequential lesson came from bookkeeping: a producer wrote numeric timestamps while a consumer expected aware UTC strings, allowing one malformed record to stop unrelated work. Historical catchup repaired the current state; validation before creation and visible per-record isolation prevented the same failure pattern from returning through the normal writer.
+
+
+### 2026-10-20 — A label was weaker than the selected content
+
+A recovery preserved existing files and verified new copies, then found that a selected caption's language label concealed a timing-bound failure. The repair moved content checks ahead of preservation and rechecked current playback state before accepting a no-write result. Natural scheduled observations demonstrated both replacement of a failed caption and preservation of a valid one. Later content changes and unrelated request-status defects remain separate unfinished work.

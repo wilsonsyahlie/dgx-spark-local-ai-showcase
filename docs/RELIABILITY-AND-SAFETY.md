@@ -457,3 +457,10 @@ An approved request is not necessarily pending. Previously available or deleted 
 ### Progress and provenance before automated recovery
 
 The earlier stopped-transfer data-preservation statement was limited to that checkpoint. Later legacy cleanup removed the client jobs; retained partial data is unproved, and excluded previously available items were not restored. Progress resets, native import verification and local authentication support distinct bounded repairs. Future defaults, automatic track selection and wider fulfillment require separate live proof. See the [recovery retrospective](RECURRING-MEDIA-FAILURES.md).
+
+
+### Current content and current playback state are separate checks
+
+A stable subtitle identifier can serve changed bytes. Validate content, bind it to the intended artifact, and check playback state again before accepting preservation. Distinguish a proved failure from insufficient evidence. Preserve unknown-write authority across retries instead of assuming silence permits another action.
+
+Test the runtime boundary beside the work: prove entry into delayed methods, bounded exit and absence of leftover workers. Check final file identity after slow dependencies and verify backup copies against their actual preimages. Test-runner lifecycle names must not become ordinary helper names. A passing fixture, deployed code, a natural observation and human playback remain distinct levels of evidence.

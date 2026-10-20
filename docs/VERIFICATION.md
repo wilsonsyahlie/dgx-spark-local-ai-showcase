@@ -1556,3 +1556,10 @@ The action validator requires current catalogs for its explicit target season an
 The verified checkpoint covers a completed bounded copy, prior-file preservation, selected-text checks and separate image-track bindings. Timestamp regression tests require malformed new intents to create no receipt or submission, while valid work can progress with explicit durable attention. Actual version-pair tests cover interruption after the first publication.
 
 Independent review checked the deployed artifacts, backup integrity and preservation of prior control records. A natural worker turn verified legitimate work without an injected malformed production record. Unrelated policy holds stayed visible. Complete request delivery, future-source availability, natural backup persistence, translated image text and human synchronization remain outside this checkpoint's claims. No production configuration, private media, live topology, operational identifiers or deployable commands are included.
+
+
+### 2026-10-20 — Current selected-content evidence
+
+The checkpoint passed focused content-policy and actual activation-transaction controls, storage-side current-caption checks, delayed-method entry and hard-lifetime tests, deployed artifact and backup preservation review, and two distinct natural scheduled outcomes: invalid fallback and valid no-write preservation. Existing content stayed intact. Earlier failed checks were retained rather than relabeled successful.
+
+This does not establish later-content-change monitoring, every pending request delivered, translated image captions, natural backup persistence or human synchronization. No private media, production configuration, current topology, operational identifiers or deployable commands are included.
