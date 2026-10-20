@@ -2866,3 +2866,6 @@ A subsequent retrospective followed a qualified import decision through bounded 
 
 
 Another retrospective retained intentional same-source failure history while resolving a failed acquisition truthfully. Historical locations were re-probed instead of forgotten, and a protected control transition released unrelated work without manufacturing success. Eligibility reporting was corrected independently from acquisition policy. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-preserve-failed-source-identity).
+
+
+The next checkpoint separated recovery retention from subtitle tracking. A narrow retention rule and a future English-subtitle default were verified while preserving unrelated behavior. A broader discovery query failed to preserve earlier results and was not promoted. Delivery and natural future-request acceptance remain separate unfinished work.

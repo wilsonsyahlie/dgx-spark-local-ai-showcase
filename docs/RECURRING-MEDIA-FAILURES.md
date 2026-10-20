@@ -145,3 +145,8 @@ A bounded historical registration carried observed identity and location into la
 Review caught incomplete backup durability, a merely reported reservation condition and missing ownership preservation before activation. Corrected controls preserved all three. A later failed-terminal transition joined stable failure history, complete client and queue absence and retained-root checks before a no-overwrite rename of a control record. Original bytes, uncertain-send evidence and the once-only intent remained intact. Failure was recorded as failure while unrelated admission could proceed.
 
 A separate report correction distinguished configured acquisition eligibility from home-release status without changing settings. This non-deployable retrospective establishes bounded accounting and recovery safeguards, not universal source availability, actual successful intake or immunity from future failures.
+
+
+A later repair exposed two different failure modes: recovery data needed narrowly scoped retention, while newly added animated series were not automatically tracked for English subtitles. The changes preserved existing cleanup behavior and unrelated language assignments. A test that accidentally checked the wrong fixture was replaced with positive acceptance and explicit rejection checks.
+
+The discovery experiment also demonstrated why finding more results is insufficient: the broader query omitted earlier results. That replacement was withheld. Protecting a source, accepting a search and verifying playable media remain separate milestones; automatic discovery and completed caption delivery were still unfinished at this checkpoint.

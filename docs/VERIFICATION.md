@@ -1482,3 +1482,6 @@ Bounded evidence covers authentic metadata controls, valid-source decision prese
 ### Failed-source accounting retrospective
 
 Bounded evidence covers initially registered historical identities, fresh location probes, retained negative and reappearance controls, protected atomic activation and a byte-preserving failed-terminal transition. Eligibility-report checks did not change policy. Source viability, successful new automatic intake and broader fulfillment remained unproved. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-preserve-failed-source-identity).
+
+
+New evidence covers preserved cleanup behavior, explicit retention acceptance and rejection, installed subtitle-parser insert/update controls, and live settings and assignment readback. A wrong-fixture test was superseded rather than counted as a pass. Actual caption delivery and alignment, a natural new-series addition and broader backlog delivery remain unverified; the discovery regression is retained as a failed check.
