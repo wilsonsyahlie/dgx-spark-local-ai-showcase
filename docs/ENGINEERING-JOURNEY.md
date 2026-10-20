@@ -2958,3 +2958,10 @@ A one-time caption check could not detect a later replacement. A bounded watcher
 ## October 2026 — Durable progress crossed the scheduling and filesystem boundaries
 
 Request reconciliation needed more than a correct final-state predicate. Realistic rotating visits, provider latency and restart exposed lost progress. Exact wide-integer accounting then exposed a separate full-history scanning limit. A failed storage-only qualification was retained, and bounded incremental accounting was qualified before independently checked deployment. Natural progress was observed while missing identity and wider fulfillment limits remained explicit. See the [recurring media retrospective](RECURRING-MEDIA-FAILURES.md#october-2026--pending-work-needs-progress-across-visits).
+
+
+### Close sibling consumers and verify delivery separately
+
+An expired-command assumption also blocked television recovery even though authentic completed receipts remained. The reviewed correction validates those receipts, preserves unknown outcomes and blocks new submissions when current ownership or activity is uncertain. A distinct manual-source reservation remains held; it cannot be cleared merely because another request has a different number.
+
+One movie canary then completed an actual download, import and exact player-file join. English audio and subtitle stream tags were measured, and availability changed through normal processing. The first premature status assertion remained recorded as a failure. This is bounded delivery evidence, not proof that every pending title has a usable release or that all subtitle timing is correct.

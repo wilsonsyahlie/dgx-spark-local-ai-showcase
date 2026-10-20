@@ -1575,3 +1575,10 @@ Deliberate production replacement, human synchronization and decoded image text 
 ## October 2026 — Reconciliation evidence remains layered
 
 Large synthetic catalogues and actual-filesystem growth fixtures tested roster progress, restart, expiry, exact hardlink accounting, interrupted inventory and mutation refusal. Artifact and deployment checks then verified the running change and preserved evidence. Natural progress was observed, while complete fulfillment, external delivery and human synchronization remained unproved. A faster warm sample and a passing small fixture were explicitly insufficient. See [the retrospective](RECURRING-MEDIA-FAILURES.md#october-2026--pending-work-needs-progress-across-visits).
+
+
+### Sibling retention correction and bounded delivery
+
+Seventeen focused television controls exercised receipt identity, retired acknowledgments, unknown outcomes, manual ownership holds and caller dispatch fences. Changed receipts or episodes, expired admission, active work and incomplete queues prevented submissions. Five installer controls covered backup corruption, contention, candidate drift and uncertain replacement without replay. The live source replacement preserved old receipts and passed fresh-process read-only admission. A separate manual anime source remains held.
+
+One movie passed actual storage download/import, stable full-file hashing, an exact player-file join, English audio/subtitle stream tags and naturally updated availability. Stream tags do not prove human language acceptance or dialogue synchronization. Whole-backlog fulfillment, external identity gaps and titles without usable releases remain open.
