@@ -1472,3 +1472,8 @@ Bounded evidence covers preserved language settings, explicit caption tracking, 
 
 
 A subsequent retrospective verified fulfillment independently from request status and a permission repair through an ordinary timed cycle. A separate actual-file import candidate passed isolated before/after and compiled metadata checks; live activation and broader delivery were not inferred. [Evidence boundaries](RECURRING-MEDIA-FAILURES.md#retrospective-permission-is-part-of-correctness).
+
+
+### Activation and delivery evidence remain separate
+
+Bounded evidence covers authentic metadata controls, valid-source decision preservation, unchanged installed dependencies, protected graceful replacement, running admission and a normal feed scan. A diagnostic source acquisition was correctly tracked but failed; a later control transition held before mutation. Shared uncertain-send reservations and late-state controls did not establish source viability, a genuine successful automatic import, universal availability or human timing. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-activation-was-not-delivery).

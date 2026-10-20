@@ -121,3 +121,16 @@ An import-policy investigation separately showed that search-time selection and 
 The initial runtime probe exercised an existing-file branch because of a query parameter. Tracing the controller corrected that mistake; the empty result and mistaken approval remained recorded. A resource-limited preparation failure also remained a failure, leading to bounded streaming verification of every cloned table instead of relaxing the comparison. The corrected isolated probe used the real retained source: the baseline accepted it below the configured floor and the candidate added only the expected rejection. Unchanged source bytes and otherwise identical decisions supported that result.
 
 This is a non-deployable engineering retrospective. Isolated rejection, a build and a scheduled permission canary are different evidence. They do not establish production admission of the separate candidate, repair excluded historical profiles, create unavailable sources or promise that every future transfer will succeed.
+
+
+## Retrospective: activation was not delivery
+
+A policy candidate moved beyond an isolated rejection only after authentic metadata tests, positive real-source cases and a complete installed-dependency comparison. Explicit manual behavior remained distinct from new automatic admission. Untagged original-language fallback was described as metadata behavior, without a speech-recognition claim.
+
+Replacement admission exposed a scheduling assumption: a producer could still be running after its expected firing time while downstream work looked idle. Failed pre-intent checks remained failures. A later explicit quiet state, future deadlines and measured overlap admitted one graceful replacement without resetting schedules or relaxing the boundary. The original artifact and current data were retained for rollback. Running decisions, persistent selection and protected existing identities were checked independently from startup.
+
+A later ordinary feed scan completed. That evidence did not turn decision previews into a real successful import. A separate diagnostic source retry also received a valid acquisition acknowledgement and correct tracking, yet its peers offered no available pieces. Existing cleanup removed it with prior same-source strikes retained. A proposed control transition held when the source disappeared; the failure was not reclassified as success or silently replayed.
+
+The retry controls also caught subtle drift: search bookkeeping changed an episode timestamp, and a paused transfer could resume without changing its hash. Only the measured bookkeeping field was rebased; identity and policy changes still held. Capacity admission included the relevant active-state classification. Shared durable reservations preserved uncertain-send outcomes without invented command receipts.
+
+This retrospective is non-deployable and describes bounded evidence, including failures. Successful replacement and a scheduled scan do not create healthy peers, prove human caption timing, repair excluded historical preferences or guarantee every future download. Genuine valid-source automatic intake and broader fulfillment remained separate limits.

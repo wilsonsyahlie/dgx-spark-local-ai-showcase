@@ -2860,3 +2860,6 @@ Another retrospective separated untracked captions from successful delivery. A b
 
 
 A subsequent retrospective separated verified season fulfillment from recurring search-policy failures. Cutoff status was insufficient authority for an upgrade, and an existing-file endpoint could not prove automatic-import admission. Preserved failures, exact runtime boundaries and a normal timed canary made those distinctions reviewable. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-permission-is-part-of-correctness).
+
+
+A subsequent retrospective followed a qualified import decision through bounded activation and a normal feed scan, then retained a failed diagnostic source retry as failure evidence. Quiet-window state, mutable search bookkeeping and capacity eligibility each needed their own guard. Acknowledged acquisition was still distinct from viable peers or successful delivery. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-activation-was-not-delivery).
