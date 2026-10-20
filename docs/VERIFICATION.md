@@ -1542,3 +1542,10 @@ Open: genuine eligible replacement dispatch, overnight checkpoint observation, f
 The verified checkpoint distinguishes preserved copies, selected-text language and cue-span checks, isolated retained-path persistence, and a later source extension. Prior files and sources were measured before and after. Failure records and bounded follow-up evidence were retained rather than rewritten.
 
 This retrospective does not claim complete request delivery, production checkpoint persistence, translated-dialogue correctness or synchronized playback. The advisory-lock invocation omission remains a recorded process limit; the next callable includes a contention regression. No production configuration, private content, operational identifiers or deployable instructions are included.
+
+
+### 2026-10-20 — Current identity and bounded authority
+
+A small source extension passed whole-file copy checks, prior-file preservation and separate selected-text qualification. A subsequent metadata-only acquisition passed stopped, public and zero-payload checks. Its exact cleanup guard passed positive and negative controls, including missing leases and changed identities; live installation preserved earlier protection.
+
+The action validator requires current catalogs for its explicit target season and gives frozen nonaction evidence no acquisition authority. This retrospective does not claim completion of that later acquisition, all requests, natural checkpoint persistence, human synchronization or translation. It contains no production configuration, private media, current topology, operational identifiers or deployable instructions.

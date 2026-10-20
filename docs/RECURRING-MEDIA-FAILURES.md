@@ -227,3 +227,12 @@ A full-file hash can prove a copy without proving that a selected external subti
 Extending an existing source introduced a separate path risk: incomplete and finished destinations could differ. An isolated synthetic test checked path and hash preservation through selection expansion and restart before the production operation. A failed response-body assumption was reconciled against the existing source rather than repeated.
 
 Two control-flow lessons also emerged. A positive observation arriving after its deadline must remain unverified. A lock in a command-line wrapper does not protect direct function calls. Keeping the lock inside the mutable callable and testing contention closes that invocation gap. Observed success never retroactively proves an omitted control.
+
+
+### Correct frozen evidence is not sufficient dispatch authority
+
+A source-protection rule may correctly describe an intended artifact while its caller fails to prove that the same artifact is still present. Binding current receipt hashes before and after admission, and comparing live identity to frozen expectations, closes that gap. Regression controls should change the receipt and live birth independently and require zero mutation.
+
+Metadata availability also needs careful boundaries. A stalled lookup for a season outside the action scope should not silently authorize cached data for requested targets. A bounded validator can require fresh catalogs for every action target while retaining immutable nonaction evidence explicitly without acquisition authority. A UI-route timeout does not establish a failure in a separate mapper that already uses finite deadlines.
+
+Cleanup protection, payload progress, copy integrity, selected-caption content and human synchronization remain distinct acceptance claims. A successful earlier phase does not imply the next one.

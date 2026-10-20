@@ -2933,3 +2933,8 @@ A recovery used positive external episode identities rather than season ordinals
 ### 2026-10-20 — Verify what the player actually selected
 
 A media-recovery audit exposed an evidence mismatch: the source contained a qualified subtitle track, but the player selected a different external track. Copy integrity remained valid; playback-language acceptance needed a separate check of the selected text and exact media item. Preserving the original receipt and adding a correction made the limitation visible. The next recovery step also tested retained-file paths before extending a partial collection.
+
+
+### 2026-10-20 — Bind durable protection to the source actually present
+
+A retained-source extension completed its copy and selected-caption checks without replacing earlier files. The next acquisition exposed a subtler control gap: a frozen protection specification was correct, but the activation controller still needed to verify that the current source and receipt matched it. Independent review caught the missing dispatch-time comparison before installation.
