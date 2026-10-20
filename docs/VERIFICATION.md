@@ -1535,3 +1535,10 @@ Open: genuine eligible replacement dispatch, overnight checkpoint observation, f
 - Paused-source reconciliation proved zero transfer and no completed pieces while preserving the original failed verification.
 - Guard and configuration activation passed retained runtime controls, both cleanup branches, publication-collision cases, uncertain-acknowledgement and no-replay checks; live artifact and missing-ownership hold were read back.
 - Payload completion, actual audio/caption acceptance, genuine replacement dispatch, overnight observation and human playback remain separate open evidence boundaries.
+
+
+### 2026-10-20 — Separate artifact integrity from playback acceptance
+
+The verified checkpoint distinguishes preserved copies, selected-text language and cue-span checks, isolated retained-path persistence, and a later source extension. Prior files and sources were measured before and after. Failure records and bounded follow-up evidence were retained rather than rewritten.
+
+This retrospective does not claim complete request delivery, production checkpoint persistence, translated-dialogue correctness or synchronized playback. The advisory-lock invocation omission remains a recorded process limit; the next callable includes a contention regression. No production configuration, private content, operational identifiers or deployable instructions are included.

@@ -218,3 +218,12 @@ A further recovery separated episode identity from season numbering. Complete pr
 The first observer repeated a previously documented mistake: it expected the client to report its final paused state immediately. The attempt was held, its positively owned source was stopped once, and its original failure remained immutable. A separate read-only reconciliation proved exact metadata, zero transferred bytes and no completed pieces. The precise initial transition had not been recorded and was left unknown. The prevention rule was strengthened to require the later bounded, typed transition observer and retained initial observations for future additions.
 
 Cleanup was another independent authority boundary. A reviewed manifest registered only the intended replacement with exact source identity and selected files. Missing or changed ownership evidence held cleanup. Existing registrations remained intact, and only one supported ignore entry was appended after full before/after checks. Source tests, actual runtime fixtures and guarded publication checks covered malformed ownership, changed selections, uncertain acknowledgements and replay. The live code and configuration were read back after activation; paused admission and cleanup protection were kept distinct from transfer, language, subtitle and playback acceptance.
+
+
+### Source proof does not transfer to a different selected track
+
+A full-file hash can prove a copy without proving that a selected external subtitle has the expected content. A stronger verifier binds provider identity, episode coordinates, media-part identity and selected-stream identity, then evaluates the actual selected text. Language detection and cue span are useful bounded checks; they are not translation or synchronization proof.
+
+Extending an existing source introduced a separate path risk: incomplete and finished destinations could differ. An isolated synthetic test checked path and hash preservation through selection expansion and restart before the production operation. A failed response-body assumption was reconciled against the existing source rather than repeated.
+
+Two control-flow lessons also emerged. A positive observation arriving after its deadline must remain unverified. A lock in a command-line wrapper does not protect direct function calls. Keeping the lock inside the mutable callable and testing contention closes that invocation gap. Observed success never retroactively proves an omitted control.

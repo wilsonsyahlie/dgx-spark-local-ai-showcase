@@ -2928,3 +2928,8 @@ The lesson was to test configured startup behavior and complete operational path
 ### Retrospective: a replacement must survive cleanup
 
 A recovery used positive external episode identities rather than season ordinals, partitioned existing and missing files explicitly, and admitted source metadata while paused. An observer repeated an older immediate-state assumption; its failure was preserved and reconciled without replay. Exact source and file-selection ownership then held competing cleanup, with retained protections, runtime fixture checks and post-activation code/configuration evidence. This established protection, not completed transfer or human playback.
+
+
+### 2026-10-20 — Verify what the player actually selected
+
+A media-recovery audit exposed an evidence mismatch: the source contained a qualified subtitle track, but the player selected a different external track. Copy integrity remained valid; playback-language acceptance needed a separate check of the selected text and exact media item. Preserving the original receipt and adding a correction made the limitation visible. The next recovery step also tested retained-file paths before extending a partial collection.
