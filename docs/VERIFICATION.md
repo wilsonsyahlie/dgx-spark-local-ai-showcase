@@ -1490,3 +1490,8 @@ New evidence covers preserved cleanup behavior, explicit retention acceptance an
 ### 2026-10-20 — Evidence boundaries during recovery
 
 Verified: accepted-action reconciliation, exact selection and sparse-state controls, subsequent payload progress, a natural progress reset, preserved query results and twenty compiled decision controls. Unfinished: content qualification, dialogue alignment, final playback, and the discovery candidate's runtime, failure, pacing, synchronization and feed checks. A configured ordering flag was not counted as proof of beneficial ordering. No guarantee of external availability or permanent zero failures is made.
+
+
+### Selected content and emitted artifact retrospective
+
+Bounded evidence covers exact selected-caption text and timestamp equivalence, intact copies with prior-content preservation, forty-seven source and controller checks, measured dependency identities and healthy isolated query comparisons. A handoff was reconciled from durable records without replay. Human playback, remaining extended cases, broader fulfillment and production rollout were not claimed complete. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-qualify-the-selected-track-and-the-deployed-build).

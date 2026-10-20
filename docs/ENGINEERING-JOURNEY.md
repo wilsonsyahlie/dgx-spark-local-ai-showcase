@@ -2874,3 +2874,6 @@ The next checkpoint separated recovery retention from subtitle tracking. A narro
 ### 2026-10-20 — Recovery phases need distinct evidence
 
 A recovery workflow demonstrated why logical file size, allocated bytes, transfer progress and playable delivery need separate acceptance checks. Reconciliation preserved accepted actions and continued only the unfinished phase. A natural cleanup event also disproved a suspected permanent stall, avoiding an unnecessary new service.
+
+
+A further retrospective separated embedded-caption qualification from actual player selection, then separated a successful source build from a compatible runtime artifact. Exact content comparisons, emitted assembly identities and durable history exposed different evidence gaps. Held trials were retained and uncertain actions were not repeated. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-qualify-the-selected-track-and-the-deployed-build).

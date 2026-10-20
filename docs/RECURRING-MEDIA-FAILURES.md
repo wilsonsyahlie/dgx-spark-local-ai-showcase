@@ -157,3 +157,14 @@ The discovery experiment also demonstrated why finding more results is insuffici
 An empty selection could appear complete while containing no downloaded bytes; a later selection produced full-size sparse placeholders before transfer. The recovery used durable action receipts and physical fingerprints to distinguish those states and resume only the unfinished authorized phase. Actual transfer progress was then measured, while content qualification and playback remained separate, unfinished checks.
 
 An additive discovery experiment preserved existing results instead of replacing them. Twenty compiled decision controls covered duplicate reports and overlapping episodes. Source analysis narrowed the benefit to a season-search stage, preventing a broader claim about automatic fulfillment. Isolated runtime, failure and feed tests remained required before activation.
+
+
+## Retrospective: qualify the selected track and the deployed build
+
+A subtitle label was weaker evidence than it appeared. The embedded captions had been qualified, but the player selected an external track. Read-only comparison of the actual selected bytes established identical normalized dialogue text and timestamps. Exact target and immutable-basis checks made that distinction explicit. Translation accuracy, human-heard timing and device playback remained separate untested questions.
+
+A discovery experiment also showed why adding another universal search can be expensive. A more selective proposal kept original results and allowed one supplemental request only for an eligible successful season search. Failure accounting, request-scoped partial results and a local link handoff were tested separately. A protected link was treated according to what it actually encoded, without inventing origin or expiration guarantees.
+
+The source and controller checks passed, yet the first isolated runtime did not load. An upstream development placeholder had become an incompatible assembly reference. Rebuilding consistently and inspecting the emitted assembly identities and dependency tables addressed that measured cause; build properties alone were insufficient evidence. The running trial then preserved original results, added the broader set with one extra request and retained baseline behavior for other tested query shapes.
+
+A later checker stopped because serialized history fields used different capitalization. Durable records preserved a successful local handoff and unchanged cooldown without repeating the action. The engineering lesson is to test the selected content, emitted artifact and real serialization boundaries independently. This retrospective is non-deployable and does not establish universal availability, complete playback validation or finished production rollout.
