@@ -150,3 +150,10 @@ A separate report correction distinguished configured acquisition eligibility fr
 A later repair exposed two different failure modes: recovery data needed narrowly scoped retention, while newly added animated series were not automatically tracked for English subtitles. The changes preserved existing cleanup behavior and unrelated language assignments. A test that accidentally checked the wrong fixture was replaced with positive acceptance and explicit rejection checks.
 
 The discovery experiment also demonstrated why finding more results is insufficient: the broader query omitted earlier results. That replacement was withheld. Protecting a source, accepting a search and verifying playable media remain separate milestones; automatic discovery and completed caption delivery were still unfinished at this checkpoint.
+
+
+### Recovering without replaying accepted actions
+
+An empty selection could appear complete while containing no downloaded bytes; a later selection produced full-size sparse placeholders before transfer. The recovery used durable action receipts and physical fingerprints to distinguish those states and resume only the unfinished authorized phase. Actual transfer progress was then measured, while content qualification and playback remained separate, unfinished checks.
+
+An additive discovery experiment preserved existing results instead of replacing them. Twenty compiled decision controls covered duplicate reports and overlapping episodes. Source analysis narrowed the benefit to a season-search stage, preventing a broader claim about automatic fulfillment. Isolated runtime, failure and feed tests remained required before activation.

@@ -2869,3 +2869,8 @@ Another retrospective retained intentional same-source failure history while res
 
 
 The next checkpoint separated recovery retention from subtitle tracking. A narrow retention rule and a future English-subtitle default were verified while preserving unrelated behavior. A broader discovery query failed to preserve earlier results and was not promoted. Delivery and natural future-request acceptance remain separate unfinished work.
+
+
+### 2026-10-20 — Recovery phases need distinct evidence
+
+A recovery workflow demonstrated why logical file size, allocated bytes, transfer progress and playable delivery need separate acceptance checks. Reconciliation preserved accepted actions and continued only the unfinished phase. A natural cleanup event also disproved a suspected permanent stall, avoiding an unnecessary new service.

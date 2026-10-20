@@ -1485,3 +1485,8 @@ Bounded evidence covers initially registered historical identities, fresh locati
 
 
 New evidence covers preserved cleanup behavior, explicit retention acceptance and rejection, installed subtitle-parser insert/update controls, and live settings and assignment readback. A wrong-fixture test was superseded rather than counted as a pass. Actual caption delivery and alignment, a natural new-series addition and broader backlog delivery remain unverified; the discovery regression is retained as a failed check.
+
+
+### 2026-10-20 — Evidence boundaries during recovery
+
+Verified: accepted-action reconciliation, exact selection and sparse-state controls, subsequent payload progress, a natural progress reset, preserved query results and twenty compiled decision controls. Unfinished: content qualification, dialogue alignment, final playback, and the discovery candidate's runtime, failure, pacing, synchronization and feed checks. A configured ordering flag was not counted as proof of beneficial ordering. No guarantee of external availability or permanent zero failures is made.
