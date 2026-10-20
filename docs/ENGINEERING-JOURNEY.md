@@ -2893,3 +2893,8 @@ The qualified pacing artifact was subsequently activated through a guarded repla
 One downstream consumer still held an earlier long cooldown. A single supported test succeeded and cleared that block through the normal success path, preserving failure history and provider configuration. A consumer that had already recovered naturally was left unchanged. Positive connectivity and scheduled operation were treated as separate evidence.
 
 Another verifier initially interpreted a missing staging file as missing delivery. Positive import history and a stable retained library file established normal source consumption instead. Existing-source, dangling-symlink and changing-library cases remained rejected. Neither this evidence nor a language label established decoded image captions or human playback. A separate replacement-dispatch durability defect and further natural-run checks remained unresolved. This retrospective is non-deployable and makes no zero-failure guarantee.
+
+
+### 2026-10-20 — Preparation and recovery were not a performance upgrade
+
+A large-model trial separated successful compilation from runtime qualification. One startup admission correction was source-checked, but a later swap-growth stop ended loading before any prompt. Exact closure and restored incumbent behavior were verified; capability and speed remained untested. The retrospective retained uncertainty and earlier coverage gaps instead of treating a completed build as an upgrade. [Retrospective](case-studies/bounded-expert-model-trial.md).

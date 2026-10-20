@@ -1507,3 +1507,8 @@ The copy recovery used source/destination hashes, preserved-file checks and exac
 ### Pacing activation and recovery retrospective
 
 Bounded evidence covered guarded activation, exact running artifacts, preserved settings, positive provider connectivity and an ordinary scheduled feed. A supported recovery test cleared a stale downstream cooldown without discarding historical failures. Negative admission cases preserved no-replay behavior. Production dispatch timing, a later movie-consumer feed, ordinary maintenance and human playback remained unmeasured. Retained-library delivery after normal staging consumption was distinguished from unavailable source-equality and decoded-caption proof. An additional replacement-dispatch durability repair remained open; no universal reliability claim follows from these results.
+
+
+### Bounded expert-model trial
+
+Evidence covered byte continuity, bounded cache comparison, actual lifecycle fault controls, exact shutdown and restored behavior. Partial loading ended at a stipulated swap-growth boundary; model readiness, complete fit, answers, coding quality, vision and speed were not established. The paging cause remained unresolved, and no additional launch or adoption was implied. [Retrospective](case-studies/bounded-expert-model-trial.md).
