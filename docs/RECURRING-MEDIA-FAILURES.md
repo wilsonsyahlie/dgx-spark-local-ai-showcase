@@ -134,3 +134,14 @@ A later ordinary feed scan completed. That evidence did not turn decision previe
 The retry controls also caught subtle drift: search bookkeeping changed an episode timestamp, and a paused transfer could resume without changing its hash. Only the measured bookkeeping field was rebased; identity and policy changes still held. Capacity admission included the relevant active-state classification. Shared durable reservations preserved uncertain-send outcomes without invented command receipts.
 
 This retrospective is non-deployable and describes bounded evidence, including failures. Successful replacement and a scheduled scan do not create healthy peers, prove human caption timing, repair excluded historical preferences or guarantee every future download. Genuine valid-source automatic intake and broader fulfillment remained separate limits.
+
+
+## Retrospective: preserve failed-source identity
+
+Retained failure strikes turned out to be intentional protection against returning sources. A diagnostic retry's short observation did not justify resetting them or promising future viability. The repair instead focused on truthful accounting: a failed source could disappear from the client while its historical storage location still mattered.
+
+A bounded historical registration carried observed identity and location into later reconciliation. Only initially validated registrations admitted that extra path class; newly discovered entries could not grant themselves permission. Every later check re-probed the location, and surviving or reappearing content had to qualify or hold. Old regressions, negative path and permission cases, changed provenance and reappearance controls were retained alongside actual probes.
+
+Review caught incomplete backup durability, a merely reported reservation condition and missing ownership preservation before activation. Corrected controls preserved all three. A later failed-terminal transition joined stable failure history, complete client and queue absence and retained-root checks before a no-overwrite rename of a control record. Original bytes, uncertain-send evidence and the once-only intent remained intact. Failure was recorded as failure while unrelated admission could proceed.
+
+A separate report correction distinguished configured acquisition eligibility from home-release status without changing settings. This non-deployable retrospective establishes bounded accounting and recovery safeguards, not universal source availability, actual successful intake or immunity from future failures.

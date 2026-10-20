@@ -2863,3 +2863,6 @@ A subsequent retrospective separated verified season fulfillment from recurring 
 
 
 A subsequent retrospective followed a qualified import decision through bounded activation and a normal feed scan, then retained a failed diagnostic source retry as failure evidence. Quiet-window state, mutable search bookkeeping and capacity eligibility each needed their own guard. Acknowledged acquisition was still distinct from viable peers or successful delivery. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-activation-was-not-delivery).
+
+
+Another retrospective retained intentional same-source failure history while resolving a failed acquisition truthfully. Historical locations were re-probed instead of forgotten, and a protected control transition released unrelated work without manufacturing success. Eligibility reporting was corrected independently from acquisition policy. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-preserve-failed-source-identity).

@@ -1477,3 +1477,8 @@ A subsequent retrospective verified fulfillment independently from request statu
 ### Activation and delivery evidence remain separate
 
 Bounded evidence covers authentic metadata controls, valid-source decision preservation, unchanged installed dependencies, protected graceful replacement, running admission and a normal feed scan. A diagnostic source acquisition was correctly tracked but failed; a later control transition held before mutation. Shared uncertain-send reservations and late-state controls did not establish source viability, a genuine successful automatic import, universal availability or human timing. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-activation-was-not-delivery).
+
+
+### Failed-source accounting retrospective
+
+Bounded evidence covers initially registered historical identities, fresh location probes, retained negative and reappearance controls, protected atomic activation and a byte-preserving failed-terminal transition. Eligibility-report checks did not change policy. Source viability, successful new automatic intake and broader fulfillment remained unproved. [Retrospective](RECURRING-MEDIA-FAILURES.md#retrospective-preserve-failed-source-identity).
