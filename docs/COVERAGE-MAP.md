@@ -37,3 +37,8 @@ Coverage expanded from tool installation and actual agent invocation to retained
 ### Selected-content retrospective
 
 Covered within the checkpoint: selected-text checks, current playback bindings, guarded publication, bounded worker lifetime and natural invalid/valid outcomes. Later subtitle replacements, separate status defects, full request delivery and human playback remain unproved. Image-track lineage is not decoded-caption evidence.
+
+
+### Bounded watching retrospective
+
+Within accepted targets, later-change observation, fresh authority, unresolved-write protection, fair scheduling and natural no-write revisits now pass. A deliberate replacement canary, human playback and image-text decoding remain unproved. Status reconciliation and broader fulfillment stay separate unfinished work.

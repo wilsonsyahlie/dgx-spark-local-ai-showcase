@@ -464,3 +464,10 @@ The earlier stopped-transfer data-preservation statement was limited to that che
 A stable subtitle identifier can serve changed bytes. Validate content, bind it to the intended artifact, and check playback state again before accepting preservation. Distinguish a proved failure from insufficient evidence. Preserve unknown-write authority across retries instead of assuming silence permits another action.
 
 Test the runtime boundary beside the work: prove entry into delayed methods, bounded exit and absence of leftover workers. Check final file identity after slow dependencies and verify backup copies against their actual preimages. Test-runner lifecycle names must not become ordinary helper names. A passing fixture, deployed code, a natural observation and human playback remain distinct levels of evidence.
+
+
+### Stable targets, fresh authority
+
+Rotate recurring work by immutable target identity, while each change receives fresh linked authority. A new generation must not bypass an uncertain write. Preserve evidence of unchanged outcomes separately from changes.
+
+Concurrency can append legitimate history even while an activation lock is held. Admit only the observed narrow schema, retain its hash and fail if it later changes. Preserve every earlier record. Backup durability includes both file state and the directory entries that make the backup discoverable.

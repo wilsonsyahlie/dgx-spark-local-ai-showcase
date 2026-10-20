@@ -256,3 +256,14 @@ Review exposed a second race: audio could change during content validation while
 Hard runtime limits were tested where the work runs. Killing a caller alone was insufficient evidence. Delayed read and parser fixtures used durable entry markers to prove the intended method was reached, then verified bounded exit and no leftover worker. A faulty fixture injection and an accidentally overridden test-runner method remained recorded and were corrected before their results counted.
 
 Natural scheduled work exercised an invalid-caption fallback and a valid-caption no-write outcome, with prior files and other selections preserved. An embedded image track was qualified through physical metadata and copy lineage; its image text and human synchronization were not proved. Detection of later caption replacements remains unfinished. This retrospective describes evidence and limits, not a deployment recipe or a zero-failure guarantee.
+
+
+### Watch accepted results without rewriting their history
+
+Verification described one moment, while selected content could change later. The follow-up watcher binds current content and playback identity, preserves old receipts and creates fresh authority for each transition. Returning to earlier content cannot silently reuse an old terminal result. An unresolved write reserves its target across generations.
+
+Review exposed a fairness problem: if the scheduling key changed with every generation, repeated changes could postpone another target. Immutable target roots now control rotation. Review also distinguished a retained rejection proof from a newly changed caption, avoiding a false transition after a valid fallback.
+
+Deployment encountered another useful boundary: an unchanged state history had gained a legitimate skipped-work receipt while the activation lock was held. The first attempt stopped without replacing code. The correction validates only that narrow concurrent addition and preserves its hash; arbitrary additions and changes remain failures. Final file and directory durability were tested before activation.
+
+Focused policy and real transaction controls passed. Natural observations revisited valid external and embedded selections without another write, and independent review checked deployed artifacts and preserved evidence. A real caption replacement was not deliberately injected; human synchronization and image-caption text remain unproved. This is a retrospective engineering result, not a zero-failure guarantee or deployment recipe.

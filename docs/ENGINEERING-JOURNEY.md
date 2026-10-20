@@ -2948,3 +2948,8 @@ A recovery completed another bounded file set with matching copy hashes and pres
 ### 2026-10-20 — A label was weaker than the selected content
 
 A recovery preserved existing files and verified new copies, then found that a selected caption's language label concealed a timing-bound failure. The repair moved content checks ahead of preservation and rechecked current playback state before accepting a no-write result. Natural scheduled observations demonstrated both replacement of a failed caption and preservation of a valid one. Later content changes and unrelated request-status defects remain separate unfinished work.
+
+
+### 2026-10-20 — A verified result still needs a change boundary
+
+A one-time caption check could not detect a later replacement. A bounded watcher now revisits accepted targets, records unchanged selections without writes, and gives later changes fresh linked authority. Review corrected mutable-key starvation and a false-change observation after fallback. Natural scheduled revisits preserved both accepted outcomes. Other request-status and fulfillment work remains unfinished.

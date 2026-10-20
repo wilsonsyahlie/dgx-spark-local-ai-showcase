@@ -1563,3 +1563,10 @@ Independent review checked the deployed artifacts, backup integrity and preserva
 The checkpoint passed focused content-policy and actual activation-transaction controls, storage-side current-caption checks, delayed-method entry and hard-lifetime tests, deployed artifact and backup preservation review, and two distinct natural scheduled outcomes: invalid fallback and valid no-write preservation. Existing content stayed intact. Earlier failed checks were retained rather than relabeled successful.
 
 This does not establish later-content-change monitoring, every pending request delivered, translated image captions, natural backup persistence or human synchronization. No private media, production configuration, current topology, operational identifiers or deployable commands are included.
+
+
+### 2026-10-20 — Later-change boundary evidence
+
+The bounded follow-up passed generation, restart, reservation, dispatch and fairness controls, plus actual activation transaction and durability tests. Independent artifact and backup review passed. Ordinary scheduled revisits preserved both accepted caption outcomes without writes or false change generations.
+
+Deliberate production replacement, human synchronization and decoded image text remain untested. Separate request-status defects, remaining fulfillment and natural backup persistence remain unfinished. No private content, current topology, production identifiers or deployable commands are published.
