@@ -1512,3 +1512,11 @@ Bounded evidence covered guarded activation, exact running artifacts, preserved 
 ### Bounded expert-model trial
 
 Evidence covered byte continuity, bounded cache comparison, actual lifecycle fault controls, exact shutdown and restored behavior. Partial loading ended at a stipulated swap-growth boundary; model readiness, complete fit, answers, coding quality, vision and speed were not established. The paging cause remained unresolved, and no additional launch or adoption was implied. [Retrospective](case-studies/bounded-expert-model-trial.md).
+
+
+### Recovery and uncertainty retrospective
+
+Evidence covered ordinary scheduled provider recovery, preserved failure history and an independently tested source repair for replacement submission. Positive and negative cases exercised durable ownership, lost acknowledgement, transaction failure, restart, fair deferral, typed scope and exact attribution. An unchanged executable repack retained its payloads and deterministic identity. A combined precompiled runtime required separate compatibility qualification; production activation, actual uncertain-response delivery, natural replacement completion and human playback were not established by these tests. Actual challenged resolver execution and production physical request timing also remained unmeasured. Isolated-controller boundary tests rejected late readiness, artifact or source drift and unsafe stop behavior. These bounded results do not imply that every requested item is obtainable or that external dependencies cannot fail.
+
+
+A later isolated startup test initially used an authenticated route before setup and correctly failed its deadline. The process was healthy; a public setup-status response exposed the mistaken test assumption. The failed record was preserved, the fixture exited gracefully, and a separately reviewed readiness check was used for fresh runs. Original and unchanged-repacked executables passed startup and graceful-restart comparisons. The patched executable then passed empty-config startup and additive local-migration checks while retaining the original runtime assets. These observations still did not establish authenticated dispatch, lost-response recovery or natural production delivery. The next acceptance boundary required the application itself to produce every dispatch state from a real local request sequence.
