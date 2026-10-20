@@ -1527,3 +1527,11 @@ A later isolated startup test initially used an authenticated route before setup
 Passed: 149 source cases; unchanged-contract and dependency checks; baseline and patched executable lifecycle checks; five real isolated scheduled cycles/two restarts/one physical submission; paused previous-code compatibility with migrated state; full deployment and recovery fault-path controls; exact row-level startup-maintenance and schema reconciliation; live program and persistent-setting verification; an ordinary production empty-work tick with truthful next-run state; one separate naturally imported file join and language check.
 
 Open: genuine eligible replacement dispatch, overnight checkpoint observation, full requested-cohort fulfillment and human playback. A successful empty tick or accepted search is not download delivery. The first activation remains recorded as held and contained; the separately admitted retained-process recovery is the live operation. No database rewind, original-intent replay, fabricated request or external test notification was used.
+
+
+### Source admission and cleanup checkpoint
+
+- Complete positive provider-identity joins were independently checked against current application metadata; no ordinal fallback was admitted.
+- Paused-source reconciliation proved zero transfer and no completed pieces while preserving the original failed verification.
+- Guard and configuration activation passed retained runtime controls, both cleanup branches, publication-collision cases, uncertain-acknowledgement and no-replay checks; live artifact and missing-ownership hold were read back.
+- Payload completion, actual audio/caption acceptance, genuine replacement dispatch, overnight observation and human playback remain separate open evidence boundaries.

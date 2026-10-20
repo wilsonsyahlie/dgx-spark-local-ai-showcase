@@ -2923,3 +2923,8 @@ Verification included 149 source cases and the real isolated application: five s
 Deployment exposed a different assumption. An unchanged cleanup service performs maintenance immediately at startup, before waiting for its timer. The first switch stopped when tracking hashes changed. Instead of ignoring those tables, the investigation proved the exact retention predicates, orphan relationships, foreign-key effects and schema equality for every changed row. A new reviewed recovery operation then resumed the retained candidate from current state without replaying the original activation or restoring an old database.
 
 The lesson was to test configured startup behavior and complete operational paths, not just individual guards. The live artifact and persistent settings were verified, and an ordinary production tick completed with a truthful next-run time. It had no eligible work; a genuine eligible replacement, overnight observation and human playback remain clearly separated evidence limits. This is a retrospective account of the method, not a deployment recipe or an assurance that unavailable sources can always be obtained.
+
+
+### Retrospective: a replacement must survive cleanup
+
+A recovery used positive external episode identities rather than season ordinals, partitioned existing and missing files explicitly, and admitted source metadata while paused. An observer repeated an older immediate-state assumption; its failure was preserved and reconciled without replay. Exact source and file-selection ownership then held competing cleanup, with retained protections, runtime fixture checks and post-activation code/configuration evidence. This established protection, not completed transfer or human playback.
