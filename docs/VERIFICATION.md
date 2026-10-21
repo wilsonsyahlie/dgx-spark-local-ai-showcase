@@ -1597,3 +1597,6 @@ Focused scope and real-caller controls covered a previously unresolved member, d
 ### 2026-10-21 — Mixed-format trial qualification
 
 Stored artifact checks, actual dispatch/parameter loading controls, finite ownership and exact recovery passed. The corrected GPU load remained unready after a host-paging guard stop; model inference, speed and quality are NOT QUALIFIED. Incumbent restoration and retained configuration/conversation comparisons passed. CPU fixtures are not GPU arithmetic, and available memory is not proof of a paging cause.
+
+
+October 2026 media retrospective: physical language and caption evidence, matching imported bytes, natural player selection and independent review supported one bounded recovery. Reservation drift, collision and interruption controls passed. Human synchronization, device playback, wider completion and a separately staged retry candidate were not certified. See [the retrospective](RECURRING-MEDIA-FAILURES.md).

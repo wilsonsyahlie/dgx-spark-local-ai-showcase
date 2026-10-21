@@ -2988,3 +2988,6 @@ A mixed-precision model trial exposed a runtime dispatcher that recognized the a
 The next load passed the original failure boundary but stopped at an existing host-paging safeguard before the model became ready. Available-memory readings alone did not explain the stop, and the test produced no model response or throughput result. The incumbent was restored and checked through a real answer; retained configuration and conversation snapshots were compared independently.
 
 This is a negative qualification result with verified recovery. A corrected defect, a successful process exit or a large memory reading cannot substitute for a completed inference test. The remaining paging cause stayed unresolved, and protections were not relaxed to manufacture a benchmark.
+
+
+October 2026: [physical media evidence and retained reservation transitions](RECURRING-MEDIA-FAILURES.md) separated successful transfer, correct language, player selection and future admission. The broader recovery effort remained unfinished.

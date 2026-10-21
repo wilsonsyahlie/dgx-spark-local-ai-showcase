@@ -287,3 +287,14 @@ Focused, actual-filesystem and database controls preceded artifact qualification
 A recovery guard treated missing old command records as a reason to block unrelated future work. Some operations had durable terminal evidence; others had only known acknowledgments. The corrected protocol separates those cases. An acknowledged operation that is no longer retained does not become a successful operation. It can stop reserving an entire application only after complete current activity, queue, source ownership and target-absence checks. An unknown acknowledgment remains reserved.
 
 The caller is part of the proof. Review caught missing fallback evidence, incomplete final queue enumeration and deadlines checked before a potentially delayed intent write. Actual caller controls required zero submissions after receipt drift, incomplete queues or expiry. Program changes used ordered replacements under shared locks, and a fresh process verified the result. Original evidence was preserved; no old operation was replayed. Actual delivery and the wider backlog remained separate unfinished claims.
+
+
+### October 2026 — Verify the file, then release the reservation
+
+A media recovery workflow exposed two different meanings of completion. A transfer could finish with the wrong audio, while a successful import could leave an application reservation blocking later work.
+
+The repair used physical evidence in stages: sampled speech, full caption-body checks, a single selected film from a larger collection, a matching library hash, and independently checked player selections. Other files remained disabled and rejected material was retained. A scheduled watcher made the intended language selection without another manual write. Human caption synchronization and device playback were not proved.
+
+A complete ownership envelope also exceeded a process argument limit. Moving bounded control data through stdin preserved the full safety checks rather than trimming them to fit. Lost acknowledgments and process contention received separate controls.
+
+Finally, resolved reservations were reconciled against original evidence. No-clobber transitions preserved every original byte and the records preventing duplicate dispatch. Drift, destination collisions and interrupted transitions stayed holds. Independent review confirmed live delivery and later admission. Separate retry-recovery code remained staged, and the wider backlog remained unfinished. These are measured improvements, not a guarantee that all requested material is available.
