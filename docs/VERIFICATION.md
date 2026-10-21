@@ -1582,3 +1582,8 @@ Large synthetic catalogues and actual-filesystem growth fixtures tested roster p
 Seventeen focused television controls exercised receipt identity, retired acknowledgments, unknown outcomes, manual ownership holds and caller dispatch fences. Changed receipts or episodes, expired admission, active work and incomplete queues prevented submissions. Five installer controls covered backup corruption, contention, candidate drift and uncertain replacement without replay. The live source replacement preserved old receipts and passed fresh-process read-only admission. A separate manual anime source remains held.
 
 One movie passed actual storage download/import, stable full-file hashing, an exact player-file join, English audio/subtitle stream tags and naturally updated availability. Stream tags do not prove human language acceptance or dialogue synchronization. Whole-backlog fulfillment, external identity gaps and titles without usable releases remain open.
+
+
+### Retained-source ownership boundary — October 2026
+
+Focused controls exercised the real recovery caller with an isolated sender, ownership and evidence drift, deadlines, capacity and path aliases. Separate deployment controls covered reviewed receipt drift, lock contention, backup corruption and partial replacement uncertainty. Fresh-process checks verified foreign admission and original-owner protection after deployment. This is not complete backlog delivery or current whole-library byte verification.

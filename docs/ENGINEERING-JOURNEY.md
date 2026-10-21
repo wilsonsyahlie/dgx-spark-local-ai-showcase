@@ -2965,3 +2965,10 @@ Request reconciliation needed more than a correct final-state predicate. Realist
 An expired-command assumption also blocked television recovery even though authentic completed receipts remained. The reviewed correction validates those receipts, preserves unknown outcomes and blocks new submissions when current ownership or activity is uncertain. A distinct manual-source reservation remains held; it cannot be cleared merely because another request has a different number.
 
 One movie canary then completed an actual download, import and exact player-file join. English audio and subtitle stream tags were measured, and availability changed through normal processing. The first premature status assertion remained recorded as a failure. This is bounded delivery evidence, not proof that every pending title has a usable release or that all subtitle timing is correct.
+
+
+### An owned partial source should not block unrelated work
+
+A manual reservation originally stopped all recovery because its remaining partial files had no narrow admission boundary. Reconciliation established the source's immutable manifest, original owner and import chain. The resulting disposition keeps the source reserved while allowing only positively unrelated owners through fresh identity, path, capacity and activity checks.
+
+Review caught deadline bypasses, nested mount aliases and a deployment operator that accepted a newer receipt baseline than the reviewed one. Focused caller and installer controls closed those gaps before a source-only deployment. A fresh process passed foreign-owner checks and retained the original-owner hold. No download was submitted by this change; broader retry, mapping and fulfillment work remains unfinished.
