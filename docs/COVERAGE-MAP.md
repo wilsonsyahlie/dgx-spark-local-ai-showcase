@@ -47,3 +47,8 @@ Within accepted targets, later-change observation, fresh authority, unresolved-w
 ### 2026-10-21 — Mixed-precision model trial
 
 Covered: pinned stored bytes, scale dispatch and parameter registration, bounded guards, owned closure and incumbent restoration, retained configuration/history comparisons. Unqualified: completed candidate inference, performance, model quality, long context, vision, concurrency and the deeper host-paging cause. No production model adoption.
+
+
+### 2026-10-21 — Trial stop-rule scope
+
+Covered: owner-authorized experimental cutoff removal with telemetry retained, stopping controls, finite lifecycle, exact closure and real restoration, preserved settings and conversation rows. The candidate became ready and completed local arithmetic, short multi-turn recall, generated-code execution, a tool round trip and a bounded generation measurement. This qualifies only those short, single-sequence checks; it does not establish long-context correctness, concurrent agent capacity, vision, safety behaviour or general model superiority.

@@ -1600,3 +1600,8 @@ Stored artifact checks, actual dispatch/parameter loading controls, finite owner
 
 
 October 2026 media retrospective: physical language and caption evidence, matching imported bytes, natural player selection and independent review supported one bounded recovery. Reservation drift, collision and interruption controls passed. Human synchronization, device playback, wider completion and a separately staged retry candidate were not certified. See [the retrospective](RECURRING-MEDIA-FAILURES.md).
+
+
+### 2026-10-21 — Explicitly scoped trial continuation
+
+The candidate became ready and completed local arithmetic, short multi-turn recall, generated-code execution, a tool round trip and a bounded generation measurement. This qualifies only those short, single-sequence checks; it does not establish long-context correctness, concurrent agent capacity, vision, safety behaviour or general model superiority. Retained stopping controls, exact candidate closure, real incumbent restoration and configuration/conversation preservation passed. Deeper paging cause remains unproven.

@@ -2991,3 +2991,12 @@ This is a negative qualification result with verified recovery. A corrected defe
 
 
 October 2026: [physical media evidence and retained reservation transitions](RECURRING-MEDIA-FAILURES.md) separated successful transfer, correct language, player selection and future admission. The broader recovery effort remained unfinished.
+
+
+### Distinguish an experimental stop rule from model failure
+
+A model trial previously ended during loading because a host-wide paging threshold fired. That result established which rule stopped the experiment, but did not establish that the model could not run. The owner authorized one fresh trial with that specific cutoff removed. Paging telemetry and the other memory, deadline, ownership and recovery checks remained; production settings were not broadly loosened. Functional controls checked both the new continuation path and the retained stopping paths.
+
+The candidate became ready and completed local arithmetic, short multi-turn recall, generated-code execution, a tool round trip and a bounded generation measurement. This qualifies only those short, single-sequence checks; it does not establish long-context correctness, concurrent agent capacity, vision, safety behaviour or general model superiority.
+
+The trial closed and the incumbent returned a real correct answer. Configuration and retained conversation comparisons passed. The distinction between observed host paging, candidate-owned paging and out-of-memory failure remains explicit. This is a bounded retrospective result, not a deployment recipe or a general performance ranking.
