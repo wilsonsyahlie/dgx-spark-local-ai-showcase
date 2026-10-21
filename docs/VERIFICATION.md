@@ -1592,3 +1592,8 @@ Focused controls exercised the real recovery caller with an isolated sender, own
 ### Complete membership and search admission — October 2026
 
 Focused scope and real-caller controls covered a previously unresolved member, duplicate identities, post-intent drift, expiry and uncertain acknowledgment. A fresh-process deployment review joined the exact target set through preparation, intent, acknowledgment and observed command while preserving earlier evidence. The search later completed with no acquired reports. Acquisition, content qualification and player delivery are explicitly unverified by this phase.
+
+
+### 2026-10-21 — Mixed-format trial qualification
+
+Stored artifact checks, actual dispatch/parameter loading controls, finite ownership and exact recovery passed. The corrected GPU load remained unready after a host-paging guard stop; model inference, speed and quality are NOT QUALIFIED. Incumbent restoration and retained configuration/conversation comparisons passed. CPU fixtures are not GPU arithmetic, and available memory is not proof of a paging cause.

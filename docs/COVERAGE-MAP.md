@@ -42,3 +42,8 @@ Covered within the checkpoint: selected-text checks, current playback bindings, 
 ### Bounded watching retrospective
 
 Within accepted targets, later-change observation, fresh authority, unresolved-write protection, fair scheduling and natural no-write revisits now pass. A deliberate replacement canary, human playback and image-text decoding remain unproved. Status reconciliation and broader fulfillment stay separate unfinished work.
+
+
+### 2026-10-21 — Mixed-precision model trial
+
+Covered: pinned stored bytes, scale dispatch and parameter registration, bounded guards, owned closure and incumbent restoration, retained configuration/history comparisons. Unqualified: completed candidate inference, performance, model quality, long context, vision, concurrency and the deeper host-paging cause. No production model adoption.

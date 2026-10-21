@@ -2979,3 +2979,12 @@ Review caught deadline bypasses, nested mount aliases and a deployment operator 
 A partial episode mapping could silently omit an unresolved member. Recovery now establishes the entire requested catalogue through positive provider identifiers before selecting a bounded batch. Tests caught a final-check dictionary that hid duplicate rows, and review found provider ambiguity outside the selected subset. Both checks now use the complete raw catalogue.
 
 The deployed correction admitted one independently checked search. The command completed without acquiring a source, so the record distinguishes successful search admission from media delivery. Source availability, wider retries and fulfillment remain unfinished; a completed command is not treated as downloaded content.
+
+
+### A successful loading fix can still end in an unqualified trial
+
+A mixed-precision model trial exposed a runtime dispatcher that recognized the architecture but missed one declared scale format. It fell back to unquantized loading and could not register a required parameter. A narrowly scoped upstream backport corrected the dispatch without changing checkpoint weights. Isolated checks exercised actual parameter registration and loading while explicitly separating synthetic execution context from real GPU arithmetic.
+
+The next load passed the original failure boundary but stopped at an existing host-paging safeguard before the model became ready. Available-memory readings alone did not explain the stop, and the test produced no model response or throughput result. The incumbent was restored and checked through a real answer; retained configuration and conversation snapshots were compared independently.
+
+This is a negative qualification result with verified recovery. A corrected defect, a successful process exit or a large memory reading cannot substitute for a completed inference test. The remaining paging cause stayed unresolved, and protections were not relaxed to manufacture a benchmark.

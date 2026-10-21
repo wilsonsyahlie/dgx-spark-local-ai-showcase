@@ -68,3 +68,12 @@ The task, independent correctness cases, run order, deadlines, artifact paths an
 The pair did not qualify. The current setting completed in244.88seconds; the budgeted setting took257.95seconds, about5.34percent longer. Both passed the same fourteen independent cases. Their self-generated suites recovered from a duplicate-argument helper error and an incorrect expected interval total, respectively, then passed twenty-two and twenty-eight tests. Those failures and repairs remain part of the elapsed times; no replacement run or assistance was supplied. Normal defaults were retained.
 
 This single pair does not prove a general slowdown or identify the cause. Output choices, self-generated tests, order and retained cache state remain limits. Exact task settlement, unchanged prior messages/configuration and the live serving artifact were verified separately. Durable pre-edit backup coverage for every worker self-rewrite was not established; transient preview snapshots were not accepted as proof. The rejected comparison and this audit limit remain explicit rather than being repaired retrospectively by replay.
+
+
+### A successful loading fix can still end in an unqualified trial
+
+A mixed-precision model trial exposed a runtime dispatcher that recognized the architecture but missed one declared scale format. It fell back to unquantized loading and could not register a required parameter. A narrowly scoped upstream backport corrected the dispatch without changing checkpoint weights. Isolated checks exercised actual parameter registration and loading while explicitly separating synthetic execution context from real GPU arithmetic.
+
+The next load passed the original failure boundary but stopped at an existing host-paging safeguard before the model became ready. Available-memory readings alone did not explain the stop, and the test produced no model response or throughput result. The incumbent was restored and checked through a real answer; retained configuration and conversation snapshots were compared independently.
+
+This is a negative qualification result with verified recovery. A corrected defect, a successful process exit or a large memory reading cannot substitute for a completed inference test. The remaining paging cause stayed unresolved, and protections were not relaxed to manufacture a benchmark.
