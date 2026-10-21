@@ -1587,3 +1587,8 @@ One movie passed actual storage download/import, stable full-file hashing, an ex
 ### Retained-source ownership boundary — October 2026
 
 Focused controls exercised the real recovery caller with an isolated sender, ownership and evidence drift, deadlines, capacity and path aliases. Separate deployment controls covered reviewed receipt drift, lock contention, backup corruption and partial replacement uncertainty. Fresh-process checks verified foreign admission and original-owner protection after deployment. This is not complete backlog delivery or current whole-library byte verification.
+
+
+### Complete membership and search admission — October 2026
+
+Focused scope and real-caller controls covered a previously unresolved member, duplicate identities, post-intent drift, expiry and uncertain acknowledgment. A fresh-process deployment review joined the exact target set through preparation, intent, acknowledgment and observed command while preserving earlier evidence. The search later completed with no acquired reports. Acquisition, content qualification and player delivery are explicitly unverified by this phase.

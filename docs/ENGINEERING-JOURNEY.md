@@ -2972,3 +2972,10 @@ One movie canary then completed an actual download, import and exact player-file
 A manual reservation originally stopped all recovery because its remaining partial files had no narrow admission boundary. Reconciliation established the source's immutable manifest, original owner and import chain. The resulting disposition keeps the source reserved while allowing only positively unrelated owners through fresh identity, path, capacity and activity checks.
 
 Review caught deadline bypasses, nested mount aliases and a deployment operator that accepted a newer receipt baseline than the reviewed one. Focused caller and installer controls closed those gaps before a source-only deployment. A fresh process passed foreign-owner checks and retained the original-owner hold. No download was submitted by this change; broader retry, mapping and fulfillment work remains unfinished.
+
+
+### Complete membership before a bounded search
+
+A partial episode mapping could silently omit an unresolved member. Recovery now establishes the entire requested catalogue through positive provider identifiers before selecting a bounded batch. Tests caught a final-check dictionary that hid duplicate rows, and review found provider ambiguity outside the selected subset. Both checks now use the complete raw catalogue.
+
+The deployed correction admitted one independently checked search. The command completed without acquiring a source, so the record distinguishes successful search admission from media delivery. Source availability, wider retries and fulfillment remain unfinished; a completed command is not treated as downloaded content.
