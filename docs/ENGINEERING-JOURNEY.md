@@ -3000,3 +3000,8 @@ A model trial previously ended during loading because a host-wide paging thresho
 The candidate became ready and completed local arithmetic, short multi-turn recall, generated-code execution, a tool round trip and a bounded generation measurement. This qualifies only those short, single-sequence checks; it does not establish long-context correctness, concurrent agent capacity, vision, safety behaviour or general model superiority.
 
 The trial closed and the incumbent returned a real correct answer. Configuration and retained conversation comparisons passed. The distinction between observed host paging, candidate-owned paging and out-of-memory failure remains explicit. This is a bounded retrospective result, not a deployment recipe or a general performance ranking.
+
+
+### A completion flag needs evidence from the body
+
+[This retrospective](MEDIA-COMPLETION-EVIDENCE.md) explains why a duration header, successful exit or expired command record cannot substitute for physical completion. Bounded checks connect admitted bytes to installed content and validated playback tracks while preserving uncertain actions. Separate request-admission adoption passed real-route tests, authenticated live rejections and natural continuation with retained authority.

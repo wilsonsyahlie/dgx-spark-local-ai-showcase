@@ -471,3 +471,8 @@ Test the runtime boundary beside the work: prove entry into delayed methods, bou
 Rotate recurring work by immutable target identity, while each change receives fresh linked authority. A new generation must not bypass an uncertain write. Preserve evidence of unchanged outcomes separately from changes.
 
 Concurrency can append legitimate history even while an activation lock is held. Admit only the observed narrow schema, retain its hash and fail if it later changes. Preserve every earlier record. Backup durability includes both file state and the directory entries that make the backup discoverable.
+
+
+### Preserve uncertainty at a completion boundary
+
+Labels and exit codes are evidence inputs, not completion authority. Validate actual bodies, bind installed bytes and selected streams, and never retry an uncertain mutation merely because its command history expired. A compatibility path must preserve stronger evidence and existing reservations. This is an engineering lesson, not a publication of configuration, access details or deployment instructions.

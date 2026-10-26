@@ -1170,3 +1170,5 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 
 
 - [Bounded expert-model trial](case-studies/bounded-expert-model-trial.md): preparation, verified recovery and an unqualified loading trial without a performance claim.
+
+- [Media completion evidence](MEDIA-COMPLETION-EVIDENCE.md): distinguish headers, body integrity, installed outcome and selected tracks without erasing uncertainty.

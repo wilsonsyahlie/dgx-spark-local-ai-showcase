@@ -1605,3 +1605,8 @@ October 2026 media retrospective: physical language and caption evidence, matchi
 ### 2026-10-21 — Explicitly scoped trial continuation
 
 The candidate became ready and completed local arithmetic, short multi-turn recall, generated-code execution, a tool round trip and a bounded generation measurement. This qualifies only those short, single-sequence checks; it does not establish long-context correctness, concurrent agent capacity, vision, safety behaviour or general model superiority. Retained stopping controls, exact candidate closure, real incumbent restoration and configuration/conversation preservation passed. Deeper paging cause remains unproven.
+
+
+### 2026-10-26 — Bounded media evidence
+
+Physical damaged/full-file controls, mismatched hashes, language checks and uncertain-action tests qualified distinct ingestion boundaries. Natural scheduled checks verified an already-correct selection without another mutation. Separate request-admission adoption combined real route/database checks, authenticated live rejection and natural continuation with existing authority retained. Sampled recognition does not certify translation or synchronization, and no available source means no fulfillment claim.
