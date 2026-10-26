@@ -13,3 +13,10 @@ Natural scheduled runs verified the deployed ingestion checks and an already cor
 The result is bounded evidence, not a universal media guarantee. Sampled language checks do not certify translation or perfect synchronization, and a title without an available source is not described as downloaded. This retrospective provides no deployment instructions, configuration, access details or private media artifacts.
 
 A maintenance guard also refused a late restart window before dispatch. The exact failure was retained and joined to source ordering; the consumed attempt was not reset. A separately reviewed attempt preserved private state and repeated identity checks after long-running backup phases. The operational evidence comes from process closure, database consistency and state comparisons, without claiming that a termination signal proves graceful application flushing.
+
+
+### 2026-10-26 — Correcting identity before replacing a video
+
+A movie appeared to offer only a trailer because a same-title catalogue lookup associated it with an unrelated short. The existing full-length media did not need replacement. One scoped metadata correction preserved the media and viewing state, and the owner confirmed full-movie playback.
+
+Verification separated three questions: does the catalogue identify the intended work, is the existing media readable, and can the viewer play it? Sampled decoding and near-end packet checks supported readability without claiming exhaustive decoding. An optional content check timed out and was retained as unqualified evidence. The catalogue updated asynchronously; repeated observation confirmed the result without replaying the write. This is a retrospective lesson about evidence boundaries, not a global matching policy or a guarantee against every playback issue.

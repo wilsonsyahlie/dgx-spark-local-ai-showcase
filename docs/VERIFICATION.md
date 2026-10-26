@@ -1610,3 +1610,8 @@ The candidate became ready and completed local arithmetic, short multi-turn reca
 ### 2026-10-26 — Bounded media evidence
 
 Physical damaged/full-file controls, mismatched hashes, language checks and uncertain-action tests qualified distinct ingestion boundaries. Natural scheduled checks verified an already-correct selection without another mutation. Separate request-admission adoption combined real route/database checks, authenticated live rejection and natural continuation with existing authority retained. Sampled recognition does not certify translation or synchronization, and no available source means no fulfillment claim.
+
+
+### 2026-10-26 — Scoped catalogue correction
+
+Exact provider identity exposed an unrelated short-film match on an existing full-length video. Consistent backup, source identity, post-intent fencing, one supported metadata correction, unchanged media/viewing state, live main-media access and direct owner playback confirmation passed. An optional content check timed out and did not count as evidence. Asynchronous metadata was reread without replaying the write.

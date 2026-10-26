@@ -3005,3 +3005,10 @@ The trial closed and the incumbent returned a real correct answer. Configuration
 ### A completion flag needs evidence from the body
 
 [This retrospective](MEDIA-COMPLETION-EVIDENCE.md) explains why a duration header, successful exit or expired command record cannot substitute for physical completion. Bounded checks connect admitted bytes to installed content and validated playback tracks while preserving uncertain actions. Separate request-admission adoption passed real-route tests, authenticated live rejections and natural continuation with retained authority.
+
+
+### 2026-10-26 — Correcting identity before replacing a video
+
+A movie appeared to offer only a trailer because a same-title catalogue lookup associated it with an unrelated short. The existing full-length media did not need replacement. One scoped metadata correction preserved the media and viewing state, and the owner confirmed full-movie playback.
+
+Verification separated three questions: does the catalogue identify the intended work, is the existing media readable, and can the viewer play it? Sampled decoding and near-end packet checks supported readability without claiming exhaustive decoding. An optional content check timed out and was retained as unqualified evidence. The catalogue updated asynchronously; repeated observation confirmed the result without replaying the write. This is a retrospective lesson about evidence boundaries, not a global matching policy or a guarantee against every playback issue.
