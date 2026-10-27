@@ -3027,3 +3027,8 @@ A follow-up media reliability case strengthened sparse speech evidence without l
 ### 2026-10-27 — Testing the clock used by a diagnostic check
 
 Natural execution and historical-proof compatibility closed two checks left open in the earlier checkpoint. Another false hold came from diagnostic output timestamp rounding. Preserving decoded timing passed real codec controls while deliberately damaged input still failed. Earlier records stayed intact and a naturally created worker used the corrected artifact. A separate startup failure remained unresolved, and the broader delivery backlog was not declared complete. [Retrospective](QUIET-SPEECH-EVIDENCE.md).
+
+
+### 2026-10-27 — A smaller repair after a valid safety hold
+
+A verifier startup failure exposed exhausted session-accounting capacity. When a frozen cleanup plan became stale, it correctly held before mutation. A prevention-only successor removed cleanup capabilities, preserved approval provenance and used independent recovery plus identity-aware checks. Fresh sessions, one manual first execution and subsequent scheduled checks passed. A bounded metadata wait retained the existing validators; complete delivery and reboot persistence remained open. [Retrospective](SESSION-ACCOUNTING-RETROSPECTIVE.md).

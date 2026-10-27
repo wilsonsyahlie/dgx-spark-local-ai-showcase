@@ -1615,3 +1615,8 @@ Physical damaged/full-file controls, mismatched hashes, language checks and unce
 ### 2026-10-26 — Scoped catalogue correction
 
 Exact provider identity exposed an unrelated short-film match on an existing full-length video. Consistent backup, source identity, post-intent fencing, one supported metadata correction, unchanged media/viewing state, live main-media access and direct owner playback confirmation passed. An optional content check timed out and did not count as evidence. Asynchronous metadata was reread without replaying the write.
+
+
+### 2026-10-27 — Session accounting retrospective
+
+Physical publication and recovery fixtures covered partial changes, uncertain outcomes, foreign edits, competing recovery and expiry. Identity-aware controls rejected equal-count churn. Live fresh-session and file comparisons passed, and a separately bounded manual first verifier execution passed content checks. No cleanup or restart was performed. Subsequent scheduled source and installed-file checks passed. A separate bounded metadata-wait correction preserved content validation. Complete delivery and real reboot persistence remained open. [Evidence boundaries](SESSION-ACCOUNTING-RETROSPECTIVE.md).

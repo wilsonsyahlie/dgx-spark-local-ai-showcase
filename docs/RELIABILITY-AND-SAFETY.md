@@ -476,3 +476,6 @@ Concurrency can append legitimate history even while an activation lock is held.
 ### Preserve uncertainty at a completion boundary
 
 Labels and exit codes are evidence inputs, not completion authority. Validate actual bodies, bind installed bytes and selected streams, and never retry an uncertain mutation merely because its command history expired. A compatibility path must preserve stronger evidence and existing reservations. This is an engineering lesson, not a publication of configuration, access details or deployment instructions.
+
+
+A stale cleanup plan can justify reducing capabilities rather than widening eligibility. Preserve actual approval provenance, keep conditional recovery separately owned, and distinguish prevention, available capacity, executed work and delivered results. [Retrospective](SESSION-ACCOUNTING-RETROSPECTIVE.md).
