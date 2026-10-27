@@ -3042,3 +3042,11 @@ A short asset under a feature-length record was replaced through source qualific
 ### 2026-10-27 — An initial automatic supervisor with explicit limits
 
 A parser-context correction naturally closed a false installed-file hold while preserving strict source and target checks. A bounded automatic supervisor then passed real service authentication and natural healthy-suppression checks. The earlier independent-search prototype stayed unactivated. Actionable escalation, production fault recovery and wider content repair remained unproven or open. [Verified scope and failed approaches](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md).
+
+
+### 2026-10-28 — Logical incidents and a narrator without tools
+
+Real outage delivery closed an earlier untested alert path and exposed duplicate logical incidents. Stable grouping retained uncertainty; isolated actual-framework qualification rejected fabricated tool calls; typed empty-property reads repaired a recovery-reader failure. The successor was installed and reconciled without replay after an unexplained immediate status failure. Natural scheduling and broader repair remained separate requirements. [Follow-up evidence](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md).
+
+
+The later natural scheduled execution completed against the installed successor: every observed service responded, importer evidence was fresh, no incident was emitted, the model was skipped and the sole durable delivery record was suppressed with zero attempts. The future scheduled time remained valid. This closes the draft checkpoint’s pending scheduling check; it does not prove an induced production recovery or complete the wider content repair.

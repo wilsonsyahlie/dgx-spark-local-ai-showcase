@@ -1630,3 +1630,11 @@ Real source content checks, original-byte retention, fault-injected action bound
 ### 2026-10-27 — Initial automatic supervision
 
 Parser reconciliation fixtures, real publication fault cases, natural source/installed proofs and a read-only selected-track sweep passed. Supervisor tests covered uncertainty, process replacement, policy drift, paused work and delivery-state interpretation; real sandbox integration and natural quiet scheduled execution passed. These checks do not prove the new job can deliver an actionable alert or recover an induced production fault. Wider content repair remained open. [Evidence boundaries](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md).
+
+
+### 2026-10-28 — Restricted supervision follow-up
+
+Real outage receipts established provider acceptance with matching bodies and one intended recipient; no test message was sent. Isolated framework qualification rejected six fabricated tool calls with zero dispatch/network/inference/messages. Twenty-one guardian and twenty-three publisher test methods passed, including typed empty-property negatives and late authority changes. Installed source/process/access/health reconciliation passed without lifecycle replay. Natural schedule verification remained pending at this draft checkpoint; forced production recovery and wider content repair remained open. [Detailed limits](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md).
+
+
+The later natural scheduled execution completed against the installed successor: every observed service responded, importer evidence was fresh, no incident was emitted, the model was skipped and the sole durable delivery record was suppressed with zero attempts. The future scheduled time remained valid. This closes the draft checkpoint’s pending scheduling check; it does not prove an induced production recovery or complete the wider content repair.

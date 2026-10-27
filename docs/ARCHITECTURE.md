@@ -304,3 +304,8 @@ An investigation interface needs durable identity and status independent of page
 ### Retrospective: supervision and action ownership
 
 A supervisor can detect stalled progress without becoming another owner of media acquisition. The initial implementation used a typed continuation boundary, fresh execution identity and durable uncertain outcomes. Health, scheduled execution, action acknowledgement, progress and accepted delivery remained separate evidence. This is an abstract design lesson; no production interface or deployment configuration is published.
+
+
+### Retrospective: separating incident identity from transport errors
+
+A changing transport error can describe the same logical outage. Stable identity should retain existing delivery reservations until complete positive recovery, then admit a genuine recurrence. A deterministic executor can own tested actions while a capability-restricted narrator reports supplied evidence. Qualifying the actual framework matters because defaults and context injection can restore capabilities unexpectedly.
