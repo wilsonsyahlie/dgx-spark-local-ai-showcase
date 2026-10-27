@@ -1172,3 +1172,8 @@ A narrow warning classifier plus independent TCP-listener corroboration repairs 
 - [Bounded expert-model trial](case-studies/bounded-expert-model-trial.md): preparation, verified recovery and an unqualified loading trial without a performance claim.
 
 - [Media completion evidence](MEDIA-COMPLETION-EVIDENCE.md): distinguish headers, body integrity, installed outcome and selected tracks without erasing uncertainty.
+
+
+## When silence looked like the wrong language
+
+A bounded sampling correction preserved strict language checks and historical evidence meaning. A partially observed activation was reconciled without replay, and candidate tests were kept separate from natural execution and delivery claims. [Read the case](QUIET-SPEECH-EVIDENCE.md).

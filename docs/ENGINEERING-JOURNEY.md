@@ -3012,3 +3012,18 @@ The trial closed and the incumbent returned a real correct answer. Configuration
 A movie appeared to offer only a trailer because a same-title catalogue lookup associated it with an unrelated short. The existing full-length media did not need replacement. One scoped metadata correction preserved the media and viewing state, and the owner confirmed full-movie playback.
 
 Verification separated three questions: does the catalogue identify the intended work, is the existing media readable, and can the viewer play it? Sampled decoding and near-end packet checks supported readability without claiming exhaustive decoding. An optional content check timed out and was retained as unqualified evidence. The catalogue updated asynchronously; repeated observation confirmed the result without replaying the write. This is a retrospective lesson about evidence boundaries, not a global matching policy or a guarantee against every playback issue.
+
+
+## Versioning evidence after a quiet-dialogue false rejection
+
+A fixed sampling plan mistook sparse dialogue for insufficient native-language evidence. The correction used bounded independent fallback observations while retaining the acceptance criteria, and interpreted historical proofs under their original sealed authority. Candidate tests and deployment reconciliation passed; natural new-proof execution and live historical compatibility remained open at the checkpoint. [Retrospective](QUIET-SPEECH-EVIDENCE.md).
+
+
+### 2026-10-27 — Evidence versions and parser boundaries
+
+A follow-up media reliability case strengthened sparse speech evidence without lowering thresholds, preserved versioned historical proofs, and repaired a second parser layer around filenames. Real storage tests caught a backup-permission mismatch missed by mocks; a guarded single recovery subsequently passed ordinary scheduled verification. Wider delivery remained a separate unfinished outcome.
+
+
+### 2026-10-27 — Testing the clock used by a diagnostic check
+
+Natural execution and historical-proof compatibility closed two checks left open in the earlier checkpoint. Another false hold came from diagnostic output timestamp rounding. Preserving decoded timing passed real codec controls while deliberately damaged input still failed. Earlier records stayed intact and a naturally created worker used the corrected artifact. A separate startup failure remained unresolved, and the broader delivery backlog was not declared complete. [Retrospective](QUIET-SPEECH-EVIDENCE.md).
