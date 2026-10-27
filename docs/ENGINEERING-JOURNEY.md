@@ -3032,3 +3032,8 @@ Natural execution and historical-proof compatibility closed two checks left open
 ### 2026-10-27 — A smaller repair after a valid safety hold
 
 A verifier startup failure exposed exhausted session-accounting capacity. When a frozen cleanup plan became stale, it correctly held before mutation. A prevention-only successor removed cleanup capabilities, preserved approval provenance and used independent recovery plus identity-aware checks. Fresh sessions, one manual first execution and subsequent scheduled checks passed. A bounded metadata wait retained the existing validators; complete delivery and reboot persistence remained open. [Retrospective](SESSION-ACCOUNTING-RETROSPECTIVE.md).
+
+
+### 2026-10-27 — Physical fulfillment after a misleading quality label
+
+A short asset under a feature-length record was replaced through source qualification, original-byte retention and one supported copy import. Installed equality, preserved viewing state, selected embedded tracks and storage-side delivery checks passed. A proposed custom transfer path stayed unactivated after review. Human playback and the wider backlog remained open. [Bounded record](SHORT-ASSET-REPLACEMENT.md).

@@ -1180,3 +1180,6 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Session-accounting prevention](SESSION-ACCOUNTING-RETROSPECTIVE.md): a stale cleanup plan led to a smaller repair, explicit recovery authority and separate allocation and delivery evidence.
+
+
+- [Short asset replacement](SHORT-ASSET-REPLACEMENT.md): physical fulfillment, retained original bytes and supported transfer with distinct source, installed and delivery evidence.

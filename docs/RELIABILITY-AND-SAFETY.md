@@ -479,3 +479,8 @@ Labels and exit codes are evidence inputs, not completion authority. Validate ac
 
 
 A stale cleanup plan can justify reducing capabilities rather than widening eligibility. Preserve actual approval provenance, keep conditional recovery separately owned, and distinguish prevention, available capacity, executed work and delivered results. [Retrospective](SESSION-ACCOUNTING-RETROSPECTIVE.md).
+
+
+### Fulfillment evidence and a narrower transfer boundary
+
+An accepted quality label did not establish a full-length physical asset. A bounded repair qualified source content, retained the original and reused a supported importing service. Intent bytes were sealed before publication; database snapshot sidecars and directory durability were treated explicitly. Unknown writes retained their history and were not replayed. A custom transfer prototype remained unactivated. Complete source checks, installed equality and playback delivery were separate evidence stages, with human checks left unclaimed. [Retrospective](SHORT-ASSET-REPLACEMENT.md).

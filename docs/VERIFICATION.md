@@ -1620,3 +1620,8 @@ Exact provider identity exposed an unrelated short-film match on an existing ful
 ### 2026-10-27 — Session accounting retrospective
 
 Physical publication and recovery fixtures covered partial changes, uncertain outcomes, foreign edits, competing recovery and expiry. Identity-aware controls rejected equal-count churn. Live fresh-session and file comparisons passed, and a separately bounded manual first verifier execution passed content checks. No cleanup or restart was performed. Subsequent scheduled source and installed-file checks passed. A separate bounded metadata-wait correction preserved content validation. Complete delivery and real reboot persistence remained open. [Evidence boundaries](SESSION-ACCOUNTING-RETROSPECTIVE.md).
+
+
+### 2026-10-27 — Short asset replacement
+
+Real source content checks, original-byte retention, fault-injected action boundaries, durable state backups, one supported copy, installed whole-file equality, preserved catalogue/viewing state and storage-side delivery checks passed independent review. The media part identifier was reused correctly with updated bytes and runtime. Human picture, synchronization and client seeking were not tested; wider fulfillment remained open. [Evidence scope](SHORT-ASSET-REPLACEMENT.md).
