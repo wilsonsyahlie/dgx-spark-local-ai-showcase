@@ -299,3 +299,8 @@ The software-inspection exercise favored a pinned command and focused instructio
 ### Investigation control as a separate concern
 
 An investigation interface needs durable identity and status independent of page lifetime. The retrospective design separated the web process, finite task ownership and independent stop observation. These responsibilities should not be conflated with model selection or a new execution sandbox. The case study describes lessons without publishing deployment details.
+
+
+### Retrospective: supervision and action ownership
+
+A supervisor can detect stalled progress without becoming another owner of media acquisition. The initial implementation used a typed continuation boundary, fresh execution identity and durable uncertain outcomes. Health, scheduled execution, action acknowledgement, progress and accepted delivery remained separate evidence. This is an abstract design lesson; no production interface or deployment configuration is published.

@@ -1183,3 +1183,6 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Short asset replacement](SHORT-ASSET-REPLACEMENT.md): physical fulfillment, retained original bytes and supported transfer with distinct source, installed and delivery evidence.
+
+
+- [Initial automatic supervision](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md): parser context, bounded recovery authority, real sandbox integration and truthful quiet delivery.

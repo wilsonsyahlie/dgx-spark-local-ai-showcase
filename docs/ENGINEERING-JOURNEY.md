@@ -3037,3 +3037,8 @@ A verifier startup failure exposed exhausted session-accounting capacity. When a
 ### 2026-10-27 — Physical fulfillment after a misleading quality label
 
 A short asset under a feature-length record was replaced through source qualification, original-byte retention and one supported copy import. Installed equality, preserved viewing state, selected embedded tracks and storage-side delivery checks passed. A proposed custom transfer path stayed unactivated after review. Human playback and the wider backlog remained open. [Bounded record](SHORT-ASSET-REPLACEMENT.md).
+
+
+### 2026-10-27 — An initial automatic supervisor with explicit limits
+
+A parser-context correction naturally closed a false installed-file hold while preserving strict source and target checks. A bounded automatic supervisor then passed real service authentication and natural healthy-suppression checks. The earlier independent-search prototype stayed unactivated. Actionable escalation, production fault recovery and wider content repair remained unproven or open. [Verified scope and failed approaches](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md).

@@ -1625,3 +1625,8 @@ Physical publication and recovery fixtures covered partial changes, uncertain ou
 ### 2026-10-27 — Short asset replacement
 
 Real source content checks, original-byte retention, fault-injected action boundaries, durable state backups, one supported copy, installed whole-file equality, preserved catalogue/viewing state and storage-side delivery checks passed independent review. The media part identifier was reused correctly with updated bytes and runtime. Human picture, synchronization and client seeking were not tested; wider fulfillment remained open. [Evidence scope](SHORT-ASSET-REPLACEMENT.md).
+
+
+### 2026-10-27 — Initial automatic supervision
+
+Parser reconciliation fixtures, real publication fault cases, natural source/installed proofs and a read-only selected-track sweep passed. Supervisor tests covered uncertainty, process replacement, policy drift, paused work and delivery-state interpretation; real sandbox integration and natural quiet scheduled execution passed. These checks do not prove the new job can deliver an actionable alert or recover an induced production fault. Wider content repair remained open. [Evidence boundaries](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md).
