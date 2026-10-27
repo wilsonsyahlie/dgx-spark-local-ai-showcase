@@ -27,3 +27,16 @@ The installed successor passed exact source, binding, process-incarnation and se
 
 
 The later natural scheduled execution completed against the installed successor: every observed service responded, importer evidence was fresh, no incident was emitted, the model was skipped and the sole durable delivery record was suppressed with zero attempts. The future scheduled time remained valid. This closes the draft checkpoint’s pending scheduling check; it does not prove an induced production recovery or complete the wider content repair.
+
+
+### Follow-up: distinguish pre-write drift from uncertain actions
+
+A request mapper treated harmless episode metadata drift before its first monitoring write as a hard failure. The correction recorded a waiting, not-attempted outcome while retaining strict provider and episode identity checks. It did not revive old attention states, repeat uncertain writes or create a competing search owner. Isolated engine, store, route, database and private-boot checks qualified the replacement before activation.
+
+Rollout qualification found that full historical-state verification could not fit inside the short start deadline. Raising that deadline would have hidden the mismatch. Instead, full read-only preservation ran first, with sealed program and manifest identities, a proven stopped process epoch, a freshly created replacement and a bounded handoff into the unchanged start gate. Early attempts held without lifecycle actions when the complete decision-and-dispatch suffix did not fit. Overlapping only independent metadata reads subsequently produced measured margin without relaxing identity, stability or deadline checks.
+
+The single admitted rollout preserved the original request identities, settings, protected database projection and extensive immutable history. Installed source, image, canonical persistence, authentication and the retained stopped predecessor were checked against the qualified artifacts. Natural mapper runs completed without errors. The automatic supervisor was paused only for maintenance, resumed through its supported control and verified by a real scheduled execution: healthy services, fresh progress, no event and suppressed delivery with zero attempts. The next scheduled time was checked after completion.
+
+An observer initially demanded a future scheduled time before checking whether a due execution had been claimed. The due-but-unclaimed state was pending, not a completed success or demonstrated scheduler defect. A separate startup verification also initially confused a receipt's input-file hash with its producer's code hash. Both invalid checker assumptions and failed observations were retained; producer source and actual state established the corrected interpretations. A later natural boot verified the earlier session-leak prevention without inducing a reboot or deleting session groups.
+
+This checkpoint established the mapper repair and restored supervision. It did not complete the wider content backlog, prove human playback or synchronization, induce a production recovery, or add automatic subtitle and movie replacement. Those operations remained separate qualified work.

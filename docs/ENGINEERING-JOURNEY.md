@@ -3050,3 +3050,8 @@ Real outage delivery closed an earlier untested alert path and exposed duplicate
 
 
 The later natural scheduled execution completed against the installed successor: every observed service responded, importer evidence was fresh, no incident was emitted, the model was skipped and the sole durable delivery record was suppressed with zero attempts. The future scheduled time remained valid. This closes the draft checkpoint’s pending scheduling check; it does not prove an induced production recovery or complete the wider content repair.
+
+
+### 2026-10-28 — State preservation and a truthful return to supervision
+
+A request-mapping correction separated benign pre-write drift from uncertain actions. Full historical preservation was qualified separately from an unchanged short start gate; early attempts held without application effects. The admitted replacement passed state, runtime, persistence and natural-continuation checks. Supported supervisor resume was followed by an actual quiet scheduled execution and a valid future schedule. Invalid observer assumptions were retained and corrected rather than treated as production failures. Broader content repair and human playback remained open.

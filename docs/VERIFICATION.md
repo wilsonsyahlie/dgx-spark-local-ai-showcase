@@ -1638,3 +1638,10 @@ Real outage receipts established provider acceptance with matching bodies and on
 
 
 The later natural scheduled execution completed against the installed successor: every observed service responded, importer evidence was fresh, no incident was emitted, the model was skipped and the sole durable delivery record was suppressed with zero attempts. The future scheduled time remained valid. This closes the draft checkpoint’s pending scheduling check; it does not prove an induced production recovery or complete the wider content repair.
+
+
+### 2026-10-28 — Mapper rollout and maintenance-resume checkpoint
+
+PASS: isolated mapper and route/database qualification; captured rollout regression methods; complete stopped-state preservation; installed image and source; authenticated availability; repository-only persistence change; retained stopped predecessor; natural mapper continuation; supported supervisor resume; actual scheduled healthy execution with suppressed delivery and zero attempts; future anchored scheduling. Failed pre-action timing attempts and invalid observer assumptions were preserved. A natural boot separately verified the earlier session-leak prevention against producer-defined receipt fields and current artifacts.
+
+OPEN or UNRUN: broader content and caption repairs, automatic replacement handlers, induced production fault recovery, and human playback or synchronization. No successful start acknowledgement, silent response or available badge substituted for physical or delivery evidence.
