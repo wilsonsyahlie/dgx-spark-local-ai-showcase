@@ -1186,3 +1186,5 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Initial automatic supervision](AUTOMATIC-SUPERVISION-RETROSPECTIVE.md): parser context, bounded recovery authority, real sandbox integration and truthful quiet delivery.
+
+- [Simplifying missing-download recovery](SIMPLIFYING-MEDIA-RECOVERY.md) — bounded native retries and explicit incomplete work.

@@ -3059,3 +3059,7 @@ A request-mapping correction separated benign pre-write drift from uncertain act
 
 ### 2026-10-28
 Replaced latest-result sampling with restart-safe receipt catch-up and moved routine monitoring outside the long-agent queue. Exact deployed readback and natural scheduled progress through catch-up passed. Backup-contract and phase-history mistakes were caught before activation; unknown actions remained reserved. Broader content-replacement automation remained unfinished.
+
+## Recovery simplification checkpoint — 2026-10-29
+
+An experimental repair engine was stopped before activation. A smaller existing-supervisor search handler passed focused checks, was activated and completed a natural scheduled search. Cooldown and quiet-delivery readbacks passed; a completed download was not claimed. See [the recovery case study](SIMPLIFYING-MEDIA-RECOVERY.md).

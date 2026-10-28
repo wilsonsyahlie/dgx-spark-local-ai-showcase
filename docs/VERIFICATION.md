@@ -1648,3 +1648,7 @@ OPEN or UNRUN: broader content and caption repairs, automatic replacement handle
 
 
 The durable-monitoring checkpoint passed behavioral, client, interruption and publication fault checks. An isolated installed-framework test verified queue and working-directory isolation without inference or external delivery. Deployed readback and natural scheduled journal advancement through catch-up passed; quiet delivery was suppressed with zero attempts. Forced production failure recovery and broader content replacement remained unverified by this checkpoint.
+
+## Missing-download recovery simplification
+
+Twenty-eight focused checks and a real storage-side backup/hash check passed. Search acknowledgement is not download completion. Live activation and a natural scheduled search passed; its suppressed notification was verified separately from delivery. Actual downloads, subtitle timing and truncated-copy replacement remain separately tracked acceptance checks. See [the scoped record](SIMPLIFYING-MEDIA-RECOVERY.md).
