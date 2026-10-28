@@ -3055,3 +3055,7 @@ The later natural scheduled execution completed against the installed successor:
 ### 2026-10-28 — State preservation and a truthful return to supervision
 
 A request-mapping correction separated benign pre-write drift from uncertain actions. Full historical preservation was qualified separately from an unchanged short start gate; early attempts held without application effects. The admitted replacement passed state, runtime, persistence and natural-continuation checks. Supported supervisor resume was followed by an actual quiet scheduled execution and a valid future schedule. Invalid observer assumptions were retained and corrected rather than treated as production failures. Broader content repair and human playback remained open.
+
+
+### 2026-10-28
+Replaced latest-result sampling with restart-safe receipt catch-up and moved routine monitoring outside the long-agent queue. Exact deployed readback and natural scheduled progress through catch-up passed. Backup-contract and phase-history mistakes were caught before activation; unknown actions remained reserved. Broader content-replacement automation remained unfinished.

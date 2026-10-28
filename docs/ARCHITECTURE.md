@@ -314,3 +314,6 @@ A changing transport error can describe the same logical outage. Stable identity
 ### 2026-10-28 — Preserved ownership during a mapper replacement
 
 The verified replacement retained the existing search and import owners. Full immutable-state observation preceded a fresh bounded start authority tied to the same stopped epoch and replacement identity. Only independent metadata reads overlapped; all results, identity checks and original deadlines remained required. The supervisor used supported maintenance controls and returned through an observed natural execution. This is a retrospective boundary description, not deployment instructions.
+
+
+The later supervision retrospective separated durable observation, established repair ownership and notification. Receipt checkpoints preserved failures across unrelated worker turns. Routine checks and deterministic summaries used a script-only path, avoiding the long-agent queue without adding a competing media writer.
