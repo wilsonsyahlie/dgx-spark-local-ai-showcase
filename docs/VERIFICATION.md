@@ -1652,3 +1652,7 @@ The durable-monitoring checkpoint passed behavioral, client, interruption and pu
 ## Missing-download recovery simplification
 
 Twenty-eight focused checks and a real storage-side backup/hash check passed. Search acknowledgement is not download completion. Live activation and a natural scheduled search passed; its suppressed notification was verified separately from delivery. Actual downloads, subtitle timing and truncated-copy replacement remain separately tracked acceptance checks. See [the scoped record](SIMPLIFYING-MEDIA-RECOVERY.md).
+
+## Retry regression and retirement checkpoint
+
+Thirty focused/integration checks qualified the episode-monitoring correction, but that added retry path was subsequently retired after owner feedback. The deployed disabled branch was independently reviewed and naturally exercised without new searches. A narrowly scoped monitoring repair preserved every other episode resource and setting; request searches and source selections were separately verified against storage-side byte flow. Entire-series completion and human playback were not claimed.

@@ -3063,3 +3063,7 @@ Replaced latest-result sampling with restart-safe receipt catch-up and moved rou
 ## Recovery simplification checkpoint — 2026-10-29
 
 An experimental repair engine was stopped before activation. A smaller existing-supervisor search handler passed focused checks, was activated and completed a natural scheduled search. Cooldown and quiet-delivery readbacks passed; a completed download was not claimed. See [the recovery case study](SIMPLIFYING-MEDIA-RECOVERY.md).
+
+## Owner-rejected retry regression retired — 2026-10-29
+
+A real request exposed an episode-versus-parent monitoring regression. The added backlog search branch was retired; existing application request ownership and health/import recovery were preserved. A scoped request repair used normal native operations, and actual storage-side transfers were observed. Completion remained in progress.
