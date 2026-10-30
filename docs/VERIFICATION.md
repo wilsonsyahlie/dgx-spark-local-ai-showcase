@@ -1673,3 +1673,7 @@ Before-and-after regressions cover recovery, identity changes, uncertain acknowl
 Live scheduling, preservation and request behavior require separate evidence from isolated tests and image builds. Neither this change nor a successful search guarantees that a release exists or that every subtitle is correctly timed.
 
 A real scheduled run after deployment resumed a previously held request. Protected state and the exact original schedules passed readback checks; the resumed health job completed with delivery explicitly suppressed. New-approval dispatch has isolated regression coverage; no synthetic request or external test notification was created. The original historical assertion trigger remains unknown.
+
+### Quality-choice simplification
+
+The [quality-interface retrospective](SIMPLIFIED-MEDIA-QUALITY.md) distinguishes isolated compiled-browser checks, real adapter methods with fake transport, and later live verification. A successful request does not establish source availability or completed playback.

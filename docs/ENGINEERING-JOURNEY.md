@@ -3084,3 +3084,7 @@ Before-and-after regressions cover recovery, identity changes, uncertain acknowl
 Live scheduling, preservation and request behavior require separate evidence from isolated tests and image builds. Neither this change nor a successful search guarantees that a release exists or that every subtitle is correctly timed.
 
 A real scheduled run after deployment resumed a previously held request. Protected state and the exact original schedules passed readback checks; the resumed health job completed with delivery explicitly suppressed. New-approval dispatch has isolated regression coverage; no synthetic request or external test notification was created. The original historical assertion trigger remains unknown.
+
+### A smaller request interface
+
+Backend language and title exceptions had accumulated into a confusing quality menu. A [two-choice redesign](SIMPLIFIED-MEDIA-QUALITY.md) kept those policies behind the interface, preserved existing assignments and tested timing failures alongside the phone layout.
