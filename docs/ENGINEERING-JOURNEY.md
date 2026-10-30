@@ -3088,3 +3088,7 @@ A real scheduled run after deployment resumed a previously held request. Protect
 ### A smaller request interface
 
 Backend language and title exceptions had accumulated into a confusing quality menu. A [two-choice redesign](SIMPLIFIED-MEDIA-QUALITY.md) kept those policies behind the interface, preserved existing assignments and tested timing failures alongside the phone layout.
+
+### Showing verified partial presence
+
+An all-or-nothing metadata check hid episodes that were already present. A [conservative partial result](PARTIAL-EPISODE-AVAILABILITY.md) kept unknown future slots distinct from verified current files and from completion authority.

@@ -1190,3 +1190,5 @@ A bounded sampling correction preserved strict language checks and historical ev
 - [Simplifying missing-download recovery](SIMPLIFYING-MEDIA-RECOVERY.md) — bounded native retries and explicit incomplete work.
 
 - [A simpler quality choice](SIMPLIFIED-MEDIA-QUALITY.md): reducing product decisions while preserving policy and ownership checks.
+
+- [Showing the part that is available](PARTIAL-EPISODE-AVAILABILITY.md): preserving useful verified evidence without overstating completion.

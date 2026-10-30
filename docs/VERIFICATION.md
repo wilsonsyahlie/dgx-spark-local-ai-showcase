@@ -1677,3 +1677,7 @@ A real scheduled run after deployment resumed a previously held request. Protect
 ### Quality-choice simplification
 
 The [quality-interface retrospective](SIMPLIFIED-MEDIA-QUALITY.md) distinguishes isolated compiled-browser checks, real adapter methods with fake transport, and later live verification. A successful request does not establish source availability or completed playback.
+
+### Partial availability and completion
+
+The [partial-availability retrospective](PARTIAL-EPISODE-AVAILABILITY.md) separates identity checks, current file evidence, persisted prior state, conditional database writes and actual completion. Missing future identifiers do not by themselves negate verified present files.
