@@ -3067,3 +3067,9 @@ An experimental repair engine was stopped before activation. A smaller existing-
 ## Owner-rejected retry regression retired — 2026-10-29
 
 A real request exposed an episode-versus-parent monitoring regression. The added backlog search branch was retired; existing application request ownership and health/import recovery were preserved. A scoped request repair used normal native operations, and actual storage-side transfers were observed. Completion remained in progress.
+
+
+### A request handoff stopped before monitoring
+A newly approved series reached its library manager but every episode remained unmonitored. A permanent review state in the request handoff prevented further progress. The historical failing assertion could not be established; a generic error label was insufficient to diagnose it.
+
+A narrowly scoped recovery used the approved whole-season authority, preserved the original history and admission policy, backed up state, enabled only the requested episode flags, and verified complete resource readback. A normal application search targeted released episodes while future episodes remained monitored. Actual transfer bytes were observed on the storage server. Transfer start is not completed import, and this recovery does not prove a generic permanent fix. The owner-rejected competing retry loop remained retired.

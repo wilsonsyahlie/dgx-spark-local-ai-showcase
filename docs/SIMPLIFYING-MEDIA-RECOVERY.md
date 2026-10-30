@@ -20,3 +20,9 @@ The owner reported that the extra retry behavior was worse. Rather than add anot
 The affected whole-show request was repaired through the existing applications. Only its remaining episode-monitoring flags changed, with complete resource comparison preserving file identities and other settings. Requested seasons were searched serially. Where existing queued selections blocked viable complete-season releases, narrowly selected profile-allowed alternatives were grabbed through the normal application API without changing global quality policy or deleting old payloads. Advertised seeds and search acknowledgements were kept separate from actual storage-side byte flow. Download completion remained in progress.
 
 The prevention rule is to test the real application's ownership and monitoring semantics, not infer them from a familiar flag name. An existing approval dispatcher should not gain a competing historical-backlog search loop merely because a scheduled search can pass. Retire a rejected regression and preserve evidence; do not relabel its unit-test success as fulfillment.
+
+
+### A request handoff stopped before monitoring
+A newly approved series reached its library manager but every episode remained unmonitored. A permanent review state in the request handoff prevented further progress. The historical failing assertion could not be established; a generic error label was insufficient to diagnose it.
+
+A narrowly scoped recovery used the approved whole-season authority, preserved the original history and admission policy, backed up state, enabled only the requested episode flags, and verified complete resource readback. A normal application search targeted released episodes while future episodes remained monitored. Actual transfer bytes were observed on the storage server. Transfer start is not completed import, and this recovery does not prove a generic permanent fix. The owner-rejected competing retry loop remained retired.
