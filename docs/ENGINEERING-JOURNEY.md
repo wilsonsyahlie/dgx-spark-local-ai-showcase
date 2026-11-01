@@ -3097,3 +3097,8 @@ An all-or-nothing metadata check hid episodes that were already present. A [cons
 ### 2026-11-02 — Recovery with separate acceptance boundaries
 
 A [seek-recovery retrospective](STRICT-SEEK-RECOVERY.md) follows a narrow deployed verifier fix and source/history recovery while keeping remaining imports explicitly open.
+
+
+### Separate title hints from content evidence
+
+An acquisition parser confused a subtitle marker with an audio claim. Sixteen isolated-engine cases and the same live cases validated a narrow correction while retaining physical language checks. A donor's installed and missing episodes were separately accounted for, and an unparseable source went through the ordinary replacement search. Aggregate completion remained open.

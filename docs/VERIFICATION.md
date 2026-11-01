@@ -1686,3 +1686,9 @@ The [partial-availability retrospective](PARTIAL-EPISODE-AVAILABILITY.md) separa
 ### Decoder recovery limits
 
 The [seek-recovery retrospective](STRICT-SEEK-RECOVERY.md) distinguishes a full real-file proof, sampled compatibility, truncated-input rejection and scheduled deployed-policy readback. These do not establish all pack imports or human playback.
+
+
+The subtitle-marker correction passed sixteen cases in the exact isolated engine and again after activation. Explicit wrong-audio claims, unrelated title text and independent wrong-subtitle penalties retained their expected decisions. Donor duplicate retention preserved file bytes and installed copies; actual native preview exposed missing targets only. These checks do not establish complete delivery or human playback.
+
+
+A later observed reference-message combination passed thirteen focused tests and a full real-file proof under the new artifact. Two reviews preceded promotion; fresh artifact readback, natural scheduled policy readback and validation of an earlier installed proof passed. The corrected stage attribution is retained in the recovery case study. Whole-request delivery remains open.
