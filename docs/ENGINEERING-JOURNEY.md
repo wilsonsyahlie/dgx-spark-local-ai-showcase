@@ -3092,3 +3092,8 @@ Backend language and title exceptions had accumulated into a confusing quality m
 ### Showing verified partial presence
 
 An all-or-nothing metadata check hid episodes that were already present. A [conservative partial result](PARTIAL-EPISODE-AVAILABILITY.md) kept unknown future slots distinct from verified current files and from completion authority.
+
+
+### 2026-11-02 — Recovery with separate acceptance boundaries
+
+A [seek-recovery retrospective](STRICT-SEEK-RECOVERY.md) follows a narrow deployed verifier fix and source/history recovery while keeping remaining imports explicitly open.

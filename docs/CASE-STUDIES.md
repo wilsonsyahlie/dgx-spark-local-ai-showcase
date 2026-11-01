@@ -1192,3 +1192,6 @@ A bounded sampling correction preserved strict language checks and historical ev
 - [A simpler quality choice](SIMPLIFIED-MEDIA-QUALITY.md): reducing product decisions while preserving policy and ownership checks.
 
 - [Showing the part that is available](PARTIAL-EPISODE-AVAILABILITY.md): preserving useful verified evidence without overstating completion.
+
+
+- [Strict seek recovery](STRICT-SEEK-RECOVERY.md): controlled decoder experiments, narrow retry eligibility and separate acquisition/import evidence.

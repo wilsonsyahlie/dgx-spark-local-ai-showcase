@@ -1681,3 +1681,8 @@ The [quality-interface retrospective](SIMPLIFIED-MEDIA-QUALITY.md) distinguishes
 ### Partial availability and completion
 
 The [partial-availability retrospective](PARTIAL-EPISODE-AVAILABILITY.md) separates identity checks, current file evidence, persisted prior state, conditional database writes and actual completion. Missing future identifiers do not by themselves negate verified present files.
+
+
+### Decoder recovery limits
+
+The [seek-recovery retrospective](STRICT-SEEK-RECOVERY.md) distinguishes a full real-file proof, sampled compatibility, truncated-input rejection and scheduled deployed-policy readback. These do not establish all pack imports or human playback.
