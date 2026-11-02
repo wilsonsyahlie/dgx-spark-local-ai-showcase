@@ -1692,3 +1692,31 @@ The subtitle-marker correction passed sixteen cases in the exact isolated engine
 
 
 A later observed reference-message combination passed thirteen focused tests and a full real-file proof under the new artifact. Two reviews preceded promotion; fresh artifact readback, natural scheduled policy readback and validation of an earlier installed proof passed. The corrected stage attribution is retained in the recovery case study. Whole-request delivery remains open.
+
+
+Parent-label recovery evidence included a live before/after parser comparison, a complete positive inventory partition, verified source-copy backups, unchanged hashes for every source file after the folder operation, unchanged installed-file identities and paths, and an actual requested-subset native preview. Five preview-adapter tests and eight finite-verifier frontend tests passed. Full content and aggregate delivery remained separate open checks.
+
+The task-only cache continuation passed twenty actual tests, including corrupted-proof, dangling-link, lock contention and ownership-handoff negatives. A genuine new content proof confirmed live progress with the original expiry retained. Aggregate delivery remains open.
+
+Alternate-source retention passed nine actual focused tests, live consumer isolation, both field readbacks and full before/after source preservation checks. Ordinary scheduling continued with the retained source excluded. This proves the bounded retention phase; preferred-batch delivery remains open.
+
+
+Live admission follow-up: a first cache-only batch check exceeded the original budget. Profiling preserved that failure and separated remote setup from body work. The final combined helper passed fourteen bound-module tests, actual old/new source and library descriptor equality, full no-import admission/final-fence timing, descriptor-fenced publication and fresh-process artifact readback. A genuine ordinary scheduled run then submitted the intended batch within the unchanged deadline, the known copy command completed, exact player-library paths/coordinates matched and the request became available. The history-generation bridge retained the original enrollment and all old journals; actual subsequent scheduled notification delivery was suppressed with zero attempts. Installed-file qualification and exact viewer selection remain open at this draft checkpoint.
+
+
+### Final scoped recovery evidence
+
+The requested library is available, supported by genuine scheduled admission, known completed copy command, exact player-path/episode-coordinate joins and request-portal availability. The natural importer subsequently produced its complete canonical source/installed proof terminal. Retained content with changed inode/change-time was separately checked by full storage-local byte identity against unchanged canonical body proofs; other retained descriptors still matched exactly.
+
+Two current read-only passes confirmed the entire requested native-audio/English-caption selection set. Caption language, cue coverage, body hashes and exact identity bindings were checked on storage with unchanged body criteria and a narrowly pinned task identity boundary. The selections were already correct: zero track writes, zero new global watch seeds and no database backup for a nonexistent mutation. Fourteen combined-helper tests, ten read-only/caption workflow methods, six byte-attestation methods and the earlier phase-specific controls are distinct from this real deployed evidence; mocked workflow tests did not count as live media qualification.
+
+A prior empty wrong-track list was corrected to explicit positive-selection counts before action. A redundant finite proof caller was positively closed with claims and original expiry retained; later natural progress and terminal completion were observed. Natural notification suppression remained distinct from delivery. Full history/enrollment preservation passed. Remaining limits are per-file observation times, unresolved general automatic alias/descriptor monitoring, and untested human playback/translation/dialogue synchronization. Earlier open checkpoint paragraphs above are historical and are superseded for current scoped delivery by this final evidence.
+
+
+### A success report can expose another boundary
+
+Final review reproduced another failure: a valid successful-batch report exceeded the monitor's individual input limit, holding ordinary scheduled catch-up. A narrow compatibility change retained the aggregate, state, count, time and identity limits. Tests used authentic copied history and reports, verified the old failure and preserved the historical prefix. Thirty-seven qualification methods passed. Observed memory and processing time were measured rather than inferred from an exit code.
+
+An initial restart then exposed a listener-readiness race. The failed operation stayed failed and consumed; its source publication was not repeated. A separately reviewed reconciliation started the positively stopped service once and retried only read-only connection readiness within one deadline. Four activation and five readiness methods passed, with isolated tests kept distinct from live evidence.
+
+Genuine scheduled executions subsequently consumed the formerly oversized report and caught up. Execution, journal and durable delivery records were joined, and suppressed delivery was not described as sent. The original scheduling and historical boundaries survived. This repaired one reproduced monitor compatibility issue; it did not establish universal automatic handling of every identity or caption edge case.

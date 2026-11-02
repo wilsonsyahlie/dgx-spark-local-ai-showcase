@@ -3102,3 +3102,25 @@ A [seek-recovery retrospective](STRICT-SEEK-RECOVERY.md) follows a narrow deploy
 ### Separate title hints from content evidence
 
 An acquisition parser confused a subtitle marker with an audio claim. Sixteen isolated-engine cases and the same live cases validated a narrow correction while retaining physical language checks. A donor's installed and missing episodes were separately accounted for, and an unparseable source went through the ordinary replacement search. Aggregate completion remained open.
+
+
+### A bundle label became an unintended season constraint
+
+A complete replacement bundle exposed a second parsing layer: its parent label was read as a single-season constraint even though individual episode coordinates were correct. Positive inventory accounting, retained exclusions and verified backups preceded a neutral parent-label correction. A fresh native preview accepted the requested subset; full content qualification continued through the existing pipeline. The earlier failed final check stayed explicit.
+
+A competing complete candidate was retained outside automatic processing after consumer-isolation checks. Once-only metadata changes and full source preservation readbacks passed; normal scheduling continued. Preferred-batch qualification and aggregate delivery remain open.
+
+
+The recovery progressed from source qualification to actual scheduled admission and completed library availability. A narrow owner-context correction preserved independent identity checks; a bounded program-generation bridge kept all historical journals. Measured closed-proof and transport overhead was removed without raising the deadline or adding another retry job. The final helper passed fourteen focused tests and actual source/library equality checks, followed by the real scheduled import and exact player/request-portal availability evidence. Remaining installed proofs and viewer-track checks are still explicit, rather than implied by availability. See the recovery retrospective for the failed intermediate check and retained limits.
+
+
+The scoped recovery reached completed availability through the existing scheduled importer and its full source/installed proof terminal. Current native-audio/English-caption pairs then passed two read-only checks. Old byte proofs were preserved across separately measured file-identity changes; selected caption bodies stayed on storage. No playback setting needed changing, no new global watch seed was written, and the redundant finite caller was stopped without losing its proofs or renewing its expiry. General automatic alias/descriptor monitoring and human playback/synchronization remain explicit limits. The recovery case study now describes the measured causes, failed intermediate evidence, final behavior and boundaries together.
+
+
+### A success report can expose another boundary
+
+Final review reproduced another failure: a valid successful-batch report exceeded the monitor's individual input limit, holding ordinary scheduled catch-up. A narrow compatibility change retained the aggregate, state, count, time and identity limits. Tests used authentic copied history and reports, verified the old failure and preserved the historical prefix. Thirty-seven qualification methods passed. Observed memory and processing time were measured rather than inferred from an exit code.
+
+An initial restart then exposed a listener-readiness race. The failed operation stayed failed and consumed; its source publication was not repeated. A separately reviewed reconciliation started the positively stopped service once and retried only read-only connection readiness within one deadline. Four activation and five readiness methods passed, with isolated tests kept distinct from live evidence.
+
+Genuine scheduled executions subsequently consumed the formerly oversized report and caught up. Execution, journal and durable delivery records were joined, and suppressed delivery was not described as sent. The original scheduling and historical boundaries survived. This repaired one reproduced monitor compatibility issue; it did not establish universal automatic handling of every identity or caption edge case.
