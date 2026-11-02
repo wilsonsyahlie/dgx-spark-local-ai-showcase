@@ -3124,3 +3124,13 @@ Final review reproduced another failure: a valid successful-batch report exceede
 An initial restart then exposed a listener-readiness race. The failed operation stayed failed and consumed; its source publication was not repeated. A separately reviewed reconciliation started the positively stopped service once and retried only read-only connection readiness within one deadline. Four activation and five readiness methods passed, with isolated tests kept distinct from live evidence.
 
 Genuine scheduled executions subsequently consumed the formerly oversized report and caught up. Execution, journal and durable delivery records were joined, and suppressed delivery was not described as sent. The original scheduling and historical boundaries survived. This repaired one reproduced monitor compatibility issue; it did not establish universal automatic handling of every identity or caption edge case.
+
+
+## November 2 — Partial collection recovery verified
+
+A bounded repair recovered missing items while preserving existing files, without
+a new recurring retry system. Completed-source qualification, installed-file hash
+matches and unique catalogue mappings established availability. The existing
+natural scan completed the request. Human playback and dialogue synchronization
+remain untested.
+See [the recovery record](case-studies/partial-collection-recovery.md).

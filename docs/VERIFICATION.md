@@ -1720,3 +1720,24 @@ Final review reproduced another failure: a valid successful-batch report exceede
 An initial restart then exposed a listener-readiness race. The failed operation stayed failed and consumed; its source publication was not repeated. A separately reviewed reconciliation started the positively stopped service once and retried only read-only connection readiness within one deadline. Four activation and five readiness methods passed, with isolated tests kept distinct from live evidence.
 
 Genuine scheduled executions subsequently consumed the formerly oversized report and caught up. Execution, journal and durable delivery records were joined, and suppressed delivery was not described as sent. The original scheduling and historical boundaries survived. This repaired one reproduced monitor compatibility issue; it did not establish universal automatic handling of every identity or caption edge case.
+
+
+## November 2 partial collection recovery — verified
+
+Actual stopped metadata distinguished title claims from file coverage. Focused
+checks rejected swapped episode mappings, incomplete queue observations, active
+work conflicts, late transport boundaries, duplicate file mappings and late
+replacement after hashing. Completed sources passed technical qualification;
+fresh installed-file hashes matched source proofs. Prior-file identities and
+descriptors remained unchanged. Unique catalogue mappings and the natural
+completed-request transition passed. A mistaken approved-state assertion was
+corrected using the deployed contract, with unfinished states still rejected.
+Human playback, catalogue duration agreement and dialogue synchronization were
+not tested. Historical cache cleanup attribution and generic future reliability
+remain outside the proved result.
+See [the bounded recovery evidence summary](case-studies/partial-collection-recovery.md).
+
+The later tracking residue disappeared naturally. Positive directory and missing-
+file evidence, unchanged current installed descriptors and catalogue joins passed.
+Prepared tracking actions were never authorized or executed; cache cleanup
+attribution remains unknown.
