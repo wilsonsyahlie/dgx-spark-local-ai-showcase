@@ -11,3 +11,15 @@ The compiled replacement was tested at phone size with isolated transport and sy
 The engineering lesson was to keep the viewer's decision small while preserving the policy checks behind it. Backend exceptions can remain useful without becoming product choices.
 
 The deployed interface was also checked with an existing authenticated account. Its prior state was preserved, the normal schedule was restored and a real scheduled handoff resumed without new review holds. This operational evidence was kept separate from the isolated browser tests and from claims about completed downloads.
+
+
+## Repair the evidence chain without adding choices
+
+A later recovery showed why catalogue identity, source suitability and transfer health need separate evidence. Stable episode identifiers resolved a season-numbering disagreement. Native dialogue with signs-only captions remained unsuitable, even after the transfer completed. A slow healthy transfer was preserved while a correctly mapped, profile-allowed alternative was checked.
+
+An observer initially expected a response field that the deployed service did not expose. The original acknowledged action stayed consumed. Read-only reconciliation used the actual response schema and independent identity joins; it did not replay the request. The resulting lesson is to inspect the deployed schema before defining success observers.
+
+A finite cohort check reused the existing verifier and resource limits. One separately backed-up priority adjustment changed ordering, while the normal importer kept responsibility for admission and installed-copy validation. This engineering story is retrospective and non-deployable; it supplies neither current configuration nor a promise of universal automatic recovery.
+
+
+The final scoped checks established the restored main cohort through installed-byte, catalogue and current viewer evidence. An existing historical-request policy seam and a duration-label discrepancy remained explicitly reported. A narrow verification kept metadata identity and content timing as separate authorities; it did not alter the player, media or shared policy. This outcome does not claim universal watch coverage, uninterrupted playback or human dialogue synchronization.

@@ -3146,3 +3146,13 @@ An isolated real browser test proved a document reload and one navigation under
 duplicate clicks. The deployed control and rendered view were checked separately
 at desktop and narrow widths. Request delivery remains distinct from website
 load completion, so the status text promises only that refresh was requested.
+
+
+## November 3 — Recovering across a catalogue split
+
+A catalogue boundary hid a missing cohort behind an apparently complete season. Stable episode identities, rather than display numbering, defined the repair. Existing files and shared quality choices were preserved.
+
+Some completed sources lacked complete dialogue captions, so physical admission correctly held them. Exact source replacements and a separately validated alternative for one slow transfer addressed the content problem. A finite pass through the existing verifier then resolved delayed parent validation, followed by one backed-up ordering adjustment. No recurring retry system was added. Closure depends on installed-byte, catalogue and viewer evidence rather than a successful download command.
+
+
+The final scoped checks established the restored main cohort through installed-byte, catalogue and current viewer evidence. An existing historical-request policy seam and a duration-label discrepancy remained explicitly reported. A narrow verification kept metadata identity and content timing as separate authorities; it did not alter the player, media or shared policy. This outcome does not claim universal watch coverage, uninterrupted playback or human dialogue synchronization.

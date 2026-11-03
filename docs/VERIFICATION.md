@@ -1749,3 +1749,13 @@ duplicate-click navigation counting, lifecycle failure controls and the deployed
 toolbar at desktop and narrow widths. The live check verifies request delivery
 and visible output, not an independent navigation event or provider load
 completion. Physical-device behavior was not tested.
+
+
+## November 3 — Evidence for a split-catalogue recovery
+
+The recovery distinguishes a completed transfer from qualified source content, an identical installed copy and a correct viewer selection. Controls reject stale identity, expired or consumed actions, late ownership, incorrect proof lineage, shared catalogue bindings and changed installed files. Unknown outcomes remain observation-only.
+
+Final verification requires unique episode/file mappings, whole-file source-to-installed hash joins, preserved original files, closed canonical verifier records, correct dialogue and caption selection, and natural availability readback. Observations cover the recorded run, not continuous monitoring. Human playback and dialogue synchronization are not claimed.
+
+
+The final scoped checks established the restored main cohort through installed-byte, catalogue and current viewer evidence. An existing historical-request policy seam and a duration-label discrepancy remained explicitly reported. A narrow verification kept metadata identity and content timing as separate authorities; it did not alter the player, media or shared policy. This outcome does not claim universal watch coverage, uninterrupted playback or human dialogue synchronization.
