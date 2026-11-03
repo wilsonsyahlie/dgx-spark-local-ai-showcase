@@ -1741,3 +1741,11 @@ The later tracking residue disappeared naturally. Positive directory and missing
 file evidence, unchanged current installed descriptors and catalogue joins passed.
 Prepared tracking actions were never authorized or executed; cache cleanup
 attribution remains unknown.
+
+### Native browser refresh
+
+Qualification combined input guards, a real isolated browser document reload,
+duplicate-click navigation counting, lifecycle failure controls and the deployed
+toolbar at desktop and narrow widths. The live check verifies request delivery
+and visible output, not an independent navigation event or provider load
+completion. Physical-device behavior was not tested.

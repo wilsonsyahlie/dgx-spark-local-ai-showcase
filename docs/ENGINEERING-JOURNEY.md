@@ -3134,3 +3134,15 @@ matches and unique catalogue mappings established availability. The existing
 natural scan completed the request. Human playback and dialogue synchronization
 remain untested.
 See [the recovery record](case-studies/partial-collection-recovery.md).
+
+## 2026-11-03 — A refresh control without another control channel
+
+A small browser toolbar request was implemented through the viewer's existing
+native input connection. The button reloads the displayed tab, requires a ready
+connection and ignores rapid duplicates. Old callbacks cannot modify a newer
+view. No new service or backend route was needed.
+
+An isolated real browser test proved a document reload and one navigation under
+duplicate clicks. The deployed control and rendered view were checked separately
+at desktop and narrow widths. Request delivery remains distinct from website
+load completion, so the status text promises only that refresh was requested.
