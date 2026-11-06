@@ -1847,3 +1847,9 @@ to qualify actual website concurrency and monitor-process headroom, not equate a
 working remote canvas with a usable connected application.
 
 A request-processing change was exercised with a large pending request, busy or failing dependencies, exhausted budgets, uncertain actions and a fresh-process restart. The deployed system subsequently demonstrated both work phases. The evidence does not establish that every remote dependency or requested source is available.
+
+### Scoped quality fallback allowance
+
+A single requested series inherited a quality restriction that excluded lower-resolution sources. A reviewed copy of its policy now permits the approved fallback while ranking preferred resolutions higher and preserving language safeguards and the existing no-upgrades preference. Live resource and assignment readback passed. Tests rejected resource drift and changes to approval, source integrity or deadlines before writes. Existing partial downloads were preserved.
+
+This verifies quality acceptance, not healthy peers or completed playback: the selected fallback still lacked peers, and another incomplete transfer remained unfinished. Source recovery and completed import remain open. The correction keeps policy eligibility separate from actual transfer success.
