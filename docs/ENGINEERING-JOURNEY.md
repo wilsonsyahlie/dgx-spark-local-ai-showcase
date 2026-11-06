@@ -3242,3 +3242,7 @@ instead of promising that a page refresh will restore it. Provider login, challe
 acceptance, purchases and overnight reliability were not exercised. The lesson is
 to qualify actual website concurrency and monitor-process headroom, not equate a
 working remote canvas with a usable connected application.
+
+### Fair turns for request processing
+
+A long request revealed that one phase could use the entire work window before another phase received a turn. The repair records which phase is owed work, so an interruption or restart does not continually favor the same phase. The original identity and duplicate-action safeguards remain in force. The first real follow-up progressed through both phases, while source availability remained a separate limitation.

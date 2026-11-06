@@ -1845,3 +1845,5 @@ instead of promising that a page refresh will restore it. Provider login, challe
 acceptance, purchases and overnight reliability were not exercised. The lesson is
 to qualify actual website concurrency and monitor-process headroom, not equate a
 working remote canvas with a usable connected application.
+
+A request-processing change was exercised with a large pending request, busy or failing dependencies, exhausted budgets, uncertain actions and a fresh-process restart. The deployed system subsequently demonstrated both work phases. The evidence does not establish that every remote dependency or requested source is available.
