@@ -3179,3 +3179,19 @@ The repair does not guarantee marketplace login, CAPTCHA acceptance, purchases o
 indefinite connection uptime. Those provider-dependent actions were not performed.
 Future ordering drift remains a detected hold rather than permission to weaken
 policy checks or silently rotate addresses.
+
+### Follow-up: make the next action explicit
+
+The owner then identified an ambiguous attention screen: it offered a finish
+action before opening the browser and presented recovery as a competing first
+step. The revised interface names the next step from current connection and
+control ownership. Its prominent open action shares the existing action guard,
+and finishing stays disabled until control is ready. Recovery is secondary and
+monitoring still requires a separate explicit start. An empty preview stays hidden
+until a real image decodes.
+
+Browser tests covered loading, failed opening and retry, duplicate clicks, another
+tab's control ownership, checking state, refresh and phone layouts. Deployed asset
+identity and preserved state were verified across the item pages. No provider
+login, CAPTCHA acceptance or purchase was performed; preserved stale-frame behavior
+was not newly fault-injected.
