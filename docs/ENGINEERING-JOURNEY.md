@@ -3195,3 +3195,27 @@ tab's control ownership, checking state, refresh and phone layouts. Deployed ass
 identity and preserved state were verified across the item pages. No provider
 login, CAPTCHA acceptance or purchase was performed; preserved stale-frame behavior
 was not newly fault-injected.
+
+## November 2026 — Direct browser viewing with safe automation boundaries
+
+An owner rejected a confusing manual-control gate and asked for the same direct
+browser interaction as an existing game viewer. The new full-width view connects
+automatically at a positively verified idle boundary. Viewing running automation
+stays passive until an explicit interaction intent pauses it. Connection identity,
+first rendered pixels and single-controller ownership remain enforced. Intentional
+release prevents polling from immediately taking control again after verification
+or starting work. Failed or uncertain control requests are not silently repeated.
+
+Live qualification exposed a retained profile lock naming a stopped predecessor.
+The owner was proved inactive at a stopped-worker boundary, full state was backed
+up, and only confirmed stale lock markers were archived. Other saved state remained
+unchanged before reopening. Real views and native typing, clicking and scrolling
+then passed. A scrolling test initially assumed a large local wheel delta meant a
+large remote distance; the pinned remote-display implementation emits one notch
+per event. Independent review corrected the stimulus while preserving the original
+assertion. No application input guard was weakened to obtain a pass.
+
+The result was verified on the actual item pages and at phone sizes, with original
+preferences retained. Provider login, CAPTCHA acceptance and purchases were not
+performed. Transport/viewer readiness remains distinct from provider acceptance
+and indefinite uptime.
