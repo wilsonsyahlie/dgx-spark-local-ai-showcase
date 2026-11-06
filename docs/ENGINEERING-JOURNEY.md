@@ -3219,3 +3219,26 @@ The result was verified on the actual item pages and at phone sizes, with origin
 preferences retained. Provider login, CAPTCHA acceptance and purchases were not
 performed. Transport/viewer readiness remains distinct from provider acceptance
 and indefinite uptime.
+
+## November 2026 — Real website load exposed a proxy resource ceiling
+
+A browser viewer had passed native input checks on a harmless document, yet the
+owner still could not use the actual website. Kernel evidence identified a
+threaded proxy exhausting its service task allowance. The next safety-check
+subprocess could not start, so the connection correctly failed closed. This was
+a capacity defect rather than a provider verification problem.
+
+Qualification reproduced the old ceiling with real concurrent proxy connections
+and a failed child process. A bounded service allowance then sustained twice the
+connection load while the same check succeeded, keeping memory and security
+boundaries intact. Healthy sibling services adopted the new kernel setting without
+restarting their connections. The failed route was explicitly recovered; an early
+pre-listener attempt remained a failed receipt rather than being replayed.
+
+The public browser subsequently loaded the real website and retained healthy
+advancing natural checks without new quota rejections. The interface now states
+when its connection is stopped and exposes the existing explicit recovery action,
+instead of promising that a page refresh will restore it. Provider login, challenge
+acceptance, purchases and overnight reliability were not exercised. The lesson is
+to qualify actual website concurrency and monitor-process headroom, not equate a
+working remote canvas with a usable connected application.
