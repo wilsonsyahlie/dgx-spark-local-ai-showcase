@@ -1759,3 +1759,26 @@ Final verification requires unique episode/file mappings, whole-file source-to-i
 
 
 The final scoped checks established the restored main cohort through installed-byte, catalogue and current viewer evidence. An existing historical-request policy seam and a duration-label discrepancy remained explicitly reported. A narrow verification kept metadata identity and content timing as separate authorities; it did not alter the player, media or shared policy. This outcome does not claim universal watch coverage, uninterrupted playback or human dialogue synchronization.
+
+## November 2026 — Restoring isolated browser sessions and extending choices
+
+An owner-requested catalog addition exposed an existing network-policy ordering
+drift. The dedicated rules still matched their approved proof, but another
+network service had inserted its parent jumps ahead of the required admission
+boundary. The repair moved only the owned jumps using atomic non-flushing
+transactions; no rule content or unrelated chains were replaced. Existing stopped
+connections were recovered through explicit durable operations, preserving browser
+profiles, preferences and paused monitoring. A catalog-only child image added two
+choices without enabling them or changing purchase limits.
+
+Qualification compared exact deployed catalogs and browser picker links, checked
+phone and desktop refresh behavior, and observed distinct real browser egress
+with protected state unchanged. An invalid read-only diagnostic argument triggered
+the designed database quarantine. Its marker was retained and explicitly reconciled
+only after independent review, consistent backup, integrity checks and unchanged
+receipt history; no database was restored or unknown operation replayed.
+
+The repair does not guarantee marketplace login, CAPTCHA acceptance, purchases or
+indefinite connection uptime. Those provider-dependent actions were not performed.
+Future ordering drift remains a detected hold rather than permission to weaken
+policy checks or silently rotate addresses.
