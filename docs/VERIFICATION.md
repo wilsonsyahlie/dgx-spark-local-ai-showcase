@@ -1858,3 +1858,8 @@ This verifies quality acceptance, not healthy peers or completed playback: the s
 ## Native image restoration qualification
 
 Fourteen lifecycle controls, eleven prelabelled photo decisions, an actual assistant image-tool turn and an authoritative cancellation receipt passed in a bounded restoration exercise. Three target species were represented; inaccurate ancillary explanations, earlier fixture/provenance failures and unrun power-cycle/endurance/phone-delivery checks remain limitations. [Evidence narrative](case-studies/native-vision-restoration.md).
+
+
+### Selective listing alerts
+
+The [listing retrospective](case-studies/live-listing-events.md) distinguishes forty focused passing checks, real saved-example classification, observed connected readiness and one approved provider-accepted photo from unobserved natural arrival, phone presentation, live album delivery and endurance. Unknown acknowledgements remain permanently reserved rather than automatically replayed.

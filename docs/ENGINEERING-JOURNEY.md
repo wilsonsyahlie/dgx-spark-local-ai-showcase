@@ -3251,3 +3251,8 @@ A long request revealed that one phase could use the entire work window before a
 ## November 8 — Restore the requested runtime before expanding orchestration
 
 A native-image restoration demonstrated both functional success and the cost of overcomplicating startup before restoring a known model. Actual daemon probes, preserved failed attempts and bounded classification tests supported the result; they did not establish a continuous notification service. See [the restoration case study](case-studies/native-vision-restoration.md).
+
+
+## November 9 — Prove event intake and notification acceptance separately
+
+A selective-listing project replaced periodic scans with events and removed stock interpretation after owner corrections. Caption-first decisions reduced unnecessary image work; versioned persistence and immutable send intent addressed stale results and duplicate risks. One approved example was provider-accepted, while natural arrival and phone presentation remained unproven. See [the retrospective](case-studies/live-listing-events.md).

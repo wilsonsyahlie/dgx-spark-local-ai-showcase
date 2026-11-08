@@ -1198,3 +1198,6 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Native image restoration and bounded qualification](case-studies/native-vision-restoration.md): known-runtime restoration, daemon representation, immutable failure evidence and caption-first routing boundaries.
+
+
+- [Caption-first live listing alerts](case-studies/live-listing-events.md) — owner scope corrections, event durability, edited-photo invalidation and provider acceptance with phone and natural-arrival limits.
