@@ -1853,3 +1853,8 @@ A request-processing change was exercised with a large pending request, busy or 
 A single requested series inherited a quality restriction that excluded lower-resolution sources. A reviewed copy of its policy now permits the approved fallback while ranking preferred resolutions higher and preserving language safeguards and the existing no-upgrades preference. Live resource and assignment readback passed. Tests rejected resource drift and changes to approval, source integrity or deadlines before writes. Existing partial downloads were preserved.
 
 This verifies quality acceptance, not healthy peers or completed playback: the selected fallback still lacked peers, and another incomplete transfer remained unfinished. Source recovery and completed import remain open. The correction keeps policy eligibility separate from actual transfer success.
+
+
+## Native image restoration qualification
+
+Fourteen lifecycle controls, eleven prelabelled photo decisions, an actual assistant image-tool turn and an authoritative cancellation receipt passed in a bounded restoration exercise. Three target species were represented; inaccurate ancillary explanations, earlier fixture/provenance failures and unrun power-cycle/endurance/phone-delivery checks remain limitations. [Evidence narrative](case-studies/native-vision-restoration.md).

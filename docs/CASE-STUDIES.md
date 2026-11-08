@@ -1195,3 +1195,6 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Strict seek recovery](STRICT-SEEK-RECOVERY.md): controlled decoder experiments, narrow retry eligibility and separate acquisition/import evidence.
+
+
+- [Native image restoration and bounded qualification](case-studies/native-vision-restoration.md): known-runtime restoration, daemon representation, immutable failure evidence and caption-first routing boundaries.

@@ -1,0 +1,13 @@
+# Restoring native image understanding through evidence
+
+An owner preferred a familiar multimodal model over introducing a separate image worker. The requested result was a restored assistant and measured card-photo recognition, followed by a caption-first notification workflow.
+
+The restoration took longer than it should have because a replacement startup owner was introduced before the known runtime was answering. Preflight then exposed a container-user permission mismatch, a daemon-normalized capability name, and a specialist paging threshold copied into the primary workload. The fixes retained strict ownership and read-only boundaries, separated identity from operational-policy checks so failures could still close the owned process, and restored the documented primary policy. Failed attempts were preserved.
+
+Fourteen focused lifecycle controls passed. A real daemon probe verified intended read access and denied writes before inference. All eleven prelabelled image decisions matched their expected species/uncertainty outcomes, including unrelated cards, a mixed pair, label-removed derivatives and a blank control. Direct image latency ranged from about 0.8 to 2.2 seconds with median 1.12 seconds. A complete assistant image-tool turn identified the expected card in about 14.2 seconds. Cancellation had an authoritative abort receipt, and a subsequent explicitly quoted output check passed; earlier ambiguous punctuation checks remained recorded failures.
+
+The sample covered three target species rather than the entire target family. Some explanatory prose invented ancillary details despite correct filtering decisions. This supports structured species matching and reuse of original listing captions, not a claim of perfect transcription, edition identification or global accuracy. Existing message rows and unrelated profile settings were compared against protected predecessors. Power-cycle, long-duration behavior and phone notification delivery were not qualified. Two interim task-source backup misses and an overwritten closure flag were documented, rather than retrospectively marked passed.
+
+The notification workflow remained a separate pending deliverable at this checkpoint. Its intended fast path uses deterministic caption matching; image understanding is reserved for incomplete, price-only or mixed listings. A model benchmark is not proof of continuous monitoring or delivered alerts.
+
+The reusable lesson is to restore a requested known runtime promptly, measure actual daemon state rather than echoing requested arguments, preserve the first failure receipt, and distinguish bounded functional evidence from untested operational claims.

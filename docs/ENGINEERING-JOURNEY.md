@@ -3246,3 +3246,8 @@ working remote canvas with a usable connected application.
 ### Fair turns for request processing
 
 A long request revealed that one phase could use the entire work window before another phase received a turn. The repair records which phase is owed work, so an interruption or restart does not continually favor the same phase. The original identity and duplicate-action safeguards remain in force. The first real follow-up progressed through both phases, while source availability remained a separate limitation.
+
+
+## November 8 — Restore the requested runtime before expanding orchestration
+
+A native-image restoration demonstrated both functional success and the cost of overcomplicating startup before restoring a known model. Actual daemon probes, preserved failed attempts and bounded classification tests supported the result; they did not establish a continuous notification service. See [the restoration case study](case-studies/native-vision-restoration.md).
