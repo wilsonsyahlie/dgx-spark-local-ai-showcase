@@ -3256,3 +3256,8 @@ A native-image restoration demonstrated both functional success and the cost of 
 ## November 9 — Prove event intake and notification acceptance separately
 
 A selective-listing project replaced periodic scans with events and removed stock interpretation after owner corrections. Caption-first decisions reduced unnecessary image work; versioned persistence and immutable send intent addressed stale results and duplicate risks. One approved example was provider-accepted, while natural arrival and phone presentation remained unproven. See [the retrospective](case-studies/live-listing-events.md).
+
+
+### Follow-up on photo false positives
+
+Two real false alerts revealed that artwork classification could override the identity on a printed card. The correction prioritizes the grading label, uses printed names for matching and preserves the fast caption route for clear titles. See the [listing alert case study](case-studies/live-listing-events.md#follow-up-on-photo-false-positives).

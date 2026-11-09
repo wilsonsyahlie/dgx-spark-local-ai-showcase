@@ -21,3 +21,14 @@ The qualified work passed twenty-six shared checks and fourteen event-reader che
 Provider acceptance did not establish a physical phone notification, a naturally arriving listing, universal image recognition, real album delivery or long-term reliability. Those limits remained explicit at the activation checkpoint. State-preserving rollback and permanent unknown-send reservations protected against duplicate delivery without pretending ambiguous outcomes were successes.
 
 This retrospective intentionally omits deployment configuration, accounts, source identities, internal topology and runnable operational commands. The transferable lesson is to narrow the decision to the owner's requested identity filter, then prove event durability and delivery acknowledgement separately.
+
+
+## Follow-up on photo false positives
+
+Two normal alerts contained confident but incorrect family matches. One post originally contained only a price. Another explicitly named a different card, but the narrow caption vocabulary let it fall through to image classification. Both errors reproduced on public versions of the source photos. The delivered attachments used different renditions.
+
+The revised photo decision reads the printed identity lines without asking the model to choose from target names. A readable grading label takes priority over the card title. Matching supported names is a separate deterministic step, and missing evidence holds. The caption path also recognizes the previously missed non-target name. This reduces artwork confusion while retaining the original text route. Local transcription can still misread a label, and slab priority may miss a separate ungraded card in a mixed photo.
+
+Thirty classifier checks, fourteen reader checks and a bounded real-image replay passed. Both reported photos were rejected, and saved readable positives still matched. The actual service was restarted, reached readiness and preserved the five existing delivery receipts. No new external test was sent. Natural post-change classification and phone presentation remain unverified.
+
+A grading provider's certificate API rejected a request carrying a bearer token because access is limited to approved customers. Issuing a token did not establish API entitlement. Card identity from printed evidence or a catalog and verification of a specific certificate remain separate outcomes. Automated certificate verification was still pending at this checkpoint.
