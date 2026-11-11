@@ -3291,3 +3291,8 @@ English-only OCR performed well on grading labels but failed the Japanese-title 
 ## 2026-11-11 — Desktop model memory yields while idle
 
 An idle resident model was using most of a desktop accelerator. A model-specific native timeout now releases its weights and context after inactivity and reloads on demand. The manager and unrelated presets stayed unchanged. Two natural idle cycles and a real wake response passed; cold reload delay, remaining driver allocation and untested reboot/endurance remain explicit. See the workload-memory case study and verification record.
+
+
+## 2026-11-11 — A standing release topic in the existing report
+
+A requested model-release watch was added to the current daily report rather than creating another schedule. First-party evidence and explicit preview-versus-downloadable distinctions guide the search. Live instruction readback and unchanged job configuration passed. This records a configuration checkpoint only: its next natural run and durable delivery have not yet occurred and remain unverified. No inference service or notification destination changed.

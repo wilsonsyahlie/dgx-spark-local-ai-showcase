@@ -1893,3 +1893,8 @@ A bounded caption-first OCR addition passed56 classifier/reader checks plus4 str
 ## 2026-11-11 — Native idle memory release
 
 Only one desktop model preset gained a two-minute native idle timeout. Actual child arguments, unchanged manager identity, other presets, startup script, task definition and permissions were verified. Two natural inactivity windows each released over19GiB of accelerator memory; an actual wake request between them returned an answer. Both sleeping status and measured memory supported the outcome. Existing assistant-host processes and health stayed unchanged. No model deletion, custom poller, binary upgrade or global policy change. Cold reload delay and residual driver memory remain; reboot, endurance and a real long-running user task were not tested.
+
+
+## 2026-11-11 — Standing release-watch configuration checkpoint
+
+An existing daily priority report gained one standing model-release topic independent of recent inbox notes. The instruction distinguishes official announcements, hosted previews, general availability and downloadable weights; speculative claims and source-read failures do not establish a release. Original instructions remain an exact byte prefix, mounted runtime readback and permissions pass, and every existing job field—including cadence and destination—remains unchanged. No duplicate job, forced run, test notification or model configuration change was made. The new-topic natural execution and durable delivery remain pending at this checkpoint; historical job success is not evidence of future delivery. Existing language-model filtering and URL deduplication remain fallible.
