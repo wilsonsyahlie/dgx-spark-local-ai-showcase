@@ -1878,3 +1878,8 @@ Sixty isolated checks and desktop/phone-width browser checks qualified explicit 
 ### Shared-memory outage recovery
 
 The [outage follow-up](case-studies/co-resident-secondary.md#outage-follow-up-separate-loaders-share-the-same-memory) joins the allocation timeline, positive old-process closure, retained recipe checks, fresh health and overlapping correct replies. Consistent history/credential/configuration comparisons and desktop/phone-width refresh checks qualify the scoped provider disablement. Normal stale selection rejection was reviewed in deployed source, not exercised by a generation canary; direct administrator routes and other clients remain outside that boundary. Reboot, endurance, full-window stress and a forced recurrence remain unrun.
+
+
+### Optional writer trial
+
+The [writer follow-up](case-studies/co-resident-secondary.md#optional-writer-follow-up-test-the-actual-chat-path) records twenty-two controls, real overlapping responses, protected identity preservation, authentication rejection and an actual asynchronous browser answer with duplicate-action, refresh and phone-width checks. Consistent history/credential/configuration comparisons and a finite check after releasing the temporary lock passed. The initial CUDA failure and command-wrapper test error remain retained. Boot, endurance, full-window quality, cancellation stress and refusal behavior were not exercised.

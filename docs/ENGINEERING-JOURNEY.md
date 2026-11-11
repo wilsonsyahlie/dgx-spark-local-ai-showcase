@@ -3276,3 +3276,8 @@ A follow-up corrected unknown GPU attribution for a newer runtime, with separate
 ### November 11 — Recover from an independent model load
 
 An independent loader exhausted shared headroom after an optional trial had reached readiness. Recovery retained the assistant recipes, preserved chat history and disabled only an owner-approved web-chat provider. The remaining access and endurance limits are explicit in the [outage follow-up](case-studies/co-resident-secondary.md#outage-follow-up-separate-loaders-share-the-same-memory).
+
+
+### November 11 — Qualify an optional writer through the existing chat
+
+A renewed trial preserved working assistant processes, investigated a pre-load CUDA failure and verified actual concurrent generation plus a saved browser conversation. The [writer follow-up](case-studies/co-resident-secondary.md#optional-writer-follow-up-test-the-actual-chat-path) separates the scoped candidate setting from unproven causality, boot behavior, long-form quality and refusal claims.
