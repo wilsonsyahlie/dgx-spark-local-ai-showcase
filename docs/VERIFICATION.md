@@ -1863,3 +1863,8 @@ Fourteen lifecycle controls, eleven prelabelled photo decisions, an actual assis
 ### Selective listing alerts
 
 The [listing retrospective](case-studies/live-listing-events.md) distinguishes forty focused passing checks, real saved-example classification, observed connected readiness and one approved provider-accepted photo from unobserved natural arrival, phone presentation, live album delivery and endurance. Unknown acknowledgements remain permanently reserved rather than automatically replayed.
+
+
+## Secondary-model coexistence qualification
+
+The [case study](case-studies/co-resident-secondary.md) separates fifteen focused checks, overlapping inference, an actual assistant response and observed stream disconnect/readmission from unrun reboot, endurance, full-window and phone checks. The earlier preparation interruption and a generated-evidence backup miss remain explicit.

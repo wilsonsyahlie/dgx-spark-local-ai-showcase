@@ -3261,3 +3261,8 @@ A selective-listing project replaced periodic scans with events and removed stoc
 ### Follow-up on photo false positives
 
 Two real false alerts revealed that artwork classification could override the identity on a printed card. The correction prioritizes the grading label, uses printed names for matching and preserves the fast caption route for clear titles. See the [listing alert case study](case-studies/live-listing-events.md#follow-up-on-photo-false-positives).
+
+
+## November 11 — Protect the working assistant while adding capability
+
+A model-addition experiment exposed a preparation interruption, request-budget integration failures and stale readiness evidence. Scoped corrections preserved the recovered primary during qualification; bounded concurrency and actual assistant chat passed, with lifecycle and endurance limits retained. See [the case study](case-studies/co-resident-secondary.md).

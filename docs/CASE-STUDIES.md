@@ -1201,3 +1201,6 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Caption-first live listing alerts](case-studies/live-listing-events.md) — owner scope corrections, event durability, edited-photo invalidation and provider acceptance with phone and natural-arrival limits.
+
+
+- [Protecting a working assistant while adding a secondary](case-studies/co-resident-secondary.md) — separate ownership, context/output budgets, immutable readiness and bounded availability evidence.
