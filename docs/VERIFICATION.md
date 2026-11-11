@@ -1873,3 +1873,8 @@ The [case study](case-studies/co-resident-secondary.md) separates fifteen focuse
 ### Memory attribution follow-up
 
 Sixty isolated checks and desktop/phone-width browser checks qualified explicit workload attribution, conserved accounting, stale/error/retry/refresh states and both memory views without mutating requests. The dashboard alone restarted; physical phone, reboot, endurance and real induced-outage checks remain unrun. See the [reporting follow-up](case-studies/co-resident-secondary.md).
+
+
+### Shared-memory outage recovery
+
+The [outage follow-up](case-studies/co-resident-secondary.md#outage-follow-up-separate-loaders-share-the-same-memory) joins the allocation timeline, positive old-process closure, retained recipe checks, fresh health and overlapping correct replies. Consistent history/credential/configuration comparisons and desktop/phone-width refresh checks qualify the scoped provider disablement. Normal stale selection rejection was reviewed in deployed source, not exercised by a generation canary; direct administrator routes and other clients remain outside that boundary. Reboot, endurance, full-window stress and a forced recurrence remain unrun.

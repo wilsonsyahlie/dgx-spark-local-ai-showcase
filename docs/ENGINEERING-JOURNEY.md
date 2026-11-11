@@ -3271,3 +3271,8 @@ A model-addition experiment exposed a preparation interruption, request-budget i
 ### November 11 — Attribute the added workload explicitly
 
 A follow-up corrected unknown GPU attribution for a newer runtime, with separate named memory entries, conserved totals and both resource views tested without model actions. See [the follow-up](case-studies/co-resident-secondary.md#follow-up-make-added-capability-visible-in-resource-accounting).
+
+
+### November 11 — Recover from an independent model load
+
+An independent loader exhausted shared headroom after an optional trial had reached readiness. Recovery retained the assistant recipes, preserved chat history and disabled only an owner-approved web-chat provider. The remaining access and endurance limits are explicit in the [outage follow-up](case-studies/co-resident-secondary.md#outage-follow-up-separate-loaders-share-the-same-memory).
