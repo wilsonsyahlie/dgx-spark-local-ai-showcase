@@ -3266,3 +3266,8 @@ Two real false alerts revealed that artwork classification could override the id
 ## November 11 — Protect the working assistant while adding capability
 
 A model-addition experiment exposed a preparation interruption, request-budget integration failures and stale readiness evidence. Scoped corrections preserved the recovered primary during qualification; bounded concurrency and actual assistant chat passed, with lifecycle and endurance limits retained. See [the case study](case-studies/co-resident-secondary.md).
+
+
+### November 11 — Attribute the added workload explicitly
+
+A follow-up corrected unknown GPU attribution for a newer runtime, with separate named memory entries, conserved totals and both resource views tested without model actions. See [the follow-up](case-studies/co-resident-secondary.md#follow-up-make-added-capability-visible-in-resource-accounting).

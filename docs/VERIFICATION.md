@@ -1868,3 +1868,8 @@ The [listing retrospective](case-studies/live-listing-events.md) distinguishes f
 ## Secondary-model coexistence qualification
 
 The [case study](case-studies/co-resident-secondary.md) separates fifteen focused checks, overlapping inference, an actual assistant response and observed stream disconnect/readmission from unrun reboot, endurance, full-window and phone checks. The earlier preparation interruption and a generated-evidence backup miss remain explicit.
+
+
+### Memory attribution follow-up
+
+Sixty isolated checks and desktop/phone-width browser checks qualified explicit workload attribution, conserved accounting, stale/error/retry/refresh states and both memory views without mutating requests. The dashboard alone restarted; physical phone, reboot, endurance and real induced-outage checks remain unrun. See the [reporting follow-up](case-studies/co-resident-secondary.md).
