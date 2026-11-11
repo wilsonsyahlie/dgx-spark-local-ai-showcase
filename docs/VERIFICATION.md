@@ -1883,3 +1883,8 @@ The [outage follow-up](case-studies/co-resident-secondary.md#outage-follow-up-se
 ### Optional writer trial
 
 The [writer follow-up](case-studies/co-resident-secondary.md#optional-writer-follow-up-test-the-actual-chat-path) records twenty-two controls, real overlapping responses, protected identity preservation, authentication rejection and an actual asynchronous browser answer with duplicate-action, refresh and phone-width checks. Consistent history/credential/configuration comparisons and a finite check after releasing the temporary lock passed. The initial CUDA failure and command-wrapper test error remain retained. Boot, endurance, full-window quality, cancellation stress and refusal behavior were not exercised.
+
+
+## 2026-11-11 — Conservative English OCR qualification
+
+A bounded caption-first OCR addition passed56 classifier/reader checks plus4 strict process-closure controls. Thirteen original photos matched expected identities: six verified CPU shortcuts bypassed multimodal inference and seven exercised the actual fallback. Prior false-positive examples, Japanese titles, unreadable input, worker-down fallback and crash recovery were covered. The live listener reconnected and preserved47 prior delivery receipts; existing inference identities and health were unchanged. Actual device/private-file isolation probes rejected an earlier design before the restricted container qualified. Full document-reader variants timed out without completing a fixture and were not deployed. No new external test message; natural new-route delivery, phone presentation, broad glare and endurance remain unverified.

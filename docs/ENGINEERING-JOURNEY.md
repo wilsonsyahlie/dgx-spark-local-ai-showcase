@@ -3281,3 +3281,8 @@ An independent loader exhausted shared headroom after an optional trial had reac
 ### November 11 — Qualify an optional writer through the existing chat
 
 A renewed trial preserved working assistant processes, investigated a pre-load CUDA failure and verified actual concurrent generation plus a saved browser conversation. The [writer follow-up](case-studies/co-resident-secondary.md#optional-writer-follow-up-test-the-actual-chat-path) separates the scoped candidate setting from unproven causality, boot behavior, long-form quality and refusal claims.
+
+
+## 2026-11-11 — Narrow OCR evidence before vision fallback
+
+English-only OCR performed well on grading labels but failed the Japanese-title sample. The accepted hybrid uses a positive-only printed-label shortcut, keeps caption matching first and retains local multimodal inference for everything unverified. Full-photo regression, worker isolation/failure recovery and receipt-preserving live activation passed. Failed larger-reader trials and untested natural-delivery/endurance limits remain explicit. See the live-listing case study and verification record.
