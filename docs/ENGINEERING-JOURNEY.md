@@ -3286,3 +3286,8 @@ A renewed trial preserved working assistant processes, investigated a pre-load C
 ## 2026-11-11 — Narrow OCR evidence before vision fallback
 
 English-only OCR performed well on grading labels but failed the Japanese-title sample. The accepted hybrid uses a positive-only printed-label shortcut, keeps caption matching first and retains local multimodal inference for everything unverified. Full-photo regression, worker isolation/failure recovery and receipt-preserving live activation passed. Failed larger-reader trials and untested natural-delivery/endurance limits remain explicit. See the live-listing case study and verification record.
+
+
+## 2026-11-11 — Desktop model memory yields while idle
+
+An idle resident model was using most of a desktop accelerator. A model-specific native timeout now releases its weights and context after inactivity and reloads on demand. The manager and unrelated presets stayed unchanged. Two natural idle cycles and a real wake response passed; cold reload delay, remaining driver allocation and untested reboot/endurance remain explicit. See the workload-memory case study and verification record.

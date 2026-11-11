@@ -1888,3 +1888,8 @@ The [writer follow-up](case-studies/co-resident-secondary.md#optional-writer-fol
 ## 2026-11-11 — Conservative English OCR qualification
 
 A bounded caption-first OCR addition passed56 classifier/reader checks plus4 strict process-closure controls. Thirteen original photos matched expected identities: six verified CPU shortcuts bypassed multimodal inference and seven exercised the actual fallback. Prior false-positive examples, Japanese titles, unreadable input, worker-down fallback and crash recovery were covered. The live listener reconnected and preserved47 prior delivery receipts; existing inference identities and health were unchanged. Actual device/private-file isolation probes rejected an earlier design before the restricted container qualified. Full document-reader variants timed out without completing a fixture and were not deployed. No new external test message; natural new-route delivery, phone presentation, broad glare and endurance remain unverified.
+
+
+## 2026-11-11 — Native idle memory release
+
+Only one desktop model preset gained a two-minute native idle timeout. Actual child arguments, unchanged manager identity, other presets, startup script, task definition and permissions were verified. Two natural inactivity windows each released over19GiB of accelerator memory; an actual wake request between them returned an answer. Both sleeping status and measured memory supported the outcome. Existing assistant-host processes and health stayed unchanged. No model deletion, custom poller, binary upgrade or global policy change. Cold reload delay and residual driver memory remain; reboot, endurance and a real long-running user task were not tested.
