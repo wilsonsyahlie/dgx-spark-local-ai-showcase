@@ -1898,3 +1898,11 @@ Only one desktop model preset gained a two-minute native idle timeout. Actual ch
 ## 2026-11-11 — Standing release-watch configuration checkpoint
 
 An existing daily priority report gained one standing model-release topic independent of recent inbox notes. The instruction distinguishes official announcements, hosted previews, general availability and downloadable weights; speculative claims and source-read failures do not establish a release. Original instructions remain an exact byte prefix, mounted runtime readback and permissions pass, and every existing job field—including cadence and destination—remains unchanged. No duplicate job, forced run, test notification or model configuration change was made. The new-topic natural execution and durable delivery remain pending at this checkpoint; historical job success is not evidence of future delivery. Existing language-model filtering and URL deduplication remain fallible.
+
+## Qualified subtitle preference
+
+Tests exercised language and coverage checks, stale media identity, alternate caption ranking, external-track preservation, audio preservation and uncertain-write recovery boundaries. A real full qualification verified unchanged media, actual dialogue captions, original-language audio and positive worker closure. The closed proof could then drive selection without repeating extraction. The retrospective scope received fresh physical checks and saved-selection readbacks.
+
+Unknown evidence stayed distinct from rejection and absence. Immutable cache aliases and component attribution preserved earlier history through the change. Process-backed controls covered failed backups, unresolved worker reservations and expiry during rollback; recurring execution of the activated successor was observed.
+
+A manual harness inherited overly broad metadata permissions. The private-proof guard correctly refused them, and the correction preserved both the original proof bytes and the guard. Physical playback and acquisition of a future unseen release remain untested. This retrospective records verified behavior and those remaining limits.

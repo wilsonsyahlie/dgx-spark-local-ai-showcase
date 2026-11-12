@@ -3296,3 +3296,7 @@ An idle resident model was using most of a desktop accelerator. A model-specific
 ## 2026-11-11 — A standing release topic in the existing report
 
 A requested model-release watch was added to the current daily report rather than creating another schedule. First-party evidence and explicit preview-versus-downloadable distinctions guide the search. Live instruction readback and unchanged job configuration passed. This records a configuration checkpoint only: its next natural run and durable delivery have not yet occurred and remain unverified. No inference service or notification destination changed.
+
+### November 12 — A preference still needs evidence
+
+A subtitle preference exposed a useful boundary: a format label does not prove that a track contains the intended dialogue. Content-qualified ranking was introduced within a frozen retrospective scope. A short validation deadline then exposed redundant extraction; moving the preference upstream and reusing exact completed evidence solved that path within the existing verification workflow. See [verification](VERIFICATION.md#qualified-subtitle-preference).
