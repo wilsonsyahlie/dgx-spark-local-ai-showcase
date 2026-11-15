@@ -484,3 +484,8 @@ A stale cleanup plan can justify reducing capabilities rather than widening elig
 ### Fulfillment evidence and a narrower transfer boundary
 
 An accepted quality label did not establish a full-length physical asset. A bounded repair qualified source content, retained the original and reused a supported importing service. Intent bytes were sealed before publication; database snapshot sidecars and directory durability were treated explicitly. Unknown writes retained their history and were not replayed. A custom transfer prototype remained unactivated. Complete source checks, installed equality and playback delivery were separate evidence stages, with human checks left unclaimed. [Retrospective](SHORT-ASSET-REPLACEMENT.md).
+
+
+### Owner-selected thermal policy
+
+Treat a configured software shutdown threshold as a policy, not a hardware specification. Qualify a requested replacement at boundary values, retain independent resource guards, activate the actual supervisor, and distinguish ordinary health evidence from an unperformed thermal stress test. Capture active workload state before service replacement.

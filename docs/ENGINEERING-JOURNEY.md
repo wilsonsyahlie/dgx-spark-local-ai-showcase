@@ -1,5 +1,12 @@
 # Engineering journey
 
+## 2026-11-15 — Distinguish a configured cutoff from a hardware rating
+
+An owner questioned a model shutdown attributed to a temperature limit. The measured cause was a software supervisor policy, rather than an established hardware maximum. The owner selected a replacement threshold. A narrow change updated the shared startup and runtime check while retaining the unrelated resource and identity protections.
+
+Boundary tests covered below, at and above the cutoff, NaN and positive-infinity readings, and unchanged memory and disk rejection. Activation used the normal service lifecycle rather than bypassing cleanup to preserve a loaded engine. The first restart encountered an occupied-port bind failure before creating an engine. After the port cleared and an exclusive bind check passed, one normal start retry was used; lifecycle code was left unchanged. No deliberate heating or hardware-limit change was performed. The restart did not capture active-inference metrics beforehand, so an idle boundary remains unproven. The prevention lesson is to name policies accurately and capture workload state before future restarts.
+
+
 ## September 2026 — A local voice interface crossed the browser boundary
 
 The next saved idea was a private conversation with the machine by voice.
