@@ -494,3 +494,8 @@ Treat a configured software shutdown threshold as a policy, not a hardware speci
 ### Decision guidance and resource authority
 
 Owner-written instructions can guide a local model without granting it arbitrary execution authority. Offer typed candidates, derive costs outside the model, seal observations across asynchronous reads, reserve before effects, and preserve spending totals across resume. Unknown effects need an explicit conservative resolution path, never automatic replay. Test legacy automation ownership until acknowledgement, not only until input release. Keep isolated model/browser evidence distinct from a consuming production cycle.
+
+
+### Inventory relevance and cache context
+
+A picker should group choices by the owner's task concepts and filter them for the current location. A cached inventory's origin is not proof of the current context. Test explicit irrelevant examples and invalidate stale choices on missing or changed context; preserving layout alone does not establish usefulness. Warn before an explicit save removes previously selected items.

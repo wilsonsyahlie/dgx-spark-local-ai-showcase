@@ -1,5 +1,14 @@
 # Engineering journey
 
+## 2026-11-15 — An inventory picker must reflect the task, not the entire account
+
+The owner found unrelated region-specific consumables mixed into a game-goal picker, with traps and bases combined. Earlier tests proved layout fit and interaction safety but did not prove the choices were useful. The correction separates cheese, charms, traps and bases, with local supplies in their own section, and filters stable item types for the supported location.
+
+A fresh location value is kept separate from the inventory cache's origin. Missing, mismatched or unsupported location data clears the displayed choices and blocks a stale save. Existing eligible selections retain their limits; excluded saved selections are counted and removed only on an explicit save. No strategy, spending authority or model behavior was changed.
+
+Tests now include wrong-location examples, category membership, preserved limits, newer edits during a save, travel invalidation, failed inspection and retry, refresh, and narrow screens. Read-only deployed interface checks passed. Actual travel and consuming gameplay were not performed. The lesson is to test domain relevance alongside layout and generic interaction checks.
+
+
 ## 2026-11-15 — Saved instructions guide local AI without granting spending authority
 
 A game controller previously sounded a timer-triggered horn. The requested extension lets its owner set a resource goal, write decision instructions, and select permitted consumables with spending caps and inventory reserves. The owner corrected an initial interpretation: manually authored rules should guide the model, rather than replace it with a deterministic strategy.
