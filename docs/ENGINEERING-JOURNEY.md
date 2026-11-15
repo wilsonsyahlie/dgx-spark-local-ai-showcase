@@ -1,5 +1,16 @@
 # Engineering journey
 
+## 2026-11-15 — Saved instructions guide local AI without granting spending authority
+
+A game controller previously sounded a timer-triggered horn. The requested extension lets its owner set a resource goal, write decision instructions, and select permitted consumables with spending caps and inventory reserves. The owner corrected an initial interpretation: manually authored rules should guide the model, rather than replace it with a deterministic strategy.
+
+The local model chooses from typed candidate actions. Separate policy code derives actual costs, checks ownership and fresh state, and records an intent before an effect. Resuming preserves the same target and spending totals; resetting limits requires an explicit new goal. Interrupted effects retain reservations and are never replayed. An explicit reconciliation can charge the maximum reserved amount without pretending the outcome was observed.
+
+Review caught cap renewal on resume, resource-consuming equipment omitted from costs, exhausted items still being armed, observations mixed across asynchronous inventory reads, a missing recovery path, and stale settings responses overwriting newer edits. The fixes added qualified equipment, one-unit affordability gates, observation seals, conservative reconciliation and edit-version checks. A legacy horn hold remains uncertain until acknowledgement, and active goal views cannot send manual input.
+
+Isolated tests covered budget boundaries, cancellation, restart recovery, strict APIs, ownership, phone layouts, optional resource controls and a real local-model decision driving a fixture browser through a hunt, durable accounting and completion. Read-only deployed state and goal-interface rendering passed. Deployment remains off with no saved resource authority. Actual consuming gameplay and the first owner-configured natural cycle remain unverified; server and friend activity remain outside the controller's spending guarantee.
+
+
 ## 2026-11-15 — Distinguish a configured cutoff from a hardware rating
 
 An owner questioned a model shutdown attributed to a temperature limit. The measured cause was a software supervisor policy, rather than an established hardware maximum. The owner selected a replacement threshold. A narrow change updated the shared startup and runtime check while retaining the unrelated resource and identity protections.

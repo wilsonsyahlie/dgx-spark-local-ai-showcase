@@ -489,3 +489,8 @@ An accepted quality label did not establish a full-length physical asset. A boun
 ### Owner-selected thermal policy
 
 Treat a configured software shutdown threshold as a policy, not a hardware specification. Qualify a requested replacement at boundary values, retain independent resource guards, activate the actual supervisor, and distinguish ordinary health evidence from an unperformed thermal stress test. Capture active workload state before service replacement.
+
+
+### Decision guidance and resource authority
+
+Owner-written instructions can guide a local model without granting it arbitrary execution authority. Offer typed candidates, derive costs outside the model, seal observations across asynchronous reads, reserve before effects, and preserve spending totals across resume. Unknown effects need an explicit conservative resolution path, never automatic replay. Test legacy automation ownership until acknowledgement, not only until input release. Keep isolated model/browser evidence distinct from a consuming production cycle.
