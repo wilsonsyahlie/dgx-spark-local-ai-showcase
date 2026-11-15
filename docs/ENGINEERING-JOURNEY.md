@@ -1,5 +1,16 @@
 # Engineering journey
 
+## 2026-11-15 — Owner-directed rollback after the first real control attempt
+
+The owner withdrew an experimental AI game-goal controller after its first real start paused on an unconfirmed setup change. A zero spending limit had triggered cleanup rather than a clear pre-start validation error. The native-control fixture encoded the expected behavior and did not establish compatibility with the actual game. Subsequent owner feedback also exposed irrelevant inventory choices, a raw internal status dump, and a keyboard refresh blocked by the new read-only control boundary.
+
+The prior timer-based application and interactive viewer were restored from verified source predecessors. Current account/profile data, installed extensions, saved limits, accounting and review receipts were preserved; experimental source was archived and its routes removed. A shutdown-hook review found that even an inactive completed task could trigger cleanup. Closing the dedicated browser before stopping the old service prevented another setup action during rollback.
+
+The corrective lesson is broader than adding more synthetic tests: qualify the real native contract before enabling production controls, validate budgets before changing equipment, test domain relevance and understandable recovery instructions, and exercise every toolbar action in each ownership mode. Manual control should suspend automation without changing the owner's gear, and observed changes need fresh comparison before any explicit resume. That follow-up design was not implemented after cancellation.
+
+Rollback checks proved predecessor hashes, preserved current authority, retired routes, retained profile/extensions, and isolated native input plus a new-document refresh. No additional real hunt was forced. Earlier goal-controller and picker milestones are historical experiments, superseded by this rollback rather than current active features.
+
+
 ## 2026-11-15 — An inventory picker must reflect the task, not the entire account
 
 The owner found unrelated region-specific consumables mixed into a game-goal picker, with traps and bases combined. Earlier tests proved layout fit and interaction safety but did not prove the choices were useful. The correction separates cheese, charms, traps and bases, with local supplies in their own section, and filters stable item types for the supported location.

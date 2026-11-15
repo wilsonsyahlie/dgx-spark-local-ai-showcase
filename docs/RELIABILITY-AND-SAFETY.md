@@ -499,3 +499,8 @@ Owner-written instructions can guide a local model without granting it arbitrary
 ### Inventory relevance and cache context
 
 A picker should group choices by the owner's task concepts and filter them for the current location. A cached inventory's origin is not proof of the current context. Test explicit irrelevant examples and invalidate stale choices on missing or changed context; preserving layout alone does not establish usefulness. Warn before an explicit save removes previously selected items.
+
+
+### Native contracts and safe retirement
+
+A test double that implements an assumed native action cannot qualify that assumption. Keep production controls unavailable until the actual contract and postcondition are established. Validate missing budgets before any setup change. During rollback, inspect shutdown hooks: an inactive task may still issue cleanup effects. Preserve current state and unresolved/reviewed receipts, archive retired source, and verify the previous user workflow rather than replaying old state.
