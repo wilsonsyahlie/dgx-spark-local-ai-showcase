@@ -1906,3 +1906,8 @@ Tests exercised language and coverage checks, stale media identity, alternate ca
 Unknown evidence stayed distinct from rejection and absence. Immutable cache aliases and component attribution preserved earlier history through the change. Process-backed controls covered failed backups, unresolved worker reservations and expiry during rollback; recurring execution of the activated successor was observed.
 
 A manual harness inherited overly broad metadata permissions. The private-proof guard correctly refused them, and the correction preserved both the original proof bytes and the guard. Physical playback and acquisition of a future unseen release remain untested. This retrospective records verified behavior and those remaining limits.
+
+
+## 2026-11-17 — Owner-selected optional-model thermal policy
+
+The owner requested a shared higher software temperature cutoff for two optional model services. Exactly three threshold literals changed, covering admission and runtime paths. Sixteen installed-code boundary cases passed with mocked I/O; syntax and unchanged remaining logic, permissions and ownership were verified. The protected main service retained its exact process identity, configuration and health. Both optional services were already stopped, so the new policy applies on their next start; neither was started merely to test a setting. No memory or swap policy changed. This does not establish physical high-temperature qualification, model-load success, memory fit or continuous availability. Backed-up source-only rollback preserves later state and avoids restarting the main service.

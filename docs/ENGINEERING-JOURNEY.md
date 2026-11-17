@@ -3338,3 +3338,8 @@ A requested model-release watch was added to the current daily report rather tha
 ### November 12 — A preference still needs evidence
 
 A subtitle preference exposed a useful boundary: a format label does not prove that a track contains the intended dialogue. Content-qualified ranking was introduced within a frozen retrospective scope. A short validation deadline then exposed redundant extraction; moving the preference upstream and reusing exact completed evidence solved that path within the existing verification workflow. See [verification](VERIFICATION.md#qualified-subtitle-preference).
+
+
+## 2026-11-17 — Consistent optional-model temperature cutoffs
+
+An explicit owner policy change was applied consistently to admission and running checks for two optional model services. Scope was limited to three constants, with exact source comparisons and installed-code boundary checks. The main inference service stayed unchanged and healthy. The optional services remain stopped, and the policy becomes effective on their next start. No thermal stress, recovery or additional model deployment is claimed.
