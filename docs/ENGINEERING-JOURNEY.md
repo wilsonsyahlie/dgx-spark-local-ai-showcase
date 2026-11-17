@@ -3348,3 +3348,8 @@ An explicit owner policy change was applied consistently to admission and runnin
 ## 2026-11-17 — A secondary replacement that preserves the client contract
 
 An expert-model replacement retained the established secondary interface and higher-priority assistant. Review caught a context-window mismatch and an interrupted-retention retry defect before final qualification. Exact asset checks, real agent/tools/streaming, restart recovery, conversation preservation and process-bound memory reporting passed. Failed permission and verification fixtures remain recorded rather than silently rescored. Full-window quality, refusal behavior and endurance remain untested. See the co-resident-secondary case study and verification record.
+
+
+## 2026-11-17 — Exposing an existing secondary through the normal chat app
+
+An already-qualified secondary became selectable through one native connection in the existing chat app. The existing providers, access settings, defaults and conversations were preserved. A real menu selection and saved response proved the route; refresh, duplicate submission and discovery-error recovery were checked at desktop and phone widths. The work reused the current application and resident model. See the verification record for bounds.
