@@ -3343,3 +3343,8 @@ A subtitle preference exposed a useful boundary: a format label does not prove t
 ## 2026-11-17 — Consistent optional-model temperature cutoffs
 
 An explicit owner policy change was applied consistently to admission and running checks for two optional model services. Scope was limited to three constants, with exact source comparisons and installed-code boundary checks. The main inference service stayed unchanged and healthy. The optional services remain stopped, and the policy becomes effective on their next start. No thermal stress, recovery or additional model deployment is claimed.
+
+
+## 2026-11-17 — A secondary replacement that preserves the client contract
+
+An expert-model replacement retained the established secondary interface and higher-priority assistant. Review caught a context-window mismatch and an interrupted-retention retry defect before final qualification. Exact asset checks, real agent/tools/streaming, restart recovery, conversation preservation and process-bound memory reporting passed. Failed permission and verification fixtures remain recorded rather than silently rescored. Full-window quality, refusal behavior and endurance remain untested. See the co-resident-secondary case study and verification record.
