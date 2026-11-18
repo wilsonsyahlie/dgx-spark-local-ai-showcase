@@ -3372,3 +3372,8 @@ A request for assistance exposed a backup design that recopied unchanged depende
 Offline filesystem checks and all pre-existing entry comparisons passed. The original coding session survived restart, and a second checkpoint of the same dependency-heavy workspace added roughly a hundred and fifty kilobytes rather than another full copy. Isolated corruption, capacity, race, concurrency and publication-interruption tests preserve fail-closed behavior. Targeted coaching returned implementation to the application model; this is recovery evidence, not proof that its application is finished or that external integrations work.
 
 See [the application-workspace case study](case-studies/hosted-model-local-application-workspace.md) for boundaries and remaining limits.
+
+
+## 2026-11-18 — Preserve the owner's choices through asynchronous saves
+
+A follow-up requested a grouped list of exact supplied links, with explicit choices and no added purchase cap. The application model kept source ownership while targeted review and real browser checks exposed quantity coercion, late-response overwrites and recovery-path races. The verified chooser preserves unresolved links honestly and does not activate work merely by adding options. [Evidence and limits](case-studies/hosted-model-local-application-workspace.md).
