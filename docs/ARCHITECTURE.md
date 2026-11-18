@@ -317,3 +317,8 @@ The verified replacement retained the existing search and import owners. Full im
 
 
 The later supervision retrospective separated durable observation, established repair ownership and notification. Receipt checkpoints preserved failures across unrelated worker turns. Routine checks and deterministic summaries used a script-only path, avoiding the long-agent queue without adding a competing media writer.
+
+
+### Retrospective: hosted reasoning with local application tools
+
+A dedicated coding interface connected a hosted model to a new local workspace through a credential-holding broker. Model selection and forwarding were narrow; previews used a separate origin. Protected checkpoints and bounded execution complemented the file boundary. Hybrid configuration loaders required actual browser-path verification, rather than treating an API task as proof of UI readiness. [Case study](case-studies/hosted-model-local-application-workspace.md).

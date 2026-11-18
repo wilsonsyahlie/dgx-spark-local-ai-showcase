@@ -6,8 +6,7 @@ investigated, and evidence used to decide whether a change was safe to keep.
 
 The platform combines a conversational agent, local language and vision inference,
 private retrieval, media workflows, and operator controls on one shared-memory machine.
-The defining constraint is simple: inference stays local, private information stays
-private, and heavy workloads cannot silently compete for the same resources.
+Local inference and structural privacy remain defaults. Explicitly authorized hosted task workspaces are narrow exceptions, not general cloud fallbacks; unrelated private information stays outside them, and heavy workloads cannot silently compete for the same resources.
 
 ## What this demonstrates
 

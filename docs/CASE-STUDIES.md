@@ -1204,3 +1204,6 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Protecting a working assistant while adding a secondary](case-studies/co-resident-secondary.md) — separate ownership, context/output budgets, immutable readiness and bounded availability evidence.
+
+
+- [Hosted coding model with local application delivery](case-studies/hosted-model-local-application-workspace.md): scoped tools, protected credentials, hybrid-client compatibility and actual browser verification.

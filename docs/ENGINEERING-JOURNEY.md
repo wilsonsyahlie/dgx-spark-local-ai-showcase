@@ -3353,3 +3353,8 @@ An expert-model replacement retained the established secondary interface and hig
 ## 2026-11-17 — Exposing an existing secondary through the normal chat app
 
 An already-qualified secondary became selectable through one native connection in the existing chat app. The existing providers, access settings, defaults and conversations were preserved. A real menu selection and saved response proved the route; refresh, duplicate submission and discovery-error recovery were checked at desktop and phone widths. The work reused the current application and resident model. See the verification record for bounds.
+
+
+## 2026-11-18 — Let a hosted model build an application locally
+
+The owner requested direct file creation and execution from a hosted coding model. A dedicated workspace preserved existing local assistants and private knowledge. Review and live checks exposed network, checkpoint, hybrid-configuration, compressed-response and encoded-header failures before final qualification. [What changed and what remained unproven](case-studies/hosted-model-local-application-workspace.md).
