@@ -3382,3 +3382,8 @@ A follow-up requested a grouped list of exact supplied links, with explicit choi
 ## 2026-11-18 — Separate a checkout simulation from private account login
 
 A sample checkout selected an unintended payment method while the interface offered no real sign-in path. The correction labels fictional payment data and separates owner-operated login from unverified application execution. Native browser tests exposed a blocked image format and a double-close fault that connection-only checks missed. The guest login form was qualified without entering credentials; authenticated account, payment and transaction behavior remain owner-dependent and unproven. [Evidence and limits](case-studies/hosted-model-local-application-workspace.md).
+
+
+## 2026-11-18 — Simplifying automation without hiding uncertainty
+
+A shopping monitor repair replaced a crowded setup flow with item choices and explicit Start/Stop. The engineering work separated durable user intent from temporary browser readiness, and separated an accepted order from proven payment. Native browser fixtures, restart recovery and the deployed chooser passed. Authenticated merchant checkout and actual challenge-provider acceptance remain unverified; this is a repair checkpoint, not a claim of unattended purchasing success. See [the case study](CASE-STUDIES.md#simple-controls-durable-intent) and [verification limits](VERIFICATION.md#simple-controls-verification).

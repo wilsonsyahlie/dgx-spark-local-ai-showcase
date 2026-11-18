@@ -1207,3 +1207,16 @@ A bounded sampling correction preserved strict language checks and historical ev
 
 
 - [Hosted coding model with local application delivery](case-studies/hosted-model-local-application-workspace.md): scoped tools, protected credentials, hybrid-client compatibility and actual browser verification.
+
+
+## Simple controls, durable intent
+
+The user wanted to select products and start a monitor. Repeated setup panels, stale failure messages and separate browser-control gates made that basic intent difficult to express. Simplifying the visible controls required more than hiding settings: choices, Start, Stop and action receipts needed one durable authority. Temporary browser loss could then preserve an explicit Start, while a later Stop could invalidate delayed work without relying on a still-open page. An old request acknowledgement could not create a fresh run.
+
+Purchasing introduced a separate boundary. A selected saved payment instrument, a submitted order and a paid receipt are different observations. Native fixtures checked exact item identity, quantity, currency, totals and submission-bound order identity. A pending bank step remained pending, and an uncertain submission was preserved rather than retried. A fresh explicit run could buy an item again without weakening protection against repeating an uncertain charge.
+
+The paid challenge-service adapter applied the same distinction: a recorded task is not a solved challenge, and a solver answer is not merchant acceptance. Durable intent before submission and known-task polling preserved uncertain acknowledgements without creating another paid request. Only a bounded recognized challenge surface was eligible; credentials and payment verification stayed outside that path.
+
+Verification also exposed the deployment boundary. A built artifact initially lacked a runtime dependency at its installed launch location. A service restart then left an existing dependent ingress stopped. Explicit runtime and dependency checks corrected those activation failures. Browser tests caught an empty initial selector, an error that survived successful reconnection and historical rows presented as current results. Each failure remained part of the evidence rather than being removed from the acceptance criteria.
+
+The retrospective lesson is that fewer controls require clearer state ownership, not optimistic status text. A native fixture proves the tested interaction; a reachable deployed page proves delivery. Neither establishes an authenticated merchant purchase or acceptance of an unseen real challenge.

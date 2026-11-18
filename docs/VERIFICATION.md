@@ -1933,3 +1933,17 @@ A dedicated hosted-model coding workspace was qualified through actual agent too
 ### Agent question replies
 
 A missing interactive reply route was reproduced and narrowly corrected. Eighteen isolated forwarding/schema/access checks passed. Desktop and narrow browser requests using nonexistent question fixtures reached native not-found handling; the original waiting question and agent process were preserved. Real answer delivery was not replayed or claimed. The initial pre-readiness failure remains recorded.
+
+
+## Simple controls verification
+
+| Requirement | Evidence | Limit |
+| --- | --- | --- |
+| Simple chooser | Deployed secure pages, item choices, Start/Stop, phone and desktop layouts; no limit forms | Real shopping was not started by the verifier |
+| Durable intent | Transaction, duplicate acknowledgement, race, migration, restart and Stop regressions | Does not establish indefinite endurance |
+| Continued monitoring | Timed native checks across selected fixture items; backoff, browser loss, challenge pause and fresh-process recovery | Merchant session stability remains unproven |
+| Payment correctness | Native checkout fixtures reject wrong methods and mismatched items; pending and uncertain results remain distinct from paid | No real card charge or merchant receipt was qualified |
+| Challenge integration | Durable paid-task intent and lost-acknowledgement tests; native stale-answer and cancellation checks | No actual provider-to-merchant acceptance was qualified |
+| Activation | Exact delivered-file and process checks, public page checks and controlled dependency recovery | Build success alone was not counted as activation |
+
+No external test notification, actual purchase or paid challenge task was sent by these checks. Failed fixtures and activation attempts were retained. The owner-operated account and payment steps remain separate acceptance work; this checkpoint must not be described as completed unattended shopping.
