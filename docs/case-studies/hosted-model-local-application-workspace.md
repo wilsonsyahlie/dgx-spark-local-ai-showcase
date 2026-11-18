@@ -13,3 +13,12 @@ The actual private-browser path exposed two further failures: compressed model-l
 Qualification covered model-authored file creation, editing, shell work, saved predecessors and an interactive application. Desktop and narrow layouts, refresh, loading, stale responses, duplicate suppression, failure/retry, shutdown and recovery were checked at their relevant layers. Earlier premature preview wording and failed observer assumptions were retained as failures, not credited as passes. Provider identity and observed tool behavior do not independently attest hosted weights, broad application quality, full context performance or physical-device behavior.
 
 The retained recovery plan closes only the dedicated component and reverses its additive portal entry. Projects, histories, checkpoints and predecessor artifacts remain available; unrelated assistants and model defaults are not restored or rewritten.
+
+
+## Follow-up: let the user answer an agent question
+
+An actual browser submission exposed a missing lifecycle route: the private gateway allowed task creation but refused replies to questions asked by the agent. The correction admitted only the existing question reply and rejection operations, with strict method, identifier and payload checks. Authentication, workspace boundaries and unrelated mutation restrictions stayed in place.
+
+Eighteen isolated checks proved exact answer forwarding and rejection of malformed or unauthorized requests. Live requests using a nonexistent fixture question reached the native service and returned its expected not-found response, including from desktop and narrow browser contexts. The real waiting question and agent process were preserved; no answer was submitted on the owner's behalf. An initial probe before gateway readiness returned a transient failure and was retained. Successful delivery of a real user answer was left for the owner's retry, rather than inferred from a routing test.
+
+When introducing a narrow API gateway, verify the complete interactive lifecycle, including questions and their replies. Task creation alone does not establish a usable conversation.

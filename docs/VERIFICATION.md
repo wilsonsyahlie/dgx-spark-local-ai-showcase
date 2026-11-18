@@ -1928,3 +1928,8 @@ This was a configuration integration, with no frontend change or extra model loa
 ## 2026-11-18 — Hosted coding with local application delivery
 
 A dedicated hosted-model coding workspace was qualified through actual agent tool calls, host-visible files and a browser application. Boundary tests covered credential separation, wrong-model rejection, filesystem races, capacity failure, network isolation and fresh firewall reconstruction. Browser and restart checks distinguish observed results from provider claims and untested endurance. [Evidence and retained failures](case-studies/hosted-model-local-application-workspace.md).
+
+
+### Agent question replies
+
+A missing interactive reply route was reproduced and narrowly corrected. Eighteen isolated forwarding/schema/access checks passed. Desktop and narrow browser requests using nonexistent question fixtures reached native not-found handling; the original waiting question and agent process were preserved. Real answer delivery was not replayed or claimed. The initial pre-readiness failure remains recorded.
