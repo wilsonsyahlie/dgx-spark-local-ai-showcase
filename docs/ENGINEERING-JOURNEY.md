@@ -3363,3 +3363,12 @@ The owner requested direct file creation and execution from a hosted coding mode
 ## 2026-11-18 — Restore replies to coding-agent questions
 
 A real user interaction revealed that the coding gateway admitted new tasks but omitted question replies. Two narrowly validated native operations restored routing while preserving the waiting session and existing boundaries. Fixture forwarding and live browser routing passed; no real user answer was replayed. [Evidence and limits](case-studies/hosted-model-local-application-workspace.md).
+
+
+## 2026-11-18 — Recover a coding session without taking over its application
+
+A request for assistance exposed a backup design that recopied unchanged dependencies at every checkpoint until its bounded storage could no longer admit another operation. The application model also spent repeated attempts acquiring an unavailable browser. A cold, verified data copy preceded bounded filesystem growth; future checkpoints now share validated backup contents while retaining independent version manifests and all predecessors. No live workspace file is linked into backup storage.
+
+Offline filesystem checks and all pre-existing entry comparisons passed. The original coding session survived restart, and a second checkpoint of the same dependency-heavy workspace added roughly a hundred and fifty kilobytes rather than another full copy. Isolated corruption, capacity, race, concurrency and publication-interruption tests preserve fail-closed behavior. Targeted coaching returned implementation to the application model; this is recovery evidence, not proof that its application is finished or that external integrations work.
+
+See [the application-workspace case study](case-studies/hosted-model-local-application-workspace.md) for boundaries and remaining limits.
