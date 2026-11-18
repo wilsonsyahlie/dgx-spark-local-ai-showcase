@@ -46,3 +46,14 @@ An independent full suite passed 149 tests. Actual desktop and narrow-phone brow
 Failed tests and test-harness mistakes remain in the private evidence. A failing numeric-precision regression was restored after an attempted simplification, then the source was corrected. Browser blur could legitimately duplicate a save, so the harness checks serialization, final values and one Add rather than an exact incidental save count. Another check initially asserted restored controls before the asynchronous reload had finished; instrumentation distinguished pending work from a defect. Earlier unexplained timeouts are retained as limits. No claim of eliminating every race, production crash recovery or endurance is made.
 
 Rollback preserves current choices and history, reverting only reviewed source predecessors after fresh protection. No external transaction or model-provider migration was part of this verification. Physical-phone hardware and complete external integration remain unverified.
+
+
+## A visible simulation is not an account integration
+
+A user noticed that a sample checkout chose the wrong payment type and offered no usable login. The sample was corrected and explicitly labeled fictional. Real payment selection was made to stop on missing, ambiguous or unobserved choices, while account login became a separate owner action. A launch link was kept distinct from a claim that the application could use the account.
+
+The engineering lesson came from visible verification. A successful viewer connection initially displayed a gray screen; comparing the actual display with the browser canvas identified an image-policy restriction. Typing into the browser address field was rejected as page-input proof. Native page input and button effects were then observed before and after reconnect. Closing exposed a second issue: a framework reported a terminal state before its close operation had necessarily succeeded. Tracking the actual result fixed duplicate closure without treating a failed or hanging close as success.
+
+Layered tests covered application behavior, stream ownership, invalid access attempts and desktop and narrow-phone recovery. A genuine guest login form was inspected without entering anything, then automated viewing stopped before owner handoff. The model provider interrupted the last interface update with a billing-related rejection; only the remaining connection labels were finished by the supervisor, with no provider substitution. Existing choices were retained and failures remained in the evidence.
+
+The result was a bounded login handoff. Authenticated sign-in, challenges, saved payment methods and transactions were not verified. The application still could not execute purchases through that private login. Physical-device and endurance checks remained outside the evidence. This distinction prevents a working guest screen from becoming a misleading claim that the shopping system is complete.

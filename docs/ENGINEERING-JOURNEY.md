@@ -3377,3 +3377,8 @@ See [the application-workspace case study](case-studies/hosted-model-local-appli
 ## 2026-11-18 — Preserve the owner's choices through asynchronous saves
 
 A follow-up requested a grouped list of exact supplied links, with explicit choices and no added purchase cap. The application model kept source ownership while targeted review and real browser checks exposed quantity coercion, late-response overwrites and recovery-path races. The verified chooser preserves unresolved links honestly and does not activate work merely by adding options. [Evidence and limits](case-studies/hosted-model-local-application-workspace.md).
+
+
+## 2026-11-18 — Separate a checkout simulation from private account login
+
+A sample checkout selected an unintended payment method while the interface offered no real sign-in path. The correction labels fictional payment data and separates owner-operated login from unverified application execution. Native browser tests exposed a blocked image format and a double-close fault that connection-only checks missed. The guest login form was qualified without entering credentials; authenticated account, payment and transaction behavior remain owner-dependent and unproven. [Evidence and limits](case-studies/hosted-model-local-application-workspace.md).
