@@ -1285,3 +1285,14 @@ A game verification integration separated permission to answer a challenge from 
 Browser tests covered a disabled Claim control, stale images, manual takeover, duplicate input and unchanged helper Stop. Real viewer testing caught a signed capability-message length that the new activity detector initially rejected; a bounded parser correction restored the connection. Phone layouts, stale preference responses, retry and refresh recovery passed. A real provider read a synthetic code correctly. No live game challenge was available after maintenance, so game acceptance remained unproven and the helper was left stopped.
 
 Continued merchant verification testing also overturned a premature stopping point: three successful challenges did not establish consistency. An expiry-priority repair passed native regression checks, but a longer trial still stalled at a different expired-widget state. The record keeps that investigation open and does not infer a connection-reputation cause from repeated challenges alone.
+
+
+## Verification tied to a human task and a game request
+
+Longer merchant verification trials exposed repeated recognition rejections despite successful native clicks. A bounded comparison using ordinary human answers completed two challenges. The deployed integration consequently gained explicit human task continuity, while a longer test remained open. That comparison did not establish a connection-reputation cause or lasting merchant access.
+
+Only the latest known applied answer from the same current question can identify a continuation. Fresh questions, stale or unknown outcomes and explicit retries cannot inherit it. Tests exercised the real browser capture and provider serializer together. Rollback retains a compatible receipt reader rather than restoring old paid-task history.
+
+Two capture faults were also reproduced: a stale expiry marker could override a valid grid, and a large source picture could exceed the response budget. Native regression cases preserve the valid grid and retain the original picture whenever it fits, with bounded encoding only when necessary.
+
+The game integration was checked against its own form contract: exactly five characters, a matching submission response, and the refreshed empty form after a rejected answer. An interruption test caught a final authority window before Claim; immediate command guards closed it. Hidden duplicate prompts, persistent rejection limits and restart behavior were tested. A synthetic provider response proved the wiring, while natural game acceptance remained unproven.

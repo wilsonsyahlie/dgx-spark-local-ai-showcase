@@ -2020,3 +2020,12 @@ Browser tests covered a disabled Claim control, stale images, manual takeover, d
 Continued merchant verification testing also overturned a premature stopping point: three successful challenges did not establish consistency. An expiry-priority repair passed native regression checks, but a longer trial still stalled at a different expired-widget state. The record keeps that investigation open and does not infer a connection-reputation cause from repeated challenges alone.
 
 Evidence boundary: simulated native forms and an actual synthetic provider response establish the wiring. They do not establish a natural game acceptance or restart during a real pending challenge. Continued merchant consistency also remains open. No game helper or shopping operation was started to improve a test result.
+
+
+## Human continuation and game response verification
+
+Retained native, provider, gateway and Stop checks passed alongside new human-continuation cases. The browser capture producer was exercised through the host serializer, including a new question in an unchanged document, dynamic replacements, stale parents and confirmed retries. Original tile bounds, one-use answers and unknown-outcome barriers remained enforced.
+
+Game fixtures covered boolean and numeric response flags, cleared fields after rejection, mismatched replies, transport loss, late manual takeover, duplicate hidden prompts and a rejection limit that survives restart. Actual viewer, phone layout and refresh checks passed. A real synthetic provider task reached the installed controller and was retired unused when no matching challenge existed.
+
+Two complete merchant challenges succeeded in the bounded human comparison; a longer run using the deployed integration was still underway. No natural game challenge had appeared. These limits prevent treating either synthetic calibration or a small successful sample as full reliability proof.

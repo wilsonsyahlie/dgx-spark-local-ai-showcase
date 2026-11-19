@@ -3435,3 +3435,10 @@ A game verification integration separated permission to answer a challenge from 
 Browser tests covered a disabled Claim control, stale images, manual takeover, duplicate input and unchanged helper Stop. Real viewer testing caught a signed capability-message length that the new activity detector initially rejected; a bounded parser correction restored the connection. Phone layouts, stale preference responses, retry and refresh recovery passed. A real provider read a synthetic code correctly. No live game challenge was available after maintenance, so game acceptance remained unproven and the helper was left stopped.
 
 Continued merchant verification testing also overturned a premature stopping point: three successful challenges did not establish consistency. An expiry-priority repair passed native regression checks, but a longer trial still stalled at a different expired-widget state. The record keeps that investigation open and does not infer a connection-reputation cause from repeated challenges alone.
+
+
+## 2026-11-20 — Human continuity and verification tied to a request
+
+Continued merchant trials motivated explicit human task continuity after a bounded comparison, with the longer deployed trial still open. Game verification gained checks for its exact form and response contract, including late manual interruption and durable retry limits. Synthetic provider and browser checks passed; natural game acceptance remained unproven and the helper remained stopped.
+
+See [the case study](CASE-STUDIES.md#verification-tied-to-a-human-task-and-a-game-request) and [verification limits](VERIFICATION.md#human-continuation-and-game-response-verification).
