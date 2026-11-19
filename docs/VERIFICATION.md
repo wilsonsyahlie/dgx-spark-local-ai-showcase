@@ -2081,3 +2081,15 @@ The next comparison passed syntax and actual extracted provider-payload and cont
 The independent game chapter, browser-size and end-phase consumable features remain activated and audited. Hunting was left stopped during the owner-approved update and later observed running again without an agent start; current intent is preserved. Natural game reward acceptance and a real end-phase ignition are still distinct unproved events.
 
 The new artifact differs in the recognition adapter alone and retains the runtime configuration. Its focused browser checks cover acknowledged next questions, explicit rejection, unknown verification, expiry and reload; the complete existing native, gateway, receipt, loading and timeout checks pass. Exact-image activation preserved current stopped controls and paid history. The visible owner browser was reopened through existing controls after restart, and the public phone view decoded a real browser frame with no control mutation. The first installed-policy acceptance is observed; the repeated-solve target remains open.
+
+
+## Repeated acceptance and access continuity measured separately
+
+The installed continuation change completed six accepted challenges in eighty-three image rounds over about forty-two minutes. All paid records were strictly reloaded and terminal: seventy-three acknowledged round-progress outcomes, four obsolete outcomes and six accepted outcomes. The diagnostic browser exited normally; its process was absent, source fingerprints remained exact and no application outcome was unresolved. There were no provider transport exceptions.
+
+Natural expiry and loading recovery each received a navigation acknowledgement and produced later supported captures. Observed capture calls stayed below the existing caller deadline. Financial requests were blocked and no shopping start, order, payment or one-time-password action was performed. Existing stopped controls, paid history and isolation boundaries were rechecked.
+
+All six continuity checks re-challenged on the second fresh product read, despite remaining signed in. Repeated acceptance is established only for this finite profile-copy test; sustained access and the cause of repeated verification remain open. A genuine product checkbox was separately verified in the owner-visible browser before requesting a manual comparison. That comparison and natural game reward and end-phase events remain unproved.
+
+
+A later owner observation reports that manual refreshes do not reproduce the repeated verification. Source comparison found a diagnostic confound: its purchase-blocking request interception disables the browser HTTP cache, while the normal browser launch does not install that interception. The trial also uses repeated direct navigation in a copied session. These differences require a matched comparison; they are not an established cause, and the continuity result must not be generalized to normal manual refresh or production monitoring. The financial guard remains intact.

@@ -3486,3 +3486,12 @@ A longer trial showed healthy provider transport alongside repeated verification
 See [the failure study](CASE-STUDIES.md#stopping-a-repeated-recognition-failure-safely) and [verification limits](VERIFICATION.md#transport-success-does-not-establish-verification-success).
 
 The qualified continuation adapter is now active with unchanged runtime configuration. The longer installed-policy test has one complete acceptance so far; repeatability remains under observation. A premature manual-comparison request also led to a concrete readiness check: the closed owner browser was opened, then actual interactive pixels and a passive phone view were verified without starting shopping.
+
+
+## 2026-11-20 — Six accepted challenges, continuity still open
+
+An activated continuation change completed a finite six-solve test with every paid outcome reconciled and the diagnostic browser closed. Each accepted challenge allowed a fresh product read, but another read requested verification again. The resulting record separates repeated acceptance from sustained access and does not claim the entire reliability problem is solved.
+
+The visible-browser workflow was also corrected: a home page was not a usable manual verification test, even when real pixels were arriving. Normal navigation exposed an actual product checkbox, then released control while shopping remained stopped.
+
+See [the measured case study](CASE-STUDIES.md#six-accepted-challenges-with-a-separate-continuity-failure) and [the verification limits](VERIFICATION.md#repeated-acceptance-and-access-continuity-measured-separately).
