@@ -3407,3 +3407,6 @@ A bounded diagnostic follow-up isolated a dynamic-grid reflow boundary and added
 
 
 An owner-requested cadence change exposed session and evidence errors: temporary sign-in cookies were lost across browser relaunch, generic account text was insufficient login proof, and Start could select an old anonymous challenge tab. Bounded native regressions now cover session continuity and fresh signed-in product views while preserving Stop, account and financial boundaries. The earlier authenticated-session claim was corrected; live acceptance remains explicit.
+
+
+November 19 update. An unsuccessful verification now leaves a clear pause that survives reopening the application. The owner chooses when to try again.

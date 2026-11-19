@@ -1977,3 +1977,6 @@ Reflow and reconnect follow-up: the changed native adapter suite covers unchange
 
 
 Session and cadence follow-up: native controls reproduced temporary-cookie loss on browser relaunch, a generic-menu authentication false positive, and a stale anonymous tab blocking Start after a valid separate-tab login. Scoped session restore, explicit logout invalidation, account isolation, no automatic tab restoration, delayed real header detection and a fresh signed-in stock view passed. Account/payment tabs and final-order drafts remain open; active human control and submitted orders block cleanup. Twelve browser/API suites cover the final artifact, with explicit same-artifact reuse when only a test fixture was corrected. Random-delay bounds, finer resolution, a real timed wait and immediate Stop cancellation were checked separately. No production account cookies or real order submissions entered the tests. Live owner authentication, uninterrupted merchant endurance and actual card payment remain open.
+
+
+A simulated failed verification blocked duplicate attempts across refresh and restart. A new run and an accepted response passed their checks. Live observation confirmed the stopped state.
