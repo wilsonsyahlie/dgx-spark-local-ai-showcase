@@ -1971,3 +1971,6 @@ The follow-up obstruction regression covers an overlay in an ancestor document; 
 
 
 The final native follow-up reran the changed image adapter against the delivered artifact, including Stop during a read and an overlay appearing after the first tile. Eight other suites were explicitly reused only after exact equality of their test files and every other application source. The unchanged typed receipt suite remains applicable. The live endurance requirement remains open; no unknown outcome is counted as acceptance.
+
+
+Reflow and reconnect follow-up: the changed native adapter suite covers unchanged-tile movement after input and delayed replacement loading while retaining Stop, stale-target and unrelated-image checks. Other suites are reused only with exact source and test equality. The portal fallback was tested from its actual generated markup and actual public assets, with client-side failure injection rather than a production outage. Phone layout, readable action colour, single in-flight recovery reads, duplicate clicks, stale navigation and unauthorized responses passed without shopping mutations. Exact delivered asset hashes and an unchanged gateway process were checked. Merchant endurance and real payment remain open.

@@ -3401,3 +3401,6 @@ Live follow-up caught an expired outer checkbox intercepting image input. Ancest
 
 
 A further native regression separates interrupted tile selection from final verification, and preserves Stop arriving during a browser read. Only the changed adapter suite was rerun after proving all other source and test hashes unchanged; endurance remains open.
+
+
+A bounded diagnostic follow-up isolated a dynamic-grid reflow boundary and added delayed-image regressions. A separate owner screenshot exposed a misleading, unreadable reconnect page during a worker update; corrected public assets passed failure/recovery and phone checks without restarting the service. Merchant endurance remains explicitly unqualified.
