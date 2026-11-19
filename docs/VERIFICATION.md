@@ -2038,3 +2038,12 @@ The earlier deployed trial ended with five complete accepted challenges and no u
 The repaired image passed the retained native, provider, gateway and Stop suites, plus fourteen recovery refusal cases and tests for uncertain navigation and takeover during the final awaited read. A separate owned local server reproduced the old caller timing out before a delayed response; the corrected client received that same response. Runtime source checks, preserved stopped intent and unchanged paid history passed after activation.
 
 The new live trial was still running. Natural empty-widget recovery and lasting merchant access were therefore not yet proved. No connection-reputation cause was inferred, and no unsupported image or replayed answer was submitted.
+
+
+## Expiry recovery and shared-client scope
+
+The earlier version failed an exact native reproduction in which expiry followed a known tile click and reopening was ignored. The final repair passed that case, eleven refusal cases, uncertain navigation, late manual takeover and response-element replacement. The original successful native reopening assertion remained unchanged. Retained provider, gateway, original image, continuation, Stop and worker suites also passed against the exact final image.
+
+Caller probes reproduced the overly broad timing change and verified the corrected client-specific limits. An owned delayed response still completed for the intended client. Runtime source checks, preserved stopped controls, unchanged paid history and matched backup checks passed after activation.
+
+The new deployed live trial remained underway. Its trace separates complete paid-image solves from access restored through a bounded refresh. The earlier five-solve trial and the later zero-solve trial remain distinct evidence; neither permanent access nor natural recovery was inferred from synthetic cases.

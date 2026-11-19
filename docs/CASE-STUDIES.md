@@ -1305,3 +1305,12 @@ A longer verification trial completed five full challenges across eighty-five im
 The repair permits a bounded read-only product refresh only after positive acceptance for that same product. The current owner context must match, the new challenge must remain empty, and pending input or another form prevents recovery. Permission is consumed before navigation, so a lost acknowledgement or ignored refresh cannot silently repeat the action. A cleared page still requires fresh merchant proof.
 
 Native reproduction failed on the earlier version and passed on the repair. Negative cases covered stopped controls, manual takeover, pending answers, changed pages, duplicate roots and input in another form. A delayed local response also exposed a caller deadline that was shorter than the bounded recovery path; the capture wait was aligned without changing ordinary polling. The newer deployed live trial remained open at this checkpoint.
+
+
+## Retiring an owned expired question
+
+A later deployed trial completed no full challenge across twenty-five image rounds. Expiry arrived immediately after an acknowledged tile click. The grid remained loaded but covered, and the normal checkbox reopening did not restore a usable view. The trial closed with every paid outcome known. This refined the earlier loading diagnosis rather than proving a new recognition or connection-reputation cause.
+
+The repair preserves the working native reopening path and retains context for the expired partial round. Only an ignored opening with explicit expiry, matching owner and widget context, no pending answer or foreign selection, and the exact selected product can authorize a bounded read-only refresh. A consumed marker survives uncertain navigation, preventing a repeated refresh or checkbox toggle. Fresh merchant proof remains separate from paid-solver acceptance.
+
+The final check also rereads widget binding and product identity after awaited observations. A synthetic replacement of the response element now prevents navigation. A caller timing adjustment was narrowed to the intended client after a scope check found that the first shared expression also extended another client's wait. Legacy limits and ordinary polling were preserved.

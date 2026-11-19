@@ -3449,3 +3449,10 @@ See [the case study](CASE-STUDIES.md#verification-tied-to-a-human-task-and-a-gam
 A five-challenge trial exposed an empty verification page after earlier accepted solves. The repair used prior positive context to authorize a limited read-only refresh, preserved pending-answer and manual-control barriers, and aligned the caller wait with the bounded operation. Native and delayed-response reproductions passed; the next deployed live trial remained open.
 
 See [the case study](CASE-STUDIES.md#a-challenge-that-never-rendered) and [verification limits](VERIFICATION.md#empty-widget-and-delayed-response-evidence).
+
+
+## 2026-11-20 — Owned expiry and client-specific timing
+
+Continued live testing exposed expiry during a partially applied image round. The repair retained normal reopening, added a bounded refresh for an ignored opening and checked widget identity again immediately before navigation. Scope checks also restricted a timing extension to its intended client. All final native and retained suites passed; the new live qualification remained open.
+
+See [the case study](CASE-STUDIES.md#retiring-an-owned-expired-question) and [verification limits](VERIFICATION.md#expiry-recovery-and-shared-client-scope).
