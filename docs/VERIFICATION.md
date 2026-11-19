@@ -2003,3 +2003,6 @@ Only the listener restarted. A settled consistent state backup preceded restart;
 | Live acceptance | Multiple paid-solve checkpoints with a fresh selected-product read | A later repeated-read probe re-challenged the browser; lasting merchant access remained unqualified |
 
 These observations support the bounded integration repair. They do not establish indefinite access, a guaranteed recognition time, or unattended purchasing. Private account data, credentials, production settings, challenge images and raw operational records remain outside this retrospective.
+
+
+A follow-up retry suite covered confirmed failure lineage, a finite retry limit, exact receipt preservation, restart after lost acknowledgement and exclusion of unrelated errors. Original receipt, gateway and native assertions still passed. The host component activated with stopped intent, paid history and both worker processes preserved. Repeated merchant challenges and a partial-selection visibility failure remained explicit open live qualifications.

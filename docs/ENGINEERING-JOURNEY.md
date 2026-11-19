@@ -3420,3 +3420,6 @@ A card-sale listener gained an owner-selected certificate-suffix criterion along
 ## 2026-11-19 — Verification across several image rounds
 
 A verification integration repair separated intermediate progress, temporary image loading, unused answers and unknown side effects. Real browser inspection also found clipped challenge content and delayed picture replacement. The delivered changes retained native input guards and durable paid-task history. Bounded live solve checkpoints succeeded; a later repeated-read probe re-challenged the browser, so lasting merchant access and purchasing remained separate, unqualified outcomes. See [the case study](CASE-STUDIES.md#verification-across-several-image-rounds) and [verification](VERIFICATION.md#image-round-integration-verification).
+
+
+The next checkpoint distinguished a confirmed provider refusal from an uncertain submission. Only the former gained a finite human retry with a durable preimage. A later same-browser read requested verification again, and a separate partial-selection visibility failure remained unresolved. The engineering record preserves those limits instead of treating a successful short solve as consistent access.
