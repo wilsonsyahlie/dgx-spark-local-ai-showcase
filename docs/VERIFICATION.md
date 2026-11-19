@@ -1965,3 +1965,6 @@ The earlier checkpoint's absence of any real challenge acceptance is superseded 
 
 
 Image-round follow-up: exact delivered code passed the existing API, slider, token, navigation, traffic, passive-preview, checkout and loading suites plus a native picture-selection suite. Typed paid-round tests preserve restart deduplication, expiry and unknown-application blocking. A real challenge capture stayed inside the trusted verification surface. Native synthetic success and partial rounds are not live merchant acceptance; endurance and actual payment remain unqualified.
+
+
+The follow-up obstruction regression covers an overlay in an ancestor document; checking only the inner frame would fail it. The delivered artifact passed nine browser/API suites and forty-two typed paid-task tests. Expired consumed-image history is preserved and never relabelled accepted. These checks establish bounded recovery behavior, not continuous merchant access or a real purchase.

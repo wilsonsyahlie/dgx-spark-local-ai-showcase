@@ -3395,3 +3395,6 @@ A shopping-monitor follow-up separated passive observation from input control an
 
 
 A subsequent image-round fallback was activated after native and exact-artifact tests. Recognition stays tied to the existing browser connection and exports only the verification crop. Live endurance remains an explicit open requirement.
+
+
+Live follow-up caught an expired outer checkbox intercepting image input. Ancestor-frame checks and expiry handling were corrected and tested without replaying the consumed answer. The original uncertain outcome and the open endurance requirement remain explicit.
