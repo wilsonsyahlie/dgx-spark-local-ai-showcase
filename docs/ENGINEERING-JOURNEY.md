@@ -3404,3 +3404,6 @@ A further native regression separates interrupted tile selection from final veri
 
 
 A bounded diagnostic follow-up isolated a dynamic-grid reflow boundary and added delayed-image regressions. A separate owner screenshot exposed a misleading, unreadable reconnect page during a worker update; corrected public assets passed failure/recovery and phone checks without restarting the service. Merchant endurance remains explicitly unqualified.
+
+
+An owner-requested cadence change exposed session and evidence errors: temporary sign-in cookies were lost across browser relaunch, generic account text was insufficient login proof, and Start could select an old anonymous challenge tab. Bounded native regressions now cover session continuity and fresh signed-in product views while preserving Stop, account and financial boundaries. The earlier authenticated-session claim was corrected; live acceptance remains explicit.
