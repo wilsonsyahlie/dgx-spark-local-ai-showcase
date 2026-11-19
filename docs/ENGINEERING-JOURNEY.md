@@ -3456,3 +3456,10 @@ See [the case study](CASE-STUDIES.md#a-challenge-that-never-rendered) and [verif
 Continued live testing exposed expiry during a partially applied image round. The repair retained normal reopening, added a bounded refresh for an ignored opening and checked widget identity again immediately before navigation. Scope checks also restricted a timing extension to its intended client. All final native and retained suites passed; the new live qualification remained open.
 
 See [the case study](CASE-STUDIES.md#retiring-an-owned-expired-question) and [verification limits](VERIFICATION.md#expiry-recovery-and-shared-client-scope).
+
+
+## 2026-11-20 — Acknowledged loading-document handoff
+
+A closed three-solve trial exposed a missing recovery handoff after a successful navigation reached another empty loader. A bounded, document-bound permission now connects those phases while retaining the existing retry allowance. Exact-image native and retained tests passed, and the activated source was checked. A new live qualification remains open.
+
+See [the case study](CASE-STUDIES.md#carrying-recovery-across-a-loading-document) and [verification limits](VERIFICATION.md#acknowledged-loading-handoff-checks).

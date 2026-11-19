@@ -1314,3 +1314,10 @@ A later deployed trial completed no full challenge across twenty-five image roun
 The repair preserves the working native reopening path and retains context for the expired partial round. Only an ignored opening with explicit expiry, matching owner and widget context, no pending answer or foreign selection, and the exact selected product can authorize a bounded read-only refresh. A consumed marker survives uncertain navigation, preventing a repeated refresh or checkbox toggle. Fresh merchant proof remains separate from paid-solver acceptance.
 
 The final check also rereads widget binding and product identity after awaited observations. A synthetic replacement of the response element now prevents navigation. A caller timing adjustment was narrowed to the intended client after a scope check found that the first shared expression also extended another client's wait. Legacy limits and ordinary polling were preserved.
+
+
+## Carrying recovery across a loading document
+
+The next deployed trial completed three paid image challenges across fifty-eight rounds, then stopped at an empty verification placeholder after an acknowledged recovery navigation. All paid outcomes were known. The first recovery worked, but the following loading document lacked the context needed for a further bounded retry. Why the remote widget failed to render remained unproved.
+
+The repair grants a short-lived loading permission only when an acknowledged successful read of the same selected product produces a different document under the same owner. A stable empty known loader can use the existing shared refresh allowance; ignored, uncertain and same-document reads grant no permission. Paid capture or positive merchant proof retires it. The change preserves existing input, Stop, manual control and unknown-payment fences.

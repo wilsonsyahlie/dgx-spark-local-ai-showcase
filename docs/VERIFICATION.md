@@ -2047,3 +2047,10 @@ The earlier version failed an exact native reproduction in which expiry followed
 Caller probes reproduced the overly broad timing change and verified the corrected client-specific limits. An owned delayed response still completed for the intended client. Runtime source checks, preserved stopped controls, unchanged paid history and matched backup checks passed after activation.
 
 The new deployed live trial remained underway. Its trace separates complete paid-image solves from access restored through a bounded refresh. The earlier five-solve trial and the later zero-solve trial remain distinct evidence; neither permanent access nor natural recovery was inferred from synthetic cases.
+
+
+## Acknowledged loading handoff checks
+
+The actual earlier image reproduced the missing loading-context handoff. The final image passed a real-browser fixture that recovered the stalled known loader through a bounded second read and fresh product proof. Three acknowledgement negatives and seven owner, document, product and input negatives also passed. Existing empty-loading and owned-expiry refusal suites, original native opening, gateway, provider, continuation and worker checks remained passing. Runtime configuration was unchanged.
+
+The deployed image and loaded sources were checked with preserved stopped controls, paid history and sibling process. New diagnostic traces measure retries as well as successful calls and distinguish refresh acknowledgement from paid-image acceptance. The earlier three-solve trial is closed evidence; the new live trial remains open. Synthetic recovery does not establish natural acceptance, permanent access or a connection-reputation cause. The separate game integration still awaits a naturally occurring reward challenge, with hunting stopped.
