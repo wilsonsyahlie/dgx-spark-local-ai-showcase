@@ -3423,3 +3423,6 @@ A verification integration repair separated intermediate progress, temporary ima
 
 
 The next checkpoint distinguished a confirmed provider refusal from an uncertain submission. Only the former gained a finite human retry with a durable preimage. A later same-browser read requested verification again, and a separate partial-selection visibility failure remained unresolved. The engineering record preserves those limits instead of treating a successful short solve as consistent access.
+
+
+Longer testing exposed owned partial selections that could not recapture and a frame-destruction race after acknowledged verification. Both gained bounded recovery with retained input and ownership guards. The evidence distinguishes real upstream-control testing, complete accepted challenges, later merchant verification and historical unknown outcomes. The delivered follow-up accepted 3 complete challenges in one browser; later verification and long-running shopping remain separate qualifications.
