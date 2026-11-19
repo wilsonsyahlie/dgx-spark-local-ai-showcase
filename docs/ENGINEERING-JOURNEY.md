@@ -3463,3 +3463,10 @@ See [the case study](CASE-STUDIES.md#retiring-an-owned-expired-question) and [ve
 A closed three-solve trial exposed a missing recovery handoff after a successful navigation reached another empty loader. A bounded, document-bound permission now connects those phases while retaining the existing retry allowance. Exact-image native and retained tests passed, and the activated source was checked. A new live qualification remains open.
 
 See [the case study](CASE-STUDIES.md#carrying-recovery-across-a-loading-document) and [verification limits](VERIFICATION.md#acknowledged-loading-handoff-checks).
+
+
+## 2026-11-20 — Expiry after an acknowledged verification
+
+A closed zero-solve trial revealed a terminal-result boundary after an acknowledged verification reached a fresh but expired question. A narrowly bound retirement path now feeds existing recovery while preserving uncertain-action and input fences. Exact-image native and retained checks passed, followed by activated-source verification. Live repeated qualification remains open.
+
+See [the case study](CASE-STUDIES.md#expiry-after-acknowledged-verification) and [verification limits](VERIFICATION.md#acknowledged-verification-expiry-checks).

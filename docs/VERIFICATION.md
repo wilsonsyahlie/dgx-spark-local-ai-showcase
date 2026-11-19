@@ -2054,3 +2054,10 @@ The new deployed live trial remained underway. Its trace separates complete paid
 The actual earlier image reproduced the missing loading-context handoff. The final image passed a real-browser fixture that recovered the stalled known loader through a bounded second read and fresh product proof. Three acknowledgement negatives and seven owner, document, product and input negatives also passed. Existing empty-loading and owned-expiry refusal suites, original native opening, gateway, provider, continuation and worker checks remained passing. Runtime configuration was unchanged.
 
 The deployed image and loaded sources were checked with preserved stopped controls, paid history and sibling process. New diagnostic traces measure retries as well as successful calls and distinguish refresh acknowledgement from paid-image acceptance. The earlier three-solve trial is closed evidence; the new live trial remains open. Synthetic recovery does not establish natural acceptance, permanent access or a connection-reputation cause. The separate game integration still awaits a naturally occurring reward challenge, with hunting stopped.
+
+
+## Acknowledged verification expiry checks
+
+The previous image failed the exact browser reproduction at the fresh-question retirement assertion. The repair passed the full path from acknowledged verification through explicit expiry, one opening, bounded product refresh and fresh acceptance proof. Ten owner, context and selection negatives and an uncertain native-verification case passed without replay, order or provider actions. Existing loading, partial-expiry, native opening, gateway, human continuation, retry and worker suites remained passing against the exact new image.
+
+Activated source checks preserved stopped controls, original paid history, the sibling process and unchanged runtime configuration. The new live trial remains open. The preceding zero-solve trial and earlier three-solve trial are distinct closed results; neither synthetic recovery nor fresh access proof establishes a paid solve or lasting merchant access. The game reward integration still awaits a natural challenge with hunting stopped.

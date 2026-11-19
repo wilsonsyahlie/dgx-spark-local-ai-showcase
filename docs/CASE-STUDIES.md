@@ -1321,3 +1321,10 @@ The final check also rereads widget binding and product identity after awaited o
 The next deployed trial completed three paid image challenges across fifty-eight rounds, then stopped at an empty verification placeholder after an acknowledged recovery navigation. All paid outcomes were known. The first recovery worked, but the following loading document lacked the context needed for a further bounded retry. Why the remote widget failed to render remained unproved.
 
 The repair grants a short-lived loading permission only when an acknowledged successful read of the same selected product produces a different document under the same owner. A stable empty known loader can use the existing shared refresh allowance; ignored, uncertain and same-document reads grant no permission. Paid capture or positive merchant proof retires it. The change preserves existing input, Stop, manual control and unknown-payment fences.
+
+
+## Expiry after acknowledged verification
+
+The next trial ended without a complete solve after six paid rounds. An acknowledged native verification had produced a fresh loaded question, but explicit expiry covered it. The result classifier only recognized an uncovered next grid, so it returned a terminal negative rather than continuing recovery. Every paid outcome was reconciled; the loading handoff was not naturally exercised by this trial.
+
+The repair retires only a fresh, fully loaded and unselected question following an acknowledged verification. Owner, product, parent widget, frame and document must still match, and the content must have changed. Existing one-use opening and bounded read-only recovery handle that retired context. Old selections are never transferred to new images, uncertain acknowledgement grants no recovery authority, and merchant proof remains the sole acceptance criterion.
