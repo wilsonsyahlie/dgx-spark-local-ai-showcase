@@ -1276,3 +1276,12 @@ A later original-picture task still received a confirmed unsolvable response. Th
 
 
 Two further failures emerged under longer testing. A guarded selection could stop before submission while its selected pictures prevented another capture. The repair retained the exact owned partial state and permitted one native fresh-round request only after the same authority, document, images, selection set and visibility checks passed. Another race occurred after the verification button had already acknowledged input: the widget disappeared while its observer inspected a frame. The observer now distinguishes that specific teardown from unrelated errors and confirms acceptance through fresh merchant reads, without submitting again. Earlier unknown applications remain unknown. The delivered follow-up accepted 3 complete challenges in one browser; later verification and long-running shopping remain separate qualifications.
+
+
+## 2026-11-19 — Challenge-only authority and pending evidence
+
+A game verification integration separated permission to answer a challenge from permission to run the game helper. The native form handler bound each answer to its original image, document and preference revision. Manual input invalidated that authority before reaching the browser. Durable provider receipts retained task intent and unknown acknowledgements so interruptions could not silently rebill or replay an answer.
+
+Browser tests covered a disabled Claim control, stale images, manual takeover, duplicate input and unchanged helper Stop. Real viewer testing caught a signed capability-message length that the new activity detector initially rejected; a bounded parser correction restored the connection. Phone layouts, stale preference responses, retry and refresh recovery passed. A real provider read a synthetic code correctly. No live game challenge was available after maintenance, so game acceptance remained unproven and the helper was left stopped.
+
+Continued merchant verification testing also overturned a premature stopping point: three successful challenges did not establish consistency. An expiry-priority repair passed native regression checks, but a longer trial still stalled at a different expired-widget state. The record keeps that investigation open and does not infer a connection-reputation cause from repeated challenges alone.

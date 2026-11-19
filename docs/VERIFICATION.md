@@ -2009,3 +2009,14 @@ A follow-up retry suite covered confirmed failure lineage, a finite retry limit,
 
 
 The final immutable artifact passed the retained original assertions plus partial-selection, Stop, manual ownership, covered control, changed image, changed address, ignored reload and duplicate-input controls. A real nested frame was detached after acknowledged submission; acceptance required a fresh merchant read and exactly one submission. An unrelated-error control still failed closed. A controlled interruption also exercised the real upstream reload control before a fresh paid round. The delivered follow-up accepted 3 complete challenges in one browser; later verification and long-running shopping remain separate qualifications. Production shopping stayed stopped, protected histories and the sibling process were preserved, and running source fingerprints matched the tested artifact. A test edited while it ran was excluded; qualification used a later immutable artifact.
+
+
+## 2026-11-19 — Challenge-only authority and pending evidence
+
+A game verification integration separated permission to answer a challenge from permission to run the game helper. The native form handler bound each answer to its original image, document and preference revision. Manual input invalidated that authority before reaching the browser. Durable provider receipts retained task intent and unknown acknowledgements so interruptions could not silently rebill or replay an answer.
+
+Browser tests covered a disabled Claim control, stale images, manual takeover, duplicate input and unchanged helper Stop. Real viewer testing caught a signed capability-message length that the new activity detector initially rejected; a bounded parser correction restored the connection. Phone layouts, stale preference responses, retry and refresh recovery passed. A real provider read a synthetic code correctly. No live game challenge was available after maintenance, so game acceptance remained unproven and the helper was left stopped.
+
+Continued merchant verification testing also overturned a premature stopping point: three successful challenges did not establish consistency. An expiry-priority repair passed native regression checks, but a longer trial still stalled at a different expired-widget state. The record keeps that investigation open and does not infer a connection-reputation cause from repeated challenges alone.
+
+Evidence boundary: simulated native forms and an actual synthetic provider response establish the wiring. They do not establish a natural game acceptance or restart during a real pending challenge. Continued merchant consistency also remains open. No game helper or shopping operation was started to improve a test result.
