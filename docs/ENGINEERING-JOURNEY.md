@@ -3398,3 +3398,6 @@ A subsequent image-round fallback was activated after native and exact-artifact 
 
 
 Live follow-up caught an expired outer checkbox intercepting image input. Ancestor-frame checks and expiry handling were corrected and tested without replaying the consumed answer. The original uncertain outcome and the open endurance requirement remain explicit.
+
+
+A further native regression separates interrupted tile selection from final verification, and preserves Stop arriving during a browser read. Only the changed adapter suite was rerun after proving all other source and test hashes unchanged; endurance remains open.

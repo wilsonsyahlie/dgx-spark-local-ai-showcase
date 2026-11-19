@@ -1968,3 +1968,6 @@ Image-round follow-up: exact delivered code passed the existing API, slider, tok
 
 
 The follow-up obstruction regression covers an overlay in an ancestor document; checking only the inner frame would fail it. The delivered artifact passed nine browser/API suites and forty-two typed paid-task tests. Expired consumed-image history is preserved and never relabelled accepted. These checks establish bounded recovery behavior, not continuous merchant access or a real purchase.
+
+
+The final native follow-up reran the changed image adapter against the delivered artifact, including Stop during a read and an overlay appearing after the first tile. Eight other suites were explicitly reused only after exact equality of their test files and every other application source. The unchanged typed receipt suite remains applicable. The live endurance requirement remains open; no unknown outcome is counted as acceptance.
