@@ -3442,3 +3442,10 @@ Continued merchant verification testing also overturned a premature stopping poi
 Continued merchant trials motivated explicit human task continuity after a bounded comparison, with the longer deployed trial still open. Game verification gained checks for its exact form and response contract, including late manual interruption and durable retry limits. Synthetic provider and browser checks passed; natural game acceptance remained unproven and the helper remained stopped.
 
 See [the case study](CASE-STUDIES.md#verification-tied-to-a-human-task-and-a-game-request) and [verification limits](VERIFICATION.md#human-continuation-and-game-response-verification).
+
+
+## 2026-11-20 — Empty challenge pages and bounded recovery
+
+A five-challenge trial exposed an empty verification page after earlier accepted solves. The repair used prior positive context to authorize a limited read-only refresh, preserved pending-answer and manual-control barriers, and aligned the caller wait with the bounded operation. Native and delayed-response reproductions passed; the next deployed live trial remained open.
+
+See [the case study](CASE-STUDIES.md#a-challenge-that-never-rendered) and [verification limits](VERIFICATION.md#empty-widget-and-delayed-response-evidence).

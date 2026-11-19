@@ -1296,3 +1296,12 @@ Only the latest known applied answer from the same current question can identify
 Two capture faults were also reproduced: a stale expiry marker could override a valid grid, and a large source picture could exceed the response budget. Native regression cases preserve the valid grid and retain the original picture whenever it fits, with bounded encoding only when necessary.
 
 The game integration was checked against its own form contract: exactly five characters, a matching submission response, and the refreshed empty form after a rejected answer. An interruption test caught a final authority window before Claim; immediate command guards closed it. Hidden duplicate prompts, persistent rejection limits and restart behavior were tested. A synthetic provider response proved the wiring, while natural game acceptance remained unproven.
+
+
+## A challenge that never rendered
+
+A longer verification trial completed five full challenges across eighty-five image rounds, then held on an empty challenge container. The next view had no response field or recognition image even after a bounded wait. Sending another paid task would not have addressed that loading failure. Reopening a copy of the closed session restored the ordinary widget, but the cause of the original rendering failure remained unknown.
+
+The repair permits a bounded read-only product refresh only after positive acceptance for that same product. The current owner context must match, the new challenge must remain empty, and pending input or another form prevents recovery. Permission is consumed before navigation, so a lost acknowledgement or ignored refresh cannot silently repeat the action. A cleared page still requires fresh merchant proof.
+
+Native reproduction failed on the earlier version and passed on the repair. Negative cases covered stopped controls, manual takeover, pending answers, changed pages, duplicate roots and input in another form. A delayed local response also exposed a caller deadline that was shorter than the bounded recovery path; the capture wait was aligned without changing ordinary polling. The newer deployed live trial remained open at this checkpoint.

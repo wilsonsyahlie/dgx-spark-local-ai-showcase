@@ -2029,3 +2029,12 @@ Retained native, provider, gateway and Stop checks passed alongside new human-co
 Game fixtures covered boolean and numeric response flags, cleared fields after rejection, mismatched replies, transport loss, late manual takeover, duplicate hidden prompts and a rejection limit that survives restart. Actual viewer, phone layout and refresh checks passed. A real synthetic provider task reached the installed controller and was retired unused when no matching challenge existed.
 
 Two complete merchant challenges succeeded in the bounded human comparison; a longer run using the deployed integration was still underway. No natural game challenge had appeared. These limits prevent treating either synthetic calibration or a small successful sample as full reliability proof.
+
+
+## Empty-widget and delayed-response evidence
+
+The earlier deployed trial ended with five complete accepted challenges and no unresolved answer. All paid receipts were terminal. Subsequent fresh product reads still requested verification, and an empty container prevented the intended longer sequence. That failure remained in the record rather than being counted as success.
+
+The repaired image passed the retained native, provider, gateway and Stop suites, plus fourteen recovery refusal cases and tests for uncertain navigation and takeover during the final awaited read. A separate owned local server reproduced the old caller timing out before a delayed response; the corrected client received that same response. Runtime source checks, preserved stopped intent and unchanged paid history passed after activation.
+
+The new live trial was still running. Natural empty-widget recovery and lasting merchant access were therefore not yet proved. No connection-reputation cause was inferred, and no unsupported image or replayed answer was submitted.
