@@ -1947,3 +1947,21 @@ A missing interactive reply route was reproduced and narrowly corrected. Eightee
 | Activation | Exact delivered-file and process checks, public page checks and controlled dependency recovery | Build success alone was not counted as activation |
 
 No external test notification, actual purchase or paid challenge task was sent by these checks. Failed fixtures and activation attempts were retained. The owner-operated account and payment steps remain separate acceptance work; this checkpoint must not be described as completed unattended shopping.
+
+
+## Observation and recovery verification
+
+| Requirement | Evidence | Remaining limit |
+| --- | --- | --- |
+| Passive watching and item choice | Native screenshots, deployed item switching and reload, phone layout, stale-frame rejection and failed-selection retry | An unopened item has no live preview; real input still owns control |
+| Run and financial preservation | Cold manifests, exact source delivery, duplicate acknowledgement and Stop tests, guarded checkout fixtures | No actual saved-card charge or bank-verification completion was tested |
+| Network recovery | Distinct exits, packet isolation, durable request IDs, generation checks and known-receipt preservation | A working route does not establish merchant access |
+| Targeted session repair | Same-exit headful profile controls; complete cold-copy test; only the demonstrated verification cookie and its database journal changed | Server authentication and merchant policy remain external conditions |
+| Challenge handling | Real accepted provider answer; exact callback binding, navigation-loss regression, separate fresh product read and rejected replay | Later answers were intermittently rejected; sustained acceptance remains open |
+| Product and account readiness | Delayed stock and account-header reproductions now pass; empty shells stay unknown; late challenges and Stop interrupt loading | Live endurance across multiple items remains unqualified |
+| Visitor workflow | Fresh deployed entry reaches the chooser without the obsolete code form; management tests remain distinct | This reflects the explicit personal-workflow choice |
+
+The earlier checkpoint's absence of any real challenge acceptance is superseded by bounded live acceptance observations. It does not establish uninterrupted merchant access or completed unattended purchasing. Failed attempts and unknown outcomes remain part of the evidence. No account cookies, credentials, payment fields or private operational records are included in this retrospective.
+
+
+Image-round follow-up: exact delivered code passed the existing API, slider, token, navigation, traffic, passive-preview, checkout and loading suites plus a native picture-selection suite. Typed paid-round tests preserve restart deduplication, expiry and unknown-application blocking. A real challenge capture stayed inside the trusted verification surface. Native synthetic success and partial rounds are not live merchant acceptance; endurance and actual payment remain unqualified.

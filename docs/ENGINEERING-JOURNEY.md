@@ -3387,3 +3387,11 @@ A sample checkout selected an unintended payment method while the interface offe
 ## 2026-11-18 — Simplifying automation without hiding uncertainty
 
 A shopping monitor repair replaced a crowded setup flow with item choices and explicit Start/Stop. The engineering work separated durable user intent from temporary browser readiness, and separated an accepted order from proven payment. Native browser fixtures, restart recovery and the deployed chooser passed. Authenticated merchant checkout and actual challenge-provider acceptance remain unverified; this is a repair checkpoint, not a claim of unattended purchasing success. See [the case study](CASE-STUDIES.md#simple-controls-durable-intent) and [verification limits](VERIFICATION.md#simple-controls-verification).
+
+
+## 2026-11-19 — Separating observation, verification and usable access
+
+A shopping-monitor follow-up separated passive observation from input control and added item previews without changing run authority. A controlled profile comparison showed why changing network exits alone did not clear a merchant restriction: a stale verification cookie had to be invalidated while preserving the rest of the session. Native tests also reproduced two timing bugs that mistook an unfinished stock panel for unavailability and missed a late account header. These repairs were activated and tested, but provider acceptance remained intermittent and sustained two-item merchant access is still unqualified. See [the case study](CASE-STUDIES.md#observation-challenge-and-recovery-boundaries) and [verification limits](VERIFICATION.md#observation-and-recovery-verification).
+
+
+A subsequent image-round fallback was activated after native and exact-artifact tests. Recognition stays tied to the existing browser connection and exports only the verification crop. Live endurance remains an explicit open requirement.
