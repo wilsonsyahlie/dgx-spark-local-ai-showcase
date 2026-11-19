@@ -1980,3 +1980,12 @@ Session and cadence follow-up: native controls reproduced temporary-cookie loss 
 
 
 A simulated failed verification blocked duplicate attempts across refresh and restart. A new run and an accepted response passed their checks. Live observation confirmed the stopped state.
+
+
+## 2026-11-19 — Independent certificate-interest predicate
+
+The original classifier rejected a non-family caption containing an otherwise qualifying certificate. The new predicate requires a complete literal numeric token and explicit certificate context in captions, or printed-label evidence in photos. Short, masked, malformed, wrong-suffix, card-number and price cases are negative. Existing family matching, buyer filtering, album handling, edit invalidation, stale-result rejection and delivery reservation tests remain covered. Sixty-five installed regression tests passed.
+
+An actual local image-reader call rejected an original non-family photo and accepted a clearly designated derived image with a synthetic printed certificate. That validates bounded route behavior, not certificate authenticity or population accuracy. The optional CPU reader was already unavailable; its new geometry rule passed isolated controls, while the live fallback succeeded. This adjacent outage was recorded without expanding into a repair.
+
+Only the listener restarted. A settled consistent state backup preceded restart; all prior delivery rows remained exact, the selected sources and destination configuration were preserved, and fresh connected readiness was measured. Resident models retained exact process identity and configuration. State-preserving rollback changes classifier source rather than rewinding delivery records. A future natural matching sale, physical-phone delivery and sustained workload remain unobserved. No external test message was sent.

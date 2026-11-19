@@ -3410,3 +3410,8 @@ An owner-requested cadence change exposed session and evidence errors: temporary
 
 
 November 19 update. An unsuccessful verification now leaves a clear pause that survives reopening the application. The owner chooses when to try again.
+
+
+## 2026-11-19 — An additional printed-certificate watch rule
+
+A card-sale listener gained an owner-selected certificate-suffix criterion alongside its existing character-family interest. A previously valid negative shortcut became incompatible: a different character in a caption could still have an interesting certificate in the photo. The change preserves positive caption shortcuts and the existing event and delivery boundaries. Printed-label recognition remains local; numbers in prices and card identifiers do not qualify.
