@@ -3477,3 +3477,12 @@ See [the case study](CASE-STUDIES.md#expiry-after-acknowledged-verification) and
 Added manual, short and conditional balance chapter choices plus an independent once-per-phase consumable preference. Durable intent and positive observations protect against repeat toggles after lost replies, restarts or manual extinguishing. A small-browser report prompted measurement of the genuine remote canvas inside its embedding and a corrected layout. A separate verification investigation retained its unresolved live limits while adding narrowly bounded pre-upload name-lookup recovery.
 
 See [the case study](CASE-STUDIES.md#independent-game-controls-and-observed-phase-actions) and [verification limits](VERIFICATION.md#chapter-phase-and-transport-qualification).
+
+
+## 2026-11-20 — Reassessing a repeated verification failure
+
+A longer trial showed healthy provider transport alongside repeated verification rejection and expiry. It was stopped at a proved unused-task boundary, all paid outcomes were reconciled and the owned browser closed. A bounded human-only continuation comparison replaces an indefinite unchanged paid loop; its hypothesis and live acceptance limits remain explicit. That comparison completed one full solve, then closed at its rejection limit; later page visits still required verification.
+
+See [the failure study](CASE-STUDIES.md#stopping-a-repeated-recognition-failure-safely) and [verification limits](VERIFICATION.md#transport-success-does-not-establish-verification-success).
+
+The qualified continuation adapter is now active with unchanged runtime configuration. The longer installed-policy test has one complete acceptance so far; repeatability remains under observation. A premature manual-comparison request also led to a concrete readiness check: the closed owner browser was opened, then actual interactive pixels and a passive phone view were verified without starting shopping.
