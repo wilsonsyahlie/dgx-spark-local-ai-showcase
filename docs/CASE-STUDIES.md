@@ -1328,3 +1328,14 @@ The repair grants a short-lived loading permission only when an acknowledged suc
 The next trial ended without a complete solve after six paid rounds. An acknowledged native verification had produced a fresh loaded question, but explicit expiry covered it. The result classifier only recognized an uncovered next grid, so it returned a terminal negative rather than continuing recovery. Every paid outcome was reconciled; the loading handoff was not naturally exercised by this trial.
 
 The repair retires only a fresh, fully loaded and unselected question following an acknowledged verification. Owner, product, parent widget, frame and document must still match, and the content must have changed. Existing one-use opening and bounded read-only recovery handle that retired context. Old selections are never transferred to new images, uncertain acknowledgement grants no recovery authority, and merchant proof remains the sole acceptance criterion.
+
+
+## Independent game controls and observed phase actions
+
+A game companion gained three independent chapter choices: manual control, consistently short chapters, and a conditional balance forecast toward a later unlock. The forecast uses current offers and supplies; it does not guarantee the future unlock. Chapter decisions stay separate from hunting and reward verification. A second preference ignites an owned consumable once when a specific end phase is observed. Already-active fuel is treated as handled, manual extinguishing is respected, and no supplies are purchased.
+
+Both actions bind the current owner and game state to an existing game control. Durable intent precedes a side effect; a lost acknowledgement is preserved across restarts and never automatically replayed. The phase record requires a positively observed departure before another episode can arm. Missing a whole episode while offline remains an explicit limit.
+
+A reported tiny game view exposed a verification gap: checking visible controls and overflow did not establish usable remote-canvas size. Measuring the genuine remote canvas inside its parent embedding led to a width-based game area, compact settings and a content-sized parent. Details and errors no longer squeeze the game.
+
+A separate verification integration continued to solve individual paid challenges but did not retain access across repeated navigation. Two closed trials achieved two and one complete solves respectively before uncertain provider submissions. An operator review resolved only the earlier uncertainty. Later read-only probes observed intermittent name-lookup failure, but the old transport cause was not retained and remains unproved. A bounded retry applies only to failures proved to occur before upload; all ambiguous transport failures still block resubmission.

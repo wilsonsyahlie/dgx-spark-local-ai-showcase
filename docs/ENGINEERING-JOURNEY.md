@@ -3470,3 +3470,10 @@ See [the case study](CASE-STUDIES.md#carrying-recovery-across-a-loading-document
 A closed zero-solve trial revealed a terminal-result boundary after an acknowledged verification reached a fresh but expired question. A narrowly bound retirement path now feeds existing recovery while preserving uncertain-action and input fences. Exact-image native and retained checks passed, followed by activated-source verification. Live repeated qualification remains open.
 
 See [the case study](CASE-STUDIES.md#expiry-after-acknowledged-verification) and [verification limits](VERIFICATION.md#acknowledged-verification-expiry-checks).
+
+
+## 2026-11-20 — Independent chapter modes, phase ignition and usable browser size
+
+Added manual, short and conditional balance chapter choices plus an independent once-per-phase consumable preference. Durable intent and positive observations protect against repeat toggles after lost replies, restarts or manual extinguishing. A small-browser report prompted measurement of the genuine remote canvas inside its embedding and a corrected layout. A separate verification investigation retained its unresolved live limits while adding narrowly bounded pre-upload name-lookup recovery.
+
+See [the case study](CASE-STUDIES.md#independent-game-controls-and-observed-phase-actions) and [verification limits](VERIFICATION.md#chapter-phase-and-transport-qualification).
