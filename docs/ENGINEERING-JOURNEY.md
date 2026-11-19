@@ -3415,3 +3415,8 @@ November 19 update. An unsuccessful verification now leaves a clear pause that s
 ## 2026-11-19 — An additional printed-certificate watch rule
 
 A card-sale listener gained an owner-selected certificate-suffix criterion alongside its existing character-family interest. A previously valid negative shortcut became incompatible: a different character in a caption could still have an interesting certificate in the photo. The change preserves positive caption shortcuts and the existing event and delivery boundaries. Printed-label recognition remains local; numbers in prices and card identifiers do not qualify.
+
+
+## 2026-11-19 — Verification across several image rounds
+
+A verification integration repair separated intermediate progress, temporary image loading, unused answers and unknown side effects. Real browser inspection also found clipped challenge content and delayed picture replacement. The delivered changes retained native input guards and durable paid-task history. Bounded live solve checkpoints succeeded; a later repeated-read probe re-challenged the browser, so lasting merchant access and purchasing remained separate, unqualified outcomes. See [the case study](CASE-STUDIES.md#verification-across-several-image-rounds) and [verification](VERIFICATION.md#image-round-integration-verification).

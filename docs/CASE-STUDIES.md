@@ -1259,3 +1259,14 @@ A separate Start regression reproduced a cached anonymous product challenge taki
 
 
 Repeated verification rounds could keep an unattended task waiting indefinitely. A durable pause now prevents another automatic attempt after an unconfirmed answer.
+
+
+## Verification across several image rounds
+
+A controller intended to prevent uncertain external actions also froze acknowledged intermediate steps. A successful image selection can produce replacement pictures rather than final verification. Treating every nonfinal result as failure made that valid progression impossible. The repair distinguished acknowledged rounds, temporary capture unavailability, definitive rejection and uncertain dispatch. An exact answer rejected before any answer input could be retired with an immutable application preimage and a fresh capture identity; a lost acknowledgement remained fenced.
+
+Live inspection found a second problem that isolated fixtures had missed: challenge content was taller than its embedding frames. A height-only adjustment stayed inside recognized challenge frames and preserved every ancestor hit test. Original picture data and replacement tiles then formed a bounded grid payload, with provider indexes mapped to locally captured tile identities. No-match replies were explicit. Selected pictures could remain in a fading state longer than a fixed timer, and a Verify response could leave the previous grid visible while its replacement loaded. The implementation waited for those transitions without reusing an old answer. A fresh-read timeout fixture also exposed an exception type imported in the wrong scope; its original negative assertion passed after the import was corrected.
+
+Repeated fresh-profile trials eventually produced a temporary no-image restriction. That state did not justify another paid recognition request. Recognition of the specific trusted notice handed it to the existing bounded connection-recovery protocol, preserving run, input and paid-task authority. A live recovery verified a distinct healthy connection while retaining stopped intent and protected state. Bounded paid solve checkpoints subsequently established selected-product acceptance, including an unused-answer recovery followed by a successful fresh read. An additional continuity probe still produced another challenge. The record therefore separates delivered integration fixes from any claim of lasting merchant access or successful purchasing.
+
+Verification itself needed repair: a fixture could import historical application code from its mounted test tree. The final bundle contained tests only, and source fingerprints confirmed the actual delivered artifact. Failed fixture and live attempts were retained. Cold backups, compatible rollback boundaries and unknown receipts remained part of the evidence; a green build alone was never treated as completion.

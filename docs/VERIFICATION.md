@@ -1989,3 +1989,17 @@ The original classifier rejected a non-family caption containing an otherwise qu
 An actual local image-reader call rejected an original non-family photo and accepted a clearly designated derived image with a synthetic printed certificate. That validates bounded route behavior, not certificate authenticity or population accuracy. The optional CPU reader was already unavailable; its new geometry rule passed isolated controls, while the live fallback succeeded. This adjacent outage was recorded without expanding into a repair.
 
 Only the listener restarted. A settled consistent state backup preceded restart; all prior delivery rows remained exact, the selected sources and destination configuration were preserved, and fresh connected readiness was measured. Resident models retained exact process identity and configuration. State-preserving rollback changes classifier source rather than rewinding delivery records. A future natural matching sale, physical-phone delivery and sustained workload remain unobserved. No external test message was sent.
+
+
+## Image-round integration verification
+
+| Requirement | Observed evidence | Limit |
+| --- | --- | --- |
+| Progress across image rounds | Native replacement, loading and layout cases; gateway continuation across recreation; explicit no-match handling | A completed round is not merchant acceptance |
+| Known unused answer | Exact pre-input rejection, immutable application preimage, new capture identity and a later live solve checkpoint | Lost acknowledgement and unknown input remain fenced |
+| Input and financial safety | Original Stop, ownership, stale-content, covered-target, replay and authenticated API assertions retained; diagnostic financial requests blocked | No real order or bank-verification completion was qualified |
+| Temporary upstream restriction | Trusted-notice and negative-origin fixtures; existing typed recovery checks; distinct live connection with protected state retained | An armed shopping run was not forced as a canary |
+| Delivered artifact | Exact image/source comparison, native tests, running-process fingerprints and unchanged stopped intent | Historical source was excluded from fixture mounts |
+| Live acceptance | Multiple paid-solve checkpoints with a fresh selected-product read | A later repeated-read probe re-challenged the browser; lasting merchant access remained unqualified |
+
+These observations support the bounded integration repair. They do not establish indefinite access, a guaranteed recognition time, or unattended purchasing. Private account data, credentials, production settings, challenge images and raw operational records remain outside this retrospective.
