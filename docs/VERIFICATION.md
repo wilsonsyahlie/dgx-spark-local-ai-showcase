@@ -2126,3 +2126,14 @@ Nineteen consumable browser cases and thirteen retained chapter-default cases pa
 Production readback confirms the exact qualified observer, enabled automation, correctly recognised burning state, an unchanged fulfilled episode record and all readiness checks passing despite the helper overlap. Hunting's prior running intent was restored through its native Start control. Current preferences and uncertain histories were preserved through backed-up activation.
 
 The present episode was manually ignited before the repair. It was not extinguished or re-ignited to manufacture a live automatic success. The next naturally occurring automatic phase entry remains unobserved. Source and state preimages, compared cold archives, bounded live diagnostics and maintained operating records preserve that distinction.
+
+
+## Native equipment contract and durable slot completion
+
+Thirteen controlled browser cases execute the cached first-party inventory, arming, transport and DOM libraries unchanged. Coverage includes a batched setup, an already-correct slot, manual overrides through restart and preference toggles, a new episode, partial or missing stock, similar-name refusal, ambiguous matches, disabled or wrong phase, rejection, uncertain response and later native confirmation, phase races, verification dialogs and manual revocation.
+
+Eight application, component and gateway checks qualify authenticated preferences, strict request bodies and revision conflicts, native inventory inspection before enable, real handler setup, phone layouts, stale responses, reload, save errors and retry, duplicate saves, inactive controls and the fixed relay boundary. The actual transport library exposed two normal request fields omitted by an initial adapter; the final fixture executes the real transport class. A missing profile root in the application fixture was also corrected to match normal browser startup.
+
+The deployed observer, modular assets and fixed relay were activated from exact qualified sources with source/state backups and a compared cold archive. Live owned inventory was inspected before normal enable. One slot was already equipped; the other received a matched native acknowledgement and positive state confirmation. A fresh disk-store reader validates both fulfilled records and a single setup intent. Read-only rendering of the actual served component passes three viewport widths while leaving the episode record unchanged.
+
+A later natural phase entry and live owner override were not forced for proof; those transitions remain browser-qualified. No missing supplies were purchased, no alternative item was selected and no direct hunt or phase transition was issued by the task.

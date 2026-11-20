@@ -1396,3 +1396,14 @@ A location-specific consumable was configured to ignite at a story phase, but au
 Readiness diagnostics exposed a second independent blocker. The bot's own status panel covered the native action. The revised hit-test walks the visible element stack, excluding only the single identified owned helper with its expected controls. The first remaining element must still be the intended game control. A foreign dialog underneath the helper continues to block, and duplicate helper identities fail closed. The panel is neither moved nor hidden.
 
 The owner-handled episode was preserved as fulfilled, including the rule that a later manual switch-off is respected. No consumable was toggled for verification, and no new phase or hunt was forced. Native game-handler dispatch, durable intent and uncertain-outcome safeguards remain. A small observer parameter lets the consumable use its correct source without changing the default chapter-choice behavior.
+
+
+## Equipment setup once per phase, with manual changes preserved
+
+An owner requested two consumable slots for a story phase, then specified that setup should happen once rather than continuously enforce the choices. A similar item name was corrected before implementation. The new location-owned controls use exact-name resolution against native owned inventory, with an explicit negative test for the similar alternative. Missing stock waits without purchases, crafting or substitution.
+
+The controller records completion independently for each slot. An already-correct item is handled without another request; a fulfilled slot stays handled if the owner later changes it. This also protects a manual change while the other slot waits for stock. Document reload and preference toggles do not create a new episode. A positively observed departure from the phase permits the next setup.
+
+Arming uses the game's first-party inventory and equipment libraries. Intent is durable before input, responses are bound to only the requested components, and native state confirms the result. Unknown input is not replayed. The feature has its own preference and does not restore earlier gear outside the requested phase. Existing unrelated automation and retired experimental controls remain separate.
+
+A live setup left an already-correct slot untouched and acknowledged one requested change. Both slot records persisted as fulfilled without repeat input. Current identity, prior preferences and histories were preserved during activation, and the pre-maintenance hunting intent was restored through its normal control.

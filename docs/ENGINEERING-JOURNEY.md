@@ -3522,3 +3522,12 @@ An automatic consumable action waited despite valid supplies and the correct pha
 Browser qualification and deployed readiness checks pass; the owner's manually completed episode remains untouched. Default chapter behavior was retained, and the next natural automatic ignition remains an explicit limit.
 
 See [the stale-state and obstruction study](CASE-STUDIES.md#a-valid-automatic-action-blocked-by-stale-data-and-its-own-controls) and [qualification evidence](VERIFICATION.md#live-state-and-layered-overlay-qualification).
+
+
+## 2026-11-20 — Separate initial equipment setup from continued enforcement
+
+Phase-specific equipment now has independent durable completion for two requested slots. Exact owned-item selection, normal native handlers and recorded intent deliver the initial setup; owner changes afterward remain respected. An already-correct slot was left alone during the qualified live setup, while the other change was acknowledged and confirmed.
+
+Native-library, application, UI and gateway checks passed, including restart recovery, partial stock, unknown outcomes and phone widths. A new natural phase was not forced merely to produce a completion claim.
+
+See [the phase equipment study](CASE-STUDIES.md#equipment-setup-once-per-phase-with-manual-changes-preserved) and [verification evidence](VERIFICATION.md#native-equipment-contract-and-durable-slot-completion).
