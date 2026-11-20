@@ -1374,3 +1374,16 @@ Activation followed explicit owner approval, a verified hunting stop and a match
 The earlier six-solve test established repeated CAPTCHA acceptance but re-challenged on later product reads. A bounded follow-up accepted another challenge across eight image rounds and still re-challenged after changing direct navigation to reload. More decisively, an owner-authorized test used ordinary refresh commands in the original visible browser with its current profile and normal caching. The first refresh stayed clear; the second, twelve seconds later, showed verification again.
 
 Copying the session, request interception and disabled caching are therefore not necessary causes of the recurrence. Those diagnostic differences remain real, but the earlier cache hypothesis cannot explain the native result by itself. Refresh timing and burst behavior are hypotheses; the exact merchant-side cause and lasting access remain unresolved. No new paid answer was submitted in the native comparison, and shopping stayed stopped.
+
+
+## Correct recognition can still fail at capture and application
+
+A game reward verifier initially sent a neighboring resource bar because a viewport screenshot captured the wrong rendered region. The first diagnosis blamed short recognition results before checking the uploaded image. The corrected path extracts only the already-loaded first-party image pixels and binds application to those same pixels, without requesting a new challenge.
+
+Recognition then returned the correct five-character answer repeatedly, but the bot still discarded it. A bounded read-only probe found stable image pixels and controls, while the original text matcher found no submit button. Hidden labels for alternate button states were included in that matcher. Application now checks the exact visible button and its visible label; document, identity, image, manual-input and one-use checks remain.
+
+A subsequent native input was followed by the game clearing its reward flag. Confirmation was interrupted, and a retained inactive message also blocked clear-state recovery. The observer now distinguishes active messages from retained inactive markup. Two later positive observations closed the uncertain record while preserving its original unknown acknowledgement. Cleared game state is not rewritten into a fully matched acceptance receipt.
+
+Automatic retries now have durable limits for provider failures and discarded answers. Unknown submissions and uncertain input are never replayed. After the owner requested immediate hunting resumption, a DOM-change observer was added to the existing pause watcher. Verification clearance resumes an active loop promptly; an explicit Stop disconnects recovery and remains stopped.
+
+The investigation also corrected a scope mistake: a candidate for a different bot had been staged under an incorrect assumption. It was never activated and was marked withdrawn when the owner identified the actual target. Verify both the target application and outgoing evidence before making a provider diagnosis.

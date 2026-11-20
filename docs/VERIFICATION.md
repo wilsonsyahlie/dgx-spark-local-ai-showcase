@@ -2106,3 +2106,14 @@ The isolated browser proves a second independently registered module can load wi
 The additional copied-session reload trial closed with one accepted solve across eight rounds, every paid record terminal, no unresolved input and a normal browser exit. Its second fresh reload requested verification again. The later native test used the original visible browser and normal refresh input, without a new paid solve or altered cache/filter. Settled screenshots and bounded page observations show a clear product after the first refresh and a CAPTCHA overlay after the second refresh, twelve seconds apart. Control was released and stopped shopping intent preserved.
 
 This result explicitly supersedes any interpretation that the copied session or disabled cache was required for recurrence. An immediately captured black baseline canvas is excluded from visual proof; the preceding unchanged-product baseline and both settled result screenshots are retained. A closed-input setup attempt sent no refreshes. Alternative cache-preserving network guards failed local worker or initial-navigation coverage and were never promoted to merchant testing. The exact recurrence cause remains open.
+
+
+## Reward pixels, visible labels and prompt resumption
+
+Eleven retained core checks and six recovery regressions pass, including uncertain acknowledgements, restart budgets and bounded failure spending. Fourteen native browser cases qualify exact-length input, actual image pixels beside a displaced resource bar, hidden button labels, stale identity or image changes, manual takeover, one-use application and inactive versus active retained messages. Three full-extension browser checks prove resumption within a second of clearance, continued pause after unrelated mutations and preservation of an explicit Stop.
+
+The deployed current reward cleared, automatic verification is enabled, hunting is running and no paid jobs remain open. The interrupted native confirmation is retained as a terminal later-clear record with its original uncertainty. A second naturally occurring reward and natural prompt resumption have not been forced or claimed. A successful browser reopening was not treated as CAPTCHA acceptance.
+
+Source and state backups, matched cold profiles and compared archive backups support rollback without rewinding current identity, preferences, budgets or paid history. The temporary read-only diagnostic was removed. Fixture errors and activation precondition failures were corrected without weakening the intended guards; a maintenance interruption was restored before final live checks.
+
+A separate owner-authorized connectivity experiment verified the intended route change with actual worker egress and isolation controls. Improvement in recurring verification remains untested. Network success and CAPTCHA improvement remain separate claims.

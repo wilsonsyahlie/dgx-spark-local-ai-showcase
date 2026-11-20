@@ -3504,3 +3504,12 @@ Game settings now follow a fresh location identity and load each supported locat
 A separate verification investigation reproduced the recurring challenge through ordinary refresh input in the original browser. This corrected an earlier diagnostic-cache hypothesis without inventing a new cause or claiming sustained access.
 
 See [the modular panel study](CASE-STUDIES.md#modular-settings-follow-the-current-game-location) and [verification evidence](VERIFICATION.md#modular-location-panel-qualification-and-activation).
+
+
+## 2026-11-20 — Follow the image through the native application boundary
+
+A reward automation failure involved three distinct boundaries: the wrong screenshot region, hidden submit-button labels and an inactive retained success message. Correcting recognition alone could not repair the full flow. Source-pixel capture, visible-label validation, active-message observation and bounded paid recovery were qualified and activated. The current reward cleared and owner-authorized hunting resumed.
+
+An event-driven pause watcher now resumes promptly after clearance while preserving explicit Stop. Original uncertain confirmation remains honestly recorded; future natural event coverage is still open. A wrong-target candidate was withdrawn without deployment, and a separate network experiment makes no unsupported claim about verification improvement.
+
+See [the application-boundary study](CASE-STUDIES.md#correct-recognition-can-still-fail-at-capture-and-application) and [verification evidence](VERIFICATION.md#reward-pixels-visible-labels-and-prompt-resumption).
