@@ -3513,3 +3513,12 @@ A reward automation failure involved three distinct boundaries: the wrong screen
 An event-driven pause watcher now resumes promptly after clearance while preserving explicit Stop. Original uncertain confirmation remains honestly recorded; future natural event coverage is still open. A wrong-target candidate was withdrawn without deployment, and a separate network experiment makes no unsupported claim about verification improvement.
 
 See [the application-boundary study](CASE-STUDIES.md#correct-recognition-can-still-fail-at-capture-and-application) and [verification evidence](VERIFICATION.md#reward-pixels-visible-labels-and-prompt-resumption).
+
+
+## 2026-11-20 — Follow the HUD's live state and inspect the obstruction
+
+An automatic consumable action waited despite valid supplies and the correct phase. The investigation found both a stale data source and the automation helper covering its own target. Live-source selection and a narrowly filtered element stack repaired those boundaries while preserving native game input and foreign-overlay guards.
+
+Browser qualification and deployed readiness checks pass; the owner's manually completed episode remains untouched. Default chapter behavior was retained, and the next natural automatic ignition remains an explicit limit.
+
+See [the stale-state and obstruction study](CASE-STUDIES.md#a-valid-automatic-action-blocked-by-stale-data-and-its-own-controls) and [qualification evidence](VERIFICATION.md#live-state-and-layered-overlay-qualification).

@@ -1387,3 +1387,12 @@ A subsequent native input was followed by the game clearing its reward flag. Con
 Automatic retries now have durable limits for provider failures and discarded answers. Unknown submissions and uncertain input are never replayed. After the owner requested immediate hunting resumption, a DOM-change observer was added to the existing pause watcher. Verification clearance resumes an active loop promptly; an explicit Stop disconnects recovery and remains stopped.
 
 The investigation also corrected a scope mistake: a candidate for a different bot had been staged under an incorrect assumption. It was never activated and was marked withdrawn when the owner identified the actual target. Verify both the target application and outgoing evidence before making a provider diagnosis.
+
+
+## A valid automatic action blocked by stale data and its own controls
+
+A location-specific consumable was configured to ignite at a story phase, but automation waited for its game control. The owner ignited it manually. The visible indicator and stock then disagreed with the bot's observation: the observer had selected a stale quest copy ahead of the live environment state used by the game HUD. The repair consistently reads live phase and consumable state, and refuses invalid live data rather than silently reverting to an older valid copy.
+
+Readiness diagnostics exposed a second independent blocker. The bot's own status panel covered the native action. The revised hit-test walks the visible element stack, excluding only the single identified owned helper with its expected controls. The first remaining element must still be the intended game control. A foreign dialog underneath the helper continues to block, and duplicate helper identities fail closed. The panel is neither moved nor hidden.
+
+The owner-handled episode was preserved as fulfilled, including the rule that a later manual switch-off is respected. No consumable was toggled for verification, and no new phase or hunt was forced. Native game-handler dispatch, durable intent and uncertain-outcome safeguards remain. A small observer parameter lets the consumable use its correct source without changing the default chapter-choice behavior.

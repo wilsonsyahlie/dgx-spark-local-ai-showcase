@@ -2117,3 +2117,12 @@ The deployed current reward cleared, automatic verification is enabled, hunting 
 Source and state backups, matched cold profiles and compared archive backups support rollback without rewinding current identity, preferences, budgets or paid history. The temporary read-only diagnostic was removed. Fixture errors and activation precondition failures were corrected without weakening the intended guards; a maintenance interruption was restored before final live checks.
 
 A separate owner-authorized connectivity experiment verified the intended route change with actual worker egress and isolation controls. Improvement in recurring verification remains untested. Network success and CAPTCHA improvement remain separate claims.
+
+
+## Live state and layered-overlay qualification
+
+Nineteen consumable browser cases and thirteen retained chapter-default cases pass. The new regressions distinguish stale quest data from live enabled state and live phase, reject an invalid live object, permit the native action beneath only the owned helper, reject a foreign overlay beneath that helper and refuse duplicate helper identities. A fixture initially retained an empty baseline helper and correctly triggered duplicate refusal; the realistic single-helper setup was corrected without weakening the negative check.
+
+Production readback confirms the exact qualified observer, enabled automation, correctly recognised burning state, an unchanged fulfilled episode record and all readiness checks passing despite the helper overlap. Hunting's prior running intent was restored through its native Start control. Current preferences and uncertain histories were preserved through backed-up activation.
+
+The present episode was manually ignited before the repair. It was not extinguished or re-ignited to manufacture a live automatic success. The next naturally occurring automatic phase entry remains unobserved. Source and state preimages, compared cold archives, bounded live diagnostics and maintained operating records preserve that distinction.
