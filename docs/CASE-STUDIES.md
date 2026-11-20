@@ -1359,3 +1359,18 @@ A qualified continuation change was activated and tested without a provider-payl
 Acceptance did not establish lasting access. Every solve cleared the signed-in product page and one fresh product read, while a second fresh read requested verification again. The trial therefore passed its repeated-acceptance target and failed its continuity checks. The evidence does not establish a network-reputation cause or guarantee general reliability.
 
 A separate usability correction exposed an observation error: real remote-browser pixels were available, but the visible session was on a home page while the diagnostic challenge existed in a profile copy. A manual-comparison request was withdrawn until normal native navigation placed an actual product verification checkbox in the visible browser. Control was released afterward and shopping stayed stopped. Session identity and challenge visibility must be proved separately from display transport.
+
+
+## Modular settings follow the current game location
+
+A fixed location panel kept showing chapter controls after travel. A bounded read of the signed-in game now resolves the current location through a registry, while each supported location owns its own lazily loaded panel and control lifecycle. The initial module retains the existing chapter and end-phase consumable settings. Adding another module does not require changing those rules or the shared dispatcher. Locations without implemented automation show their own name and a clear no-settings message.
+
+Unknown or failed observations hide the former controls. Response ordering, monotonic preference revisions and activation boundaries prevent delayed reads or saves from reopening a traveled-from panel. Inactive modules stop receiving updates, while the global hunting and reward switches remain separate. A second fixture-only module qualifies the extension path without inventing new live game actions.
+
+Activation followed explicit owner approval, a verified hunting stop and a matched current-state backup. Loaded source, served assets, identity, preferences and paid history were checked after restart; hunting was left stopped. A metadata mismatch in the first backup attempt was caught before Stop and corrected using an ownership-preserving copy. The live verifier also needed to wait for lazy controls to exist before checking readiness; the production readiness requirement was retained.
+
+## Ordinary refresh reproduces the verification recurrence
+
+The earlier six-solve test established repeated CAPTCHA acceptance but re-challenged on later product reads. A bounded follow-up accepted another challenge across eight image rounds and still re-challenged after changing direct navigation to reload. More decisively, an owner-authorized test used ordinary refresh commands in the original visible browser with its current profile and normal caching. The first refresh stayed clear; the second, twelve seconds later, showed verification again.
+
+Copying the session, request interception and disabled caching are therefore not necessary causes of the recurrence. Those diagnostic differences remain real, but the earlier cache hypothesis cannot explain the native result by itself. Refresh timing and burst behavior are hypotheses; the exact merchant-side cause and lasting access remain unresolved. No new paid answer was submitted in the native comparison, and shopping stayed stopped.

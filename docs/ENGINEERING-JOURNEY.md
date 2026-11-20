@@ -3495,3 +3495,12 @@ An activated continuation change completed a finite six-solve test with every pa
 The visible-browser workflow was also corrected: a home page was not a usable manual verification test, even when real pixels were arriving. Normal navigation exposed an actual product checkbox, then released control while shopping remained stopped.
 
 See [the measured case study](CASE-STUDIES.md#six-accepted-challenges-with-a-separate-continuity-failure) and [the verification limits](VERIFICATION.md#repeated-acceptance-and-access-continuity-measured-separately).
+
+
+## 2026-11-20 — Registered location panels and a corrected recurrence hypothesis
+
+Game settings now follow a fresh location identity and load each supported location through an independent module. The first module preserves the existing chapter and consumable behavior; global hunting and reward controls remain independent. Unit, browser, full remote-view integration and actual deployed checks passed after a backed-up owner-approved update, with hunting left stopped.
+
+A separate verification investigation reproduced the recurring challenge through ordinary refresh input in the original browser. This corrected an earlier diagnostic-cache hypothesis without inventing a new cause or claiming sustained access.
+
+See [the modular panel study](CASE-STUDIES.md#modular-settings-follow-the-current-game-location) and [verification evidence](VERIFICATION.md#modular-location-panel-qualification-and-activation).

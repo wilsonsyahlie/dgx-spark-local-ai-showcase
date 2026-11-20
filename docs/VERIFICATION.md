@@ -2093,3 +2093,16 @@ All six continuity checks re-challenged on the second fresh product read, despit
 
 
 A later owner observation reports that manual refreshes do not reproduce the repeated verification. Source comparison found a diagnostic confound: its purchase-blocking request interception disables the browser HTTP cache, while the normal browser launch does not install that interception. The trial also uses repeated direct navigation in a copied session. These differences require a matched comparison; they are not an established cause, and the continuity result must not be generalized to normal manual refresh or production monitoring. The financial guard remains intact.
+
+
+## Modular location panel qualification and activation
+
+Six location-observation tests, twenty-one browser UI checks and forty-seven real application, relay and remote-browser integration checks pass. Coverage includes travel both ways, unsupported and unknown locations, navigation and identity changes, delayed responses, duplicate writes, failed saves, retry, refresh recovery, phone widths and the actual large browser canvas. Eleven retained reward-core tests, eleven reward-native tests and five reward-UI checks also pass. Existing chapter, reward and consumable action implementations were fingerprinted unchanged.
+
+The isolated browser proves a second independently registered module can load without editing the original location logic or the shared dispatcher. No additional real-location automation was shipped. Production verification confirms the new loaded reader, exact served assets, preserved current identity and preferences, two fresh location observations and the rendered current-location controls. Live viewing was kept separate from the component checks to preserve the owner. Natural real travel, reward acceptance and end-phase ignition were not forced or claimed.
+
+## Verification recurrence: a stronger native comparison
+
+The additional copied-session reload trial closed with one accepted solve across eight rounds, every paid record terminal, no unresolved input and a normal browser exit. Its second fresh reload requested verification again. The later native test used the original visible browser and normal refresh input, without a new paid solve or altered cache/filter. Settled screenshots and bounded page observations show a clear product after the first refresh and a CAPTCHA overlay after the second refresh, twelve seconds apart. Control was released and stopped shopping intent preserved.
+
+This result explicitly supersedes any interpretation that the copied session or disabled cache was required for recurrence. An immediately captured black baseline canvas is excluded from visual proof; the preceding unchanged-product baseline and both settled result screenshots are retained. A closed-input setup attempt sent no refreshes. Alternative cache-preserving network guards failed local worker or initial-navigation coverage and were never promoted to merchant testing. The exact recurrence cause remains open.
