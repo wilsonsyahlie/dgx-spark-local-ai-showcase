@@ -1407,3 +1407,10 @@ The controller records completion independently for each slot. An already-correc
 Arming uses the game's first-party inventory and equipment libraries. Intent is durable before input, responses are bound to only the requested components, and native state confirms the result. Unknown input is not replayed. The feature has its own preference and does not restore earlier gear outside the requested phase. Existing unrelated automation and retired experimental controls remain separate.
 
 A live setup left an already-correct slot untouched and acknowledged one requested change. Both slot records persisted as fulfilled without repeat input. Current identity, prior preferences and histories were preserved during activation, and the pre-maintenance hunting intent was restored through its normal control.
+
+
+## Two phase-specific setups through one equipment controller
+
+A story automation previously set equipment only for its final phase. The owner requested a different cheese and charm during normal writing. The existing exact owned-inventory controller now chooses targets by positively observed phase, retaining independent durable completion for each equipment slot. Both phase setups share the existing equipment preference; chapter selection and other automation remain independent.
+
+Phase changes permit a new setup, while document reloads and preference toggles preserve handled slots. Manual changes after setup remain respected. Existing correct equipment is recorded without rearming, and missing stock waits without purchases or substitution. The native arming contract, account and document checks, dialog guards and unknown-input protections remain in place.

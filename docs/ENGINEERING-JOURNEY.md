@@ -3531,3 +3531,10 @@ Phase-specific equipment now has independent durable completion for two requeste
 Native-library, application, UI and gateway checks passed, including restart recovery, partial stock, unknown outcomes and phone widths. A new natural phase was not forced merely to produce a completion claim.
 
 See [the phase equipment study](CASE-STUDIES.md#equipment-setup-once-per-phase-with-manual-changes-preserved) and [verification evidence](VERIFICATION.md#native-equipment-contract-and-durable-slot-completion).
+
+
+## 2026-11-20 — Extend once-per-phase equipment to normal writing
+
+The existing story equipment controller now selects a separate owned cheese and charm for normal writing and retains its final-phase setup. Per-slot durable handling preserves later manual changes, and already-correct gear is left untouched. Native, application, UI and gateway regressions passed.
+
+See [the phase setup study](CASE-STUDIES.md#two-phase-specific-setups-through-one-equipment-controller) and [verification coverage](VERIFICATION.md#writing-phase-equipment-and-retained-final-phase-behavior).

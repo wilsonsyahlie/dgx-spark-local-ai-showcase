@@ -2137,3 +2137,10 @@ Eight application, component and gateway checks qualify authenticated preference
 The deployed observer, modular assets and fixed relay were activated from exact qualified sources with source/state backups and a compared cold archive. Live owned inventory was inspected before normal enable. One slot was already equipped; the other received a matched native acknowledgement and positive state confirmation. A fresh disk-store reader validates both fulfilled records and a single setup intent. Read-only rendering of the actual served component passes three viewport widths while leaving the episode record unchanged.
 
 A later natural phase entry and live owner override were not forced for proof; those transitions remain browser-qualified. No missing supplies were purchased, no alternative item was selected and no direct hunt or phase transition was issued by the task.
+
+
+## Writing-phase equipment and retained final-phase behavior
+
+Seventeen native-library browser cases and eight application, UI and gateway cases passed. Added cases cover exact writing targets, already-correct equipment, partial stock with manual overrides, writing-to-final-to-writing transitions and a phase race immediately before dispatch. Existing tests retain final-phase arming, response uncertainty, rejection, restart and preference-toggle recovery, blocked dialogs and exact-name matching.
+
+The location panel describes both setups and passes phone and desktop widths, loading, stale response, duplicate save, failure, retry and reload checks. The unchanged gateway retains its fixed authenticated route. Live activation preserves existing preferences and histories; a writing setup that was already correct is marked handled without another equipment request. A later natural phase transition remains unforced and is covered by controlled browser tests.
