@@ -1414,3 +1414,12 @@ A live setup left an already-correct slot untouched and acknowledged one request
 A story automation previously set equipment only for its final phase. The owner requested a different cheese and charm during normal writing. The existing exact owned-inventory controller now chooses targets by positively observed phase, retaining independent durable completion for each equipment slot. Both phase setups share the existing equipment preference; chapter selection and other automation remain independent.
 
 Phase changes permit a new setup, while document reloads and preference toggles preserve handled slots. Manual changes after setup remain respected. Existing correct equipment is recorded without rearming, and missing stock waits without purchases or substitution. The native arming contract, account and document checks, dialog guards and unknown-input protections remain in place.
+
+
+## Tie a live countdown to the scheduled action
+
+A browser helper displayed an approximate delay once when an action became ready, leaving the message unchanged throughout the wait. Its earlier cooldown message also omitted the helper's configured delay, so it did not describe time until the helper would act.
+
+The countdown now includes the observed game cooldown, configured offset, one chosen random delay and any remaining minimum gap. The same random sample is retained across cooldown polling and readiness; drawing again on every render would move the target. Once the delayed action starts, the display is calculated from the same absolute deadline used by the cancellable wait.
+
+Stop, verification and missing readiness still prevent input. Pause clears the pending plan, and nonnumeric game state is shown as waiting rather than a fabricated zero. The helper distinguishes sounding from confirmation instead of leaving an expired countdown on screen.

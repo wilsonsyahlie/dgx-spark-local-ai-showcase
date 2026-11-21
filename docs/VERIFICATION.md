@@ -2144,3 +2144,12 @@ A later natural phase entry and live owner override were not forced for proof; t
 Seventeen native-library browser cases and eight application, UI and gateway cases passed. Added cases cover exact writing targets, already-correct equipment, partial stock with manual overrides, writing-to-final-to-writing transitions and a phase race immediately before dispatch. Existing tests retain final-phase arming, response uncertainty, rejection, restart and preference-toggle recovery, blocked dialogs and exact-name matching.
 
 The location panel describes both setups and passes phone and desktop widths, loading, stale response, duplicate save, failure, retry and reload checks. The unchanged gateway retains its fixed authenticated route. Live activation preserves existing preferences and histories; a writing setup that was already correct is marked handled without another equipment request. A later natural phase transition remains unforced and is covered by controlled browser tests.
+
+
+## Countdown deadline and cancellation coverage
+
+Eleven controlled-clock browser cases execute the complete extension and actual panel styles. They check deadline-bound press and release, a long configured delay ticking down, one random sample across cooldown and ready phases, minimum-gap inclusion, Stop cancellation, verification pause and resumption, lost readiness, malformed game timer, settings changes, duplicate injection, persisted stopped intent and three viewport widths. Three retained full-extension verification-resume cases also pass.
+
+At an observed idle cooldown, the qualified extension was activated with source, preferences, authentication, equipment and action-history backups. The current profile was retained. The deployed panel showed a total countdown decreasing between live observations, including the configured delay beyond the game timer, and normal running intent was restored. No extra action was forced merely to prove the display.
+
+The displayed duration is the current plan to the second. Game-state changes, verification and browser scheduling can delay action; readiness guards remain authoritative rather than allowing a display to authorize input.

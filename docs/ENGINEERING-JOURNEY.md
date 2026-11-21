@@ -3538,3 +3538,10 @@ See [the phase equipment study](CASE-STUDIES.md#equipment-setup-once-per-phase-w
 The existing story equipment controller now selects a separate owned cheese and charm for normal writing and retains its final-phase setup. Per-slot durable handling preserves later manual changes, and already-correct gear is left untouched. Native, application, UI and gateway regressions passed.
 
 See [the phase setup study](CASE-STUDIES.md#two-phase-specific-setups-through-one-equipment-controller) and [verification coverage](VERIFICATION.md#writing-phase-equipment-and-retained-final-phase-behavior).
+
+
+## 2026-11-21 — Make the displayed countdown follow the pending action
+
+A frozen approximate delay was replaced with a ticking total countdown. One random delay is shared by the prediction and eventual wait, and the active display follows the action deadline. Cooldown, offset and minimum gap are included without weakening Stop, verification or readiness checks. Fourteen browser cases and live ticking-display checks passed.
+
+See [the countdown study](CASE-STUDIES.md#tie-a-live-countdown-to-the-scheduled-action) and [verification coverage](VERIFICATION.md#countdown-deadline-and-cancellation-coverage).
