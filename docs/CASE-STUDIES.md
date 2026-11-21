@@ -1478,3 +1478,10 @@ After unlocking a target genre, a local game helper can now reroll future chapte
 Each confirmation validates the current three-unit cost and fresh chapter identity. Intent is durable before input; a successful native response plus an exact resource deduction is required before another roll. Identical new offers can be legitimate, so successful spending is distinguished from changed-looking content. Missing acknowledgements block further spending across restart rather than replaying an uncertain action. Manual authority is checked before input while a later acknowledgement can still be read after manual control resumes.
 
 Actual draw odds are unknown. The displayed reserve explicitly assumes independent one-in-six Short-target draws and excludes future resource drops. Its conditional ninety-percent planning buffer is a budgeting heuristic, not an observed probability or a guarantee. Existing free Short-target offers are accepted without spending.
+
+
+## Separate unlocked writing equipment from unlock optimization
+
+A chapter helper reused its pre-unlock bait optimizer after the target genre became available. That could leave the expensive high-page bait and its paired charm equipped during a run whose requested writing setup was the ordinary bait and charm. The correction makes unlocked writing choose the ordinary pair once per chapter, while retaining the special pair for the later reward phase. Pre-unlock optimization remains unchanged.
+
+A versioned equipment context corrects an already fulfilled old-policy choice once, without clearing uncertain input records. Later manual changes survive polling, restart and toggles; a new chapter gets a new setup. Missing ordinary bait produces a visible wait instead of falling back to the unwanted expensive bait. The existing native confirmation, stock, account and manual-authority checks remain in force.

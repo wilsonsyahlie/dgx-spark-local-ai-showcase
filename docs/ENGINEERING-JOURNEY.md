@@ -3601,3 +3601,10 @@ See [the notification study](CASE-STUDIES.md#wake-equipment-setup-when-the-chapt
 Native chapter rerolls now validate the three-unit cost, prefer Short and accept Medium when resources are tight, while avoiding automatic Long chapters. The reserve labels its unknown-odds assumption. Durable intent and matched acknowledgement prevent uncertain spending from being replayed. One hundred thirteen checks pass; the live free Short offer is observed without spending. A necessary real charged reroll remains unobserved.
 
 See [the budget study](CASE-STUDIES.md#budget-chapter-rerolls-without-pretending-the-odds-are-known) and [verification](VERIFICATION.md#reroll-budget-paid-acknowledgement-and-no-replay).
+
+
+## 2026-11-21 — Apply the requested writing pair after genre unlock
+
+Unlocked writing now uses its requested ordinary bait and charm once per chapter, while the later reward phase keeps its special pair. A versioned policy context corrects the old fulfilled choice once and preserves manual overrides and unknown-input protection. One hundred nineteen checks pass; the actual equipped writing pair and running intent are verified.
+
+See [the equipment study](CASE-STUDIES.md#separate-unlocked-writing-equipment-from-unlock-optimization) and [verification](VERIFICATION.md#phase-specific-gear-and-one-time-policy-correction).
