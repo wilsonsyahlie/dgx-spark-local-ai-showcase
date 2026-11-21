@@ -3608,3 +3608,10 @@ See [the budget study](CASE-STUDIES.md#budget-chapter-rerolls-without-pretending
 Unlocked writing now uses its requested ordinary bait and charm once per chapter, while the later reward phase keeps its special pair. A versioned policy context corrects the old fulfilled choice once and preserves manual overrides and unknown-input protection. One hundred nineteen checks pass; the actual equipped writing pair and running intent are verified.
 
 See [the equipment study](CASE-STUDIES.md#separate-unlocked-writing-equipment-from-unlock-optimization) and [verification](VERIFICATION.md#phase-specific-gear-and-one-time-policy-correction).
+
+
+## 2026-11-21 — Recognize a completed reroll without replaying it
+
+A successful resource spend had been blocked as unconfirmed. The actor now recognises a new owned native journal entry with the exact deduction and unchanged action context, while retaining network acknowledgement and unknown-result barriers. Two observed historical attempts are reconciled with preserved preimages. Forty-eight final checks pass after broader qualification. Two live rerolls are automatically acknowledged, followed by a suitable target selection and no further spending.
+
+See [the confirmation study](CASE-STUDIES.md#confirm-resource-spending-from-the-native-outcome) and [verification](VERIFICATION.md#native-journal-acknowledgement-with-exact-resource-binding).

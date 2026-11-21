@@ -1485,3 +1485,12 @@ Actual draw odds are unknown. The displayed reserve explicitly assumes independe
 A chapter helper reused its pre-unlock bait optimizer after the target genre became available. That could leave the expensive high-page bait and its paired charm equipped during a run whose requested writing setup was the ordinary bait and charm. The correction makes unlocked writing choose the ordinary pair once per chapter, while retaining the special pair for the later reward phase. Pre-unlock optimization remains unchanged.
 
 A versioned equipment context corrects an already fulfilled old-policy choice once, without clearing uncertain input records. Later manual changes survive polling, restart and toggles; a new chapter gets a new setup. Missing ordinary bait produces a visible wait instead of falling back to the unwanted expensive bait. The existing native confirmation, stock, account and manual-authority checks remain in force.
+
+
+## Confirm resource spending from the native outcome
+
+A chapter reroll spent its resources successfully but remained unconfirmed in the controller, which then blocked further spending. The game journal and the exact deduction established that the action had happened. Historical receipts did not retain the precise failed confirmation branch, so response matching, timing and rendering remained hypotheses rather than a claimed root cause.
+
+The corrected actor can confirm a dispatched action from a new owned-game journal entry plus the exact resource deduction under the same account, document and chapter. Existing network acknowledgement remains valid; the bounded observation window also accommodates slower completion. An old journal entry, foreign owner, wrong amount or missing deduction cannot prove a new action. Unknown results still prevent replay. Compact confirmation reasons are now durable without storing network bodies or credentials.
+
+The two observed blocked attempts are each reconciled once against measured game evidence with its original intent and unknown-history preimages preserved. This is operator reconciliation of one observed success, not general automatic clearing of uncertain receipts. Normal authorized automation then resumes from fresh choices.
