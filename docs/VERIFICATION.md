@@ -2164,3 +2164,10 @@ The application test uses normal preference APIs, the unchanged first-party inve
 The qualified sources were activated at a measured cooldown with source, profile, preference, authentication and action-history backups. The live setup changed only the writing bait with a matched native acknowledgement and durable once record. Existing settings and unrelated equipment were retained, and normal running intent was restored. Future naturally occurring chapter transitions and owner overrides were not forced; their behavior is browser-qualified.
 
 The forecast still conditions on successful catches, sees only current chapter offers, and does not assign a market value to consumables. Its practical objective and limits remain visible rather than being described as an exact global optimizer.
+
+
+## Paired equipment and independent completion
+
+Forty-five native-library, application and UI cases passed. Dedicated cases cover charm-only adoption of an existing fulfilled bait, stronger and weaker pairs on successive chapters, an already-correct charm, missing charm stock and honest pending status, manual overrides through restart and preference toggles, unknown and rejected input without replay, later positive observation and legacy uncertainty before a new pair. Existing phase equipment, authentication, revision, stale/error/retry/reload and phone layout checks remain qualified.
+
+The exact qualified sources were activated after the existing scheduled horn reached a measured idle cooldown. Source, preferences, equipment journals, authentication and the cold profile were backed up. Live proof confirms one charm-only native acknowledgement while the previously fulfilled bait record stays byte-identical. The requested pair is visible in the native game and the served panel, and normal running intent is restored. A new natural chapter was not forced; that transition is browser-qualified.

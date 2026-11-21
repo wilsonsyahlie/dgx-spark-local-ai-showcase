@@ -3554,3 +3554,10 @@ The story planner now evaluates page totals, resulting percentages and genre pro
 Eighty-one focused and retained cases pass. A durable per-chapter setup respects later manual changes, uses only the two approved owned baits and retains uncertainty without replay. Live activation preserves the current story and settings while confirming the chosen bait and restored running intent.
 
 See [the story-mix study](CASE-STUDIES.md#choose-writing-bait-from-the-whole-story-mix) and [verification coverage](VERIFICATION.md#joint-bait-chapter-and-page-share-verification).
+
+
+## 2026-11-21 — Complete a writing setup without replaying its bait change
+
+A per-chapter bait choice now selects its matching charm as an independently recorded setup. Existing completed bait work is retained while only the newly requested component changes. Later manual choices and uncertain outcomes remain protected. Forty-five focused and retained cases pass, and the live charm-only change is acknowledged without altering the earlier bait record.
+
+See [the dependent equipment study](CASE-STUDIES.md#pair-a-dependent-charm-with-the-recorded-bait-choice) and [verification coverage](VERIFICATION.md#paired-equipment-and-independent-completion).

@@ -1432,3 +1432,10 @@ An owner asked an existing chapter-balancing mode to vary between two writing ba
 The bounded planner compares both current-bait choices with the offered next chapters and their possible bait contributions. It normalizes projected page totals into the future story mix and ranks predicted below-target progress reduction per remaining writing catch. Equal forecast benefit conserves the stronger bait. The final-phase gain is modeled independently of the current writing bait. This is a one-offer lookahead conditional on successful catches, not a global optimality or guaranteed-unlock claim.
 
 A durable record permits one initial bait setup per observed chapter. Manual changes after that setup remain respected across reloads and preference toggles, and subsequent forecasts follow the actual observed gain. Stock fallback stays within the two approved owned items. Missing stock waits without buying or substitution; uncertain input is not replayed. Existing equipment and chapter switches own the feature without adding a new automation mode.
+
+
+## Pair a dependent charm with the recorded bait choice
+
+An owner extended a writing-bait policy: when the bot chooses the stronger bait, it should also equip a specific charm. The previous controller handled bait per chapter while its charm rule remained per phase. The new behavior binds an independent charm setup to the bot's durable bait choice, preserving the existing weaker-bait pair.
+
+Separate per-slot records allow an already-fulfilled bait decision to receive only the newly requested charm, without replaying the bait change. Setup uses exact owned inventory and native equipment handlers; missing stock waits, rejection and unknown input stop retries, and later manual charm changes remain respected across reloads and preference toggles. A newly observed chapter permits the next pair, while an unresolved earlier input blocks a fresh attempt.
