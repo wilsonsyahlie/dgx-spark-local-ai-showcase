@@ -1423,3 +1423,12 @@ A browser helper displayed an approximate delay once when an action became ready
 The countdown now includes the observed game cooldown, configured offset, one chosen random delay and any remaining minimum gap. The same random sample is retained across cooldown polling and readiness; drawing again on every render would move the target. Once the delayed action starts, the display is calculated from the same absolute deadline used by the cancellable wait.
 
 Stop, verification and missing readiness still prevent input. Pause clears the pending plan, and nonnumeric game state is shown as waiting rather than a fabricated zero. The helper distinguishes sounding from confirmation instead of leaving an expired countdown on screen.
+
+
+## Choose writing bait from the whole story mix
+
+An owner asked an existing chapter-balancing mode to vary between two writing baits, then clarified that genre progress alone was insufficient: current page totals and the resulting attraction percentages also matter. A larger contribution can help a missing genre while diluting another missing genre, so a simple below-target rule would be wrong.
+
+The bounded planner compares both current-bait choices with the offered next chapters and their possible bait contributions. It normalizes projected page totals into the future story mix and ranks predicted below-target progress reduction per remaining writing catch. Equal forecast benefit conserves the stronger bait. The final-phase gain is modeled independently of the current writing bait. This is a one-offer lookahead conditional on successful catches, not a global optimality or guaranteed-unlock claim.
+
+A durable record permits one initial bait setup per observed chapter. Manual changes after that setup remain respected across reloads and preference toggles, and subsequent forecasts follow the actual observed gain. Stock fallback stays within the two approved owned items. Missing stock waits without buying or substitution; uncertain input is not replayed. Existing equipment and chapter switches own the feature without adding a new automation mode.

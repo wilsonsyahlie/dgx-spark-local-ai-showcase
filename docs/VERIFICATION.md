@@ -2153,3 +2153,14 @@ Eleven controlled-clock browser cases execute the complete extension and actual 
 At an observed idle cooldown, the qualified extension was activated with source, preferences, authentication, equipment and action-history backups. The current profile was retained. The deployed panel showed a total countdown decreasing between live observations, including the configured delay beyond the game timer, and normal running intent was restored. No extra action was forced merely to prove the display.
 
 The displayed duration is the current plan to the second. Game-state changes, verification and browser scheduling can delay action; readiness guards remain authoritative rather than allowing a display to authorize input.
+
+
+## Joint bait, chapter and page-share verification
+
+Eighty-one focused policy, native-library, application, UI and retained controller cases pass. They include fixed progress with different page totals producing a different bait choice, exact screenshot-derived share arithmetic, stronger and weaker bait choices, independent final-phase gain, last chapters, unlock handling, manual and short modes, actual owned-item fallback, empty stock, response uncertainty and later honest observation, rejection, revocation, restart, per-chapter setup and manual overrides.
+
+The application test uses normal preference APIs, the unchanged first-party inventory and equipment libraries, and the actual location component. The panel shows both projected end-of-chapter mixes and its selected explanation. Phone and desktop checks cover the expanded plan. Retained chapter, fuel and equipment tests pass with one fresh environment source used consistently for observation and dispatch. An exact source-selection assertion caught its dependent adapter contract during qualification; the assertion stayed strict.
+
+The qualified sources were activated at a measured cooldown with source, profile, preference, authentication and action-history backups. The live setup changed only the writing bait with a matched native acknowledgement and durable once record. Existing settings and unrelated equipment were retained, and normal running intent was restored. Future naturally occurring chapter transitions and owner overrides were not forced; their behavior is browser-qualified.
+
+The forecast still conditions on successful catches, sees only current chapter offers, and does not assign a market value to consumables. Its practical objective and limits remain visible rather than being described as an exact global optimizer.

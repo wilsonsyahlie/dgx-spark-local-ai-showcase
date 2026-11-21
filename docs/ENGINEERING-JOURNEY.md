@@ -3545,3 +3545,12 @@ See [the phase setup study](CASE-STUDIES.md#two-phase-specific-setups-through-on
 A frozen approximate delay was replaced with a ticking total countdown. One random delay is shared by the prediction and eventual wait, and the active display follows the action deadline. Cooldown, offset and minimum gap are included without weakening Stop, verification or readiness checks. Fourteen browser cases and live ticking-display checks passed.
 
 See [the countdown study](CASE-STUDIES.md#tie-a-live-countdown-to-the-scheduled-action) and [verification coverage](VERIFICATION.md#countdown-deadline-and-cancellation-coverage).
+
+
+## 2026-11-21 — Balance bait contributions as well as chapter choices
+
+The story planner now evaluates page totals, resulting percentages and genre progress together when choosing a writing bait and offered chapter. The stronger bait can improve a missing genre or dilute another one; the weaker bait sometimes wins. A separate final-phase gain corrects the earlier coupling to current bait.
+
+Eighty-one focused and retained cases pass. A durable per-chapter setup respects later manual changes, uses only the two approved owned baits and retains uncertainty without replay. Live activation preserves the current story and settings while confirming the chosen bait and restored running intent.
+
+See [the story-mix study](CASE-STUDIES.md#choose-writing-bait-from-the-whole-story-mix) and [verification coverage](VERIFICATION.md#joint-bait-chapter-and-page-share-verification).
