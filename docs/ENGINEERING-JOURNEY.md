@@ -3587,3 +3587,10 @@ See [the interface study](CASE-STUDIES.md#make-a-planner-explain-its-choice-with
 A duplicate paid verification request came from discarding a correct unused answer after browser capture invalidation. Fresh account-and-image binding now recovers that answer, while a separate identical-challenge fence prevents a second charge. Forty-six regression and retained checks pass, with the live update preserving paid history, preferences and running intent. The next natural challenge remains unobserved.
 
 See [the recovery study](CASE-STUDIES.md#reuse-an-unused-answer-instead-of-paying-twice) and [verification](VERIFICATION.md#unused-answer-and-duplicate-charge-regression).
+
+
+## 2026-11-21 — Remove the polling wait after a chapter update
+
+Read-only transition and rendering notifications now wake the guarded equipment worker immediately. Timed browser tests show the poll delay removed while manual choices, completion journals and uncertain inputs remain protected. Sixty checks pass; live listener connection, current equipment and running intent are verified. The next natural transition is still an observational limit.
+
+See [the notification study](CASE-STUDIES.md#wake-equipment-setup-when-the-chapter-changes) and [verification](VERIFICATION.md#chapter-transition-latency-and-retained-authority).

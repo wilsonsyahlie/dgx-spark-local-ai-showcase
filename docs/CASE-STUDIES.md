@@ -1462,3 +1462,10 @@ A verification provider returned a correct answer, but the application discarded
 The correction retains a ready answer and validates it against a fresh, visible, empty native form with the same account and image pixels. Document and element identity may change without requiring another solve. Expiry and manual-control checks still apply, and the receipt becomes single-use before any possible game input. Consumed or uncertain answers are never rebound. A provider-side terminal-image fence separately prevents a new capture identity from authorizing another charge for a completed or retired identical challenge.
 
 Changed images or accounts permit a new challenge after retiring the unused answer. An expired answer for the same image waits for a fresh image or manual completion. This preserves uncertainty rather than treating an unacknowledged input as permission to retry. Historical answer archives are never used for recovery.
+
+
+## Wake equipment setup when the chapter changes
+
+A per-chapter equipment controller relied on periodic polling, leaving the previous setup active briefly after the game reported a new chapter. A timed reproduction measured approximately five seconds before native dispatch. The correction adds read-only game and DOM notifications that wake the existing serialized worker as soon as relevant state is observed. The poll remains a recovery path.
+
+Notifications sample the same canonical state as the guarded equipment actor, including readiness. This matters when an early game event arrives before the chapter controls finish rendering: a later ready-state mutation must also wake the worker. Signals coalesce during input, reconnect across documents and contexts, and reject foreign or child-frame sources. Input authority, manual choices, per-slot completion and unknown-outcome protection remain independent of the signal producer.
