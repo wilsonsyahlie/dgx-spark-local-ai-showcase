@@ -3594,3 +3594,10 @@ See [the recovery study](CASE-STUDIES.md#reuse-an-unused-answer-instead-of-payin
 Read-only transition and rendering notifications now wake the guarded equipment worker immediately. Timed browser tests show the poll delay removed while manual choices, completion journals and uncertain inputs remain protected. Sixty checks pass; live listener connection, current equipment and running intent are verified. The next natural transition is still an observational limit.
 
 See [the notification study](CASE-STUDIES.md#wake-equipment-setup-when-the-chapter-changes) and [verification](VERIFICATION.md#chapter-transition-latency-and-retained-authority).
+
+
+## 2026-11-21 — Prefer short chapters within a whole-run reroll budget
+
+Native chapter rerolls now validate the three-unit cost, prefer Short and accept Medium when resources are tight, while avoiding automatic Long chapters. The reserve labels its unknown-odds assumption. Durable intent and matched acknowledgement prevent uncertain spending from being replayed. One hundred thirteen checks pass; the live free Short offer is observed without spending. A necessary real charged reroll remains unobserved.
+
+See [the budget study](CASE-STUDIES.md#budget-chapter-rerolls-without-pretending-the-odds-are-known) and [verification](VERIFICATION.md#reroll-budget-paid-acknowledgement-and-no-replay).

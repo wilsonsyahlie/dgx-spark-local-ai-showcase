@@ -1469,3 +1469,12 @@ Changed images or accounts permit a new challenge after retiring the unused answ
 A per-chapter equipment controller relied on periodic polling, leaving the previous setup active briefly after the game reported a new chapter. A timed reproduction measured approximately five seconds before native dispatch. The correction adds read-only game and DOM notifications that wake the existing serialized worker as soon as relevant state is observed. The poll remains a recovery path.
 
 Notifications sample the same canonical state as the guarded equipment actor, including readiness. This matters when an early game event arrives before the chapter controls finish rendering: a later ready-state mutation must also wake the worker. Signals coalesce during input, reconnect across documents and contexts, and reject foreign or child-frame sources. Input authority, manual choices, per-slot completion and unknown-outcome protection remain independent of the signal producer.
+
+
+## Budget chapter rerolls without pretending the odds are known
+
+After unlocking a target genre, a local game helper can now reroll future chapter offers using the native confirmation controls. Short chapters are preferred; Medium is accepted when the remaining resource stock falls below a whole-run Short reserve. Long is never selected automatically. When another roll is unaffordable, the existing Short choice remains selected and the resource limit is explained. Manual mode and the ordinary Short mode do not spend reroll resources.
+
+Each confirmation validates the current three-unit cost and fresh chapter identity. Intent is durable before input; a successful native response plus an exact resource deduction is required before another roll. Identical new offers can be legitimate, so successful spending is distinguished from changed-looking content. Missing acknowledgements block further spending across restart rather than replaying an uncertain action. Manual authority is checked before input while a later acknowledgement can still be read after manual control resumes.
+
+Actual draw odds are unknown. The displayed reserve explicitly assumes independent one-in-six Short-target draws and excludes future resource drops. Its conditional ninety-percent planning buffer is a budgeting heuristic, not an observed probability or a guarantee. Existing free Short-target offers are accepted without spending.
