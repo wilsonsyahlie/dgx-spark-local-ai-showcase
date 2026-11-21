@@ -1439,3 +1439,10 @@ A durable record permits one initial bait setup per observed chapter. Manual cha
 An owner extended a writing-bait policy: when the bot chooses the stronger bait, it should also equip a specific charm. The previous controller handled bait per chapter while its charm rule remained per phase. The new behavior binds an independent charm setup to the bot's durable bait choice, preserving the existing weaker-bait pair.
 
 Separate per-slot records allow an already-fulfilled bait decision to receive only the newly requested charm, without replaying the bait change. Setup uses exact owned inventory and native equipment handlers; missing stock waits, rejection and unknown input stop retries, and later manual charm changes remain respected across reloads and preference toggles. A newly observed chapter permits the next pair, while an unresolved earlier input blocks a fresh attempt.
+
+
+## Remove common-work credit from a bounded game planner
+
+A chapter planner ranked expected progress divided by writing catches. Its baseline preceded the unavoidable completion of the current chapter, so the common benefit was credited to every next choice and divided by different lengths. A shorter option could gain an artificial advantage. The corrected objective ranks joint first-hit unlock probability per next-chapter and Postscript successful catch. Current chapter completion still changes the projected page mix, but its remaining catches do not enter the next-choice cost.
+
+A bounded dynamic program tracks the joint target, floor, cap and decay rather than multiplying marginal probabilities. Identical safe states collapse, complete inputs key the cache, and excessive work stops the decision without inventing an estimate. When every visible plan has zero unlock probability, absolute expected shortfall supplies a declared fallback. Unseen offers and empirical catch rates remain outside the conditional forecast.

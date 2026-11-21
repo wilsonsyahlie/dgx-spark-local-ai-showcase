@@ -2171,3 +2171,10 @@ The forecast still conditions on successful catches, sees only current chapter o
 Forty-five native-library, application and UI cases passed. Dedicated cases cover charm-only adoption of an existing fulfilled bait, stronger and weaker pairs on successive chapters, an already-correct charm, missing charm stock and honest pending status, manual overrides through restart and preference toggles, unknown and rejected input without replay, later positive observation and legacy uncertainty before a new pair. Existing phase equipment, authentication, revision, stale/error/retry/reload and phone layout checks remain qualified.
 
 The exact qualified sources were activated after the existing scheduled horn reached a measured idle cooldown. Source, preferences, equipment journals, authentication and the cold profile were backed up. Live proof confirms one charm-only native acknowledgement while the previously fulfilled bait record stays byte-identical. The requested pair is visible in the native game and the served panel, and normal running intent is restored. A new natural chapter was not forced; that transition is browser-qualified.
+
+
+## Corrected scoring qualification
+
+Ninety focused and retained cases pass. Independent sequence enumeration checks joint probability, first-hit behavior, decay and penalties. Regression cases cover real choice probabilities, exclusion of common current catches, zero-chance fallback, cache identity and fail-closed bounds. Native equipment, chapter controls, manual overrides, application authorization, stale/error/retry/reload behavior and phone layouts remain qualified.
+
+Three qualified sources were installed at a measured idle cooldown with source, profile and state backups. The live decision and served panel show the new objective and probability; existing fulfilled bait and charm records remain byte-identical. Normal running intent was restored. No forced hunt or future chapter transition was used as evidence.

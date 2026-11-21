@@ -3566,3 +3566,10 @@ See [the dependent equipment study](CASE-STUDIES.md#pair-a-dependent-charm-with-
 ## 2026-11-21 — Isolate uncertain imports
 
 A failed import no longer blocks unrelated episodes. Exact-target exclusion preserves duplicate protection; eight regression checks and the repaired library entry passed. See [the engineering record](IMPORT-FAILURE-ISOLATION.md).
+
+
+## 2026-11-21 — Correct the objective before defending a planner choice
+
+A measured common-work bias was removed from a bounded chapter planner. Joint unlock chance is now divided by additional next-writing and Postscript catches, with an explicit shortfall fallback when every visible plan has zero chance. Ninety checks and live served-panel verification passed. The current choice remained the same for a defensible conditional efficiency reason.
+
+See [the scoring study](CASE-STUDIES.md#remove-common-work-credit-from-a-bounded-game-planner) and [verification](VERIFICATION.md#corrected-scoring-qualification).
