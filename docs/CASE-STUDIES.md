@@ -1453,3 +1453,12 @@ A bounded dynamic program tracks the joint target, floor, cap and decay rather t
 A corrected chapter planner still presented its reasoning as a dense status paragraph alongside setup switches and secondary controls. The revised interface leads with the next chapter and bait, conditional unlock probability, additional catch cost, and a concrete comparison with another option. A separate sentence explains how the projected page mix preserves encounters needed for the target.
 
 Comparisons, detailed progress and setup controls use expandable sections, while primary game controls remain visible. Existing component revisions and action identifiers are retained. Attention and retry states remain visible even when setup details were collapsed. The change is limited to presentation and does not change the planner or game automation.
+
+
+## Reuse an unused answer instead of paying twice
+
+A verification provider returned a correct answer, but the application discarded it after its original browser capture became unavailable or invalid. A fresh capture of the same image then caused another paid request. Receipt inspection established that the first answer was never entered; the exact historical invalidation trigger was not recorded. An isolated browser reproduction confirmed the double-request path after an authority change.
+
+The correction retains a ready answer and validates it against a fresh, visible, empty native form with the same account and image pixels. Document and element identity may change without requiring another solve. Expiry and manual-control checks still apply, and the receipt becomes single-use before any possible game input. Consumed or uncertain answers are never rebound. A provider-side terminal-image fence separately prevents a new capture identity from authorizing another charge for a completed or retired identical challenge.
+
+Changed images or accounts permit a new challenge after retiring the unused answer. An expired answer for the same image waits for a fresh image or manual completion. This preserves uncertainty rather than treating an unacknowledged input as permission to retry. Historical answer archives are never used for recovery.

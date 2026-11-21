@@ -3580,3 +3580,10 @@ See [the scoring study](CASE-STUDIES.md#remove-common-work-credit-from-a-bounded
 A chapter planner now displays its chosen chapter, bait, chance, catch cost and page-mix reason in one readable card. Comparisons and setup controls expand on demand. Seventeen focused and retained tests plus twenty-one location checks passed; the live static update preserved game state and automation.
 
 See [the interface study](CASE-STUDIES.md#make-a-planner-explain-its-choice-without-crowding-the-game) and [verification](VERIFICATION.md#decision-explanation-and-compact-viewer).
+
+
+## 2026-11-21 — Keep unused work recoverable without replaying uncertain input
+
+A duplicate paid verification request came from discarding a correct unused answer after browser capture invalidation. Fresh account-and-image binding now recovers that answer, while a separate identical-challenge fence prevents a second charge. Forty-six regression and retained checks pass, with the live update preserving paid history, preferences and running intent. The next natural challenge remains unobserved.
+
+See [the recovery study](CASE-STUDIES.md#reuse-an-unused-answer-instead-of-paying-twice) and [verification](VERIFICATION.md#unused-answer-and-duplicate-charge-regression).
