@@ -3561,3 +3561,8 @@ See [the story-mix study](CASE-STUDIES.md#choose-writing-bait-from-the-whole-sto
 A per-chapter bait choice now selects its matching charm as an independently recorded setup. Existing completed bait work is retained while only the newly requested component changes. Later manual choices and uncertain outcomes remain protected. Forty-five focused and retained cases pass, and the live charm-only change is acknowledged without altering the earlier bait record.
 
 See [the dependent equipment study](CASE-STUDIES.md#pair-a-dependent-charm-with-the-recorded-bait-choice) and [verification coverage](VERIFICATION.md#paired-equipment-and-independent-completion).
+
+
+## 2026-11-21 — Isolate uncertain imports
+
+A failed import no longer blocks unrelated episodes. Exact-target exclusion preserves duplicate protection; eight regression checks and the repaired library entry passed. See [the engineering record](IMPORT-FAILURE-ISOLATION.md).
