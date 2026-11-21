@@ -2178,3 +2178,10 @@ The exact qualified sources were activated after the existing scheduled horn rea
 Ninety focused and retained cases pass. Independent sequence enumeration checks joint probability, first-hit behavior, decay and penalties. Regression cases cover real choice probabilities, exclusion of common current catches, zero-chance fallback, cache identity and fail-closed bounds. Native equipment, chapter controls, manual overrides, application authorization, stale/error/retry/reload behavior and phone layouts remain qualified.
 
 Three qualified sources were installed at a measured idle cooldown with source, profile and state backups. The live decision and served panel show the new objective and probability; existing fulfilled bait and charm records remain byte-identical. Normal running intent was restored. No forced hunt or future chapter transition was used as evidence.
+
+
+## Decision explanation and compact viewer
+
+Seventeen UI and retained application cases pass, plus twenty-one browser checks for modular location switching. Coverage includes probability and catch-cost comparisons, projected page mix, manual and automatic modes, Postscript, zero-chance and malformed forecasts, escaped text, errors and retry, duplicate actions, lower-revision responses, reload, optional sections and phone layouts. Existing native equipment and authorization assertions remain intact.
+
+Four static files were backed up and activated without restarting the game service. Exact served files match the qualified sources. A read-only browser rendered the real served panel and current state at desktop and phone widths, verified refresh recovery and no horizontal page overflow, and made no game or preference writes. The process and durable setup records stayed unchanged, with normal running intent preserved. Existing open panels need one reload to receive the new assets.

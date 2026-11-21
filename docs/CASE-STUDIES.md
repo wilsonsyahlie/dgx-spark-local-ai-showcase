@@ -1446,3 +1446,10 @@ Separate per-slot records allow an already-fulfilled bait decision to receive on
 A chapter planner ranked expected progress divided by writing catches. Its baseline preceded the unavoidable completion of the current chapter, so the common benefit was credited to every next choice and divided by different lengths. A shorter option could gain an artificial advantage. The corrected objective ranks joint first-hit unlock probability per next-chapter and Postscript successful catch. Current chapter completion still changes the projected page mix, but its remaining catches do not enter the next-choice cost.
 
 A bounded dynamic program tracks the joint target, floor, cap and decay rather than multiplying marginal probabilities. Identical safe states collapse, complete inputs key the cache, and excessive work stops the decision without inventing an estimate. When every visible plan has zero unlock probability, absolute expected shortfall supplies a declared fallback. Unseen offers and empirical catch rates remain outside the conditional forecast.
+
+
+## Make a planner explain its choice without crowding the game
+
+A corrected chapter planner still presented its reasoning as a dense status paragraph alongside setup switches and secondary controls. The revised interface leads with the next chapter and bait, conditional unlock probability, additional catch cost, and a concrete comparison with another option. A separate sentence explains how the projected page mix preserves encounters needed for the target.
+
+Comparisons, detailed progress and setup controls use expandable sections, while primary game controls remain visible. Existing component revisions and action identifiers are retained. Attention and retry states remain visible even when setup details were collapsed. The change is limited to presentation and does not change the planner or game automation.

@@ -3573,3 +3573,10 @@ A failed import no longer blocks unrelated episodes. Exact-target exclusion pres
 A measured common-work bias was removed from a bounded chapter planner. Joint unlock chance is now divided by additional next-writing and Postscript catches, with an explicit shortfall fallback when every visible plan has zero chance. Ninety checks and live served-panel verification passed. The current choice remained the same for a defensible conditional efficiency reason.
 
 See [the scoring study](CASE-STUDIES.md#remove-common-work-credit-from-a-bounded-game-planner) and [verification](VERIFICATION.md#corrected-scoring-qualification).
+
+
+## 2026-11-21 — Put the decision and its trade-off first
+
+A chapter planner now displays its chosen chapter, bait, chance, catch cost and page-mix reason in one readable card. Comparisons and setup controls expand on demand. Seventeen focused and retained tests plus twenty-one location checks passed; the live static update preserved game state and automation.
+
+See [the interface study](CASE-STUDIES.md#make-a-planner-explain-its-choice-without-crowding-the-game) and [verification](VERIFICATION.md#decision-explanation-and-compact-viewer).
