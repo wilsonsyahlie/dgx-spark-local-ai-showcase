@@ -3615,3 +3615,10 @@ See [the equipment study](CASE-STUDIES.md#separate-unlocked-writing-equipment-fr
 A successful resource spend had been blocked as unconfirmed. The actor now recognises a new owned native journal entry with the exact deduction and unchanged action context, while retaining network acknowledgement and unknown-result barriers. Two observed historical attempts are reconciled with preserved preimages. Forty-eight final checks pass after broader qualification. Two live rerolls are automatically acknowledged, followed by a suitable target selection and no further spending.
 
 See [the confirmation study](CASE-STUDIES.md#confirm-resource-spending-from-the-native-outcome) and [verification](VERIFICATION.md#native-journal-acknowledgement-with-exact-resource-binding).
+
+
+## 2026-11-22 — Reserve later-phase resources and keep a private night audit
+
+The game helper now protects a later-phase resource reserve in planning and native input, applies the requested phase equipment, and records overnight decisions and actual journal events. A separate sandboxed morning report uses durable fixed-recipient delivery receipts. Broad qualification and final boundary checks pass, and live collection is observed across midnight. The first scheduled delivery and next natural reward-phase transition remain explicit future checkpoints.
+
+See [the audit study](CASE-STUDIES.md#protect-later-phase-resources-and-explain-overnight-actions) and [verification](VERIFICATION.md#overnight-audit-and-future-delivery-checkpoint).

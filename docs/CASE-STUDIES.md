@@ -1494,3 +1494,12 @@ A chapter reroll spent its resources successfully but remained unconfirmed in th
 The corrected actor can confirm a dispatched action from a new owned-game journal entry plus the exact resource deduction under the same account, document and chapter. Existing network acknowledgement remains valid; the bounded observation window also accommodates slower completion. An old journal entry, foreign owner, wrong amount or missing deduction cannot prove a new action. Unknown results still prevent replay. Compact confirmation reasons are now durable without storing network bodies or credentials.
 
 The two observed blocked attempts are each reconciled once against measured game evidence with its original intent and unknown-history preimages preserved. This is operator reconciliation of one observed success, not general automatic clearing of uncertain receipts. Normal authorized automation then resumes from fresh choices.
+
+
+## Protect later-phase resources and explain overnight actions
+
+A local game helper now separates a reserved resource pool from the amount available for rerolls. Both the planner and the native input guard enforce that boundary, while free target choices remain available. Equipment targets also distinguish ordinary writing, an unlocked reward phase and the ordinary reward phase, retaining existing once-per-phase, manual-choice and uncertain-input protections.
+
+A deterministic private audit records controller decisions, observed equipment and fuel changes, verification status and owned game-journal events during an overnight window. Repeated identical polls are deduplicated; retained evidence can be backfilled but does not invent missing earlier decisions. The canonical populated journal is selected over empty responsive copies. Actual event records persist across application restart and midnight.
+
+A separate morning job renders one readable complete log for a fixed private recipient. Its sandbox reads only the audit and its own delivery state. Intent is durable before transport; accepted, rejected, unconfigured, suppressed and uncertain outcomes remain distinct. Unknown sends never replay; explicit rejections have bounded retries with a pinned payload. A first-window gate avoids sending an old report when the schedule is first enabled.
