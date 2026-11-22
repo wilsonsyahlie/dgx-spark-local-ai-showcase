@@ -3632,3 +3632,8 @@ The owner selected a new uncensored multimodal model as the secondary assistant.
 ## 2026-11-22 — A specialist writer, a failed load and a bounded recovery
 
 A story-only model needed its native prompt contract carried through the client. The first accelerated load interrupted both assistants; recovery and a CPU-only alternative were verified separately. [Evidence and limits](case-studies/story-completion-contract.md).
+
+
+## 2026-11-22 — Queue optional GPU model loading
+
+The owner rejected CPU mode and chose a resident primary with two specialists sharing one queued accelerator slot. Loading and inference are serialized, with actual device allocation, writer closure and secondary restoration checked. [Evidence and limits](case-studies/optional-model-gpu-queue.md).
