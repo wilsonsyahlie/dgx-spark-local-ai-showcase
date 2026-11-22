@@ -2263,3 +2263,12 @@ Thirty-two distinct cases pass: eleven retained provider and runtime cases, elev
 The app and its owned broker were activated from a measured paused state with no active provider request. Source metadata, cold profile comparison, consistent authentication state, settings and provider histories were backed up and checked. Exactly one legacy uncertain input was bound by hash from its retained original receipt; no plaintext was exported or replayed.
 
 Live proof establishes a successful native image replacement, exactly one fresh paid task, game acceptance and two observations of the cleared reward with normal running restored. Older completed receipt bytes stayed identical; the original uncertain submission remains archived as uncertain rather than rewritten as accepted. Desired equipment and fuel remained intact. The original network failure status and long-term endurance remain unproven; continuing failures stop at persistent limits rather than spending without bound.
+
+
+## Equipment policy-boundary qualification
+
+Thirty-two distinct checks passed: seven new mode-transition and wake cases, eleven retained balance cases, eight paired-charm cases and six phase-equipment cases. New coverage includes same-chapter switching, restart with stale ownership, switching back and forth, manual changes after correction, disabled automation, uncertain earlier input and duplicate wake suppression. Retained first-party fixtures cover arming contracts, missing supplies without purchases, rejection, authority revocation and later-phase behavior.
+
+Initial fixture reuse had inheritance, syntax and missing retained asset failures. Qualification stopped until the complete required fixture dependencies were present, then the focused suites passed without weakening production guards or assertions. Production predecessors were backed up before activation; not every draft artifact was independently versioned.
+
+A measured idle restart of only the application activated the change. Cold-profile comparison, consistent authentication state, settings and paid-history hashes passed; the provider process and fuel state stayed unchanged. The actual standard equipment pair appeared in the current chapter, its durable receipt remained stable across subsequent polling, and normal running intent was restored. Unknown old input intentionally remains held rather than being replayed through a mode change.

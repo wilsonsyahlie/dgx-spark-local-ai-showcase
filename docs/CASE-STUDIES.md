@@ -1528,3 +1528,12 @@ A verification provider solved an image correctly, but the game displayed a netw
 The repair preserves the uncertain submission and never reuses its consumed answer. A durable bounded recovery verifies account and input ownership, reloads the frozen view, invokes the native new-code control and proves a stable different image with an empty form. Only then can the protected broker archive the old uncertain receipt and admit a fresh paid recognition task. Manual input, disabled authority, unchanged images and failed refreshes cannot authorize a new task. Persistent recovery and paid-failure limits prevent an unbounded loop.
 
 A real deployment recovered the existing stalled reward with one new native image and one fresh paid task. The game accepted the new answer and normal running resumed without a manual Claim or a post-clear Start. Original uncertain history and older completed receipts remained intact. Compatibility readers must be retained during rollback because new input-ownership hashes extend the receipt schema; restoring an old parser over newer history would break recovery.
+
+
+## A mode change creates one new equipment decision
+
+A user changed an automation mode, but equipment from the previous optimizer stayed selected. The live mode was correct while a shared phase record still marked the old bot-managed setup fulfilled. Bypassing the optimizer did not retire its ownership, so the old pair was mistakenly preserved as if it were a manual override. A second cache key also omitted policy identity and revision.
+
+The repair treats an explicit mode change as a new equipment decision. Settled bot-owned slots become pending once when leaving the optimizer; policy identity and revision now bind cached balance decisions. Successful optimized setup records ownership even after an earlier standard setup, and a mode change wakes the dependent controller. Duplicate requests do not wake another decision. Uncertain input remains protected, disabled equipment stays disabled and subsequent manual changes remain respected.
+
+Live activation corrected the stale pair in the current chapter while retaining the selected mode, authentication, preferences, paid histories and fuel state. Normal running was restored. The provider process was unchanged, and no scoring or gameplay strategy was altered.

@@ -3663,3 +3663,10 @@ See [the phase-action study](CASE-STUDIES.md#acknowledge-a-phase-action-from-sta
 A provider-solved challenge had left the game frozen in sending state after a network error. Bounded native challenge replacement now permits recovery without replaying the consumed answer or erasing uncertain history. Thirty-two focused cases passed, and the existing live stall cleared through one fresh paid task with normal running restored. Rollback preserves current history and compatible receipt readers.
 
 See [the recovery study](CASE-STUDIES.md#replace-a-failed-challenge-without-replaying-its-answer) and [verification](VERIFICATION.md#frozen-verification-recovery-qualification).
+
+
+## 2026-11-22 — Reconcile equipment at a policy boundary
+
+A correct mode selection had left equipment owned by the previous optimizer marked fulfilled. Equipment ownership now includes the policy boundary, applies the new pair once and preserves later manual overrides. Thirty-two focused cases and live current-chapter correction passed, with authentication, preferences, paid history and the provider process preserved.
+
+See [the mode-boundary study](CASE-STUDIES.md#a-mode-change-creates-one-new-equipment-decision) and [verification](VERIFICATION.md#equipment-policy-boundary-qualification).
