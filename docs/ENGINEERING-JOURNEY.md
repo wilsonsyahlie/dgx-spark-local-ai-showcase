@@ -3649,3 +3649,10 @@ The existing importer now safely retries a verified missing target without repea
 A natural morning report failed before transport because application ownership validation did not match the protected service credential. A measured permission-aware repair passed the actual credential-loader preflight and recovered delivery with a verified receipt. Known pre-network failures may retry within a fixed budget; accepted and uncertain sends cannot replay. The owner requested decision-only reporting, so ordinary hunts and idle progress are omitted while underlying evidence remains private and intact. The future scheduled run remains an explicit checkpoint.
 
 See [the credential study](CASE-STUDIES.md#qualify-credentials-in-the-real-scheduled-sender) and [verification](VERIFICATION.md#scheduled-credential-repair-and-decision-only-reports).
+
+
+## 2026-11-22 — Repair phase acknowledgement and isolate a sidebar failure
+
+A guarded ignition adapter now checks actual handler readiness and stable current state across the measured first-party action contracts. Focused regression checks and a controlled real native ignition passed after activation, while uncertain attempts remain non-replayable. The next natural phase entry is still a future checkpoint. A separate request comparison isolated a third-party header rejection behind a sidebar error; diagnosis did not silently become an extension modification.
+
+See [the phase-action study](CASE-STUDIES.md#acknowledge-a-phase-action-from-stable-game-state) and [verification](VERIFICATION.md#guarded-phase-ignition-and-request-shape-diagnosis).
