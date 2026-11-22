@@ -2238,3 +2238,10 @@ This is a configuration and live-collection checkpoint. The next natural reward-
 ## Bounded missing-import recovery
 
 Thirty-five focused tests passed, including eight source-generation boundary subcases. Natural scheduled recovery delivered the missing episode; source and installed hashes matched, full packet/caption checks passed and the library entry was present. Uncertain acknowledgements, existing files, ambiguous library copies and changed source identities remain excluded. An incident clears only after a verified physical terminal. Human playback was not tested. See [the recovery record](AUTOMATIC-IMPORT-RECOVERY.md).
+
+
+## Scheduled credential repair and decision-only reports
+
+Twenty-eight focused checks pass: retained audit and delivery regressions, protected credential and retry boundaries, and decision filtering. A preflight exercised the actual credential loader inside the protected scheduled environment without network. The production sender then recovered the saved report and verified the provider document receipt against the configured private recipient. Replaying a copy of the actual accepted-delivery database invokes no transport. A separately identified revised report was accepted; original payloads and attempts were retained.
+
+The installed renderer was exercised on the real overnight window and removes ordinary journal hunts, idle checks and repeated decision snapshots while preserving decisions and action outcomes. Application automation was not restarted or changed. The original natural morning run failed; the later recovery succeeded. The next scheduled delivery and physical phone presentation remain unobserved. This supersedes only the earlier delivery-pending checkpoint, without claiming an unobserved future phase transition passed.

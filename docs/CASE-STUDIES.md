@@ -1503,3 +1503,10 @@ A local game helper now separates a reserved resource pool from the amount avail
 A deterministic private audit records controller decisions, observed equipment and fuel changes, verification status and owned game-journal events during an overnight window. Repeated identical polls are deduplicated; retained evidence can be backfilled but does not invent missing earlier decisions. The canonical populated journal is selected over empty responsive copies. Actual event records persist across application restart and midnight.
 
 A separate morning job renders one readable complete log for a fixed private recipient. Its sandbox reads only the audit and its own delivery state. Intent is durable before transport; accepted, rejected, unconfigured, suppressed and uncertain outcomes remain distinct. Unknown sends never replay; explicit rejections have bounded retries with a pinned payload. A first-window gate avoids sending an old report when the schedule is first enabled.
+
+
+## Qualify credentials in the real scheduled sender
+
+A morning report was rendered but never delivered. The protected execution environment exposed a root-owned read-only credential through a named-user access-control entry, while application validation required user ownership. Preview and provider reachability had passed without exercising that exact loader. The repair accepts only the measured protected credential shape and effective read permissions, retaining rejection of public, writable or linked files.
+
+Known configuration failures before transport now have bounded retries with the same pinned payload. Accepted and uncertain sends remain terminal; failure exits distinguish retryable rejection from uncertainty. The missed report was recovered through the actual service with a verified recipient and document receipt, while the original failed attempt remained intact. A user correction also narrowed delivered content to decisions and automation actions, omitting routine hunts and idle progress. The underlying local audit remains preserved.
