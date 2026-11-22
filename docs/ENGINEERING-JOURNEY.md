@@ -3656,3 +3656,10 @@ See [the credential study](CASE-STUDIES.md#qualify-credentials-in-the-real-sched
 A guarded ignition adapter now checks actual handler readiness and stable current state across the measured first-party action contracts. Focused regression checks and a controlled real native ignition passed after activation, while uncertain attempts remain non-replayable. The next natural phase entry is still a future checkpoint. A separate request comparison isolated a third-party header rejection behind a sidebar error; diagnosis did not silently become an extension modification.
 
 See [the phase-action study](CASE-STUDIES.md#acknowledge-a-phase-action-from-stable-game-state) and [verification](VERIFICATION.md#guarded-phase-ignition-and-request-shape-diagnosis).
+
+
+## 2026-11-22 — Recover a frozen verification submission
+
+A provider-solved challenge had left the game frozen in sending state after a network error. Bounded native challenge replacement now permits recovery without replaying the consumed answer or erasing uncertain history. Thirty-two focused cases passed, and the existing live stall cleared through one fresh paid task with normal running restored. Rollback preserves current history and compatible receipt readers.
+
+See [the recovery study](CASE-STUDIES.md#replace-a-failed-challenge-without-replaying-its-answer) and [verification](VERIFICATION.md#frozen-verification-recovery-qualification).
