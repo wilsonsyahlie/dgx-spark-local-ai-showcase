@@ -67,3 +67,14 @@ Twenty-eight ownership, release and recovery controls and twenty-two memory-attr
 An owned stop, positive closure, new process and real reply qualified restart recovery while the main model retained its identity and health. Exact accelerator-process membership attributed the replacement to the secondary memory category. Desktop and phone-width checks covered loading, stale responses, errors, retry, duplicate reads and refresh. A verification helper repeated a known wrapper-offset mistake; preserved failing evidence and independent review led to comparing the entire command contract instead of a guessed slice.
 
 These bounded checks do not establish full-window retrieval, creative-writing quality, refusal behavior, native image support, hardware-temperature stress, reboot behavior or endurance. The text-only secondary leaves the existing primary image-analysis route unchanged. Rollback retains the old model and owner, protects fresh state and reverses only the owned service change; it never rewinds conversation databases or restarts the main assistant.
+
+
+## A smaller active model still needs a complete integration test
+
+An owner-selected model reused its middle layers across several passes. That unusual architecture made the active parameter count a poor shortcut for deployment planning: the engine, template and tool parser all needed compatible support. The model files and runtime were qualified separately before replacing an existing assistant backend, while the old implementation was retained.
+
+The resulting checks went beyond a successful text response. Structured tool calls were followed through their results and through the actual assistant client. Streaming, image input, overlapping requests and a fresh-process restart were tested. Resource readings were tied to the new process owner, with desktop and narrow-phone recovery checks. Existing client contracts and resource protections were retained.
+
+One preservation check failed because a scheduled session was completing during the test. Comparing stored rows separated appended work from destruction: earlier messages remained intact, while the scheduled session's counters reflected its new messages. Another failed probe had omitted the device runtime required by the binary. Neither failure justified weakening an assertion or silently changing history.
+
+The bounded result established integration and recovery, not universal quality or optimal speed. Large cold prompts remained noticeable. Full-window retrieval, long coding tasks, refusal behaviour, physical devices and endurance were not qualified. The useful lesson is to validate the complete application path and keep concurrency visible rather than equating a model's advertised size with a finished installation.

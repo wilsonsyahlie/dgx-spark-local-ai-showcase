@@ -3622,3 +3622,8 @@ See [the confirmation study](CASE-STUDIES.md#confirm-resource-spending-from-the-
 The game helper now protects a later-phase resource reserve in planning and native input, applies the requested phase equipment, and records overnight decisions and actual journal events. A separate sandboxed morning report uses durable fixed-recipient delivery receipts. Broad qualification and final boundary checks pass, and live collection is observed across midnight. The first scheduled delivery and next natural reward-phase transition remain explicit future checkpoints.
 
 See [the audit study](CASE-STUDIES.md#protect-later-phase-resources-and-explain-overnight-actions) and [verification](VERIFICATION.md#overnight-audit-and-future-delivery-checkpoint).
+
+
+## 2026-11-22 — Qualify a looped model behind an existing assistant alias
+
+The owner selected a new uncensored multimodal model as the secondary assistant. Architecture and template support were qualified before replacing the old backend at an observed idle boundary. Actual assistant tool use, restart, concurrent replies and truthful resource attribution passed; a concurrent scheduled session was distinguished from transcript loss. [Evidence and limits](case-studies/co-resident-secondary.md).
