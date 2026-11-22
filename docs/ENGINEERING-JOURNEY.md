@@ -3627,3 +3627,8 @@ See [the audit study](CASE-STUDIES.md#protect-later-phase-resources-and-explain-
 ## 2026-11-22 — Qualify a looped model behind an existing assistant alias
 
 The owner selected a new uncensored multimodal model as the secondary assistant. Architecture and template support were qualified before replacing the old backend at an observed idle boundary. Actual assistant tool use, restart, concurrent replies and truthful resource attribution passed; a concurrent scheduled session was distinguished from transcript loss. [Evidence and limits](case-studies/co-resident-secondary.md).
+
+
+## 2026-11-22 — A specialist writer, a failed load and a bounded recovery
+
+A story-only model needed its native prompt contract carried through the client. The first accelerated load interrupted both assistants; recovery and a CPU-only alternative were verified separately. [Evidence and limits](case-studies/story-completion-contract.md).
