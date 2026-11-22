@@ -2233,3 +2233,8 @@ The morning collector allows a short tail for a final nighttime hunt to appear i
 Live proof confirms the reserved and spendable amounts, the selected target chapter, correct current equipment, normal running intent, unchanged authentication and paid histories, and actual overnight hunts recorded across midnight. The protected reporting sandbox produces a readable preview. Read-only provider checks establish that the existing bot and configured private recipient are reachable; no external test message was sent. The calendar is active with a truthful next run and old reminders remain disabled.
 
 This is a configuration and live-collection checkpoint. The next natural reward-phase transition and the first scheduled morning delivery remain unobserved. Native browser fixtures qualify the requested phase equipment and ignition; mock transport, reachability and preview checks do not prove future delivery or physical phone presentation. Runtime delivery receipts will retain the actual outcome without replaying uncertainty.
+
+
+## Bounded missing-import recovery
+
+Thirty-five focused tests passed, including eight source-generation boundary subcases. Natural scheduled recovery delivered the missing episode; source and installed hashes matched, full packet/caption checks passed and the library entry was present. Uncertain acknowledgements, existing files, ambiguous library copies and changed source identities remain excluded. An incident clears only after a verified physical terminal. Human playback was not tested. See [the recovery record](AUTOMATIC-IMPORT-RECOVERY.md).

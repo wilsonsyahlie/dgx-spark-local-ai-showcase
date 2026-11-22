@@ -1,0 +1,11 @@
+# Automatic recovery after a settled import leaves content missing
+
+A previously downloaded episode remained absent from the viewing library. The importer could reconcile eventual success but had no recovery path when the original command history had expired and the target stayed missing. Removing application-wide exclusion restored unrelated progress, but did not repair that individual target.
+
+Recovery now runs inside the existing serialized importer. It observes stable missing targets across separate scheduled runs, checks for active imports and unregistered destination copies, and revalidates source completion, owner identity, exact target mapping, original admitted bytes and full media qualification. Only then does it prepare a fresh copy-import attempt. Two final checks guard submission; a lost acknowledgement is retained as uncertain and never replayed. At most two recovery attempts are allowed, with waiting periods rather than an endless retry loop. Existing files are never replaced by this path.
+
+The live missing episode recovered on the first natural attempt, matched its qualified source hash, passed complete packet/caption checks and appeared in the viewing library. Thirty-five focused tests passed, including eight temporal source-generation subcases. They cover same-target exclusion, uncertainty, missing or changed sources, interrupted acknowledgement, bounded attempts, destination ambiguity and alert completion. An in-progress repair remains an incident until installed-byte verification succeeds.
+
+A review during deployment caught an early-resolution gap between copying and final verification; the monitor now keeps that incident open until a verified terminal result. Expired command history still does not prove the original command failed. The old outcome remains explicitly unproven, while the new physical result is independently verified. No human playback or universal guarantee for future acquisition is claimed.
+
+The lesson is to combine bounded recovery with retained uncertainty: do not freeze all work, silently clear a failure or repeat an unacknowledged action. Backups and a code rollback path were retained, without deleting history or restoring an old database.

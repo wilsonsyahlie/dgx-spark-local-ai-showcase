@@ -3637,3 +3637,8 @@ A story-only model needed its native prompt contract carried through the client.
 ## 2026-11-22 — Queue optional GPU model loading
 
 The owner rejected CPU mode and chose a resident primary with two specialists sharing one queued accelerator slot. Loading and inference are serialized, with actual device allocation, writer closure and secondary restoration checked. [Evidence and limits](case-studies/optional-model-gpu-queue.md).
+
+
+## 2026-11-22 — Recover settled missing imports automatically
+
+The existing importer now safely retries a verified missing target without repeating uncertain submissions or blocking unrelated work. A live failed episode recovered on the first natural attempt, with complete installed-byte verification. See [the recovery record](AUTOMATIC-IMPORT-RECOVERY.md).
