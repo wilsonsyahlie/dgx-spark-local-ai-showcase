@@ -3728,3 +3728,8 @@ A local specialist reached the expected browser workflow with real owner tools, 
 ## 2026-11-23 — Add native web search without changing host authority
 
 A free native search capability was qualified in the existing local-model interface, with actual structured sources and preserved host tools/context. Existing account and conversation state were retained. [Evidence and limits](case-studies/frontend-tools-and-context.md#web-search-as-a-native-capability).
+
+
+## 2026-11-23 — Expand application authority with explicit owner scope
+
+An owner-approved expansion replaced historical reference-only restrictions with file and application tools. Synthetic configuration access and real local-model application creation were verified, with retained account boundaries, conversation content, context and search. A thirty-minute idle policy was confirmed in the worker configuration; full-duration expiry remained unobserved. [Evidence and limits](case-studies/frontend-tools-and-context.md#owner-authorized-application-access-and-idle-retention).
