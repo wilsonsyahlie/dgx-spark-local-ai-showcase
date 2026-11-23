@@ -3723,3 +3723,8 @@ Measured context overflow led to aligned capacity and client metadata, local sum
 ## 2026-11-23 — Qualify the frontend, execution identity and context lifecycle
 
 A local specialist reached the expected browser workflow with real owner tools, a read-only reference boundary and automatic context checkpointing. Native routing and normal-account permission tests corrected gaps that engine-only tests had missed. [Evidence and limits](case-studies/frontend-tools-and-context.md).
+
+
+## 2026-11-23 — Add native web search without changing host authority
+
+A free native search capability was qualified in the existing local-model interface, with actual structured sources and preserved host tools/context. Existing account and conversation state were retained. [Evidence and limits](case-studies/frontend-tools-and-context.md#web-search-as-a-native-capability).
