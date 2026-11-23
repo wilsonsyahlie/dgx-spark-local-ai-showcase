@@ -3738,3 +3738,8 @@ An owner-approved expansion replaced historical reference-only restrictions with
 ## 2026-11-23 — Recover output-limited automatic summaries
 
 A real long-context task exposed an immediate-abort summary boundary. Bounded regeneration from original source, completed-only chunk caching and realistic model tests qualified recovery; unsuccessful continuation and reasoning-control candidates remained unactivated. [Evidence and limits](case-studies/summary-output-limit-recovery.md).
+
+
+## 2026-11-23 — Replace unreliable generated summaries with recoverable excerpts
+
+A real recurrence superseded the earlier summary-recovery claim. Deterministic excerpts, private exact archives and distinct full-source/deployed/native-interface tests qualified a replacement without model churn or historical action replay. [Evidence and limits](case-studies/extractive-context-archives.md).

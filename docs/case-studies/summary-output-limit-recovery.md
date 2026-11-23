@@ -9,3 +9,8 @@ Live probes rejected two candidate approaches before activation. Continuing trun
 The final model test forced an output-limited response with no answer text, then observed a complete factual regeneration. A dense fragment of the actual saved conversation completed separately and reused its completed cache without another model call. A production-threshold synthetic request, native browser terminal operation, refresh, narrow-screen rendering and exact preservation of existing conversation records were checked. Activation restarted only the idle queue; all resident model processes remained intact.
 
 This is bounded recovery, not a guarantee that every summary can finish. Long inputs still require local inference time, older summaries are lossy, and the saved conversation remains authoritative. The original user task was not replayed to qualify the repair. The engineering lesson is to test the actual failure boundary with realistic source text and to distinguish output budget, reasoning behavior and completed factual memory.
+
+
+## Subsequent real failure supersedes this recovery checkpoint
+
+The next user retry again exhausted both summary allowances. The isolated tests above were real passes, but they did not establish whole-task recovery. Mandatory generated summaries were subsequently replaced by [deterministic excerpts and private exact archives](extractive-context-archives.md). This earlier checkpoint remains historical evidence, not the current continuation mechanism or a claim that the original application completed.
