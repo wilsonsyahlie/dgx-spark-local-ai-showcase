@@ -18,3 +18,14 @@ A follow-up report exposed a policy mistake: after a writing request completed, 
 The revised scheduler retains the last-used specialist while idle. An actual request for the other specialist still triggers the existing serialized switch; an empty queue alone does not. Focused FIFO and HTTP checks, actual consecutive story requests across an idle interval, an explicit cross-model switch and exact primary preservation qualified the change. Model settings and safeguards stayed intact.
 
 This is a residency improvement, not a guarantee of instant output. Prompt processing and real competing requests still take time. A previous simultaneous-load failure does not prove that all models can never fit; that question remains separate from removing unnecessary reloads. The lesson is to treat residency policy and request scheduling separately: exclusivity need not mean eviction after every job.
+
+
+## 2026-11-23 — Measure file cache before declaring residency impossible
+
+The user wanted several models resident rather than repeatedly swapped. An earlier concurrent load had failed, but that did not establish a hardware capacity limit. A new measurement separated reported available memory from physically free memory and found a substantial clean file cache alongside device-resident tensors.
+
+Releasing only an owned model file's clean cache preserved the GPU process and its real output. A revised profile used bounded loading without whole-file mapping and released redundant clean asset cache after readiness. Model contexts and GPU execution were retained. Ordered startup replaced overlapping loading, while the request queue controlled execution rather than residency.
+
+In a finite local trial, all requested models stayed resident through alternating real requests, idle and a gateway restart. Writer output began promptly without another model load. Focused ownership and protocol checks supplemented actual responses and device attribution. A health fixture's empty-body assumption was corrected with the failed evidence retained.
+
+This result established a working bounded profile, not the sole historical failure cause or permanent uptime. Existing memory and thermal guards remained, and heavier host work could still force a safety yield. The general lesson is to separate residency, loading strategy, file cache and execution scheduling before turning one allocation failure into a claim that models cannot coexist.
