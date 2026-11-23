@@ -3697,3 +3697,14 @@ See [the policy separation study](CASE-STUDIES.md#separate-chapter-optimization-
 ## 2026-11-23 — Apply the operator-selected memory reserve consistently
 
 A measured soft-reserve shutdown prompted an explicit operator policy change across the resident pool. Boundary checks, primary process-preserving supervisor adoption and actual restored replies qualified the change. [Evidence and limits](case-studies/operator-memory-reserve.md).
+
+
+## 2026-11-23 — A model is portable only after its runtime is qualified
+
+Moving a local specialist between machines exposed a compatibility gap: the destination engine was older than the model architecture. The solution preserved the existing manager and startup workflow, retained a reversible engine backup, and added one model choice after validating a compatible GPU runtime.
+
+Qualification covered real replies, structured tool use, streaming, a synthetic vision input, idle memory release and wake-up. A previously selected model was checked after the upgrade. The browser path was also exercised through an actual response, refresh and a narrow layout. These were bounded integration checks, not claims of superior model quality, full-context accuracy or indefinite stability.
+
+The most useful failures were in assumptions about state. An unloaded catalog differs from a sleeping process; a control acknowledgment can precede actual closure; and a persistent event stream can keep a correct page from ever becoming network-idle. Tests were revised to observe the native contract while retaining the failed evidence. A concurrent authorized change elsewhere was documented rather than undone.
+
+The engineering lesson is to preserve the user's workflow while checking model identity, runtime compatibility and lifecycle separately. A model appearing in a dropdown is the beginning of verification, not the end.
