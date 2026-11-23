@@ -1,0 +1,9 @@
+# Give the selected assistant an actual execution path
+
+An owner-selected local model could search the chat application but could not modify its host. The missing component was an execution tool, not a different inference model. A private local bridge and native owner-only tool binding connected the chosen model to commands and file operations under the existing user account. The credential stays outside prompts, and other models keep their existing defaults.
+
+This deliberately grants broad user-level host execution authority. It is not a filesystem sandbox or proof that future commands will always follow the requested scope. Existing operating instructions require backups, local inference, actual verification and explicit authorization for destructive or external actions. No new root privilege, cloud fallback or public listener was added.
+
+A real browser conversation caused the model to create a new test file, read it back and report its exact contents. The actual host bytes, saved conversation after refresh and narrow-screen rendering were checked. Authentication failure, invalid timeout, owned child timeout and a real command after bridge restart were also exercised. An inherited browser assertion failed because raw Markdown differed from rendered text after the task had succeeded; a separate read-only saved-chat check verified visibility without replaying the write. Consistent state preimages and a supported-API rollback preserve newer conversations and account data.
+
+The bounded result establishes an actual host tool path, not broad autonomous-editing correctness or a new isolation boundary. A separate already-failed model service was recorded without repair because it was outside the requested access change. The lesson is to verify capabilities through the exact interface and selected model rather than assuming that an inference endpoint inherits another agent's tools.

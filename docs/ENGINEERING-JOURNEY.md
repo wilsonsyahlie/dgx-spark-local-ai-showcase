@@ -3680,3 +3680,8 @@ Eager restoration of another model caused avoidable cold starts. The optional GP
 ## 2026-11-23 — Verify a resident model pool
 
 A targeted clean-cache measurement and revised ordered loading made a resident pool work in a finite local trial. Queueing now controls execution rather than swapping models, with contexts and GPU execution retained. [Evidence and limits](case-studies/optional-model-gpu-queue.md).
+
+
+## 2026-11-23 — Connect the selected local assistant to host tools
+
+An explicit owner request added a private execution path, verified by model-created file contents and saved native chat. Existing user authority and scope boundaries remain explicit. [Evidence and limits](case-studies/local-assistant-host-access.md).
