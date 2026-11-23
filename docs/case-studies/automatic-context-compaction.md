@@ -1,0 +1,11 @@
+# Keep long tool conversations within their actual context budget
+
+An assistant's host-tool session failed after many successful file inspections. The user-facing error blamed model or queue availability, while the backend's measured request had exceeded its context capacity. Successful tool status indicators had not established that the next model request could fit.
+
+The operator requested a larger context and automatic compression. The change aligned the server allocation, client metadata and output reservation, then added local inference-context summarization before the hard limit. System instructions, current user intent and recent complete tool exchanges remain intact. The saved conversation remains the source of truth. Historical tool commands become factual memory rather than being dispatched again.
+
+The first large synthetic test exposed a performance problem: the summarizer spent substantial time reading identical log lines. That inference-only test was deliberately cancelled. A lossless representation of consecutive repeated tool-output lines reduced that redundant work before local summarization. An above-threshold request then produced a correct continuation with a much smaller working prompt. Streaming progress and bounded errors keep preparation and actual context failures distinguishable.
+
+Activation also exposed engine allocation rounding and a separate cold-start memory admission limit. The readiness check was corrected against live properties, and admission was calibrated above the specialist's measured allocation plus the operator's selected reserve. The primary engine stayed intact, and all resident specialists answered afterward. Focused behavior checks covered preserved instruction and tool-call boundaries, failed summaries, oversized current inputs, cancellation and exact-prefix cache invalidation. A native browser terminal call, refresh, narrow-screen rendering and exact preservation of prior conversation rows were checked separately.
+
+Summarization remains lossy, and non-repetitive long histories still incur local prefill cost. Neither a larger advertised window nor a successful short reply proves full-window quality or endurance. The lesson is to verify the whole path: actual templated token count, capacity, reservation, compaction, truthful failures and continued user-visible tool operation.

@@ -3713,3 +3713,8 @@ The engineering lesson is to preserve the user's workflow while checking model i
 ## 2026-11-23 — Recover unusably slow transfers without deleting partials
 
 The scheduled monitor now distinguishes sustained unusably slow progress from healthy movement. A natural handoff preserved the old partial and continued with a faster source;29focused tests passed. See [the recovery record](SLOW-TRANSFER-RECOVERY.md).
+
+
+## 2026-11-23 — Automatic local context compaction for long tool sessions
+
+Measured context overflow led to aligned capacity and client metadata, local summaries that preserve saved history, and lossless repeated-log compression. Above-threshold continuation, browser tool use and preserved resident engines were verified. [Evidence and limits](case-studies/automatic-context-compaction.md).
