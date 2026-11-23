@@ -3692,3 +3692,8 @@ An explicit owner request added a private execution path, verified by model-crea
 The owner replaced optional premium writing optimization with one fixed writing pair in every chapter mode. Planning projections, fallback behavior and native dispatch now share that policy, while chapter optimization and later-phase rules remain available. Thirty-three focused cases and current live equipment, forecast and running-state checks passed. The earlier mode-boundary fix remains historical; this explicit policy change supersedes premium writing permission.
 
 See [the policy separation study](CASE-STUDIES.md#separate-chapter-optimization-from-writing-equipment-authority) and [verification](VERIFICATION.md#fixed-writing-equipment-policy-qualification).
+
+
+## 2026-11-23 — Apply the operator-selected memory reserve consistently
+
+A measured soft-reserve shutdown prompted an explicit operator policy change across the resident pool. Boundary checks, primary process-preserving supervisor adoption and actual restored replies qualified the change. [Evidence and limits](case-studies/operator-memory-reserve.md).
