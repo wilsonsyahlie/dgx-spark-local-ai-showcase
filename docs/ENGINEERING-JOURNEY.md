@@ -3718,3 +3718,8 @@ The scheduled monitor now distinguishes sustained unusably slow progress from he
 ## 2026-11-23 — Automatic local context compaction for long tool sessions
 
 Measured context overflow led to aligned capacity and client metadata, local summaries that preserve saved history, and lossless repeated-log compression. Above-threshold continuation, browser tool use and preserved resident engines were verified. [Evidence and limits](case-studies/automatic-context-compaction.md).
+
+
+## 2026-11-23 — Qualify the frontend, execution identity and context lifecycle
+
+A local specialist reached the expected browser workflow with real owner tools, a read-only reference boundary and automatic context checkpointing. Native routing and normal-account permission tests corrected gaps that engine-only tests had missed. [Evidence and limits](case-studies/frontend-tools-and-context.md).
