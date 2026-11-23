@@ -1537,3 +1537,12 @@ A user changed an automation mode, but equipment from the previous optimizer sta
 The repair treats an explicit mode change as a new equipment decision. Settled bot-owned slots become pending once when leaving the optimizer; policy identity and revision now bind cached balance decisions. Successful optimized setup records ownership even after an earlier standard setup, and a mode change wakes the dependent controller. Duplicate requests do not wake another decision. Uncertain input remains protected, disabled equipment stays disabled and subsequent manual changes remain respected.
 
 Live activation corrected the stale pair in the current chapter while retaining the selected mode, authentication, preferences, paid histories and fuel state. Normal running was restored. The provider process was unchanged, and no scoring or gameplay strategy was altered.
+
+
+## Separate chapter optimization from writing equipment authority
+
+An earlier mode-boundary fix corrected stale equipment when leaving an optimizer, but the optimizer itself still permitted a premium writing resource. The owner then explicitly changed the policy: optimize chapter choices while using one fixed writing pair in every mode. Treating the prior narrow fix as a universal resource restriction would have misrepresented the active behavior.
+
+The new policy is enforced at three layers. Current and future writing projections use only the permitted bait and its lower page gain; missing stock cannot select the old fallback. A new decision identity invalidates old bot-owned writing choices once. The native input adapter rejects newly dispatched writing equipment outside the fixed pair, while retaining historical target recognition for uncertain-input reconciliation. Later-phase equipment rules and manual or disabled authority stay separate.
+
+Live activation retained the optimizing chapter mode and corrected the actual writing equipment. The displayed forecast also uses only the permitted writing resource. A pre-existing game profile-loading timeout cleared on normal reopen; it was not a lost-login diagnosis or a newly implemented refresh service.

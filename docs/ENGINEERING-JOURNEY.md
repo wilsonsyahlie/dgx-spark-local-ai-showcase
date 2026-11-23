@@ -3685,3 +3685,10 @@ A targeted clean-cache measurement and revised ordered loading made a resident p
 ## 2026-11-23 — Connect the selected local assistant to host tools
 
 An explicit owner request added a private execution path, verified by model-created file contents and saved native chat. Existing user authority and scope boundaries remain explicit. [Evidence and limits](case-studies/local-assistant-host-access.md).
+
+
+## 2026-11-23 — Fix writing resources without disabling chapter planning
+
+The owner replaced optional premium writing optimization with one fixed writing pair in every chapter mode. Planning projections, fallback behavior and native dispatch now share that policy, while chapter optimization and later-phase rules remain available. Thirty-three focused cases and current live equipment, forecast and running-state checks passed. The earlier mode-boundary fix remains historical; this explicit policy change supersedes premium writing permission.
+
+See [the policy separation study](CASE-STUDIES.md#separate-chapter-optimization-from-writing-equipment-authority) and [verification](VERIFICATION.md#fixed-writing-equipment-policy-qualification).

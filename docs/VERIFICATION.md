@@ -2272,3 +2272,12 @@ Thirty-two distinct checks passed: seven new mode-transition and wake cases, ele
 Initial fixture reuse had inheritance, syntax and missing retained asset failures. Qualification stopped until the complete required fixture dependencies were present, then the focused suites passed without weakening production guards or assertions. Production predecessors were backed up before activation; not every draft artifact was independently versioned.
 
 A measured idle restart of only the application activated the change. Cold-profile comparison, consistent authentication state, settings and paid-history hashes passed; the provider process and fuel state stayed unchanged. The actual standard equipment pair appeared in the current chapter, its durable receipt remained stable across subsequent polling, and normal running intent was restored. Unknown old input intentionally remains held rather than being replayed through a mode change.
+
+
+## Fixed writing equipment policy qualification
+
+Thirty-three distinct cases passed: fifteen planner and writing-policy cases, seventeen retained phase-equipment cases and one live-payload interface case. Coverage includes all chapter modes, unlocked writing, stale premium-gain input, migration of old fulfilled choices, missing stock without fallback or purchase, native dispatch rejection, uncertainty, disabled authority, manual changes and restart. Both existing later-phase equipment pairs passed explicit cases.
+
+The current live plan payload rendered with installed interface assets at desktop and phone widths, survived reload, displayed only permitted writing projections and produced no overflow or mutation requests. The native deployed source fingerprint matched, actual equipment matched the new writing rule, and normal running intent was restored. Authentication, preferences, paid receipts, fuel state and the provider process were preserved through an idle application-only activation with cold profile and source backups.
+
+A fixture initially duplicated a genre entry; it was corrected to update the existing entry without weakening production validation. The original profile-loading timeout cause and outage endurance remain unproven. The policy governs automated decisions; disabled automation and later manual overrides retain their established authority, and missing supplies wait rather than silently selecting the premium resource.
