@@ -3670,3 +3670,8 @@ See [the recovery study](CASE-STUDIES.md#replace-a-failed-challenge-without-repl
 A correct mode selection had left equipment owned by the previous optimizer marked fulfilled. Equipment ownership now includes the policy boundary, applies the new pair once and preserves later manual overrides. Thirty-two focused cases and live current-chapter correction passed, with authentication, preferences, paid history and the provider process preserved.
 
 See [the mode-boundary study](CASE-STUDIES.md#a-mode-change-creates-one-new-equipment-decision) and [verification](VERIFICATION.md#equipment-policy-boundary-qualification).
+
+
+## 2026-11-23 — Keep the last-used specialist warm
+
+Eager restoration of another model caused avoidable cold starts. The optional GPU queue now retains its last-used model until a real competing request arrives, with residency and explicit switching verified. [Evidence and limits](case-studies/optional-model-gpu-queue.md).

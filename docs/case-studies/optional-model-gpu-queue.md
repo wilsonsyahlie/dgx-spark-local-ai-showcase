@@ -9,3 +9,12 @@ Real requests exercised the complete sequence, including a secondary request wai
 The result qualifies a bounded serial workflow, not permanent availability or universal writing quality. Waiting includes model verification and loading; cancellation and client timeouts still matter. The earlier outage is not retroactively considered preservation. The general lesson is to schedule the resource-heavy transition itself and to distinguish request waiting, model loading and actual completion.
 
 The application also issued automatic metadata work after the visible story. A brief drain window lets immediate same-model requests reuse the resident model before restoration. Its final timing policy passed focused fixtures and an idle activation; the browser story check preceded that timing-only addition. Native model updates required preserving the existing access-grant list, and a copied audit-snapshot filename was corrected without touching production history. Draft edits before first activation were not each separately versioned; production predecessors were protected.
+
+
+## 2026-11-23 — Empty queues should not force a cold start
+
+A follow-up report exposed a policy mistake: after a writing request completed, the scheduler eagerly restored another model. That made the next writing request pay the loading cost again. A short grace period helped immediate background metadata requests but did not keep the writer warm across normal pauses.
+
+The revised scheduler retains the last-used specialist while idle. An actual request for the other specialist still triggers the existing serialized switch; an empty queue alone does not. Focused FIFO and HTTP checks, actual consecutive story requests across an idle interval, an explicit cross-model switch and exact primary preservation qualified the change. Model settings and safeguards stayed intact.
+
+This is a residency improvement, not a guarantee of instant output. Prompt processing and real competing requests still take time. A previous simultaneous-load failure does not prove that all models can never fit; that question remains separate from removing unnecessary reloads. The lesson is to treat residency policy and request scheduling separately: exclusivity need not mean eviction after every job.
