@@ -1,0 +1,11 @@
+# Recovering a transfer that never quite stops
+
+A large, high-ranked release continued at a tiny rate for more than a day. It was neither a failed download nor a zero-progress stall, so both ordinary failure handling and the existing zero-speed monitor left it alone. Advertised peer counts also overstated actual connected sources. A smaller release at the requested resolution transferred materially faster.
+
+The repair adds a bounded slow-transfer handoff to an existing scheduled monitor. Eligibility uses actual active time, both current and measured average throughput, remaining work and positive application ownership. Paused, private, nearly complete and manually protected sources stay excluded. A shared process mutex prevents the original cleanup path racing the handoff. Existing quality and language policy continue to decide replacement eligibility.
+
+The original partial file is retained. A source is sidelined only after a positively mapped alternative demonstrates meaningful progress and better actual throughput, or completes. Automatic path management is disabled and verified before category changes, and the old file path and downloaded-byte count are checked. The application can choose another allowed release when no usable alternative exists. Attempts are bounded, uncertain acknowledgements never repeat, and uncertainty belongs to one source rather than every pending item.
+
+Twenty-nine focused tests cover classification, ownership, unknown acknowledgements, duplicate execution, partial preservation, private metadata, unrelated progress, asynchronous stopping and recovery after an observed effect. A live scheduled run exposed a read immediately after an acknowledged stop: the client had not finished changing state. Bounded polling and reconciliation of already-observed effects corrected that gap without repeating the stop or overwriting a later owner resume.
+
+The final natural handoff verified the retained old source and continued progress of the faster replacement. That proves recovery from this slow-source failure class, not constant swarm speed, a completed movie or perceptual playback quality. Backups, immutable action receipts and a code rollback path were retained; no partial payload was deleted.

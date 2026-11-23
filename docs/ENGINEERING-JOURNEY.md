@@ -3708,3 +3708,8 @@ Qualification covered real replies, structured tool use, streaming, a synthetic 
 The most useful failures were in assumptions about state. An unloaded catalog differs from a sleeping process; a control acknowledgment can precede actual closure; and a persistent event stream can keep a correct page from ever becoming network-idle. Tests were revised to observe the native contract while retaining the failed evidence. A concurrent authorized change elsewhere was documented rather than undone.
 
 The engineering lesson is to preserve the user's workflow while checking model identity, runtime compatibility and lifecycle separately. A model appearing in a dropdown is the beginning of verification, not the end.
+
+
+## 2026-11-23 — Recover unusably slow transfers without deleting partials
+
+The scheduled monitor now distinguishes sustained unusably slow progress from healthy movement. A natural handoff preserved the old partial and continued with a faster source;29focused tests passed. See [the recovery record](SLOW-TRANSFER-RECOVERY.md).

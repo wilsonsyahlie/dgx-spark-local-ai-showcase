@@ -2281,3 +2281,8 @@ Thirty-three distinct cases passed: fifteen planner and writing-policy cases, se
 The current live plan payload rendered with installed interface assets at desktop and phone widths, survived reload, displayed only permitted writing projections and produced no overflow or mutation requests. The native deployed source fingerprint matched, actual equipment matched the new writing rule, and normal running intent was restored. Authentication, preferences, paid receipts, fuel state and the provider process were preserved through an idle application-only activation with cold profile and source backups.
 
 A fixture initially duplicated a genre entry; it was corrected to update the existing entry without weakening production validation. The original profile-loading timeout cause and outage endurance remain unproven. The policy governs automated decisions; disabled automation and later manual overrides retain their established authority, and missing supplies wait rather than silently selecting the premium resource.
+
+
+## Sustained slow-transfer recovery
+
+Twenty-nine tests cover actual-throughput classification, identity, unsafe states, uncertain acknowledgements, asynchronous stopping, duplicate exclusion and retained partial files. The live scheduled handoff verifies a paused retained source, unchanged path, nondecreasing byte count and faster replacement progress. The first live stop exposed delayed state visibility; bounded observation and no-replay reconciliation fixed it. Movie completion and human playback remain untested. See [the recovery record](SLOW-TRANSFER-RECOVERY.md).
