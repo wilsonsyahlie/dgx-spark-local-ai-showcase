@@ -1,0 +1,11 @@
+# Recover a truncated automatic summary without replaying task actions
+
+A long tool conversation reached its automatic compression threshold. One summary completed, but the next consumed its entire output allowance. The compactor rejected the unfinished text and stopped the task. Preserving the source chat was correct; treating every output-limited summary as unrecoverable was insufficient.
+
+The repair asks for a shorter factual summary and permits one independent regeneration from the original source with a larger output allowance. An incomplete fragment is discarded, never concatenated into the replacement or treated as verified memory. Empty completed responses, unexpected finish states and generated tool calls remain invalid. Only naturally completed chunk summaries enter a bounded private cache, so an explicit retry can reuse finished work after a later chunk fails.
+
+Live probes rejected two candidate approaches before activation. Continuing truncated text did not reliably finish. A strict zero-reasoning setting worked on a tiny prompt but looped model-control tokens on a summary-shaped prompt; that setting was removed. The final repair leaves native reasoning behavior alone and budgets for it. A focused assertion also caught stale partial-text concatenation during the candidate transition, which was corrected rather than weakening the assertion.
+
+The final model test forced an output-limited response with no answer text, then observed a complete factual regeneration. A dense fragment of the actual saved conversation completed separately and reused its completed cache without another model call. A production-threshold synthetic request, native browser terminal operation, refresh, narrow-screen rendering and exact preservation of existing conversation records were checked. Activation restarted only the idle queue; all resident model processes remained intact.
+
+This is bounded recovery, not a guarantee that every summary can finish. Long inputs still require local inference time, older summaries are lossy, and the saved conversation remains authoritative. The original user task was not replayed to qualify the repair. The engineering lesson is to test the actual failure boundary with realistic source text and to distinguish output budget, reasoning behavior and completed factual memory.

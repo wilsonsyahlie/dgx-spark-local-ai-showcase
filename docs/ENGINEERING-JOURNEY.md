@@ -3733,3 +3733,8 @@ A free native search capability was qualified in the existing local-model interf
 ## 2026-11-23 — Expand application authority with explicit owner scope
 
 An owner-approved expansion replaced historical reference-only restrictions with file and application tools. Synthetic configuration access and real local-model application creation were verified, with retained account boundaries, conversation content, context and search. A thirty-minute idle policy was confirmed in the worker configuration; full-duration expiry remained unobserved. [Evidence and limits](case-studies/frontend-tools-and-context.md#owner-authorized-application-access-and-idle-retention).
+
+
+## 2026-11-23 — Recover output-limited automatic summaries
+
+A real long-context task exposed an immediate-abort summary boundary. Bounded regeneration from original source, completed-only chunk caching and realistic model tests qualified recovery; unsuccessful continuation and reasoning-control candidates remained unactivated. [Evidence and limits](case-studies/summary-output-limit-recovery.md).
