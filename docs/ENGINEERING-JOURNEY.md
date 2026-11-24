@@ -3750,3 +3750,10 @@ A real recurrence superseded the earlier summary-recovery claim. Deterministic e
 Added a fourth selectable strategy that favors short chapters and requires a clear forecast efficiency advantage for longer ones. Community page-balance and reroll references were checked against their assumptions, with a new-mode-only reserve estimate and existing equipment and later-phase policies retained. Forty-five focused cases plus an installed interface check passed. Activation preserved the selected strategy and restored normal running; natural gameplay under the new strategy remains unobserved.
 
 See [the strategy study](CASE-STUDIES.md#add-a-conservative-short-first-strategy-without-replacing-existing-modes) and [qualification](VERIFICATION.md#short-first-strategy-and-conditional-guide-qualification).
+
+
+## 2026-11-24 — Repair strategy saves through the real front door
+
+A user recurrence exposed a duplicate mode allowlist omitted from the earlier strategy implementation. One relay value was added without weakening request boundaries. Six regression cases and real authenticated relay-backed interface save, reload and stale-write checks passed; the actual planner now uses the selected strategy. Earlier isolated tests are retained with an explicit end-to-end coverage limit.
+
+See [the relay failure study](CASE-STUDIES.md#a-mode-is-not-saveable-until-the-front-door-relay-accepts-it) and [qualification](VERIFICATION.md#front-door-mode-save-regression-qualification).

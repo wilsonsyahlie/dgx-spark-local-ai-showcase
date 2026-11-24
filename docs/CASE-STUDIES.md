@@ -1555,3 +1555,12 @@ A user requested a separate strategy that favors shorter work segments while all
 Community reference tables were treated as conditional evidence. Their page-distribution probabilities reproduced under a higher progress gain, which differs from the active equipment rule. A geometric inference from a pinned reroll average informed only the new mode's conservative resource reserve; it distinguishes a free initial offer from a paid retry after an observed miss. Existing modes, fixed writing equipment, later-phase rules, paid-intent reconciliation and manual authority remain. Upgrade and early-exit advice was retained as reference without adding purchase or exit automation.
 
 The new mode was threaded through validation, saved settings, planning, guarded rerolls, equipment ownership and the interface. Activation preserved the existing selected strategy and normal running intent. The installed option and current payload were checked, but the new strategy was deliberately not selected in the real game; future natural choices and spending remain unobserved.
+
+
+## A mode is not saveable until the front-door relay accepts it
+
+A user reported that a newly added strategy reverted after selection. The prior direct-backend validation and installed-interface fixtures passed, but they bypassed the actual front-door relay. Those results did not establish a working save path. The authenticated front door returned a validation rejection because a second typed allowlist still contained only the original modes. This recurrence supersedes the earlier save-path qualification.
+
+The repair adds the missing value to that single relay allowlist. Identity authorization, same-origin checks, exact schemas, revision validation, framing and route restrictions remain intact. Only the front-door service restarted; the game browser and provider process identities remained unchanged. No planning, equipment or paid-input code was modified.
+
+The user's selected strategy was then observed in durable state and the actual planner. A real relay-backed interface repeat-save succeeded without increasing the revision, desktop and phone reloads retained it, and an older strategy save was rejected as stale. The lesson is to qualify the whole authenticated save path, including every duplicate validator, rather than infer user-facing success from a direct backend or mocked API.
