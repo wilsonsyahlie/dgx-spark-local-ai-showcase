@@ -3757,3 +3757,8 @@ See [the strategy study](CASE-STUDIES.md#add-a-conservative-short-first-strategy
 A user recurrence exposed a duplicate mode allowlist omitted from the earlier strategy implementation. One relay value was added without weakening request boundaries. Six regression cases and real authenticated relay-backed interface save, reload and stale-write checks passed; the actual planner now uses the selected strategy. Earlier isolated tests are retained with an explicit end-to-end coverage limit.
 
 See [the relay failure study](CASE-STUDIES.md#a-mode-is-not-saveable-until-the-front-door-relay-accepts-it) and [qualification](VERIFICATION.md#front-door-mode-save-regression-qualification).
+
+
+## 2026-11-24 — Repair missing-identity and slow request admission
+
+Independently verified provider linkage now handles omitted optional metadata without inventing it. Guarded complete-series admission and fair new-request turns restore progress;98tests and real transfers passed. See [the admission recovery record](REQUEST-ADMISSION-RECOVERY.md).

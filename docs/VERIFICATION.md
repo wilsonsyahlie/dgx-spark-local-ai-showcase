@@ -2306,3 +2306,8 @@ Six focused relay cases passed: original-artifact reproduction, new-value forwar
 Deployed interface assets used controlled fixture HTML and an HTTP transport to the real authenticated front door, relay and backend. No synthetic upstream response or viewer attachment was used. The strategy was already saved by the first successful fixture; the check therefore proves a real idempotent repeat-save, not a fabricated old-to-new transition. Reloads at desktop and two phone widths retained the selected strategy without overflow or page errors. A stale old-mode write was rejected, and the actual planner used the new strategy.
 
 Two earlier direct remote-asset fixture attempts timed out before readiness or any save. The approach was changed to controlled HTTP transport, retaining those failures and existing assertions. No authentication guard was weakened. Earlier strategy tests remain valid at their isolated layers but cannot substitute for this relay save check. No natural gameplay, paid action or endurance result is added by this repair.
+
+
+## Request-admission recovery
+
+Ninety-eight focused and retained tests passed. The actual deployed request routes and monitored inventories were verified, followed by growing NAS transfers. Identity conflicts, stale proof, uncertain actions, incomplete scope and future/special episodes remain excluded. Deployment preserves the application boundary and persistent configuration. Complete downloads and human playback remain untested. See [the admission recovery record](REQUEST-ADMISSION-RECOVERY.md).

@@ -1,0 +1,11 @@
+# Repairing a request that never reaches acquisition
+
+Two approved series requests revealed separate admission failures. One downloader omitted an optional secondary metadata identifier even though the primary provider and independent external records agreed. Another request advanced only a handful of episodes through a shared bounded processing budget. A later source check also found an unavailable requested resolution and a pack title whose mixed numbering confused the parser.
+
+The repair preserves the raw missing field while adding independently checked primary, secondary and external identity evidence. Conflicting positive identifiers still stop the operation. That evidence also accompanies content qualification, so resolving a request does not merely move the same blocker into import. An explicitly approved lower-resolution exception uses a generic admission profile; existing user choices and unrelated profiles remain unchanged.
+
+Complete ended-series approvals now have a bounded bulk path, guarded by exact approved season identities, a complete unique aired native inventory and exclusion of specials, partial requests and uncertain earlier actions. Alternating admission turns give recent requests a chance to run while preserving older work and existing action/time caps. Already-acknowledged searches are adopted rather than duplicated.
+
+Ninety-eight focused and retained tests passed, including identity conflicts, stale proof, inventory changes, uncertain acknowledgements, request removal and fairness. The deployed runtime independently verified both request routes and monitored inventories, then actual byte growth from suitable sources. One weak source was sidelined without deleting its partial data. A canonical pack title was used only after its parsed membership exactly matched the approved inventory; the source media was unchanged.
+
+Deployment qualification also caught a slow history-backup outage window and an object-versus-array error in container configuration cloning. The earlier service was restarted, immutable history retained, and the final deployment preserved the application boundary and saved configuration. Final transfer progress is proven; completed content, perceptual playback and external automated access are not.
