@@ -2314,3 +2314,14 @@ Ninety-eight focused and retained tests passed. The actual deployed request rout
 
 
 Final integration audit also found that downstream track selection reconstructed a narrower identity than content qualification. Both now use the same independently verified binding while retaining existing canonical field order. An explicit source-generation boundary preserves historical evidence. Four additional regressions cover the missing identifier, conflicting proof, installed-proof mismatch and generation isolation, bringing this repair to 102 tests. Real completed-media selection and playback remain untested while acquisition continues.
+
+
+## Quiet-window authority and resumption qualification
+
+Forty-nine distinct cases passed: eight browser schedule and telemetry cases, seven backend clock and authority cases, eleven retained countdown cases, three verification-clear regressions, four durable-hold and expired-answer cases, fifteen retained equipment cases and one authenticated state case. Coverage includes exact interval boundaries, next-day calculation, timezone independence, delayed-input cancellation, automatic resumption, explicit Stop, reload, verification conditions, disabled authority, duplicate injection, phone layouts, all native authority gates and a paid callback crossing the boundary.
+
+Known unused answers were tested for recorded-hold overlap, private receipt permissions, idempotence, fresh recovery without expired consumption, and retained manual or exhausted-budget holds. No real paid action, forced hunt, external test notification or host clock change was used. Isolated virtual clocks qualified transition branches; they are not presented as an actual overnight run.
+
+An application-only idle activation used source metadata and hash preimages, a consistent authentication snapshot, a compared cold profile archive and a saved horn store. Deployed source fingerprints, a new process and the visible schedule were checked. Selected strategy, actual equipment, authentication, settings, paid histories, fuel state and supporting process identities were retained. Two natural current-time browser evaluations advanced their timestamps and agreed with the backend boundary; the normal authenticated front-door state request also passed.
+
+The first real quiet-window entry and exit remain unobserved. Passive server activity, browser availability and existing horn timing still affect gameplay. Normal page reload preserves intent; full application restart and reboot retain the existing stopped default. These limits are recorded separately from the passing boundary simulations and current-time checks.

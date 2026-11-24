@@ -1564,3 +1564,14 @@ A user reported that a newly added strategy reverted after selection. The prior 
 The repair adds the missing value to that single relay allowlist. Identity authorization, same-origin checks, exact schemas, revision validation, framing and route restrictions remain intact. Only the front-door service restarted; the game browser and provider process identities remained unchanged. No planning, equipment or paid-input code was modified.
 
 The user's selected strategy was then observed in durable state and the actual planner. A real relay-backed interface repeat-save succeeded without increasing the revision, desktop and phone reloads retained it, and an older strategy save was rejected as stale. The lesson is to qualify the whole authenticated save path, including every duplicate validator, rather than infer user-facing success from a direct backend or mocked API.
+
+
+## Scheduled quiet time must preserve intent and fence every action
+
+A user requested a daily quiet interval followed by automatic continuation. A clock hold was kept separate from the existing enabled intent: the scheduler does not turn automation off and then blindly turn it on again. Explicit Stop remains authoritative, while a normal page reload preserves an enabled intent during the hold. Existing verification pauses and independent disabled settings remain separate.
+
+The policy uses one named local zone on the backend and an equivalent explicit clock in the browser. Controller entry checks avoid work during quiet time, and native authority checks fence late dispatch after a delay or paid preparation. The horn checks again before a new press. Already initiated input may finish its acknowledgement; uncertain paid records are never cleared or replayed to resume. The browser remains open and passive server activity remains outside automation control.
+
+A pending external answer can expire during a long hold. Only a known unused answer overlapping a recorded quiet interval may use the existing bounded fresh-challenge recovery afterward. Account, manual-form, fresh-image and attempt-budget checks remain; the expired answer is never consumed. Unrelated expired answers gain no new authority. This handles a pause-induced dependency without redesigning the provider protocol.
+
+The schedule appears in the existing control panel and authenticated state. Live activation retained selected strategy, equipment and normal running intent. Actual periodic clock evaluations and the next boundary were verified; real overnight entry and exit had not yet occurred and remain explicitly unobserved. Full application restart still follows its established stopped default rather than adding a new unattended restart policy.

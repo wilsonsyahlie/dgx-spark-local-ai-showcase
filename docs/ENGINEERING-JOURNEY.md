@@ -3762,3 +3762,10 @@ See [the relay failure study](CASE-STUDIES.md#a-mode-is-not-saveable-until-the-f
 ## 2026-11-24 — Repair missing-identity and slow request admission
 
 Independently verified provider linkage now handles omitted optional metadata without inventing it. Guarded complete-series admission and fair new-request turns restore progress;98tests and real transfers passed. See [the admission recovery record](REQUEST-ADMISSION-RECOVERY.md).
+
+
+## 2026-11-24 — Add a daily local-time automation hold
+
+Added a daily quiet window across horn, chapter, equipment, fuel and verification automation. Enabled intent remains separate from the clock hold, so manual Stop prevents later automatic resumption. Known external answers that expire during the hold use bounded fresh recovery afterward. Forty-nine cases and deployed current-time status checks passed; actual overnight entry and exit remain unobserved.
+
+See [the quiet-time study](CASE-STUDIES.md#scheduled-quiet-time-must-preserve-intent-and-fence-every-action) and [qualification](VERIFICATION.md#quiet-window-authority-and-resumption-qualification).
