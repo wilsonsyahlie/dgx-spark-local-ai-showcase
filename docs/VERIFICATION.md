@@ -2311,3 +2311,6 @@ Two earlier direct remote-asset fixture attempts timed out before readiness or a
 ## Request-admission recovery
 
 Ninety-eight focused and retained tests passed. The actual deployed request routes and monitored inventories were verified, followed by growing NAS transfers. Identity conflicts, stale proof, uncertain actions, incomplete scope and future/special episodes remain excluded. Deployment preserves the application boundary and persistent configuration. Complete downloads and human playback remain untested. See [the admission recovery record](REQUEST-ADMISSION-RECOVERY.md).
+
+
+Final integration audit also found that downstream track selection reconstructed a narrower identity than content qualification. Both now use the same independently verified binding while retaining existing canonical field order. An explicit source-generation boundary preserves historical evidence. Four additional regressions cover the missing identifier, conflicting proof, installed-proof mismatch and generation isolation, bringing this repair to 102 tests. Real completed-media selection and playback remain untested while acquisition continues.
