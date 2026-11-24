@@ -2286,3 +2286,14 @@ A fixture initially duplicated a genre entry; it was corrected to update the exi
 ## Sustained slow-transfer recovery
 
 Twenty-nine tests cover actual-throughput classification, identity, unsafe states, uncertain acknowledgements, asynchronous stopping, duplicate exclusion and retained partial files. The live scheduled handoff verifies a paused retained source, unchanged path, nondecreasing byte count and faster replacement progress. The first live stop exposed delayed state visibility; bounded observation and no-replay reconciliation fixed it. Movie completion and human playback remain untested. See [the recovery record](SLOW-TRANSFER-RECOVERY.md).
+
+
+## Short-first strategy and conditional guide qualification
+
+Forty-five focused cases passed across policy and settings, authenticated API validation, retained writing equipment, interface states, chapter and reroll integration, guide probability oracles and synthetic paid acknowledgements. Cases include the efficiency-buffer boundary, ties, zero-benefit fallback, targeted longer exceptions, stale or duplicate saves, error and retry, inactive late responses, manual overrides, disabled authority, uncertain old actions and both later-phase equipment pairs.
+
+Published ten-try page-distribution figures matched the production probability model under their reconstructed higher-gain assumptions. An independent inclusion-exclusion calculation matched the thirteen-try reference figures without expanding the production forecast bound. The inferred reroll model keeps a separate later-phase reserve, accepts medium length when stock is tight and avoids automatic long fantasy choices. Actual draw odds remain unmeasured.
+
+One additional installed-asset check rendered the current live payload at desktop and phone widths, survived reload, exposed four options and made no real mutation requests. Source fingerprints, a new application process, served assets and deployed validation passed. Authentication, saved preferences, paid histories, fuel state and supporting process identities were preserved through an idle restart with source and cold-profile backups. Actual equipment and running state were verified. Candidate token-boundary syntax failures and a hidden-element fixture assertion were retained and corrected before activation; no production guard was weakened.
+
+The existing strategy remained selected. Synthetic confirmation and a new-mode interface preview are not evidence of a natural live decision or a real paid reroll in that mode. Forecasts cover only the current and next offer, conditional on successful catches; unknown future offers, real catch rates and endurance remain limitations.

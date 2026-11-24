@@ -1546,3 +1546,12 @@ An earlier mode-boundary fix corrected stale equipment when leaving an optimizer
 The new policy is enforced at three layers. Current and future writing projections use only the permitted bait and its lower page gain; missing stock cannot select the old fallback. A new decision identity invalidates old bot-owned writing choices once. The native input adapter rejects newly dispatched writing equipment outside the fixed pair, while retaining historical target recognition for uncertain-input reconciliation. Later-phase equipment rules and manual or disabled authority stay separate.
 
 Live activation retained the optimizing chapter mode and corrected the actual writing equipment. The displayed forecast also uses only the permitted writing resource. A pre-existing game profile-loading timeout cleared on normal reopen; it was not a lost-login diagnosis or a newly implemented refresh service.
+
+
+## Add a conservative short-first strategy without replacing existing modes
+
+A user requested a separate strategy that favors shorter work segments while allowing longer ones when their benefit justifies the cost. A new selectable mode compares forecast success probability per additional successful catch, with a ten-percent advantage buffer for longer choices. When all visible success probabilities are zero, it compares marginal expected deficit reduction per catch rather than minimizing the absolute deficit. Ties and no benefit retain the short option. The buffer is an explicit policy choice, not an empirical statistic.
+
+Community reference tables were treated as conditional evidence. Their page-distribution probabilities reproduced under a higher progress gain, which differs from the active equipment rule. A geometric inference from a pinned reroll average informed only the new mode's conservative resource reserve; it distinguishes a free initial offer from a paid retry after an observed miss. Existing modes, fixed writing equipment, later-phase rules, paid-intent reconciliation and manual authority remain. Upgrade and early-exit advice was retained as reference without adding purchase or exit automation.
+
+The new mode was threaded through validation, saved settings, planning, guarded rerolls, equipment ownership and the interface. Activation preserved the existing selected strategy and normal running intent. The installed option and current payload were checked, but the new strategy was deliberately not selected in the real game; future natural choices and spending remain unobserved.

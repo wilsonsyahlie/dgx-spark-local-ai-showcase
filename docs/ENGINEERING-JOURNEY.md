@@ -3743,3 +3743,10 @@ A real long-context task exposed an immediate-abort summary boundary. Bounded re
 ## 2026-11-23 — Replace unreliable generated summaries with recoverable excerpts
 
 A real recurrence superseded the earlier summary-recovery claim. Deterministic excerpts, private exact archives and distinct full-source/deployed/native-interface tests qualified a replacement without model churn or historical action replay. [Evidence and limits](case-studies/extractive-context-archives.md).
+
+
+## 2026-11-24 — Add short-first planning with conditional community evidence
+
+Added a fourth selectable strategy that favors short chapters and requires a clear forecast efficiency advantage for longer ones. Community page-balance and reroll references were checked against their assumptions, with a new-mode-only reserve estimate and existing equipment and later-phase policies retained. Forty-five focused cases plus an installed interface check passed. Activation preserved the selected strategy and restored normal running; natural gameplay under the new strategy remains unobserved.
+
+See [the strategy study](CASE-STUDIES.md#add-a-conservative-short-first-strategy-without-replacing-existing-modes) and [qualification](VERIFICATION.md#short-first-strategy-and-conditional-guide-qualification).
