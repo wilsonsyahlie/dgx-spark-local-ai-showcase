@@ -3769,3 +3769,8 @@ Independently verified provider linkage now handles omitted optional metadata wi
 Added a daily quiet window across horn, chapter, equipment, fuel and verification automation. Enabled intent remains separate from the clock hold, so manual Stop prevents later automatic resumption. Known external answers that expire during the hold use bounded fresh recovery afterward. Forty-nine cases and deployed current-time status checks passed; actual overnight entry and exit remain unobserved.
 
 See [the quiet-time study](CASE-STUDIES.md#scheduled-quiet-time-must-preserve-intent-and-fence-every-action) and [qualification](VERIFICATION.md#quiet-window-authority-and-resumption-qualification).
+
+
+## 2026-11-26 — Qualify a successor local video model
+
+A smaller publisher checkpoint reused existing components and produced a fully decoded audiovisual clip. Separate owner approval resolved a stale optional-service admission assumption while retaining fail-closed collision checks. Saved-interface persistence, narrow-view usability, state preservation and owned resource release were verified. [Evidence and limits](case-studies/local-video-workflow-qualification.md#qualify-a-successor-through-the-existing-interface).
