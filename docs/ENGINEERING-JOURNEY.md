@@ -3774,3 +3774,8 @@ See [the quiet-time study](CASE-STUDIES.md#scheduled-quiet-time-must-preserve-in
 ## 2026-11-26 — Qualify a successor local video model
 
 A smaller publisher checkpoint reused existing components and produced a fully decoded audiovisual clip. Separate owner approval resolved a stale optional-service admission assumption while retaining fail-closed collision checks. Saved-interface persistence, narrow-view usability, state preservation and owned resource release were verified. [Evidence and limits](case-studies/local-video-workflow-qualification.md#qualify-a-successor-through-the-existing-interface).
+
+
+## 2026-11-26 — Full-weight video with a protected resident assistant
+
+Qualified the larger video checkpoint while retaining the primary assistant. Phase-aware loading corrected an early budget-placement failure, and optional workloads were restored through existing ownership controls after decoded output and owned release were verified. [Evidence and limits](case-studies/local-video-workflow-qualification.md#full-weights-while-preserving-a-resident-assistant).
