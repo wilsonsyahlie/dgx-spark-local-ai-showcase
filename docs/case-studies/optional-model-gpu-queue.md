@@ -29,3 +29,12 @@ Releasing only an owned model file's clean cache preserved the GPU process and i
 In a finite local trial, all requested models stayed resident through alternating real requests, idle and a gateway restart. Writer output began promptly without another model load. Focused ownership and protocol checks supplemented actual responses and device attribution. A health fixture's empty-body assumption was corrected with the failed evidence retained.
 
 This result established a working bounded profile, not the sole historical failure cause or permanent uptime. Existing memory and thermal guards remained, and heavier host work could still force a safety yield. The general lesson is to separate residency, loading strategy, file cache and execution scheduling before turning one allocation failure into a claim that models cannot coexist.
+
+
+## Permanent retirement includes bootstrap and demand paths
+
+The owner later retired an optional model permanently. Stopping its current process would not have delivered that intent: shared bootstrap and request dispatch could load it again. The bounded change added durable disabled intent, a native service condition and a direct-owner refusal, then removed startup links and made the shared gateway skip or explicitly reject the retired route. The remaining warm workload and assistant processes were preserved.
+
+Focused and retained cases covered disabled bootstrap, pre-admission rejection, truthful catalog and health responses, unchanged authorisation and direct-owner refusal. Live service-start and direct-start attempts stayed unloaded, as did a second shared-gateway restart. The remaining workload returned real output; original queue rows and protected process/configuration identities were retained. Existing model assets and histories were kept. A real reboot and every client's cached selector were not part of this qualification.
+
+Earlier co-resident and temporary-video restoration instructions were explicitly marked historical. This replaces the previous restoration intent for the retired role; it does not authorize deleting assets or silently substituting another model. Re-enabling requires a fresh owner decision.

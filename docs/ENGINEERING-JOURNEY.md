@@ -3779,3 +3779,8 @@ A smaller publisher checkpoint reused existing components and produced a fully d
 ## 2026-11-26 — Full-weight video with a protected resident assistant
 
 Qualified the larger video checkpoint while retaining the primary assistant. Phase-aware loading corrected an early budget-placement failure, and optional workloads were restored through existing ownership controls after decoded output and owned release were verified. [Evidence and limits](case-studies/local-video-workflow-qualification.md#full-weights-while-preserving-a-resident-assistant).
+
+
+## 2026-11-26 — Preserve permanent model retirement across recovery
+
+Retired an optional model across bootstrap, demand and native-owner start paths while retaining other warm workloads and histories. Real rejected starts and a shared-gateway restart verified that stop alone was not the final control. [Evidence and limits](case-studies/optional-model-gpu-queue.md#permanent-retirement-includes-bootstrap-and-demand-paths).
