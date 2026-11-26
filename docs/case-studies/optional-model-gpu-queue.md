@@ -38,3 +38,10 @@ The owner later retired an optional model permanently. Stopping its current proc
 Focused and retained cases covered disabled bootstrap, pre-admission rejection, truthful catalog and health responses, unchanged authorisation and direct-owner refusal. Live service-start and direct-start attempts stayed unloaded, as did a second shared-gateway restart. The remaining workload returned real output; original queue rows and protected process/configuration identities were retained. Existing model assets and histories were kept. A real reboot and every client's cached selector were not part of this qualification.
 
 Earlier co-resident and temporary-video restoration instructions were explicitly marked historical. This replaces the previous restoration intent for the retired role; it does not authorize deleting assets or silently substituting another model. Re-enabling requires a fresh owner decision.
+
+
+## Reversing a role decision without restoring old state
+
+A subsequent owner decision reversed which optional workload should stay available. Per-role intent replaced the fixed-role bootstrap rule, retaining the same model recipes and history. The retired intent was preserved recoverably; the newly disabled role gained the same native and direct-owner protections. Startup, demand and catalog behavior followed the selected role consistently.
+
+An unrelated render was already running. The transition unloaded the idle target first, then waited. Explicit approval covered releasing the completed render's cache; output hashes were checked before and after without interruption or deletion. The restored model then answered and retained its process across a gateway restart, while the newly disabled model stayed off and the primary process/configuration remained unchanged. Focused cases and original queue-row preservation supplemented live checks. A short canary budget and an unordered backup-selection fixture were corrected without changing production model settings or weakening preservation assertions. Reboot, endurance and every client's cached interface remained outside qualification.

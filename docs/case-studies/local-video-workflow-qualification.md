@@ -32,3 +32,6 @@ Only the owned completed video work was released. Optional models returned throu
 
 
 A later explicit owner decision permanently retired one optional model. The earlier video-test restoration describes historical qualification, not a continuing instruction to restore that role. Subsequent video preparation preserves that disabled intent and handles only remaining optional workloads; the resident-assistant requirement stays in force.
+
+
+The owner later reversed that retirement choice. The current role policy therefore takes priority over both earlier restoration examples. An active render was allowed to complete before an explicitly approved cache release, with its output retained; restoring a language-model role did not restore an old database or terminate the render.

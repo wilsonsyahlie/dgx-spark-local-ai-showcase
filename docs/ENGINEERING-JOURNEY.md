@@ -3784,3 +3784,8 @@ Qualified the larger video checkpoint while retaining the primary assistant. Pha
 ## 2026-11-26 — Preserve permanent model retirement across recovery
 
 Retired an optional model across bootstrap, demand and native-owner start paths while retaining other warm workloads and histories. Real rejected starts and a shared-gateway restart verified that stop alone was not the final control. [Evidence and limits](case-studies/optional-model-gpu-queue.md#permanent-retirement-includes-bootstrap-and-demand-paths).
+
+
+## 2026-11-26 — Reverse optional roles while preserving active work
+
+Applied a revised role choice through independent lifecycle intent, preserving the primary and historical state. Waited for an unrelated render and released its cache only after approval and output verification, then qualified the restored model and the retired route. [Evidence and limits](case-studies/optional-model-gpu-queue.md#reversing-a-role-decision-without-restoring-old-state).
